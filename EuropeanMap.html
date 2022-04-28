@@ -7,16 +7,18 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
    crossorigin=""></script>
+
+   <script src="https://cdn.jsdelivr.net/npm/danfojs@1.1.0/lib/bundle.min.js"></script>
     <style>
-        #map { height: 800px; width: 1400px;}
+        #map { height: 80vh; width: 75vw;}
     </style>
     <script src="/js/leaflet-0.7.2/leaflet.ajax.min.js"></script>
    </head>
    
    <body>
     <div id="map"></div>
-    <div id="ok">
-        <p>This is a paragraph.</p>
+    <div id="bar_chart">
+        <!-- <p>This is a paragraph.</p> -->
     </div>
     <script>
         var map = L.map('map').setView([56.105, 13.609], 4);
@@ -24,7 +26,7 @@
         // attribution: '©OpenStreetMap, ©CartoDB'
         // }).addTo(map);
 
-        map.options.minZoom = 4;
+        map.options.minZoom = 3;
         map.options.maxZoom = 8;
 
         map.setMaxBounds([
@@ -81,6 +83,27 @@
         ]
         }
 
+    
+
+    let data;
+    dfd.readCSV("./data/GDP_linear_labels.csv").then(df => {
+        //df.head().print()
+
+        //the values we're interested in 
+        data = df.loc({columns: ["TIME_PERIOD", "OBS_VALUE", "OBS_FLAG"]})
+        data.print();
+
+        let barchart_data = data.loc({columns: ["OBS_VALUE","OBS_FLAG"], rows:data["TIME_PERIOD"].eq("Albania")});
+        //let barch = data.loc({columns: ["OBS_VALUE","OBS_FLAG"], rows:data["TIME_PERIOD"].eq("Albania")});
+
+        barchart_data.setIndex({column: "OBS_VALUE", inplace: true})
+        barchart_data.print();
+
+        barchart_data["OBS_FLAG"].plot("bar_chart").line()
+
+    }).catch(err=>{
+        console.log(err);
+    })
 
     var unhighlightedstyle = {
         opacity: 1,
