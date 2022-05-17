@@ -1,3 +1,5 @@
 FILE,UNIT_X,UNIT_Y
 GDP_linear_labels_p.csv,Year,Euro per capita
 GDP_linear_code_p.csv,Year,Euro per capitaW
+
+//{the name of the file}, year, {money/per capita} (something meangingful) 
