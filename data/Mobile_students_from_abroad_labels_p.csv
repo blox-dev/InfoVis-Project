@@ -1,4 +1,4 @@
-TIME,COUNTRY,ISCEDF13,SEX
+TIME,COUNTRY,ISCEDF13,VALUE
 2013,Belgium,Total,48748
 2013,Belgium,Education,1717
 2013,Belgium,Arts and humanities,6710
@@ -8,7 +8,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Belgium,Biology,0
 2013,Belgium,Biochemistry,0
 2013,Belgium,Environment,151
-2013,Belgium,Physical sciencesTotal,867
+2013,Belgium,Physical sciences,867
 2013,Belgium,Mathematics and statistics,411
 2013,Belgium,Information and Communication Technologies,729
 2013,Belgium,Engineering manufacturing and construction,5223
@@ -40,7 +40,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Bulgaria,Biology,36
 2013,Bulgaria,Biochemistry,16
 2013,Bulgaria,Environment,19
-2013,Bulgaria,Physical sciencesTotal,33
+2013,Bulgaria,Physical sciences,33
 2013,Bulgaria,Mathematics and statistics,23
 2013,Bulgaria,Information and Communication Technologies,427
 2013,Bulgaria,Engineering manufacturing and construction,2073
@@ -72,7 +72,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Czechia,Biology,0
 2013,Czechia,Biochemistry,0
 2013,Czechia,Environment,81
-2013,Czechia,Physical sciencesTotal,1319
+2013,Czechia,Physical sciences,1319
 2013,Czechia,Mathematics and statistics,526
 2013,Czechia,Information and Communication Technologies,3683
 2013,Czechia,Engineering manufacturing and construction,4759
@@ -104,7 +104,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Denmark,Biology,0
 2013,Denmark,Biochemistry,0
 2013,Denmark,Environment,0
-2013,Denmark,Physical sciencesTotal,299
+2013,Denmark,Physical sciences,299
 2013,Denmark,Mathematics and statistics,656
 2013,Denmark,Information and Communication Technologies,2020
 2013,Denmark,Engineering manufacturing and construction,5768
@@ -136,7 +136,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Germany (until 1990 former territory of the FRG),Biology,0
 2013,Germany (until 1990 former territory of the FRG),Biochemistry,0
 2013,Germany (until 1990 former territory of the FRG),Environment,0
-2013,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,0
+2013,Germany (until 1990 former territory of the FRG),Physical sciences,Total,0
 2013,Germany (until 1990 former territory of the FRG),Mathematics and statistics,0
 2013,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,13933
 2013,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,52823
@@ -168,7 +168,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Estonia,Biology,0
 2013,Estonia,Biochemistry,0
 2013,Estonia,Environment,10
-2013,Estonia,Physical sciencesTotal,17
+2013,Estonia,Physical sciences,17
 2013,Estonia,Mathematics and statistics,7
 2013,Estonia,Information and Communication Technologies,111
 2013,Estonia,Engineering manufacturing and construction,128
@@ -200,7 +200,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Ireland,Biology,0
 2013,Ireland,Biochemistry,0
 2013,Ireland,Environment,0
-2013,Ireland,Physical sciencesTotal,0
+2013,Ireland,Physical sciences,0
 2013,Ireland,Mathematics and statistics,0
 2013,Ireland,Information and Communication Technologies,0
 2013,Ireland,Engineering manufacturing and construction,0
@@ -232,7 +232,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Greece,Biology,0
 2013,Greece,Biochemistry,0
 2013,Greece,Environment,91
-2013,Greece,Physical sciencesTotal,701
+2013,Greece,Physical sciences,701
 2013,Greece,Mathematics and statistics,946
 2013,Greece,Information and Communication Technologies,1574
 2013,Greece,Engineering manufacturing and construction,5285
@@ -264,7 +264,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Spain,Biology,0
 2013,Spain,Biochemistry,0
 2013,Spain,Environment,360
-2013,Spain,Physical sciencesTotal,475
+2013,Spain,Physical sciences,475
 2013,Spain,Mathematics and statistics,201
 2013,Spain,Information and Communication Technologies,2937
 2013,Spain,Engineering manufacturing and construction,8753
@@ -296,7 +296,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,France,Biology,0
 2013,France,Biochemistry,0
 2013,France,Environment,0
-2013,France,Physical sciencesTotal,0
+2013,France,Physical sciences,0
 2013,France,Mathematics and statistics,5803
 2013,France,Information and Communication Technologies,13400
 2013,France,Engineering manufacturing and construction,0
@@ -328,7 +328,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Croatia,Biology,0
 2013,Croatia,Biochemistry,0
 2013,Croatia,Environment,0
-2013,Croatia,Physical sciencesTotal,8
+2013,Croatia,Physical sciences,8
 2013,Croatia,Mathematics and statistics,7
 2013,Croatia,Information and Communication Technologies,14
 2013,Croatia,Engineering manufacturing and construction,0
@@ -360,7 +360,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Italy,Biology,0
 2013,Italy,Biochemistry,0
 2013,Italy,Environment,0
-2013,Italy,Physical sciencesTotal,0
+2013,Italy,Physical sciences,0
 2013,Italy,Mathematics and statistics,858
 2013,Italy,Information and Communication Technologies,1388
 2013,Italy,Engineering manufacturing and construction,0
@@ -392,7 +392,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Cyprus,Biology,0
 2013,Cyprus,Biochemistry,0
 2013,Cyprus,Environment,0
-2013,Cyprus,Physical sciencesTotal,5
+2013,Cyprus,Physical sciences,5
 2013,Cyprus,Mathematics and statistics,8
 2013,Cyprus,Information and Communication Technologies,134
 2013,Cyprus,Engineering manufacturing and construction,221
@@ -424,7 +424,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Latvia,Biology,0
 2013,Latvia,Biochemistry,0
 2013,Latvia,Environment,0
-2013,Latvia,Physical sciencesTotal,0
+2013,Latvia,Physical sciences,0
 2013,Latvia,Mathematics and statistics,3
 2013,Latvia,Information and Communication Technologies,125
 2013,Latvia,Engineering manufacturing and construction,194
@@ -456,7 +456,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Lithuania,Biology,0
 2013,Lithuania,Biochemistry,0
 2013,Lithuania,Environment,9
-2013,Lithuania,Physical sciencesTotal,12
+2013,Lithuania,Physical sciences,12
 2013,Lithuania,Mathematics and statistics,7
 2013,Lithuania,Information and Communication Technologies,16
 2013,Lithuania,Engineering manufacturing and construction,221
@@ -488,7 +488,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Luxembourg,Biology,0
 2013,Luxembourg,Biochemistry,0
 2013,Luxembourg,Environment,51
-2013,Luxembourg,Physical sciencesTotal,58
+2013,Luxembourg,Physical sciences,58
 2013,Luxembourg,Mathematics and statistics,35
 2013,Luxembourg,Information and Communication Technologies,134
 2013,Luxembourg,Engineering manufacturing and construction,144
@@ -520,7 +520,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Hungary,Biology,0
 2013,Hungary,Biochemistry,0
 2013,Hungary,Environment,68
-2013,Hungary,Physical sciencesTotal,238
+2013,Hungary,Physical sciences,238
 2013,Hungary,Mathematics and statistics,66
 2013,Hungary,Information and Communication Technologies,440
 2013,Hungary,Engineering manufacturing and construction,1970
@@ -552,7 +552,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Malta,Biology,0
 2013,Malta,Biochemistry,0
 2013,Malta,Environment,14
-2013,Malta,Physical sciencesTotal,10
+2013,Malta,Physical sciences,10
 2013,Malta,Mathematics and statistics,0
 2013,Malta,Information and Communication Technologies,26
 2013,Malta,Engineering manufacturing and construction,19
@@ -584,7 +584,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Netherlands,Biology,416
 2013,Netherlands,Biochemistry,953
 2013,Netherlands,Environment,579
-2013,Netherlands,Physical sciencesTotal,812
+2013,Netherlands,Physical sciences,812
 2013,Netherlands,Mathematics and statistics,367
 2013,Netherlands,Information and Communication Technologies,1276
 2013,Netherlands,Engineering manufacturing and construction,5882
@@ -616,7 +616,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Austria,Biology,0
 2013,Austria,Biochemistry,0
 2013,Austria,Environment,332
-2013,Austria,Physical sciencesTotal,2332
+2013,Austria,Physical sciences,2332
 2013,Austria,Mathematics and statistics,562
 2013,Austria,Information and Communication Technologies,2950
 2013,Austria,Engineering manufacturing and construction,10578
@@ -648,7 +648,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Poland,Biology,0
 2013,Poland,Biochemistry,0
 2013,Poland,Environment,0
-2013,Poland,Physical sciencesTotal,0
+2013,Poland,Physical sciences,0
 2013,Poland,Mathematics and statistics,113
 2013,Poland,Information and Communication Technologies,1309
 2013,Poland,Engineering manufacturing and construction,0
@@ -680,7 +680,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Portugal,Biology,435
 2013,Portugal,Biochemistry,45
 2013,Portugal,Environment,74
-2013,Portugal,Physical sciencesTotal,594
+2013,Portugal,Physical sciences,594
 2013,Portugal,Mathematics and statistics,211
 2013,Portugal,Information and Communication Technologies,299
 2013,Portugal,Engineering manufacturing and construction,2727
@@ -712,7 +712,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Romania,Biology,0
 2013,Romania,Biochemistry,0
 2013,Romania,Environment,64
-2013,Romania,Physical sciencesTotal,217
+2013,Romania,Physical sciences,217
 2013,Romania,Mathematics and statistics,116
 2013,Romania,Information and Communication Technologies,117
 2013,Romania,Engineering manufacturing and construction,2915
@@ -744,7 +744,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Slovenia,Biology,0
 2013,Slovenia,Biochemistry,0
 2013,Slovenia,Environment,31
-2013,Slovenia,Physical sciencesTotal,25
+2013,Slovenia,Physical sciences,25
 2013,Slovenia,Mathematics and statistics,30
 2013,Slovenia,Information and Communication Technologies,166
 2013,Slovenia,Engineering manufacturing and construction,414
@@ -776,7 +776,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Slovakia,Biology,0
 2013,Slovakia,Biochemistry,0
 2013,Slovakia,Environment,39
-2013,Slovakia,Physical sciencesTotal,42
+2013,Slovakia,Physical sciences,42
 2013,Slovakia,Mathematics and statistics,23
 2013,Slovakia,Information and Communication Technologies,83
 2013,Slovakia,Engineering manufacturing and construction,610
@@ -808,7 +808,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Finland,Biology,228
 2013,Finland,Biochemistry,214
 2013,Finland,Environment,164
-2013,Finland,Physical sciencesTotal,428
+2013,Finland,Physical sciences,428
 2013,Finland,Mathematics and statistics,93
 2013,Finland,Information and Communication Technologies,3884
 2013,Finland,Engineering manufacturing and construction,4255
@@ -840,7 +840,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Sweden,Biology,0
 2013,Sweden,Biochemistry,0
 2013,Sweden,Environment,329
-2013,Sweden,Physical sciencesTotal,1551
+2013,Sweden,Physical sciences,1551
 2013,Sweden,Mathematics and statistics,426
 2013,Sweden,Information and Communication Technologies,1599
 2013,Sweden,Engineering manufacturing and construction,7139
@@ -872,7 +872,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Iceland,Biology,0
 2013,Iceland,Biochemistry,0
 2013,Iceland,Environment,27
-2013,Iceland,Physical sciencesTotal,85
+2013,Iceland,Physical sciences,85
 2013,Iceland,Mathematics and statistics,2
 2013,Iceland,Information and Communication Technologies,22
 2013,Iceland,Engineering manufacturing and construction,73
@@ -904,7 +904,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Liechtenstein,Biology,0
 2013,Liechtenstein,Biochemistry,0
 2013,Liechtenstein,Environment,0
-2013,Liechtenstein,Physical sciencesTotal,0
+2013,Liechtenstein,Physical sciences,0
 2013,Liechtenstein,Mathematics and statistics,0
 2013,Liechtenstein,Information and Communication Technologies,0
 2013,Liechtenstein,Engineering manufacturing and construction,155
@@ -936,7 +936,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Norway,Biology,245
 2013,Norway,Biochemistry,68
 2013,Norway,Environment,-77
-2013,Norway,Physical sciencesTotal,378
+2013,Norway,Physical sciences,378
 2013,Norway,Mathematics and statistics,110
 2013,Norway,Information and Communication Technologies,524
 2013,Norway,Engineering manufacturing and construction,1240
@@ -968,7 +968,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Switzerland,Biology,2479
 2013,Switzerland,Biochemistry,0
 2013,Switzerland,Environment,1006
-2013,Switzerland,Physical sciencesTotal,3461
+2013,Switzerland,Physical sciences,3461
 2013,Switzerland,Mathematics and statistics,854
 2013,Switzerland,Information and Communication Technologies,1581
 2013,Switzerland,Engineering manufacturing and construction,8227
@@ -1000,7 +1000,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,United Kingdom,Biology,0
 2013,United Kingdom,Biochemistry,0
 2013,United Kingdom,Environment,0
-2013,United Kingdom,Physical sciencesTotal,13370
+2013,United Kingdom,Physical sciences,13370
 2013,United Kingdom,Mathematics and statistics,8516
 2013,United Kingdom,Information and Communication Technologies,18836
 2013,United Kingdom,Engineering manufacturing and construction,61617
@@ -1032,7 +1032,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,North Macedonia,Biology,0
 2013,North Macedonia,Biochemistry,0
 2013,North Macedonia,Environment,0
-2013,North Macedonia,Physical sciencesTotal,18
+2013,North Macedonia,Physical sciences,18
 2013,North Macedonia,Mathematics and statistics,22
 2013,North Macedonia,Information and Communication Technologies,180
 2013,North Macedonia,Engineering manufacturing and construction,90
@@ -1064,7 +1064,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Serbia,Biology,0
 2013,Serbia,Biochemistry,0
 2013,Serbia,Environment,85
-2013,Serbia,Physical sciencesTotal,0
+2013,Serbia,Physical sciences,0
 2013,Serbia,Mathematics and statistics,112
 2013,Serbia,Information and Communication Technologies,296
 2013,Serbia,Engineering manufacturing and construction,2296
@@ -1096,7 +1096,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Turkey,Biology,0
 2013,Turkey,Biochemistry,0
 2013,Turkey,Environment,76
-2013,Turkey,Physical sciencesTotal,1591
+2013,Turkey,Physical sciences,1591
 2013,Turkey,Mathematics and statistics,654
 2013,Turkey,Information and Communication Technologies,1727
 2013,Turkey,Engineering manufacturing and construction,8809
@@ -1128,7 +1128,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2013,Bosnia and Herzegovina,Biology,0
 2013,Bosnia and Herzegovina,Biochemistry,0
 2013,Bosnia and Herzegovina,Environment,0
-2013,Bosnia and Herzegovina,Physical sciencesTotal,0
+2013,Bosnia and Herzegovina,Physical sciences,0
 2013,Bosnia and Herzegovina,Mathematics and statistics,0
 2013,Bosnia and Herzegovina,Information and Communication Technologies,0
 2013,Bosnia and Herzegovina,Engineering manufacturing and construction,0
@@ -1160,7 +1160,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Belgium,Biology,0
 2014,Belgium,Biochemistry,0
 2014,Belgium,Environment,148
-2014,Belgium,Physical sciencesTotal,1189
+2014,Belgium,Physical sciences,1189
 2014,Belgium,Mathematics and statistics,525
 2014,Belgium,Information and Communication Technologies,827
 2014,Belgium,Engineering manufacturing and construction,6241
@@ -1192,7 +1192,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Bulgaria,Biology,29
 2014,Bulgaria,Biochemistry,12
 2014,Bulgaria,Environment,25
-2014,Bulgaria,Physical sciencesTotal,33
+2014,Bulgaria,Physical sciences,33
 2014,Bulgaria,Mathematics and statistics,17
 2014,Bulgaria,Information and Communication Technologies,328
 2014,Bulgaria,Engineering manufacturing and construction,1794
@@ -1224,7 +1224,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Czechia,Biology,0
 2014,Czechia,Biochemistry,0
 2014,Czechia,Environment,93
-2014,Czechia,Physical sciencesTotal,1351
+2014,Czechia,Physical sciences,1351
 2014,Czechia,Mathematics and statistics,576
 2014,Czechia,Information and Communication Technologies,3812
 2014,Czechia,Engineering manufacturing and construction,5264
@@ -1256,7 +1256,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Denmark,Biology,0
 2014,Denmark,Biochemistry,0
 2014,Denmark,Environment,10
-2014,Denmark,Physical sciencesTotal,351
+2014,Denmark,Physical sciences,351
 2014,Denmark,Mathematics and statistics,707
 2014,Denmark,Information and Communication Technologies,1952
 2014,Denmark,Engineering manufacturing and construction,6063
@@ -1288,7 +1288,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Germany (until 1990 former territory of the FRG),Biology,0
 2014,Germany (until 1990 former territory of the FRG),Biochemistry,0
 2014,Germany (until 1990 former territory of the FRG),Environment,0
-2014,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,0
+2014,Germany (until 1990 former territory of the FRG),Physical sciences,0
 2014,Germany (until 1990 former territory of the FRG),Mathematics and statistics,0
 2014,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,15296
 2014,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,58664
@@ -1320,7 +1320,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Estonia,Biology,0
 2014,Estonia,Biochemistry,0
 2014,Estonia,Environment,9
-2014,Estonia,Physical sciencesTotal,20
+2014,Estonia,Physical sciences,20
 2014,Estonia,Mathematics and statistics,9
 2014,Estonia,Information and Communication Technologies,146
 2014,Estonia,Engineering manufacturing and construction,156
@@ -1352,7 +1352,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Ireland,Biology,0
 2014,Ireland,Biochemistry,0
 2014,Ireland,Environment,125
-2014,Ireland,Physical sciencesTotal,391
+2014,Ireland,Physical sciences,391
 2014,Ireland,Mathematics and statistics,96
 2014,Ireland,Information and Communication Technologies,1080
 2014,Ireland,Engineering manufacturing and construction,1330
@@ -1384,7 +1384,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Greece,Biology,0
 2014,Greece,Biochemistry,0
 2014,Greece,Environment,84
-2014,Greece,Physical sciencesTotal,799
+2014,Greece,Physical sciences,799
 2014,Greece,Mathematics and statistics,745
 2014,Greece,Information and Communication Technologies,1415
 2014,Greece,Engineering manufacturing and construction,5172
@@ -1416,7 +1416,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Spain,Biology,0
 2014,Spain,Biochemistry,0
 2014,Spain,Environment,0
-2014,Spain,Physical sciencesTotal,0
+2014,Spain,Physical sciences,0
 2014,Spain,Mathematics and statistics,0
 2014,Spain,Information and Communication Technologies,0
 2014,Spain,Engineering manufacturing and construction,0
@@ -1448,7 +1448,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,France,Biology,0
 2014,France,Biochemistry,0
 2014,France,Environment,0
-2014,France,Physical sciencesTotal,0
+2014,France,Physical sciences,0
 2014,France,Mathematics and statistics,5744
 2014,France,Information and Communication Technologies,13505
 2014,France,Engineering manufacturing and construction,34604
@@ -1480,7 +1480,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Croatia,Biology,0
 2014,Croatia,Biochemistry,0
 2014,Croatia,Environment,0
-2014,Croatia,Physical sciencesTotal,0
+2014,Croatia,Physical sciences,0
 2014,Croatia,Mathematics and statistics,5
 2014,Croatia,Information and Communication Technologies,19
 2014,Croatia,Engineering manufacturing and construction,0
@@ -1512,7 +1512,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Italy,Biology,0
 2014,Italy,Biochemistry,0
 2014,Italy,Environment,137
-2014,Italy,Physical sciencesTotal,1578
+2014,Italy,Physical sciences,1578
 2014,Italy,Mathematics and statistics,941
 2014,Italy,Information and Communication Technologies,1500
 2014,Italy,Engineering manufacturing and construction,18169
@@ -1544,7 +1544,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Cyprus,Biology,0
 2014,Cyprus,Biochemistry,0
 2014,Cyprus,Environment,10
-2014,Cyprus,Physical sciencesTotal,7
+2014,Cyprus,Physical sciences,7
 2014,Cyprus,Mathematics and statistics,11
 2014,Cyprus,Information and Communication Technologies,128
 2014,Cyprus,Engineering manufacturing and construction,305
@@ -1576,7 +1576,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Latvia,Biology,4
 2014,Latvia,Biochemistry,2
 2014,Latvia,Environment,5
-2014,Latvia,Physical sciencesTotal,20
+2014,Latvia,Physical sciences,20
 2014,Latvia,Mathematics and statistics,2
 2014,Latvia,Information and Communication Technologies,239
 2014,Latvia,Engineering manufacturing and construction,415
@@ -1608,7 +1608,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Lithuania,Biology,0
 2014,Lithuania,Biochemistry,0
 2014,Lithuania,Environment,4
-2014,Lithuania,Physical sciencesTotal,15
+2014,Lithuania,Physical sciences,15
 2014,Lithuania,Mathematics and statistics,7
 2014,Lithuania,Information and Communication Technologies,63
 2014,Lithuania,Engineering manufacturing and construction,385
@@ -1640,7 +1640,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Luxembourg,Biology,0
 2014,Luxembourg,Biochemistry,0
 2014,Luxembourg,Environment,61
-2014,Luxembourg,Physical sciencesTotal,68
+2014,Luxembourg,Physical sciences,68
 2014,Luxembourg,Mathematics and statistics,30
 2014,Luxembourg,Information and Communication Technologies,285
 2014,Luxembourg,Engineering manufacturing and construction,94
@@ -1672,7 +1672,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Hungary,Biology,0
 2014,Hungary,Biochemistry,0
 2014,Hungary,Environment,33
-2014,Hungary,Physical sciencesTotal,216
+2014,Hungary,Physical sciences,216
 2014,Hungary,Mathematics and statistics,56
 2014,Hungary,Information and Communication Technologies,390
 2014,Hungary,Engineering manufacturing and construction,1511
@@ -1704,7 +1704,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Malta,Biology,0
 2014,Malta,Biochemistry,0
 2014,Malta,Environment,0
-2014,Malta,Physical sciencesTotal,14
+2014,Malta,Physical sciences,14
 2014,Malta,Mathematics and statistics,1
 2014,Malta,Information and Communication Technologies,27
 2014,Malta,Engineering manufacturing and construction,35
@@ -1736,7 +1736,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Netherlands,Biology,536
 2014,Netherlands,Biochemistry,1238
 2014,Netherlands,Environment,841
-2014,Netherlands,Physical sciencesTotal,1195
+2014,Netherlands,Physical sciences,1195
 2014,Netherlands,Mathematics and statistics,499
 2014,Netherlands,Information and Communication Technologies,1728
 2014,Netherlands,Engineering manufacturing and construction,8543
@@ -1768,7 +1768,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Austria,Biology,0
 2014,Austria,Biochemistry,0
 2014,Austria,Environment,345
-2014,Austria,Physical sciencesTotal,2406
+2014,Austria,Physical sciences,2406
 2014,Austria,Mathematics and statistics,550
 2014,Austria,Information and Communication Technologies,2888
 2014,Austria,Engineering manufacturing and construction,10105
@@ -1800,7 +1800,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Poland,Biology,0
 2014,Poland,Biochemistry,0
 2014,Poland,Environment,0
-2014,Poland,Physical sciencesTotal,0
+2014,Poland,Physical sciences,0
 2014,Poland,Mathematics and statistics,142
 2014,Poland,Information and Communication Technologies,1879
 2014,Poland,Engineering manufacturing and construction,0
@@ -1832,7 +1832,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Portugal,Biology,394
 2014,Portugal,Biochemistry,54
 2014,Portugal,Environment,58
-2014,Portugal,Physical sciencesTotal,608
+2014,Portugal,Physical sciences,608
 2014,Portugal,Mathematics and statistics,243
 2014,Portugal,Information and Communication Technologies,355
 2014,Portugal,Engineering manufacturing and construction,2953
@@ -1864,7 +1864,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Romania,Biology,0
 2014,Romania,Biochemistry,0
 2014,Romania,Environment,62
-2014,Romania,Physical sciencesTotal,344
+2014,Romania,Physical sciences,344
 2014,Romania,Mathematics and statistics,115
 2014,Romania,Information and Communication Technologies,117
 2014,Romania,Engineering manufacturing and construction,2989
@@ -1896,7 +1896,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Slovenia,Biology,0
 2014,Slovenia,Biochemistry,0
 2014,Slovenia,Environment,31
-2014,Slovenia,Physical sciencesTotal,25
+2014,Slovenia,Physical sciences,25
 2014,Slovenia,Mathematics and statistics,30
 2014,Slovenia,Information and Communication Technologies,166
 2014,Slovenia,Engineering manufacturing and construction,414
@@ -1928,7 +1928,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Slovakia,Biology,0
 2014,Slovakia,Biochemistry,0
 2014,Slovakia,Environment,330
-2014,Slovakia,Physical sciencesTotal,40
+2014,Slovakia,Physical sciences,40
 2014,Slovakia,Mathematics and statistics,20
 2014,Slovakia,Information and Communication Technologies,82
 2014,Slovakia,Engineering manufacturing and construction,569
@@ -1960,7 +1960,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Finland,Biology,249
 2014,Finland,Biochemistry,244
 2014,Finland,Environment,181
-2014,Finland,Physical sciencesTotal,473
+2014,Finland,Physical sciences,473
 2014,Finland,Mathematics and statistics,99
 2014,Finland,Information and Communication Technologies,3995
 2014,Finland,Engineering manufacturing and construction,4496
@@ -1992,7 +1992,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Sweden,Biology,0
 2014,Sweden,Biochemistry,0
 2014,Sweden,Environment,281
-2014,Sweden,Physical sciencesTotal,1542
+2014,Sweden,Physical sciences,1542
 2014,Sweden,Mathematics and statistics,402
 2014,Sweden,Information and Communication Technologies,1624
 2014,Sweden,Engineering manufacturing and construction,6566
@@ -2024,7 +2024,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Iceland,Biology,0
 2014,Iceland,Biochemistry,0
 2014,Iceland,Environment,54
-2014,Iceland,Physical sciencesTotal,127
+2014,Iceland,Physical sciences,127
 2014,Iceland,Mathematics and statistics,6
 2014,Iceland,Information and Communication Technologies,38
 2014,Iceland,Engineering manufacturing and construction,94
@@ -2056,7 +2056,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Liechtenstein,Biology,0
 2014,Liechtenstein,Biochemistry,0
 2014,Liechtenstein,Environment,0
-2014,Liechtenstein,Physical sciencesTotal,0
+2014,Liechtenstein,Physical sciences,0
 2014,Liechtenstein,Mathematics and statistics,0
 2014,Liechtenstein,Information and Communication Technologies,0
 2014,Liechtenstein,Engineering manufacturing and construction,158
@@ -2088,7 +2088,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Norway,Biology,234
 2014,Norway,Biochemistry,64
 2014,Norway,Environment,71
-2014,Norway,Physical sciencesTotal,368
+2014,Norway,Physical sciences,368
 2014,Norway,Mathematics and statistics,128
 2014,Norway,Information and Communication Technologies,568
 2014,Norway,Engineering manufacturing and construction,1234
@@ -2120,7 +2120,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Switzerland,Biology,2573
 2014,Switzerland,Biochemistry,0
 2014,Switzerland,Environment,1051
-2014,Switzerland,Physical sciencesTotal,3521
+2014,Switzerland,Physical sciences,3521
 2014,Switzerland,Mathematics and statistics,906
 2014,Switzerland,Information and Communication Technologies,1629
 2014,Switzerland,Engineering manufacturing and construction,8631
@@ -2152,7 +2152,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,United Kingdom,Biology,0
 2014,United Kingdom,Biochemistry,0
 2014,United Kingdom,Environment,0
-2014,United Kingdom,Physical sciencesTotal,14002
+2014,United Kingdom,Physical sciences,14002
 2014,United Kingdom,Mathematics and statistics,8800
 2014,United Kingdom,Information and Communication Technologies,18629
 2014,United Kingdom,Engineering manufacturing and construction,63352
@@ -2184,7 +2184,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,North Macedonia,Biology,0
 2014,North Macedonia,Biochemistry,0
 2014,North Macedonia,Environment,0
-2014,North Macedonia,Physical sciencesTotal,17
+2014,North Macedonia,Physical sciences,17
 2014,North Macedonia,Mathematics and statistics,25
 2014,North Macedonia,Information and Communication Technologies,208
 2014,North Macedonia,Engineering manufacturing and construction,126
@@ -2216,7 +2216,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Serbia,Biology,0
 2014,Serbia,Biochemistry,0
 2014,Serbia,Environment,142
-2014,Serbia,Physical sciencesTotal,188
+2014,Serbia,Physical sciences,188
 2014,Serbia,Mathematics and statistics,65
 2014,Serbia,Information and Communication Technologies,357
 2014,Serbia,Engineering manufacturing and construction,2167
@@ -2248,7 +2248,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Turkey,Biology,0
 2014,Turkey,Biochemistry,0
 2014,Turkey,Environment,334
-2014,Turkey,Physical sciencesTotal,1263
+2014,Turkey,Physical sciences,1263
 2014,Turkey,Mathematics and statistics,686
 2014,Turkey,Information and Communication Technologies,358
 2014,Turkey,Engineering manufacturing and construction,11071
@@ -2280,7 +2280,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2014,Bosnia and Herzegovina,Biology,0
 2014,Bosnia and Herzegovina,Biochemistry,0
 2014,Bosnia and Herzegovina,Environment,0
-2014,Bosnia and Herzegovina,Physical sciencesTotal,0
+2014,Bosnia and Herzegovina,Physical sciences,0
 2014,Bosnia and Herzegovina,Mathematics and statistics,0
 2014,Bosnia and Herzegovina,Information and Communication Technologies,0
 2014,Bosnia and Herzegovina,Engineering manufacturing and construction,0
@@ -2312,7 +2312,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Belgium,Biology,546
 2015,Belgium,Biochemistry,91
 2015,Belgium,Environment,390
-2015,Belgium,Physical sciencesTotal,1088
+2015,Belgium,Physical sciences,1088
 2015,Belgium,Mathematics and statistics,560
 2015,Belgium,Information and Communication Technologies,798
 2015,Belgium,Engineering manufacturing and construction,6548
@@ -2344,7 +2344,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Bulgaria,Biology,28
 2015,Bulgaria,Biochemistry,6
 2015,Bulgaria,Environment,18
-2015,Bulgaria,Physical sciencesTotal,39
+2015,Bulgaria,Physical sciences,39
 2015,Bulgaria,Mathematics and statistics,15
 2015,Bulgaria,Information and Communication Technologies,383
 2015,Bulgaria,Engineering manufacturing and construction,1383
@@ -2376,7 +2376,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Czechia,Biology,679
 2015,Czechia,Biochemistry,360
 2015,Czechia,Environment,122
-2015,Czechia,Physical sciencesTotal,1252
+2015,Czechia,Physical sciences,1252
 2015,Czechia,Mathematics and statistics,574
 2015,Czechia,Information and Communication Technologies,3765
 2015,Czechia,Engineering manufacturing and construction,5944
@@ -2408,7 +2408,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Denmark,Biology,120
 2015,Denmark,Biochemistry,311
 2015,Denmark,Environment,0
-2015,Denmark,Physical sciencesTotal,288
+2015,Denmark,Physical sciences,288
 2015,Denmark,Mathematics and statistics,67
 2015,Denmark,Information and Communication Technologies,2076
 2015,Denmark,Engineering manufacturing and construction,6056
@@ -2440,7 +2440,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Germany (until 1990 former territory of the FRG),Biology,2536
 2015,Germany (until 1990 former territory of the FRG),Biochemistry,1257
 2015,Germany (until 1990 former territory of the FRG),Environment,0
-2015,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,6621
+2015,Germany (until 1990 former territory of the FRG),Physical sciences,6621
 2015,Germany (until 1990 former territory of the FRG),Mathematics and statistics,3141
 2015,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,17196
 2015,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,65121
@@ -2472,7 +2472,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Estonia,Biology,12
 2015,Estonia,Biochemistry,4
 2015,Estonia,Environment,23
-2015,Estonia,Physical sciencesTotal,28
+2015,Estonia,Physical sciences,28
 2015,Estonia,Mathematics and statistics,8
 2015,Estonia,Information and Communication Technologies,249
 2015,Estonia,Engineering manufacturing and construction,285
@@ -2504,7 +2504,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Ireland,Biology,164
 2015,Ireland,Biochemistry,100
 2015,Ireland,Environment,150
-2015,Ireland,Physical sciencesTotal,499
+2015,Ireland,Physical sciences,499
 2015,Ireland,Mathematics and statistics,162
 2015,Ireland,Information and Communication Technologies,1285
 2015,Ireland,Engineering manufacturing and construction,1937
@@ -2536,7 +2536,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Greece,Biology,406
 2015,Greece,Biochemistry,48
 2015,Greece,Environment,13
-2015,Greece,Physical sciencesTotal,1270
+2015,Greece,Physical sciences,1270
 2015,Greece,Mathematics and statistics,839
 2015,Greece,Information and Communication Technologies,773
 2015,Greece,Engineering manufacturing and construction,3473
@@ -2568,7 +2568,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Spain,Biology,0
 2015,Spain,Biochemistry,0
 2015,Spain,Environment,0
-2015,Spain,Physical sciencesTotal,0
+2015,Spain,Physical sciences,0
 2015,Spain,Mathematics and statistics,0
 2015,Spain,Information and Communication Technologies,0
 2015,Spain,Engineering manufacturing and construction,0
@@ -2600,7 +2600,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,France,Biology,0
 2015,France,Biochemistry,0
 2015,France,Environment,777
-2015,France,Physical sciencesTotal,12189
+2015,France,Physical sciences,12189
 2015,France,Mathematics and statistics,5610
 2015,France,Information and Communication Technologies,13204
 2015,France,Engineering manufacturing and construction,35314
@@ -2632,7 +2632,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Croatia,Biology,8
 2015,Croatia,Biochemistry,0
 2015,Croatia,Environment,1
-2015,Croatia,Physical sciencesTotal,4
+2015,Croatia,Physical sciences,4
 2015,Croatia,Mathematics and statistics,4
 2015,Croatia,Information and Communication Technologies,11
 2015,Croatia,Engineering manufacturing and construction,54
@@ -2664,7 +2664,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Italy,Biology,712
 2015,Italy,Biochemistry,538
 2015,Italy,Environment,172
-2015,Italy,Physical sciencesTotal,1123
+2015,Italy,Physical sciences,1123
 2015,Italy,Mathematics and statistics,749
 2015,Italy,Information and Communication Technologies,4815
 2015,Italy,Engineering manufacturing and construction,12503
@@ -2696,7 +2696,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Cyprus,Biology,46
 2015,Cyprus,Biochemistry,3
 2015,Cyprus,Environment,2
-2015,Cyprus,Physical sciencesTotal,8
+2015,Cyprus,Physical sciences,8
 2015,Cyprus,Mathematics and statistics,9
 2015,Cyprus,Information and Communication Technologies,142
 2015,Cyprus,Engineering manufacturing and construction,323
@@ -2728,7 +2728,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Latvia,Biology,6
 2015,Latvia,Biochemistry,6
 2015,Latvia,Environment,31
-2015,Latvia,Physical sciencesTotal,20
+2015,Latvia,Physical sciences,20
 2015,Latvia,Mathematics and statistics,6
 2015,Latvia,Information and Communication Technologies,193
 2015,Latvia,Engineering manufacturing and construction,398
@@ -2760,7 +2760,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Lithuania,Biology,14
 2015,Lithuania,Biochemistry,5
 2015,Lithuania,Environment,5
-2015,Lithuania,Physical sciencesTotal,20
+2015,Lithuania,Physical sciences,20
 2015,Lithuania,Mathematics and statistics,8
 2015,Lithuania,Information and Communication Technologies,122
 2015,Lithuania,Engineering manufacturing and construction,559
@@ -2792,7 +2792,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Luxembourg,Biology,87
 2015,Luxembourg,Biochemistry,0
 2015,Luxembourg,Environment,30
-2015,Luxembourg,Physical sciencesTotal,98
+2015,Luxembourg,Physical sciences,98
 2015,Luxembourg,Mathematics and statistics,45
 2015,Luxembourg,Information and Communication Technologies,238
 2015,Luxembourg,Engineering manufacturing and construction,173
@@ -2824,7 +2824,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Hungary,Biology,112
 2015,Hungary,Biochemistry,0
 2015,Hungary,Environment,24
-2015,Hungary,Physical sciencesTotal,193
+2015,Hungary,Physical sciences,193
 2015,Hungary,Mathematics and statistics,55
 2015,Hungary,Information and Communication Technologies,385
 2015,Hungary,Engineering manufacturing and construction,1637
@@ -2856,7 +2856,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Malta,Biology,4
 2015,Malta,Biochemistry,1
 2015,Malta,Environment,6
-2015,Malta,Physical sciencesTotal,15
+2015,Malta,Physical sciences,15
 2015,Malta,Mathematics and statistics,1
 2015,Malta,Information and Communication Technologies,39
 2015,Malta,Engineering manufacturing and construction,32
@@ -2888,7 +2888,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Netherlands,Biology,488
 2015,Netherlands,Biochemistry,1054
 2015,Netherlands,Environment,675
-2015,Netherlands,Physical sciencesTotal,933
+2015,Netherlands,Physical sciences,933
 2015,Netherlands,Mathematics and statistics,410
 2015,Netherlands,Information and Communication Technologies,1597
 2015,Netherlands,Engineering manufacturing and construction,7164
@@ -2920,7 +2920,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Austria,Biology,2046
 2015,Austria,Biochemistry,505
 2015,Austria,Environment,473
-2015,Austria,Physical sciencesTotal,2625
+2015,Austria,Physical sciences,2625
 2015,Austria,Mathematics and statistics,604
 2015,Austria,Information and Communication Technologies,3116
 2015,Austria,Engineering manufacturing and construction,10535
@@ -2952,7 +2952,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Poland,Biology,91
 2015,Poland,Biochemistry,7
 2015,Poland,Environment,83
-2015,Poland,Physical sciencesTotal,368
+2015,Poland,Physical sciences,368
 2015,Poland,Mathematics and statistics,122
 2015,Poland,Information and Communication Technologies,2452
 2015,Poland,Engineering manufacturing and construction,3608
@@ -2984,7 +2984,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Portugal,Biology,383
 2015,Portugal,Biochemistry,53
 2015,Portugal,Environment,86
-2015,Portugal,Physical sciencesTotal,553
+2015,Portugal,Physical sciences,553
 2015,Portugal,Mathematics and statistics,231
 2015,Portugal,Information and Communication Technologies,369
 2015,Portugal,Engineering manufacturing and construction,3289
@@ -3016,7 +3016,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Romania,Biology,43
 2015,Romania,Biochemistry,9
 2015,Romania,Environment,58
-2015,Romania,Physical sciencesTotal,294
+2015,Romania,Physical sciences,294
 2015,Romania,Mathematics and statistics,34
 2015,Romania,Information and Communication Technologies,589
 2015,Romania,Engineering manufacturing and construction,2334
@@ -3048,7 +3048,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Slovenia,Biology,0
 2015,Slovenia,Biochemistry,0
 2015,Slovenia,Environment,0
-2015,Slovenia,Physical sciencesTotal,0
+2015,Slovenia,Physical sciences,0
 2015,Slovenia,Mathematics and statistics,0
 2015,Slovenia,Information and Communication Technologies,143
 2015,Slovenia,Engineering manufacturing and construction,483
@@ -3080,7 +3080,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Slovakia,Biology,27
 2015,Slovakia,Biochemistry,30
 2015,Slovakia,Environment,48
-2015,Slovakia,Physical sciencesTotal,51
+2015,Slovakia,Physical sciences,51
 2015,Slovakia,Mathematics and statistics,4
 2015,Slovakia,Information and Communication Technologies,112
 2015,Slovakia,Engineering manufacturing and construction,578
@@ -3112,7 +3112,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Finland,Biology,274
 2015,Finland,Biochemistry,247
 2015,Finland,Environment,182
-2015,Finland,Physical sciencesTotal,530
+2015,Finland,Physical sciences,530
 2015,Finland,Mathematics and statistics,98
 2015,Finland,Information and Communication Technologies,4017
 2015,Finland,Engineering manufacturing and construction,4560
@@ -3144,7 +3144,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Sweden,Biology,0
 2015,Sweden,Biochemistry,0
 2015,Sweden,Environment,453
-2015,Sweden,Physical sciencesTotal,1688
+2015,Sweden,Physical sciences,1688
 2015,Sweden,Mathematics and statistics,430
 2015,Sweden,Information and Communication Technologies,1774
 2015,Sweden,Engineering manufacturing and construction,6855
@@ -3176,7 +3176,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Iceland,Biology,36
 2015,Iceland,Biochemistry,3
 2015,Iceland,Environment,42
-2015,Iceland,Physical sciencesTotal,120
+2015,Iceland,Physical sciences,120
 2015,Iceland,Mathematics and statistics,5
 2015,Iceland,Information and Communication Technologies,30
 2015,Iceland,Engineering manufacturing and construction,104
@@ -3208,7 +3208,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Liechtenstein,Biology,0
 2015,Liechtenstein,Biochemistry,0
 2015,Liechtenstein,Environment,0
-2015,Liechtenstein,Physical sciencesTotal,0
+2015,Liechtenstein,Physical sciences,0
 2015,Liechtenstein,Mathematics and statistics,0
 2015,Liechtenstein,Information and Communication Technologies,0
 2015,Liechtenstein,Engineering manufacturing and construction,151
@@ -3240,7 +3240,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Norway,Biology,237
 2015,Norway,Biochemistry,85
 2015,Norway,Environment,101
-2015,Norway,Physical sciencesTotal,364
+2015,Norway,Physical sciences,364
 2015,Norway,Mathematics and statistics,138
 2015,Norway,Information and Communication Technologies,570
 2015,Norway,Engineering manufacturing and construction,1398
@@ -3272,7 +3272,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Switzerland,Biology,2654
 2015,Switzerland,Biochemistry,0
 2015,Switzerland,Environment,1108
-2015,Switzerland,Physical sciencesTotal,3621
+2015,Switzerland,Physical sciences,3621
 2015,Switzerland,Mathematics and statistics,902
 2015,Switzerland,Information and Communication Technologies,1641
 2015,Switzerland,Engineering manufacturing and construction,8665
@@ -3304,7 +3304,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,United Kingdom,Biology,0
 2015,United Kingdom,Biochemistry,0
 2015,United Kingdom,Environment,0
-2015,United Kingdom,Physical sciencesTotal,0
+2015,United Kingdom,Physical sciences,0
 2015,United Kingdom,Mathematics and statistics,0
 2015,United Kingdom,Information and Communication Technologies,18799
 2015,United Kingdom,Engineering manufacturing and construction,65370
@@ -3336,7 +3336,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,North Macedonia,Biology,32
 2015,North Macedonia,Biochemistry,0
 2015,North Macedonia,Environment,0
-2015,North Macedonia,Physical sciencesTotal,15
+2015,North Macedonia,Physical sciences,15
 2015,North Macedonia,Mathematics and statistics,28
 2015,North Macedonia,Information and Communication Technologies,284
 2015,North Macedonia,Engineering manufacturing and construction,317
@@ -3368,7 +3368,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Serbia,Biology,181
 2015,Serbia,Biochemistry,0
 2015,Serbia,Environment,82
-2015,Serbia,Physical sciencesTotal,277
+2015,Serbia,Physical sciences,277
 2015,Serbia,Mathematics and statistics,114
 2015,Serbia,Information and Communication Technologies,343
 2015,Serbia,Engineering manufacturing and construction,2171
@@ -3400,7 +3400,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Turkey,Biology,1086
 2015,Turkey,Biochemistry,463
 2015,Turkey,Environment,39
-2015,Turkey,Physical sciencesTotal,2026
+2015,Turkey,Physical sciences,2026
 2015,Turkey,Mathematics and statistics,908
 2015,Turkey,Information and Communication Technologies,621
 2015,Turkey,Engineering manufacturing and construction,17154
@@ -3432,7 +3432,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2015,Bosnia and Herzegovina,Biology,0
 2015,Bosnia and Herzegovina,Biochemistry,0
 2015,Bosnia and Herzegovina,Environment,0
-2015,Bosnia and Herzegovina,Physical sciencesTotal,0
+2015,Bosnia and Herzegovina,Physical sciences,0
 2015,Bosnia and Herzegovina,Mathematics and statistics,0
 2015,Bosnia and Herzegovina,Information and Communication Technologies,0
 2015,Bosnia and Herzegovina,Engineering manufacturing and construction,0
@@ -3464,7 +3464,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Belgium,Biology,560
 2016,Belgium,Biochemistry,311
 2016,Belgium,Environment,435
-2016,Belgium,Physical sciencesTotal,1005
+2016,Belgium,Physical sciences,1005
 2016,Belgium,Mathematics and statistics,653
 2016,Belgium,Information and Communication Technologies,940
 2016,Belgium,Engineering manufacturing and construction,7192
@@ -3496,7 +3496,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Bulgaria,Biology,39
 2016,Bulgaria,Biochemistry,9
 2016,Bulgaria,Environment,24
-2016,Bulgaria,Physical sciencesTotal,51
+2016,Bulgaria,Physical sciences,51
 2016,Bulgaria,Mathematics and statistics,15
 2016,Bulgaria,Information and Communication Technologies,360
 2016,Bulgaria,Engineering manufacturing and construction,1304
@@ -3528,7 +3528,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Czechia,Biology,784
 2016,Czechia,Biochemistry,406
 2016,Czechia,Environment,124
-2016,Czechia,Physical sciencesTotal,1262
+2016,Czechia,Physical sciences,1262
 2016,Czechia,Mathematics and statistics,549
 2016,Czechia,Information and Communication Technologies,4023
 2016,Czechia,Engineering manufacturing and construction,6331
@@ -3560,7 +3560,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Denmark,Biology,115
 2016,Denmark,Biochemistry,296
 2016,Denmark,Environment,65
-2016,Denmark,Physical sciencesTotal,323
+2016,Denmark,Physical sciences,323
 2016,Denmark,Mathematics and statistics,79
 2016,Denmark,Information and Communication Technologies,2305
 2016,Denmark,Engineering manufacturing and construction,6532
@@ -3592,7 +3592,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Germany (until 1990 former territory of the FRG),Biology,0
 2016,Germany (until 1990 former territory of the FRG),Biochemistry,0
 2016,Germany (until 1990 former territory of the FRG),Environment,0
-2016,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,0
+2016,Germany (until 1990 former territory of the FRG),Physical sciences,0
 2016,Germany (until 1990 former territory of the FRG),Mathematics and statistics,0
 2016,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,19881
 2016,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,71227
@@ -3624,7 +3624,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Estonia,Biology,10
 2016,Estonia,Biochemistry,6
 2016,Estonia,Environment,53
-2016,Estonia,Physical sciencesTotal,28
+2016,Estonia,Physical sciences,28
 2016,Estonia,Mathematics and statistics,12
 2016,Estonia,Information and Communication Technologies,326
 2016,Estonia,Engineering manufacturing and construction,426
@@ -3656,7 +3656,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Ireland,Biology,178
 2016,Ireland,Biochemistry,107
 2016,Ireland,Environment,161
-2016,Ireland,Physical sciencesTotal,535
+2016,Ireland,Physical sciences,535
 2016,Ireland,Mathematics and statistics,218
 2016,Ireland,Information and Communication Technologies,1460
 2016,Ireland,Engineering manufacturing and construction,2446
@@ -3688,7 +3688,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Greece,Biology,514
 2016,Greece,Biochemistry,52
 2016,Greece,Environment,20
-2016,Greece,Physical sciencesTotal,989
+2016,Greece,Physical sciences,989
 2016,Greece,Mathematics and statistics,858
 2016,Greece,Information and Communication Technologies,943
 2016,Greece,Engineering manufacturing and construction,3614
@@ -3720,7 +3720,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Spain,Biology,167
 2016,Spain,Biochemistry,246
 2016,Spain,Environment,342
-2016,Spain,Physical sciencesTotal,742
+2016,Spain,Physical sciences,742
 2016,Spain,Mathematics and statistics,280
 2016,Spain,Information and Communication Technologies,1206
 2016,Spain,Engineering manufacturing and construction,5503
@@ -3752,7 +3752,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,France,Biology,0
 2016,France,Biochemistry,0
 2016,France,Environment,701
-2016,France,Physical sciencesTotal,12696
+2016,France,Physical sciences,12696
 2016,France,Mathematics and statistics,5769
 2016,France,Information and Communication Technologies,13405
 2016,France,Engineering manufacturing and construction,38077
@@ -3784,7 +3784,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Croatia,Biology,20
 2016,Croatia,Biochemistry,4
 2016,Croatia,Environment,1
-2016,Croatia,Physical sciencesTotal,87
+2016,Croatia,Physical sciences,87
 2016,Croatia,Mathematics and statistics,28
 2016,Croatia,Information and Communication Technologies,88
 2016,Croatia,Engineering manufacturing and construction,674
@@ -3816,7 +3816,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Italy,Biology,0
 2016,Italy,Biochemistry,0
 2016,Italy,Environment,0
-2016,Italy,Physical sciencesTotal,0
+2016,Italy,Physical sciences,0
 2016,Italy,Mathematics and statistics,0
 2016,Italy,Information and Communication Technologies,1864
 2016,Italy,Engineering manufacturing and construction,18472
@@ -3848,7 +3848,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Cyprus,Biology,60
 2016,Cyprus,Biochemistry,2
 2016,Cyprus,Environment,14
-2016,Cyprus,Physical sciencesTotal,8
+2016,Cyprus,Physical sciences,8
 2016,Cyprus,Mathematics and statistics,17
 2016,Cyprus,Information and Communication Technologies,183
 2016,Cyprus,Engineering manufacturing and construction,421
@@ -3880,7 +3880,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Latvia,Biology,7
 2016,Latvia,Biochemistry,11
 2016,Latvia,Environment,25
-2016,Latvia,Physical sciencesTotal,18
+2016,Latvia,Physical sciences,18
 2016,Latvia,Mathematics and statistics,3
 2016,Latvia,Information and Communication Technologies,337
 2016,Latvia,Engineering manufacturing and construction,610
@@ -3912,7 +3912,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Lithuania,Biology,19
 2016,Lithuania,Biochemistry,3
 2016,Lithuania,Environment,6
-2016,Lithuania,Physical sciencesTotal,22
+2016,Lithuania,Physical sciences,22
 2016,Lithuania,Mathematics and statistics,12
 2016,Lithuania,Information and Communication Technologies,190
 2016,Lithuania,Engineering manufacturing and construction,800
@@ -3944,7 +3944,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Luxembourg,Biology,100
 2016,Luxembourg,Biochemistry,0
 2016,Luxembourg,Environment,19
-2016,Luxembourg,Physical sciencesTotal,96
+2016,Luxembourg,Physical sciences,96
 2016,Luxembourg,Mathematics and statistics,57
 2016,Luxembourg,Information and Communication Technologies,232
 2016,Luxembourg,Engineering manufacturing and construction,211
@@ -3976,7 +3976,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Hungary,Biology,162
 2016,Hungary,Biochemistry,0
 2016,Hungary,Environment,37
-2016,Hungary,Physical sciencesTotal,253
+2016,Hungary,Physical sciences,253
 2016,Hungary,Mathematics and statistics,63
 2016,Hungary,Information and Communication Technologies,509
 2016,Hungary,Engineering manufacturing and construction,2028
@@ -4008,7 +4008,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Malta,Biology,3
 2016,Malta,Biochemistry,1
 2016,Malta,Environment,4
-2016,Malta,Physical sciencesTotal,19
+2016,Malta,Physical sciences,19
 2016,Malta,Mathematics and statistics,2
 2016,Malta,Information and Communication Technologies,57
 2016,Malta,Engineering manufacturing and construction,68
@@ -4040,7 +4040,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Netherlands,Biology,0
 2016,Netherlands,Biochemistry,0
 2016,Netherlands,Environment,0
-2016,Netherlands,Physical sciencesTotal,0
+2016,Netherlands,Physical sciences,0
 2016,Netherlands,Mathematics and statistics,0
 2016,Netherlands,Information and Communication Technologies,0
 2016,Netherlands,Engineering manufacturing and construction,0
@@ -4072,7 +4072,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Austria,Biology,2136
 2016,Austria,Biochemistry,513
 2016,Austria,Environment,565
-2016,Austria,Physical sciencesTotal,2857
+2016,Austria,Physical sciences,2857
 2016,Austria,Mathematics and statistics,685
 2016,Austria,Information and Communication Technologies,3416
 2016,Austria,Engineering manufacturing and construction,10872
@@ -4104,7 +4104,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Poland,Biology,153
 2016,Poland,Biochemistry,149
 2016,Poland,Environment,112
-2016,Poland,Physical sciencesTotal,464
+2016,Poland,Physical sciences,464
 2016,Poland,Mathematics and statistics,154
 2016,Poland,Information and Communication Technologies,3411
 2016,Poland,Engineering manufacturing and construction,4161
@@ -4136,7 +4136,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Portugal,Biology,349
 2016,Portugal,Biochemistry,76
 2016,Portugal,Environment,100
-2016,Portugal,Physical sciencesTotal,498
+2016,Portugal,Physical sciences,498
 2016,Portugal,Mathematics and statistics,166
 2016,Portugal,Information and Communication Technologies,492
 2016,Portugal,Engineering manufacturing and construction,4067
@@ -4168,7 +4168,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Romania,Biology,74
 2016,Romania,Biochemistry,10
 2016,Romania,Environment,68
-2016,Romania,Physical sciencesTotal,186
+2016,Romania,Physical sciences,186
 2016,Romania,Mathematics and statistics,49
 2016,Romania,Information and Communication Technologies,612
 2016,Romania,Engineering manufacturing and construction,3115
@@ -4200,7 +4200,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Slovenia,Biology,0
 2016,Slovenia,Biochemistry,0
 2016,Slovenia,Environment,0
-2016,Slovenia,Physical sciencesTotal,0
+2016,Slovenia,Physical sciences,0
 2016,Slovenia,Mathematics and statistics,0
 2016,Slovenia,Information and Communication Technologies,179
 2016,Slovenia,Engineering manufacturing and construction,533
@@ -4232,7 +4232,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Slovakia,Biology,32
 2016,Slovakia,Biochemistry,34
 2016,Slovakia,Environment,33
-2016,Slovakia,Physical sciencesTotal,68
+2016,Slovakia,Physical sciences,68
 2016,Slovakia,Mathematics and statistics,9
 2016,Slovakia,Information and Communication Technologies,134
 2016,Slovakia,Engineering manufacturing and construction,580
@@ -4264,7 +4264,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Finland,Biology,292
 2016,Finland,Biochemistry,268
 2016,Finland,Environment,151
-2016,Finland,Physical sciencesTotal,562
+2016,Finland,Physical sciences,562
 2016,Finland,Mathematics and statistics,102
 2016,Finland,Information and Communication Technologies,3967
 2016,Finland,Engineering manufacturing and construction,4680
@@ -4296,7 +4296,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Sweden,Biology,0
 2016,Sweden,Biochemistry,0
 2016,Sweden,Environment,437
-2016,Sweden,Physical sciencesTotal,1750
+2016,Sweden,Physical sciences,1750
 2016,Sweden,Mathematics and statistics,422
 2016,Sweden,Information and Communication Technologies,1960
 2016,Sweden,Engineering manufacturing and construction,7160
@@ -4328,7 +4328,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Iceland,Biology,29
 2016,Iceland,Biochemistry,2
 2016,Iceland,Environment,51
-2016,Iceland,Physical sciencesTotal,85
+2016,Iceland,Physical sciences,85
 2016,Iceland,Mathematics and statistics,2
 2016,Iceland,Information and Communication Technologies,24
 2016,Iceland,Engineering manufacturing and construction,61
@@ -4360,7 +4360,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Liechtenstein,Biology,0
 2016,Liechtenstein,Biochemistry,0
 2016,Liechtenstein,Environment,0
-2016,Liechtenstein,Physical sciencesTotal,0
+2016,Liechtenstein,Physical sciences,0
 2016,Liechtenstein,Mathematics and statistics,0
 2016,Liechtenstein,Information and Communication Technologies,0
 2016,Liechtenstein,Engineering manufacturing and construction,0
@@ -4392,7 +4392,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Norway,Biology,247
 2016,Norway,Biochemistry,84
 2016,Norway,Environment,111
-2016,Norway,Physical sciencesTotal,377
+2016,Norway,Physical sciences,377
 2016,Norway,Mathematics and statistics,160
 2016,Norway,Information and Communication Technologies,641
 2016,Norway,Engineering manufacturing and construction,1588
@@ -4424,7 +4424,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Switzerland,Biology,2800
 2016,Switzerland,Biochemistry,0
 2016,Switzerland,Environment,1101
-2016,Switzerland,Physical sciencesTotal,3665
+2016,Switzerland,Physical sciences,3665
 2016,Switzerland,Mathematics and statistics,966
 2016,Switzerland,Information and Communication Technologies,1694
 2016,Switzerland,Engineering manufacturing and construction,9072
@@ -4456,7 +4456,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,United Kingdom,Biology,4780
 2016,United Kingdom,Biochemistry,0
 2016,United Kingdom,Environment,0
-2016,United Kingdom,Physical sciencesTotal,15111
+2016,United Kingdom,Physical sciences,15111
 2016,United Kingdom,Mathematics and statistics,9399
 2016,United Kingdom,Information and Communication Technologies,18957
 2016,United Kingdom,Engineering manufacturing and construction,65417
@@ -4488,7 +4488,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,North Macedonia,Biology,22
 2016,North Macedonia,Biochemistry,1
 2016,North Macedonia,Environment,7
-2016,North Macedonia,Physical sciencesTotal,17
+2016,North Macedonia,Physical sciences,17
 2016,North Macedonia,Mathematics and statistics,70
 2016,North Macedonia,Information and Communication Technologies,246
 2016,North Macedonia,Engineering manufacturing and construction,323
@@ -4520,7 +4520,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Serbia,Biology,176
 2016,Serbia,Biochemistry,22
 2016,Serbia,Environment,112
-2016,Serbia,Physical sciencesTotal,328
+2016,Serbia,Physical sciences,328
 2016,Serbia,Mathematics and statistics,121
 2016,Serbia,Information and Communication Technologies,724
 2016,Serbia,Engineering manufacturing and construction,2452
@@ -4552,7 +4552,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Turkey,Biology,1254
 2016,Turkey,Biochemistry,561
 2016,Turkey,Environment,37
-2016,Turkey,Physical sciencesTotal,2270
+2016,Turkey,Physical sciences,2270
 2016,Turkey,Mathematics and statistics,1055
 2016,Turkey,Information and Communication Technologies,812
 2016,Turkey,Engineering manufacturing and construction,22066
@@ -4584,7 +4584,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2016,Bosnia and Herzegovina,Biology,0
 2016,Bosnia and Herzegovina,Biochemistry,0
 2016,Bosnia and Herzegovina,Environment,0
-2016,Bosnia and Herzegovina,Physical sciencesTotal,0
+2016,Bosnia and Herzegovina,Physical sciences,0
 2016,Bosnia and Herzegovina,Mathematics and statistics,0
 2016,Bosnia and Herzegovina,Information and Communication Technologies,0
 2016,Bosnia and Herzegovina,Engineering manufacturing and construction,0
@@ -4616,7 +4616,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Belgium,Biology,246
 2017,Belgium,Biochemistry,46
 2017,Belgium,Environment,159
-2017,Belgium,Physical sciencesTotal,432
+2017,Belgium,Physical sciences,432
 2017,Belgium,Mathematics and statistics,336
 2017,Belgium,Information and Communication Technologies,714
 2017,Belgium,Engineering manufacturing and construction,5007
@@ -4648,7 +4648,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Bulgaria,Biology,44
 2017,Bulgaria,Biochemistry,13
 2017,Bulgaria,Environment,26
-2017,Bulgaria,Physical sciencesTotal,63
+2017,Bulgaria,Physical sciences,63
 2017,Bulgaria,Mathematics and statistics,20
 2017,Bulgaria,Information and Communication Technologies,430
 2017,Bulgaria,Engineering manufacturing and construction,1096
@@ -4680,7 +4680,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Czechia,Biology,702
 2017,Czechia,Biochemistry,759
 2017,Czechia,Environment,122
-2017,Czechia,Physical sciencesTotal,957
+2017,Czechia,Physical sciences,957
 2017,Czechia,Mathematics and statistics,393
 2017,Czechia,Information and Communication Technologies,4616
 2017,Czechia,Engineering manufacturing and construction,6354
@@ -4712,7 +4712,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Denmark,Biology,120
 2017,Denmark,Biochemistry,295
 2017,Denmark,Environment,53
-2017,Denmark,Physical sciencesTotal,348
+2017,Denmark,Physical sciences,348
 2017,Denmark,Mathematics and statistics,87
 2017,Denmark,Information and Communication Technologies,2440
 2017,Denmark,Engineering manufacturing and construction,6841
@@ -4744,7 +4744,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Germany (until 1990 former territory of the FRG),Biology,0
 2017,Germany (until 1990 former territory of the FRG),Biochemistry,0
 2017,Germany (until 1990 former territory of the FRG),Environment,0
-2017,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,0
+2017,Germany (until 1990 former territory of the FRG),Physical sciences,0
 2017,Germany (until 1990 former territory of the FRG),Mathematics and statistics,0
 2017,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,22244
 2017,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,76738
@@ -4776,7 +4776,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Estonia,Biology,10
 2017,Estonia,Biochemistry,9
 2017,Estonia,Environment,90
-2017,Estonia,Physical sciencesTotal,76
+2017,Estonia,Physical sciences,76
 2017,Estonia,Mathematics and statistics,15
 2017,Estonia,Information and Communication Technologies,380
 2017,Estonia,Engineering manufacturing and construction,495
@@ -4808,7 +4808,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Ireland,Biology,165
 2017,Ireland,Biochemistry,96
 2017,Ireland,Environment,162
-2017,Ireland,Physical sciencesTotal,519
+2017,Ireland,Physical sciences,519
 2017,Ireland,Mathematics and statistics,287
 2017,Ireland,Information and Communication Technologies,1837
 2017,Ireland,Engineering manufacturing and construction,2198
@@ -4840,7 +4840,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Greece,Biology,517
 2017,Greece,Biochemistry,76
 2017,Greece,Environment,18
-2017,Greece,Physical sciencesTotal,1019
+2017,Greece,Physical sciences,1019
 2017,Greece,Mathematics and statistics,847
 2017,Greece,Information and Communication Technologies,835
 2017,Greece,Engineering manufacturing and construction,3984
@@ -4872,7 +4872,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Spain,Biology,271
 2017,Spain,Biochemistry,298
 2017,Spain,Environment,481
-2017,Spain,Physical sciencesTotal,1803
+2017,Spain,Physical sciences,1803
 2017,Spain,Mathematics and statistics,350
 2017,Spain,Information and Communication Technologies,1406
 2017,Spain,Engineering manufacturing and construction,7667
@@ -4904,7 +4904,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,France,Biology,0
 2017,France,Biochemistry,0
 2017,France,Environment,612
-2017,France,Physical sciencesTotal,12953
+2017,France,Physical sciences,12953
 2017,France,Mathematics and statistics,5956
 2017,France,Information and Communication Technologies,13812
 2017,France,Engineering manufacturing and construction,41774
@@ -4936,7 +4936,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Croatia,Biology,31
 2017,Croatia,Biochemistry,13
 2017,Croatia,Environment,21
-2017,Croatia,Physical sciencesTotal,150
+2017,Croatia,Physical sciences,150
 2017,Croatia,Mathematics and statistics,49
 2017,Croatia,Information and Communication Technologies,87
 2017,Croatia,Engineering manufacturing and construction,1049
@@ -4968,7 +4968,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Italy,Biology,0
 2017,Italy,Biochemistry,0
 2017,Italy,Environment,0
-2017,Italy,Physical sciencesTotal,0
+2017,Italy,Physical sciences,0
 2017,Italy,Mathematics and statistics,0
 2017,Italy,Information and Communication Technologies,2220
 2017,Italy,Engineering manufacturing and construction,19712
@@ -5000,7 +5000,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Cyprus,Biology,100
 2017,Cyprus,Biochemistry,2
 2017,Cyprus,Environment,53
-2017,Cyprus,Physical sciencesTotal,15
+2017,Cyprus,Physical sciences,15
 2017,Cyprus,Mathematics and statistics,19
 2017,Cyprus,Information and Communication Technologies,279
 2017,Cyprus,Engineering manufacturing and construction,460
@@ -5032,7 +5032,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Latvia,Biology,8
 2017,Latvia,Biochemistry,7
 2017,Latvia,Environment,6
-2017,Latvia,Physical sciencesTotal,11
+2017,Latvia,Physical sciences,11
 2017,Latvia,Mathematics and statistics,2
 2017,Latvia,Information and Communication Technologies,480
 2017,Latvia,Engineering manufacturing and construction,533
@@ -5064,7 +5064,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Lithuania,Biology,33
 2017,Lithuania,Biochemistry,3
 2017,Lithuania,Environment,1
-2017,Lithuania,Physical sciencesTotal,25
+2017,Lithuania,Physical sciences,25
 2017,Lithuania,Mathematics and statistics,9
 2017,Lithuania,Information and Communication Technologies,192
 2017,Lithuania,Engineering manufacturing and construction,875
@@ -5096,7 +5096,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Luxembourg,Biology,91
 2017,Luxembourg,Biochemistry,0
 2017,Luxembourg,Environment,18
-2017,Luxembourg,Physical sciencesTotal,97
+2017,Luxembourg,Physical sciences,97
 2017,Luxembourg,Mathematics and statistics,48
 2017,Luxembourg,Information and Communication Technologies,226
 2017,Luxembourg,Engineering manufacturing and construction,234
@@ -5128,7 +5128,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Hungary,Biology,238
 2017,Hungary,Biochemistry,0
 2017,Hungary,Environment,73
-2017,Hungary,Physical sciencesTotal,313
+2017,Hungary,Physical sciences,313
 2017,Hungary,Mathematics and statistics,64
 2017,Hungary,Information and Communication Technologies,1002
 2017,Hungary,Engineering manufacturing and construction,2258
@@ -5160,7 +5160,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Malta,Biology,4
 2017,Malta,Biochemistry,0
 2017,Malta,Environment,4
-2017,Malta,Physical sciencesTotal,16
+2017,Malta,Physical sciences,16
 2017,Malta,Mathematics and statistics,2
 2017,Malta,Information and Communication Technologies,62
 2017,Malta,Engineering manufacturing and construction,79
@@ -5192,7 +5192,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Netherlands,Biology,0
 2017,Netherlands,Biochemistry,0
 2017,Netherlands,Environment,0
-2017,Netherlands,Physical sciencesTotal,0
+2017,Netherlands,Physical sciences,0
 2017,Netherlands,Mathematics and statistics,0
 2017,Netherlands,Information and Communication Technologies,2465
 2017,Netherlands,Engineering manufacturing and construction,10291
@@ -5224,7 +5224,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Austria,Biology,2173
 2017,Austria,Biochemistry,590
 2017,Austria,Environment,623
-2017,Austria,Physical sciencesTotal,3038
+2017,Austria,Physical sciences,3038
 2017,Austria,Mathematics and statistics,745
 2017,Austria,Information and Communication Technologies,3652
 2017,Austria,Engineering manufacturing and construction,11803
@@ -5256,7 +5256,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Poland,Biology,171
 2017,Poland,Biochemistry,109
 2017,Poland,Environment,133
-2017,Poland,Physical sciencesTotal,513
+2017,Poland,Physical sciences,513
 2017,Poland,Mathematics and statistics,163
 2017,Poland,Information and Communication Technologies,4273
 2017,Poland,Engineering manufacturing and construction,4656
@@ -5288,7 +5288,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Portugal,Biology,423
 2017,Portugal,Biochemistry,108
 2017,Portugal,Environment,105
-2017,Portugal,Physical sciencesTotal,525
+2017,Portugal,Physical sciences,525
 2017,Portugal,Mathematics and statistics,214
 2017,Portugal,Information and Communication Technologies,522
 2017,Portugal,Engineering manufacturing and construction,4582
@@ -5320,7 +5320,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Romania,Biology,104
 2017,Romania,Biochemistry,10
 2017,Romania,Environment,87
-2017,Romania,Physical sciencesTotal,239
+2017,Romania,Physical sciences,239
 2017,Romania,Mathematics and statistics,51
 2017,Romania,Information and Communication Technologies,774
 2017,Romania,Engineering manufacturing and construction,3254
@@ -5352,7 +5352,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Slovenia,Biology,0
 2017,Slovenia,Biochemistry,0
 2017,Slovenia,Environment,0
-2017,Slovenia,Physical sciencesTotal,0
+2017,Slovenia,Physical sciences,0
 2017,Slovenia,Mathematics and statistics,0
 2017,Slovenia,Information and Communication Technologies,188
 2017,Slovenia,Engineering manufacturing and construction,672
@@ -5384,7 +5384,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Slovakia,Biology,48
 2017,Slovakia,Biochemistry,41
 2017,Slovakia,Environment,43
-2017,Slovakia,Physical sciencesTotal,75
+2017,Slovakia,Physical sciences,75
 2017,Slovakia,Mathematics and statistics,10
 2017,Slovakia,Information and Communication Technologies,191
 2017,Slovakia,Engineering manufacturing and construction,677
@@ -5416,7 +5416,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Finland,Biology,327
 2017,Finland,Biochemistry,318
 2017,Finland,Environment,149
-2017,Finland,Physical sciencesTotal,558
+2017,Finland,Physical sciences,558
 2017,Finland,Mathematics and statistics,90
 2017,Finland,Information and Communication Technologies,4128
 2017,Finland,Engineering manufacturing and construction,4718
@@ -5448,7 +5448,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Sweden,Biology,0
 2017,Sweden,Biochemistry,0
 2017,Sweden,Environment,421
-2017,Sweden,Physical sciencesTotal,1795
+2017,Sweden,Physical sciences,1795
 2017,Sweden,Mathematics and statistics,405
 2017,Sweden,Information and Communication Technologies,1926
 2017,Sweden,Engineering manufacturing and construction,7244
@@ -5480,7 +5480,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Iceland,Biology,27
 2017,Iceland,Biochemistry,2
 2017,Iceland,Environment,66
-2017,Iceland,Physical sciencesTotal,110
+2017,Iceland,Physical sciences,110
 2017,Iceland,Mathematics and statistics,8
 2017,Iceland,Information and Communication Technologies,16
 2017,Iceland,Engineering manufacturing and construction,76
@@ -5512,7 +5512,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Liechtenstein,Biology,0
 2017,Liechtenstein,Biochemistry,0
 2017,Liechtenstein,Environment,0
-2017,Liechtenstein,Physical sciencesTotal,0
+2017,Liechtenstein,Physical sciences,0
 2017,Liechtenstein,Mathematics and statistics,0
 2017,Liechtenstein,Information and Communication Technologies,0
 2017,Liechtenstein,Engineering manufacturing and construction,183
@@ -5544,7 +5544,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Norway,Biology,225
 2017,Norway,Biochemistry,71
 2017,Norway,Environment,85
-2017,Norway,Physical sciencesTotal,298
+2017,Norway,Physical sciences,298
 2017,Norway,Mathematics and statistics,133
 2017,Norway,Information and Communication Technologies,494
 2017,Norway,Engineering manufacturing and construction,1198
@@ -5576,7 +5576,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Switzerland,Biology,2896
 2017,Switzerland,Biochemistry,0
 2017,Switzerland,Environment,1159
-2017,Switzerland,Physical sciencesTotal,3819
+2017,Switzerland,Physical sciences,3819
 2017,Switzerland,Mathematics and statistics,1035
 2017,Switzerland,Information and Communication Technologies,1826
 2017,Switzerland,Engineering manufacturing and construction,9252
@@ -5608,7 +5608,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,United Kingdom,Biology,4867
 2017,United Kingdom,Biochemistry,0
 2017,United Kingdom,Environment,0
-2017,United Kingdom,Physical sciencesTotal,15393
+2017,United Kingdom,Physical sciences,15393
 2017,United Kingdom,Mathematics and statistics,9695
 2017,United Kingdom,Information and Communication Technologies,19649
 2017,United Kingdom,Engineering manufacturing and construction,65015
@@ -5640,7 +5640,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,North Macedonia,Biology,33
 2017,North Macedonia,Biochemistry,1
 2017,North Macedonia,Environment,7
-2017,North Macedonia,Physical sciencesTotal,21
+2017,North Macedonia,Physical sciences,21
 2017,North Macedonia,Mathematics and statistics,88
 2017,North Macedonia,Information and Communication Technologies,242
 2017,North Macedonia,Engineering manufacturing and construction,351
@@ -5672,7 +5672,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Serbia,Biology,216
 2017,Serbia,Biochemistry,20
 2017,Serbia,Environment,110
-2017,Serbia,Physical sciencesTotal,415
+2017,Serbia,Physical sciences,415
 2017,Serbia,Mathematics and statistics,107
 2017,Serbia,Information and Communication Technologies,802
 2017,Serbia,Engineering manufacturing and construction,2461
@@ -5704,7 +5704,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Turkey,Biology,1501
 2017,Turkey,Biochemistry,673
 2017,Turkey,Environment,43
-2017,Turkey,Physical sciencesTotal,2616
+2017,Turkey,Physical sciences,2616
 2017,Turkey,Mathematics and statistics,1157
 2017,Turkey,Information and Communication Technologies,872
 2017,Turkey,Engineering manufacturing and construction,27210
@@ -5736,7 +5736,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2017,Bosnia and Herzegovina,Biology,0
 2017,Bosnia and Herzegovina,Biochemistry,0
 2017,Bosnia and Herzegovina,Environment,0
-2017,Bosnia and Herzegovina,Physical sciencesTotal,0
+2017,Bosnia and Herzegovina,Physical sciences,0
 2017,Bosnia and Herzegovina,Mathematics and statistics,0
 2017,Bosnia and Herzegovina,Information and Communication Technologies,0
 2017,Bosnia and Herzegovina,Engineering manufacturing and construction,0
@@ -5768,7 +5768,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Belgium,Biology,601
 2018,Belgium,Biochemistry,108
 2018,Belgium,Environment,247
-2018,Belgium,Physical sciencesTotal,638
+2018,Belgium,Physical sciences,638
 2018,Belgium,Mathematics and statistics,529
 2018,Belgium,Information and Communication Technologies,928
 2018,Belgium,Engineering manufacturing and construction,5110
@@ -5800,7 +5800,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Bulgaria,Biology,43
 2018,Bulgaria,Biochemistry,14
 2018,Bulgaria,Environment,24
-2018,Bulgaria,Physical sciencesTotal,56
+2018,Bulgaria,Physical sciences,56
 2018,Bulgaria,Mathematics and statistics,22
 2018,Bulgaria,Information and Communication Technologies,461
 2018,Bulgaria,Engineering manufacturing and construction,1084
@@ -5832,7 +5832,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Czechia,Biology,736
 2018,Czechia,Biochemistry,788
 2018,Czechia,Environment,131
-2018,Czechia,Physical sciencesTotal,1039
+2018,Czechia,Physical sciences,1039
 2018,Czechia,Mathematics and statistics,372
 2018,Czechia,Information and Communication Technologies,4740
 2018,Czechia,Engineering manufacturing and construction,6302
@@ -5864,7 +5864,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Denmark,Biology,123
 2018,Denmark,Biochemistry,333
 2018,Denmark,Environment,58
-2018,Denmark,Physical sciencesTotal,426
+2018,Denmark,Physical sciences,426
 2018,Denmark,Mathematics and statistics,103
 2018,Denmark,Information and Communication Technologies,2486
 2018,Denmark,Engineering manufacturing and construction,6982
@@ -5896,7 +5896,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Germany (until 1990 former territory of the FRG),Biology,0
 2018,Germany (until 1990 former territory of the FRG),Biochemistry,0
 2018,Germany (until 1990 former territory of the FRG),Environment,0
-2018,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,0
+2018,Germany (until 1990 former territory of the FRG),Physical sciences,0
 2018,Germany (until 1990 former territory of the FRG),Mathematics and statistics,0
 2018,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,27533
 2018,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,88675
@@ -5928,7 +5928,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Estonia,Biology,13
 2018,Estonia,Biochemistry,10
 2018,Estonia,Environment,104
-2018,Estonia,Physical sciencesTotal,136
+2018,Estonia,Physical sciences,136
 2018,Estonia,Mathematics and statistics,13
 2018,Estonia,Information and Communication Technologies,435
 2018,Estonia,Engineering manufacturing and construction,498
@@ -5960,7 +5960,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Ireland,Biology,97
 2018,Ireland,Biochemistry,107
 2018,Ireland,Environment,190
-2018,Ireland,Physical sciencesTotal,615
+2018,Ireland,Physical sciences,615
 2018,Ireland,Mathematics and statistics,360
 2018,Ireland,Information and Communication Technologies,2293
 2018,Ireland,Engineering manufacturing and construction,2515
@@ -5992,7 +5992,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Greece,Biology,639
 2018,Greece,Biochemistry,130
 2018,Greece,Environment,32
-2018,Greece,Physical sciencesTotal,1120
+2018,Greece,Physical sciences,1120
 2018,Greece,Mathematics and statistics,961
 2018,Greece,Information and Communication Technologies,865
 2018,Greece,Engineering manufacturing and construction,4374
@@ -6024,7 +6024,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Spain,Biology,306
 2018,Spain,Biochemistry,306
 2018,Spain,Environment,576
-2018,Spain,Physical sciencesTotal,1880
+2018,Spain,Physical sciences,1880
 2018,Spain,Mathematics and statistics,369
 2018,Spain,Information and Communication Technologies,1705
 2018,Spain,Engineering manufacturing and construction,8961
@@ -6056,7 +6056,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,France,Biology,744
 2018,France,Biochemistry,14
 2018,France,Environment,475
-2018,France,Physical sciencesTotal,11987
+2018,France,Physical sciences,11987
 2018,France,Mathematics and statistics,6371
 2018,France,Information and Communication Technologies,14177
 2018,France,Engineering manufacturing and construction,36387
@@ -6088,7 +6088,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Croatia,Biology,38
 2018,Croatia,Biochemistry,15
 2018,Croatia,Environment,31
-2018,Croatia,Physical sciencesTotal,146
+2018,Croatia,Physical sciences,146
 2018,Croatia,Mathematics and statistics,42
 2018,Croatia,Information and Communication Technologies,119
 2018,Croatia,Engineering manufacturing and construction,1139
@@ -6120,7 +6120,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Italy,Biology,0
 2018,Italy,Biochemistry,0
 2018,Italy,Environment,0
-2018,Italy,Physical sciencesTotal,0
+2018,Italy,Physical sciences,0
 2018,Italy,Mathematics and statistics,0
 2018,Italy,Information and Communication Technologies,2506
 2018,Italy,Engineering manufacturing and construction,22214
@@ -6152,7 +6152,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Cyprus,Biology,108
 2018,Cyprus,Biochemistry,1
 2018,Cyprus,Environment,7
-2018,Cyprus,Physical sciencesTotal,16
+2018,Cyprus,Physical sciences,16
 2018,Cyprus,Mathematics and statistics,22
 2018,Cyprus,Information and Communication Technologies,298
 2018,Cyprus,Engineering manufacturing and construction,434
@@ -6184,7 +6184,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Latvia,Biology,6
 2018,Latvia,Biochemistry,6
 2018,Latvia,Environment,12
-2018,Latvia,Physical sciencesTotal,21
+2018,Latvia,Physical sciences,21
 2018,Latvia,Mathematics and statistics,2
 2018,Latvia,Information and Communication Technologies,601
 2018,Latvia,Engineering manufacturing and construction,840
@@ -6216,7 +6216,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Lithuania,Biology,43
 2018,Lithuania,Biochemistry,2
 2018,Lithuania,Environment,22
-2018,Lithuania,Physical sciencesTotal,28
+2018,Lithuania,Physical sciences,28
 2018,Lithuania,Mathematics and statistics,9
 2018,Lithuania,Information and Communication Technologies,215
 2018,Lithuania,Engineering manufacturing and construction,969
@@ -6248,7 +6248,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Luxembourg,Biology,108
 2018,Luxembourg,Biochemistry,0
 2018,Luxembourg,Environment,21
-2018,Luxembourg,Physical sciencesTotal,124
+2018,Luxembourg,Physical sciences,124
 2018,Luxembourg,Mathematics and statistics,39
 2018,Luxembourg,Information and Communication Technologies,276
 2018,Luxembourg,Engineering manufacturing and construction,254
@@ -6280,7 +6280,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Hungary,Biology,333
 2018,Hungary,Biochemistry,0
 2018,Hungary,Environment,116
-2018,Hungary,Physical sciencesTotal,414
+2018,Hungary,Physical sciences,414
 2018,Hungary,Mathematics and statistics,91
 2018,Hungary,Information and Communication Technologies,1429
 2018,Hungary,Engineering manufacturing and construction,2828
@@ -6312,7 +6312,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Malta,Biology,9
 2018,Malta,Biochemistry,0
 2018,Malta,Environment,2
-2018,Malta,Physical sciencesTotal,16
+2018,Malta,Physical sciences,16
 2018,Malta,Mathematics and statistics,1
 2018,Malta,Information and Communication Technologies,92
 2018,Malta,Engineering manufacturing and construction,58
@@ -6344,7 +6344,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Netherlands,Biology,604
 2018,Netherlands,Biochemistry,1777
 2018,Netherlands,Environment,916
-2018,Netherlands,Physical sciencesTotal,1593
+2018,Netherlands,Physical sciences,1593
 2018,Netherlands,Mathematics and statistics,610
 2018,Netherlands,Information and Communication Technologies,3076
 2018,Netherlands,Engineering manufacturing and construction,11594
@@ -6376,7 +6376,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Austria,Biology,2261
 2018,Austria,Biochemistry,577
 2018,Austria,Environment,652
-2018,Austria,Physical sciencesTotal,3130
+2018,Austria,Physical sciences,3130
 2018,Austria,Mathematics and statistics,829
 2018,Austria,Information and Communication Technologies,3729
 2018,Austria,Engineering manufacturing and construction,12154
@@ -6408,7 +6408,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Poland,Biology,183
 2018,Poland,Biochemistry,173
 2018,Poland,Environment,138
-2018,Poland,Physical sciencesTotal,540
+2018,Poland,Physical sciences,540
 2018,Poland,Mathematics and statistics,130
 2018,Poland,Information and Communication Technologies,4214
 2018,Poland,Engineering manufacturing and construction,4584
@@ -6440,7 +6440,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Portugal,Biology,568
 2018,Portugal,Biochemistry,133
 2018,Portugal,Environment,144
-2018,Portugal,Physical sciencesTotal,601
+2018,Portugal,Physical sciences,601
 2018,Portugal,Mathematics and statistics,241
 2018,Portugal,Information and Communication Technologies,628
 2018,Portugal,Engineering manufacturing and construction,5733
@@ -6472,7 +6472,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Romania,Biology,82
 2018,Romania,Biochemistry,11
 2018,Romania,Environment,77
-2018,Romania,Physical sciencesTotal,220
+2018,Romania,Physical sciences,220
 2018,Romania,Mathematics and statistics,53
 2018,Romania,Information and Communication Technologies,893
 2018,Romania,Engineering manufacturing and construction,3310
@@ -6504,7 +6504,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Slovenia,Biology,0
 2018,Slovenia,Biochemistry,0
 2018,Slovenia,Environment,0
-2018,Slovenia,Physical sciencesTotal,0
+2018,Slovenia,Physical sciences,0
 2018,Slovenia,Mathematics and statistics,0
 2018,Slovenia,Information and Communication Technologies,261
 2018,Slovenia,Engineering manufacturing and construction,719
@@ -6536,7 +6536,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Slovakia,Biology,63
 2018,Slovakia,Biochemistry,34
 2018,Slovakia,Environment,61
-2018,Slovakia,Physical sciencesTotal,92
+2018,Slovakia,Physical sciences,92
 2018,Slovakia,Mathematics and statistics,19
 2018,Slovakia,Information and Communication Technologies,263
 2018,Slovakia,Engineering manufacturing and construction,888
@@ -6568,7 +6568,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Finland,Biology,303
 2018,Finland,Biochemistry,307
 2018,Finland,Environment,117
-2018,Finland,Physical sciencesTotal,537
+2018,Finland,Physical sciences,537
 2018,Finland,Mathematics and statistics,86
 2018,Finland,Information and Communication Technologies,3959
 2018,Finland,Engineering manufacturing and construction,4643
@@ -6600,7 +6600,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Sweden,Biology,0
 2018,Sweden,Biochemistry,0
 2018,Sweden,Environment,387
-2018,Sweden,Physical sciencesTotal,1855
+2018,Sweden,Physical sciences,1855
 2018,Sweden,Mathematics and statistics,428
 2018,Sweden,Information and Communication Technologies,2050
 2018,Sweden,Engineering manufacturing and construction,7966
@@ -6632,7 +6632,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Iceland,Biology,39
 2018,Iceland,Biochemistry,5
 2018,Iceland,Environment,89
-2018,Iceland,Physical sciencesTotal,113
+2018,Iceland,Physical sciences,113
 2018,Iceland,Mathematics and statistics,12
 2018,Iceland,Information and Communication Technologies,34
 2018,Iceland,Engineering manufacturing and construction,120
@@ -6664,7 +6664,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Liechtenstein,Biology,0
 2018,Liechtenstein,Biochemistry,0
 2018,Liechtenstein,Environment,0
-2018,Liechtenstein,Physical sciencesTotal,0
+2018,Liechtenstein,Physical sciences,0
 2018,Liechtenstein,Mathematics and statistics,0
 2018,Liechtenstein,Information and Communication Technologies,0
 2018,Liechtenstein,Engineering manufacturing and construction,185
@@ -6696,7 +6696,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Norway,Biology,436
 2018,Norway,Biochemistry,86
 2018,Norway,Environment,137
-2018,Norway,Physical sciencesTotal,353
+2018,Norway,Physical sciences,353
 2018,Norway,Mathematics and statistics,161
 2018,Norway,Information and Communication Technologies,594
 2018,Norway,Engineering manufacturing and construction,1504
@@ -6728,7 +6728,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Switzerland,Biology,2860
 2018,Switzerland,Biochemistry,0
 2018,Switzerland,Environment,1363
-2018,Switzerland,Physical sciencesTotal,3990
+2018,Switzerland,Physical sciences,3990
 2018,Switzerland,Mathematics and statistics,1085
 2018,Switzerland,Information and Communication Technologies,1990
 2018,Switzerland,Engineering manufacturing and construction,9620
@@ -6760,7 +6760,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,United Kingdom,Biology,5124
 2018,United Kingdom,Biochemistry,0
 2018,United Kingdom,Environment,0
-2018,United Kingdom,Physical sciencesTotal,16103
+2018,United Kingdom,Physical sciences,16103
 2018,United Kingdom,Mathematics and statistics,9945
 2018,United Kingdom,Information and Communication Technologies,21993
 2018,United Kingdom,Engineering manufacturing and construction,65477
@@ -6792,7 +6792,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,North Macedonia,Biology,65
 2018,North Macedonia,Biochemistry,1
 2018,North Macedonia,Environment,1
-2018,North Macedonia,Physical sciencesTotal,33
+2018,North Macedonia,Physical sciences,33
 2018,North Macedonia,Mathematics and statistics,105
 2018,North Macedonia,Information and Communication Technologies,282
 2018,North Macedonia,Engineering manufacturing and construction,365
@@ -6824,7 +6824,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Serbia,Biology,189
 2018,Serbia,Biochemistry,0
 2018,Serbia,Environment,39
-2018,Serbia,Physical sciencesTotal,346
+2018,Serbia,Physical sciences,346
 2018,Serbia,Mathematics and statistics,103
 2018,Serbia,Information and Communication Technologies,796
 2018,Serbia,Engineering manufacturing and construction,2465
@@ -6856,7 +6856,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Turkey,Biology,1728
 2018,Turkey,Biochemistry,727
 2018,Turkey,Environment,44
-2018,Turkey,Physical sciencesTotal,2871
+2018,Turkey,Physical sciences,2871
 2018,Turkey,Mathematics and statistics,1280
 2018,Turkey,Information and Communication Technologies,1186
 2018,Turkey,Engineering manufacturing and construction,31579
@@ -6888,7 +6888,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2018,Bosnia and Herzegovina,Biology,0
 2018,Bosnia and Herzegovina,Biochemistry,0
 2018,Bosnia and Herzegovina,Environment,0
-2018,Bosnia and Herzegovina,Physical sciencesTotal,0
+2018,Bosnia and Herzegovina,Physical sciences,0
 2018,Bosnia and Herzegovina,Mathematics and statistics,0
 2018,Bosnia and Herzegovina,Information and Communication Technologies,0
 2018,Bosnia and Herzegovina,Engineering manufacturing and construction,0
@@ -6920,7 +6920,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Belgium,Biology,349
 2019,Belgium,Biochemistry,79
 2019,Belgium,Environment,245
-2019,Belgium,Physical sciencesTotal,542
+2019,Belgium,Physical sciences,542
 2019,Belgium,Mathematics and statistics,387
 2019,Belgium,Information and Communication Technologies,1059
 2019,Belgium,Engineering manufacturing and construction,4501
@@ -6952,7 +6952,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Bulgaria,Biology,49
 2019,Bulgaria,Biochemistry,19
 2019,Bulgaria,Environment,24
-2019,Bulgaria,Physical sciencesTotal,61
+2019,Bulgaria,Physical sciences,61
 2019,Bulgaria,Mathematics and statistics,15
 2019,Bulgaria,Information and Communication Technologies,505
 2019,Bulgaria,Engineering manufacturing and construction,1104
@@ -6984,7 +6984,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Czechia,Biology,806
 2019,Czechia,Biochemistry,821
 2019,Czechia,Environment,166
-2019,Czechia,Physical sciencesTotal,1129
+2019,Czechia,Physical sciences,1129
 2019,Czechia,Mathematics and statistics,403
 2019,Czechia,Information and Communication Technologies,5096
 2019,Czechia,Engineering manufacturing and construction,6324
@@ -7016,7 +7016,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Denmark,Biology,119
 2019,Denmark,Biochemistry,354
 2019,Denmark,Environment,63
-2019,Denmark,Physical sciencesTotal,474
+2019,Denmark,Physical sciences,474
 2019,Denmark,Mathematics and statistics,115
 2019,Denmark,Information and Communication Technologies,2527
 2019,Denmark,Engineering manufacturing and construction,6762
@@ -7048,7 +7048,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Germany (until 1990 former territory of the FRG),Biology,0
 2019,Germany (until 1990 former territory of the FRG),Biochemistry,0
 2019,Germany (until 1990 former territory of the FRG),Environment,0
-2019,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,0
+2019,Germany (until 1990 former territory of the FRG),Physical sciences,0
 2019,Germany (until 1990 former territory of the FRG),Mathematics and statistics,0
 2019,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,31603
 2019,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,97361
@@ -7080,7 +7080,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Estonia,Biology,16
 2019,Estonia,Biochemistry,16
 2019,Estonia,Environment,61
-2019,Estonia,Physical sciencesTotal,199
+2019,Estonia,Physical sciences,199
 2019,Estonia,Mathematics and statistics,20
 2019,Estonia,Information and Communication Technologies,561
 2019,Estonia,Engineering manufacturing and construction,533
@@ -7112,7 +7112,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Ireland,Biology,104
 2019,Ireland,Biochemistry,165
 2019,Ireland,Environment,217
-2019,Ireland,Physical sciencesTotal,557
+2019,Ireland,Physical sciences,557
 2019,Ireland,Mathematics and statistics,473
 2019,Ireland,Information and Communication Technologies,2806
 2019,Ireland,Engineering manufacturing and construction,2831
@@ -7144,7 +7144,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Greece,Biology,648
 2019,Greece,Biochemistry,105
 2019,Greece,Environment,15
-2019,Greece,Physical sciencesTotal,1027
+2019,Greece,Physical sciences,1027
 2019,Greece,Mathematics and statistics,693
 2019,Greece,Information and Communication Technologies,999
 2019,Greece,Engineering manufacturing and construction,3487
@@ -7176,7 +7176,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Spain,Biology,352
 2019,Spain,Biochemistry,343
 2019,Spain,Environment,606
-2019,Spain,Physical sciencesTotal,1901
+2019,Spain,Physical sciences,1901
 2019,Spain,Mathematics and statistics,364
 2019,Spain,Information and Communication Technologies,1985
 2019,Spain,Engineering manufacturing and construction,9377
@@ -7208,7 +7208,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,France,Biology,2
 2019,France,Biochemistry,0
 2019,France,Environment,443
-2019,France,Physical sciencesTotal,12485
+2019,France,Physical sciences,12485
 2019,France,Mathematics and statistics,6914
 2019,France,Information and Communication Technologies,14467
 2019,France,Engineering manufacturing and construction,38250
@@ -7240,7 +7240,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Croatia,Biology,42
 2019,Croatia,Biochemistry,18
 2019,Croatia,Environment,12
-2019,Croatia,Physical sciencesTotal,147
+2019,Croatia,Physical sciences,147
 2019,Croatia,Mathematics and statistics,31
 2019,Croatia,Information and Communication Technologies,170
 2019,Croatia,Engineering manufacturing and construction,1209
@@ -7272,7 +7272,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Italy,Biology,646
 2019,Italy,Biochemistry,365
 2019,Italy,Environment,169
-2019,Italy,Physical sciencesTotal,1287
+2019,Italy,Physical sciences,1287
 2019,Italy,Mathematics and statistics,516
 2019,Italy,Information and Communication Technologies,746
 2019,Italy,Engineering manufacturing and construction,11898
@@ -7304,7 +7304,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Cyprus,Biology,125
 2019,Cyprus,Biochemistry,4
 2019,Cyprus,Environment,15
-2019,Cyprus,Physical sciencesTotal,22
+2019,Cyprus,Physical sciences,22
 2019,Cyprus,Mathematics and statistics,27
 2019,Cyprus,Information and Communication Technologies,352
 2019,Cyprus,Engineering manufacturing and construction,495
@@ -7336,7 +7336,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Latvia,Biology,7
 2019,Latvia,Biochemistry,10
 2019,Latvia,Environment,24
-2019,Latvia,Physical sciencesTotal,12
+2019,Latvia,Physical sciences,12
 2019,Latvia,Mathematics and statistics,3
 2019,Latvia,Information and Communication Technologies,734
 2019,Latvia,Engineering manufacturing and construction,920
@@ -7368,7 +7368,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Lithuania,Biology,41
 2019,Lithuania,Biochemistry,4
 2019,Lithuania,Environment,8
-2019,Lithuania,Physical sciencesTotal,37
+2019,Lithuania,Physical sciences,37
 2019,Lithuania,Mathematics and statistics,7
 2019,Lithuania,Information and Communication Technologies,236
 2019,Lithuania,Engineering manufacturing and construction,1075
@@ -7400,7 +7400,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Luxembourg,Biology,139
 2019,Luxembourg,Biochemistry,0
 2019,Luxembourg,Environment,24
-2019,Luxembourg,Physical sciencesTotal,141
+2019,Luxembourg,Physical sciences,141
 2019,Luxembourg,Mathematics and statistics,40
 2019,Luxembourg,Information and Communication Technologies,319
 2019,Luxembourg,Engineering manufacturing and construction,292
@@ -7432,7 +7432,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Hungary,Biology,341
 2019,Hungary,Biochemistry,17
 2019,Hungary,Environment,137
-2019,Hungary,Physical sciencesTotal,509
+2019,Hungary,Physical sciences,509
 2019,Hungary,Mathematics and statistics,146
 2019,Hungary,Information and Communication Technologies,1715
 2019,Hungary,Engineering manufacturing and construction,3435
@@ -7464,7 +7464,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Malta,Biology,16
 2019,Malta,Biochemistry,13
 2019,Malta,Environment,3
-2019,Malta,Physical sciencesTotal,21
+2019,Malta,Physical sciences,21
 2019,Malta,Mathematics and statistics,2
 2019,Malta,Information and Communication Technologies,140
 2019,Malta,Engineering manufacturing and construction,82
@@ -7496,7 +7496,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Netherlands,Biology,0
 2019,Netherlands,Biochemistry,0
 2019,Netherlands,Environment,0
-2019,Netherlands,Physical sciencesTotal,0
+2019,Netherlands,Physical sciences,0
 2019,Netherlands,Mathematics and statistics,0
 2019,Netherlands,Information and Communication Technologies,0
 2019,Netherlands,Engineering manufacturing and construction,0
@@ -7528,7 +7528,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Austria,Biology,2245
 2019,Austria,Biochemistry,564
 2019,Austria,Environment,670
-2019,Austria,Physical sciencesTotal,3097
+2019,Austria,Physical sciences,3097
 2019,Austria,Mathematics and statistics,815
 2019,Austria,Information and Communication Technologies,3688
 2019,Austria,Engineering manufacturing and construction,12043
@@ -7560,7 +7560,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Poland,Biology,191
 2019,Poland,Biochemistry,212
 2019,Poland,Environment,173
-2019,Poland,Physical sciencesTotal,528
+2019,Poland,Physical sciences,528
 2019,Poland,Mathematics and statistics,147
 2019,Poland,Information and Communication Technologies,3877
 2019,Poland,Engineering manufacturing and construction,4965
@@ -7592,7 +7592,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Portugal,Biology,620
 2019,Portugal,Biochemistry,166
 2019,Portugal,Environment,167
-2019,Portugal,Physical sciencesTotal,630
+2019,Portugal,Physical sciences,630
 2019,Portugal,Mathematics and statistics,208
 2019,Portugal,Information and Communication Technologies,775
 2019,Portugal,Engineering manufacturing and construction,7410
@@ -7624,7 +7624,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Romania,Biology,78
 2019,Romania,Biochemistry,11
 2019,Romania,Environment,81
-2019,Romania,Physical sciencesTotal,249
+2019,Romania,Physical sciences,249
 2019,Romania,Mathematics and statistics,40
 2019,Romania,Information and Communication Technologies,992
 2019,Romania,Engineering manufacturing and construction,3712
@@ -7656,7 +7656,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Slovenia,Biology,0
 2019,Slovenia,Biochemistry,0
 2019,Slovenia,Environment,0
-2019,Slovenia,Physical sciencesTotal,0
+2019,Slovenia,Physical sciences,0
 2019,Slovenia,Mathematics and statistics,0
 2019,Slovenia,Information and Communication Technologies,366
 2019,Slovenia,Engineering manufacturing and construction,964
@@ -7688,7 +7688,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Slovakia,Biology,80
 2019,Slovakia,Biochemistry,31
 2019,Slovakia,Environment,41
-2019,Slovakia,Physical sciencesTotal,134
+2019,Slovakia,Physical sciences,134
 2019,Slovakia,Mathematics and statistics,26
 2019,Slovakia,Information and Communication Technologies,406
 2019,Slovakia,Engineering manufacturing and construction,1249
@@ -7720,7 +7720,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Finland,Biology,274
 2019,Finland,Biochemistry,319
 2019,Finland,Environment,128
-2019,Finland,Physical sciencesTotal,532
+2019,Finland,Physical sciences,532
 2019,Finland,Mathematics and statistics,86
 2019,Finland,Information and Communication Technologies,4291
 2019,Finland,Engineering manufacturing and construction,4613
@@ -7752,7 +7752,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Sweden,Biology,0
 2019,Sweden,Biochemistry,0
 2019,Sweden,Environment,427
-2019,Sweden,Physical sciencesTotal,1923
+2019,Sweden,Physical sciences,1923
 2019,Sweden,Mathematics and statistics,467
 2019,Sweden,Information and Communication Technologies,2013
 2019,Sweden,Engineering manufacturing and construction,7905
@@ -7784,7 +7784,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Iceland,Biology,34
 2019,Iceland,Biochemistry,7
 2019,Iceland,Environment,85
-2019,Iceland,Physical sciencesTotal,111
+2019,Iceland,Physical sciences,111
 2019,Iceland,Mathematics and statistics,12
 2019,Iceland,Information and Communication Technologies,33
 2019,Iceland,Engineering manufacturing and construction,122
@@ -7816,7 +7816,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Liechtenstein,Biology,0
 2019,Liechtenstein,Biochemistry,0
 2019,Liechtenstein,Environment,0
-2019,Liechtenstein,Physical sciencesTotal,0
+2019,Liechtenstein,Physical sciences,0
 2019,Liechtenstein,Mathematics and statistics,0
 2019,Liechtenstein,Information and Communication Technologies,0
 2019,Liechtenstein,Engineering manufacturing and construction,189
@@ -7848,7 +7848,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Norway,Biology,463
 2019,Norway,Biochemistry,76
 2019,Norway,Environment,125
-2019,Norway,Physical sciencesTotal,331
+2019,Norway,Physical sciences,331
 2019,Norway,Mathematics and statistics,105
 2019,Norway,Information and Communication Technologies,632
 2019,Norway,Engineering manufacturing and construction,1495
@@ -7880,7 +7880,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Switzerland,Biology,2746
 2019,Switzerland,Biochemistry,0
 2019,Switzerland,Environment,1412
-2019,Switzerland,Physical sciencesTotal,4199
+2019,Switzerland,Physical sciences,4199
 2019,Switzerland,Mathematics and statistics,1167
 2019,Switzerland,Information and Communication Technologies,2264
 2019,Switzerland,Engineering manufacturing and construction,9881
@@ -7912,7 +7912,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,United Kingdom,Biology,5534
 2019,United Kingdom,Biochemistry,0
 2019,United Kingdom,Environment,0
-2019,United Kingdom,Physical sciencesTotal,17037
+2019,United Kingdom,Physical sciences,17037
 2019,United Kingdom,Mathematics and statistics,11007
 2019,United Kingdom,Information and Communication Technologies,26091
 2019,United Kingdom,Engineering manufacturing and construction,67660
@@ -7944,7 +7944,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,North Macedonia,Biology,70
 2019,North Macedonia,Biochemistry,0
 2019,North Macedonia,Environment,1
-2019,North Macedonia,Physical sciencesTotal,22
+2019,North Macedonia,Physical sciences,22
 2019,North Macedonia,Mathematics and statistics,27
 2019,North Macedonia,Information and Communication Technologies,166
 2019,North Macedonia,Engineering manufacturing and construction,339
@@ -7976,7 +7976,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Serbia,Biology,208
 2019,Serbia,Biochemistry,0
 2019,Serbia,Environment,23
-2019,Serbia,Physical sciencesTotal,383
+2019,Serbia,Physical sciences,383
 2019,Serbia,Mathematics and statistics,101
 2019,Serbia,Information and Communication Technologies,918
 2019,Serbia,Engineering manufacturing and construction,2578
@@ -8008,7 +8008,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Turkey,Biology,2054
 2019,Turkey,Biochemistry,915
 2019,Turkey,Environment,42
-2019,Turkey,Physical sciencesTotal,3576
+2019,Turkey,Physical sciences,3576
 2019,Turkey,Mathematics and statistics,1609
 2019,Turkey,Information and Communication Technologies,1911
 2019,Turkey,Engineering manufacturing and construction,37958
@@ -8040,7 +8040,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2019,Bosnia and Herzegovina,Biology,0
 2019,Bosnia and Herzegovina,Biochemistry,0
 2019,Bosnia and Herzegovina,Environment,0
-2019,Bosnia and Herzegovina,Physical sciencesTotal,0
+2019,Bosnia and Herzegovina,Physical sciences,0
 2019,Bosnia and Herzegovina,Mathematics and statistics,0
 2019,Bosnia and Herzegovina,Information and Communication Technologies,0
 2019,Bosnia and Herzegovina,Engineering manufacturing and construction,0
@@ -8072,7 +8072,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Belgium,Biology,524
 2020,Belgium,Biochemistry,89
 2020,Belgium,Environment,487
-2020,Belgium,Physical sciencesTotal,570
+2020,Belgium,Physical sciences,570
 2020,Belgium,Mathematics and statistics,509
 2020,Belgium,Information and Communication Technologies,1051
 2020,Belgium,Engineering manufacturing and construction,6484
@@ -8104,7 +8104,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Bulgaria,Biology,51
 2020,Bulgaria,Biochemistry,21
 2020,Bulgaria,Environment,25
-2020,Bulgaria,Physical sciencesTotal,49
+2020,Bulgaria,Physical sciences,49
 2020,Bulgaria,Mathematics and statistics,17
 2020,Bulgaria,Information and Communication Technologies,588
 2020,Bulgaria,Engineering manufacturing and construction,1113
@@ -8136,7 +8136,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Czechia,Biology,875
 2020,Czechia,Biochemistry,764
 2020,Czechia,Environment,281
-2020,Czechia,Physical sciencesTotal,1275
+2020,Czechia,Physical sciences,1275
 2020,Czechia,Mathematics and statistics,374
 2020,Czechia,Information and Communication Technologies,5373
 2020,Czechia,Engineering manufacturing and construction,6132
@@ -8168,7 +8168,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Denmark,Biology,107
 2020,Denmark,Biochemistry,327
 2020,Denmark,Environment,55
-2020,Denmark,Physical sciencesTotal,454
+2020,Denmark,Physical sciences,454
 2020,Denmark,Mathematics and statistics,108
 2020,Denmark,Information and Communication Technologies,2494
 2020,Denmark,Engineering manufacturing and construction,6762
@@ -8200,7 +8200,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Germany (until 1990 former territory of the FRG),Biology,9232
 2020,Germany (until 1990 former territory of the FRG),Biochemistry,3260
 2020,Germany (until 1990 former territory of the FRG),Environment,0
-2020,Germany (until 1990 former territory of the FRG),Physical sciencesTotal,18351
+2020,Germany (until 1990 former territory of the FRG),Physical sciences,18351
 2020,Germany (until 1990 former territory of the FRG),Mathematics and statistics,6580
 2020,Germany (until 1990 former territory of the FRG),Information and Communication Technologies,36726
 2020,Germany (until 1990 former territory of the FRG),Engineering manufacturing and construction,104576
@@ -8232,7 +8232,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Estonia,Biology,28
 2020,Estonia,Biochemistry,18
 2020,Estonia,Environment,37
-2020,Estonia,Physical sciencesTotal,247
+2020,Estonia,Physical sciences,247
 2020,Estonia,Mathematics and statistics,26
 2020,Estonia,Information and Communication Technologies,657
 2020,Estonia,Engineering manufacturing and construction,597
@@ -8264,7 +8264,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Ireland,Biology,122
 2020,Ireland,Biochemistry,171
 2020,Ireland,Environment,376
-2020,Ireland,Physical sciencesTotal,559
+2020,Ireland,Physical sciences,559
 2020,Ireland,Mathematics and statistics,463
 2020,Ireland,Information and Communication Technologies,2583
 2020,Ireland,Engineering manufacturing and construction,2984
@@ -8296,7 +8296,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Greece,Biology,741
 2020,Greece,Biochemistry,128
 2020,Greece,Environment,1
-2020,Greece,Physical sciencesTotal,1118
+2020,Greece,Physical sciences,1118
 2020,Greece,Mathematics and statistics,812
 2020,Greece,Information and Communication Technologies,1002
 2020,Greece,Engineering manufacturing and construction,3344
@@ -8328,7 +8328,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Spain,Biology,367
 2020,Spain,Biochemistry,392
 2020,Spain,Environment,638
-2020,Spain,Physical sciencesTotal,2102
+2020,Spain,Physical sciences,2102
 2020,Spain,Mathematics and statistics,392
 2020,Spain,Information and Communication Technologies,2113
 2020,Spain,Engineering manufacturing and construction,9977
@@ -8360,7 +8360,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,France,Biology,187
 2020,France,Biochemistry,0
 2020,France,Environment,410
-2020,France,Physical sciencesTotal,12699
+2020,France,Physical sciences,12699
 2020,France,Mathematics and statistics,7683
 2020,France,Information and Communication Technologies,15259
 2020,France,Engineering manufacturing and construction,40181
@@ -8392,7 +8392,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Croatia,Biology,28
 2020,Croatia,Biochemistry,22
 2020,Croatia,Environment,14
-2020,Croatia,Physical sciencesTotal,123
+2020,Croatia,Physical sciences,123
 2020,Croatia,Mathematics and statistics,18
 2020,Croatia,Information and Communication Technologies,150
 2020,Croatia,Engineering manufacturing and construction,1076
@@ -8424,7 +8424,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Italy,Biology,705
 2020,Italy,Biochemistry,490
 2020,Italy,Environment,215
-2020,Italy,Physical sciencesTotal,1390
+2020,Italy,Physical sciences,1390
 2020,Italy,Mathematics and statistics,524
 2020,Italy,Information and Communication Technologies,895
 2020,Italy,Engineering manufacturing and construction,12337
@@ -8456,7 +8456,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Cyprus,Biology,141
 2020,Cyprus,Biochemistry,4
 2020,Cyprus,Environment,20
-2020,Cyprus,Physical sciencesTotal,24
+2020,Cyprus,Physical sciences,24
 2020,Cyprus,Mathematics and statistics,29
 2020,Cyprus,Information and Communication Technologies,476
 2020,Cyprus,Engineering manufacturing and construction,495
@@ -8488,7 +8488,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Latvia,Biology,6
 2020,Latvia,Biochemistry,11
 2020,Latvia,Environment,22
-2020,Latvia,Physical sciencesTotal,15
+2020,Latvia,Physical sciences,15
 2020,Latvia,Mathematics and statistics,4
 2020,Latvia,Information and Communication Technologies,980
 2020,Latvia,Engineering manufacturing and construction,1107
@@ -8520,7 +8520,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Lithuania,Biology,70
 2020,Lithuania,Biochemistry,5
 2020,Lithuania,Environment,12
-2020,Lithuania,Physical sciencesTotal,18
+2020,Lithuania,Physical sciences,18
 2020,Lithuania,Mathematics and statistics,6
 2020,Lithuania,Information and Communication Technologies,286
 2020,Lithuania,Engineering manufacturing and construction,1013
@@ -8552,7 +8552,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Luxembourg,Biology,155
 2020,Luxembourg,Biochemistry,0
 2020,Luxembourg,Environment,25
-2020,Luxembourg,Physical sciencesTotal,155
+2020,Luxembourg,Physical sciences,155
 2020,Luxembourg,Mathematics and statistics,50
 2020,Luxembourg,Information and Communication Technologies,379
 2020,Luxembourg,Engineering manufacturing and construction,325
@@ -8584,7 +8584,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Hungary,Biology,404
 2020,Hungary,Biochemistry,17
 2020,Hungary,Environment,192
-2020,Hungary,Physical sciencesTotal,597
+2020,Hungary,Physical sciences,597
 2020,Hungary,Mathematics and statistics,182
 2020,Hungary,Information and Communication Technologies,2106
 2020,Hungary,Engineering manufacturing and construction,4050
@@ -8616,7 +8616,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Malta,Biology,17
 2020,Malta,Biochemistry,24
 2020,Malta,Environment,2
-2020,Malta,Physical sciencesTotal,23
+2020,Malta,Physical sciences,23
 2020,Malta,Mathematics and statistics,4
 2020,Malta,Information and Communication Technologies,123
 2020,Malta,Engineering manufacturing and construction,99
@@ -8648,7 +8648,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Netherlands,Biology,829
 2020,Netherlands,Biochemistry,2139
 2020,Netherlands,Environment,1132
-2020,Netherlands,Physical sciencesTotal,1812
+2020,Netherlands,Physical sciences,1812
 2020,Netherlands,Mathematics and statistics,843
 2020,Netherlands,Information and Communication Technologies,4384
 2020,Netherlands,Engineering manufacturing and construction,12665
@@ -8680,7 +8680,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Austria,Biology,2233
 2020,Austria,Biochemistry,582
 2020,Austria,Environment,668
-2020,Austria,Physical sciencesTotal,3112
+2020,Austria,Physical sciences,3112
 2020,Austria,Mathematics and statistics,853
 2020,Austria,Information and Communication Technologies,3988
 2020,Austria,Engineering manufacturing and construction,12112
@@ -8712,7 +8712,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Poland,Biology,272
 2020,Poland,Biochemistry,227
 2020,Poland,Environment,200
-2020,Poland,Physical sciencesTotal,920
+2020,Poland,Physical sciences,920
 2020,Poland,Mathematics and statistics,238
 2020,Poland,Information and Communication Technologies,3591
 2020,Poland,Engineering manufacturing and construction,5429
@@ -8744,7 +8744,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Portugal,Biology,787
 2020,Portugal,Biochemistry,174
 2020,Portugal,Environment,219
-2020,Portugal,Physical sciencesTotal,715
+2020,Portugal,Physical sciences,715
 2020,Portugal,Mathematics and statistics,241
 2020,Portugal,Information and Communication Technologies,1075
 2020,Portugal,Engineering manufacturing and construction,8839
@@ -8776,7 +8776,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Romania,Biology,82
 2020,Romania,Biochemistry,12
 2020,Romania,Environment,103
-2020,Romania,Physical sciencesTotal,272
+2020,Romania,Physical sciences,272
 2020,Romania,Mathematics and statistics,42
 2020,Romania,Information and Communication Technologies,1165
 2020,Romania,Engineering manufacturing and construction,3869
@@ -8808,7 +8808,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Slovenia,Biology,0
 2020,Slovenia,Biochemistry,0
 2020,Slovenia,Environment,0
-2020,Slovenia,Physical sciencesTotal,0
+2020,Slovenia,Physical sciences,0
 2020,Slovenia,Mathematics and statistics,0
 2020,Slovenia,Information and Communication Technologies,523
 2020,Slovenia,Engineering manufacturing and construction,1198
@@ -8840,7 +8840,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Slovakia,Biology,97
 2020,Slovakia,Biochemistry,42
 2020,Slovakia,Environment,33
-2020,Slovakia,Physical sciencesTotal,173
+2020,Slovakia,Physical sciences,173
 2020,Slovakia,Mathematics and statistics,33
 2020,Slovakia,Information and Communication Technologies,592
 2020,Slovakia,Engineering manufacturing and construction,1562
@@ -8872,7 +8872,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Finland,Biology,259
 2020,Finland,Biochemistry,293
 2020,Finland,Environment,139
-2020,Finland,Physical sciencesTotal,532
+2020,Finland,Physical sciences,532
 2020,Finland,Mathematics and statistics,96
 2020,Finland,Information and Communication Technologies,4371
 2020,Finland,Engineering manufacturing and construction,4439
@@ -8904,7 +8904,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Sweden,Biology,0
 2020,Sweden,Biochemistry,0
 2020,Sweden,Environment,465
-2020,Sweden,Physical sciencesTotal,1906
+2020,Sweden,Physical sciences,1906
 2020,Sweden,Mathematics and statistics,584
 2020,Sweden,Information and Communication Technologies,2178
 2020,Sweden,Engineering manufacturing and construction,8038
@@ -8936,7 +8936,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Iceland,Biology,39
 2020,Iceland,Biochemistry,7
 2020,Iceland,Environment,91
-2020,Iceland,Physical sciencesTotal,104
+2020,Iceland,Physical sciences,104
 2020,Iceland,Mathematics and statistics,8
 2020,Iceland,Information and Communication Technologies,37
 2020,Iceland,Engineering manufacturing and construction,128
@@ -8968,7 +8968,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Liechtenstein,Biology,0
 2020,Liechtenstein,Biochemistry,0
 2020,Liechtenstein,Environment,0
-2020,Liechtenstein,Physical sciencesTotal,0
+2020,Liechtenstein,Physical sciences,0
 2020,Liechtenstein,Mathematics and statistics,0
 2020,Liechtenstein,Information and Communication Technologies,0
 2020,Liechtenstein,Engineering manufacturing and construction,177
@@ -9000,7 +9000,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Norway,Biology,392
 2020,Norway,Biochemistry,112
 2020,Norway,Environment,132
-2020,Norway,Physical sciencesTotal,282
+2020,Norway,Physical sciences,282
 2020,Norway,Mathematics and statistics,99
 2020,Norway,Information and Communication Technologies,759
 2020,Norway,Engineering manufacturing and construction,1581
@@ -9032,7 +9032,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Switzerland,Biology,2793
 2020,Switzerland,Biochemistry,0
 2020,Switzerland,Environment,1548
-2020,Switzerland,Physical sciencesTotal,4275
+2020,Switzerland,Physical sciences,4275
 2020,Switzerland,Mathematics and statistics,1226
 2020,Switzerland,Information and Communication Technologies,2599
 2020,Switzerland,Engineering manufacturing and construction,10220
@@ -9064,7 +9064,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,United Kingdom,Biology,0
 2020,United Kingdom,Biochemistry,0
 2020,United Kingdom,Environment,0
-2020,United Kingdom,Physical sciencesTotal,0
+2020,United Kingdom,Physical sciences,0
 2020,United Kingdom,Mathematics and statistics,0
 2020,United Kingdom,Information and Communication Technologies,0
 2020,United Kingdom,Engineering manufacturing and construction,0
@@ -9096,7 +9096,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,North Macedonia,Biology,20
 2020,North Macedonia,Biochemistry,50
 2020,North Macedonia,Environment,1
-2020,North Macedonia,Physical sciencesTotal,42
+2020,North Macedonia,Physical sciences,42
 2020,North Macedonia,Mathematics and statistics,88
 2020,North Macedonia,Information and Communication Technologies,228
 2020,North Macedonia,Engineering manufacturing and construction,376
@@ -9128,7 +9128,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Serbia,Biology,223
 2020,Serbia,Biochemistry,0
 2020,Serbia,Environment,17
-2020,Serbia,Physical sciencesTotal,401
+2020,Serbia,Physical sciences,401
 2020,Serbia,Mathematics and statistics,96
 2020,Serbia,Information and Communication Technologies,957
 2020,Serbia,Engineering manufacturing and construction,2582
@@ -9160,7 +9160,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Turkey,Biology,2555
 2020,Turkey,Biochemistry,1164
 2020,Turkey,Environment,32
-2020,Turkey,Physical sciencesTotal,4491
+2020,Turkey,Physical sciences,4491
 2020,Turkey,Mathematics and statistics,1872
 2020,Turkey,Information and Communication Technologies,3402
 2020,Turkey,Engineering manufacturing and construction,44261
@@ -9192,7 +9192,7 @@ TIME,COUNTRY,ISCEDF13,SEX
 2020,Bosnia and Herzegovina,Biology,0
 2020,Bosnia and Herzegovina,Biochemistry,0
 2020,Bosnia and Herzegovina,Environment,0
-2020,Bosnia and Herzegovina,Physical sciencesTotal,0
+2020,Bosnia and Herzegovina,Physical sciences,0
 2020,Bosnia and Herzegovina,Mathematics and statistics,0
 2020,Bosnia and Herzegovina,Information and Communication Technologies,0
 2020,Bosnia and Herzegovina,Engineering manufacturing and construction,0

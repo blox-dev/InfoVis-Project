@@ -1,5 +1,5 @@
-TIME,COUNTRY,AGE,INDIC_IL
-2008,Belgium,17985
+TIME,COUNTRY,AGE,VALUE
+2008,Belgium,Total,17985
 2008,Belgium,Less than 6 years,18439
 2008,Belgium,From 6 to 10 years,0
 2008,Belgium,From 6 to 11 years,18346
@@ -24,7 +24,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Belgium,65 years or over,14027
 2008,Belgium,Less than 75 years,18439
 2008,Belgium,75 years or over,13479
-2008,Bulgaria,2171
+2008,Bulgaria,Total,2171
 2008,Bulgaria,Less than 6 years,2248
 2008,Bulgaria,From 6 to 10 years,0
 2008,Bulgaria,From 6 to 11 years,2180
@@ -49,7 +49,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Bulgaria,65 years or over,1558
 2008,Bulgaria,Less than 75 years,2265
 2008,Bulgaria,75 years or over,1429
-2008,Czechia,6068
+2008,Czechia,Total,6068
 2008,Czechia,Less than 6 years,5981
 2008,Czechia,From 6 to 10 years,0
 2008,Czechia,From 6 to 11 years,5735
@@ -74,7 +74,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Czechia,65 years or over,4971
 2008,Czechia,Less than 75 years,6176
 2008,Czechia,75 years or over,4840
-2008,Denmark,24161
+2008,Denmark,Total,24161
 2008,Denmark,Less than 6 years,24530
 2008,Denmark,From 6 to 10 years,0
 2008,Denmark,From 6 to 11 years,24884
@@ -99,7 +99,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Denmark,65 years or over,17862
 2008,Denmark,Less than 75 years,24753
 2008,Denmark,75 years or over,17191
-2008,Germany (until 1990 former territory of the FRG),18309
+2008,Germany (until 1990 former territory of the FRG),Total,18309
 2008,Germany (until 1990 former territory of the FRG),Less than 6 years,17131
 2008,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2008,Germany (until 1990 former territory of the FRG),From 6 to 11 years,17239
@@ -124,7 +124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Germany (until 1990 former territory of the FRG),65 years or over,16498
 2008,Germany (until 1990 former territory of the FRG),Less than 75 years,18390
 2008,Germany (until 1990 former territory of the FRG),75 years or over,16635
-2008,Estonia,5547
+2008,Estonia,Total,5547
 2008,Estonia,Less than 6 years,5929
 2008,Estonia,From 6 to 10 years,0
 2008,Estonia,From 6 to 11 years,5492
@@ -149,7 +149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Estonia,65 years or over,3669
 2008,Estonia,Less than 75 years,5772
 2008,Estonia,75 years or over,3398
-2008,Ireland,22995
+2008,Ireland,Total,22995
 2008,Ireland,Less than 6 years,24388
 2008,Ireland,From 6 to 10 years,0
 2008,Ireland,From 6 to 11 years,21507
@@ -174,7 +174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Ireland,65 years or over,17477
 2008,Ireland,Less than 75 years,23370
 2008,Ireland,75 years or over,16938
-2008,Greece,10800
+2008,Greece,Total,10800
 2008,Greece,Less than 6 years,11288
 2008,Greece,From 6 to 10 years,0
 2008,Greece,From 6 to 11 years,10667
@@ -199,7 +199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Greece,65 years or over,9760
 2008,Greece,Less than 75 years,11167
 2008,Greece,75 years or over,9100
-2008,Spain,13966
+2008,Spain,Total,13966
 2008,Spain,Less than 6 years,12770
 2008,Spain,From 6 to 10 years,0
 2008,Spain,From 6 to 11 years,11868
@@ -224,7 +224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Spain,65 years or over,11966
 2008,Spain,Less than 75 years,14322
 2008,Spain,75 years or over,11224
-2008,France,18899
+2008,France,Total,18899
 2008,France,Less than 6 years,17676
 2008,France,From 6 to 10 years,0
 2008,France,From 6 to 11 years,17601
@@ -249,7 +249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,France,65 years or over,18151
 2008,France,Less than 75 years,19077
 2008,France,75 years or over,17311
-2008,Croatia,0
+2008,Croatia,Total,0
 2008,Croatia,Less than 6 years,0
 2008,Croatia,From 6 to 10 years,0
 2008,Croatia,From 6 to 11 years,0
@@ -274,7 +274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Croatia,65 years or over,0
 2008,Croatia,Less than 75 years,0
 2008,Croatia,75 years or over,0
-2008,Italy,15640
+2008,Italy,Total,15640
 2008,Italy,Less than 6 years,14623
 2008,Italy,From 6 to 10 years,0
 2008,Italy,From 6 to 11 years,14423
@@ -299,7 +299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Italy,65 years or over,14135
 2008,Italy,Less than 75 years,15903
 2008,Italy,75 years or over,13590
-2008,Cyprus,16024
+2008,Cyprus,Total,16024
 2008,Cyprus,Less than 6 years,16433
 2008,Cyprus,From 6 to 10 years,0
 2008,Cyprus,From 6 to 11 years,15785
@@ -324,7 +324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Cyprus,65 years or over,9886
 2008,Cyprus,Less than 75 years,16471
 2008,Cyprus,75 years or over,8832
-2008,Latvia,4740
+2008,Latvia,Total,4740
 2008,Latvia,Less than 6 years,5241
 2008,Latvia,From 6 to 10 years,0
 2008,Latvia,From 6 to 11 years,4629
@@ -349,7 +349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Latvia,65 years or over,2749
 2008,Latvia,Less than 75 years,4915
 2008,Latvia,75 years or over,2517
-2008,Lithuania,4111
+2008,Lithuania,Total,4111
 2008,Lithuania,Less than 6 years,4533
 2008,Lithuania,From 6 to 10 years,0
 2008,Lithuania,From 6 to 11 years,3933
@@ -374,7 +374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Lithuania,65 years or over,3076
 2008,Lithuania,Less than 75 years,4240
 2008,Lithuania,75 years or over,2912
-2008,Luxembourg,30917
+2008,Luxembourg,Total,30917
 2008,Luxembourg,Less than 6 years,28052
 2008,Luxembourg,From 6 to 10 years,0
 2008,Luxembourg,From 6 to 11 years,29961
@@ -399,7 +399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Luxembourg,65 years or over,30224
 2008,Luxembourg,Less than 75 years,31108
 2008,Luxembourg,75 years or over,29895
-2008,Hungary,4400
+2008,Hungary,Total,4400
 2008,Hungary,Less than 6 years,3909
 2008,Hungary,From 6 to 10 years,0
 2008,Hungary,From 6 to 11 years,3857
@@ -424,7 +424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Hungary,65 years or over,4414
 2008,Hungary,Less than 75 years,4397
 2008,Hungary,75 years or over,4436
-2008,Malta,10009
+2008,Malta,Total,10009
 2008,Malta,Less than 6 years,8940
 2008,Malta,From 6 to 10 years,0
 2008,Malta,From 6 to 11 years,8916
@@ -449,7 +449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Malta,65 years or over,7608
 2008,Malta,Less than 75 years,10196
 2008,Malta,75 years or over,7552
-2008,Netherlands,19522
+2008,Netherlands,Total,19522
 2008,Netherlands,Less than 6 years,19171
 2008,Netherlands,From 6 to 10 years,0
 2008,Netherlands,From 6 to 11 years,17888
@@ -474,7 +474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Netherlands,65 years or over,16721
 2008,Netherlands,Less than 75 years,19795
 2008,Netherlands,75 years or over,16140
-2008,Austria,19413
+2008,Austria,Total,19413
 2008,Austria,Less than 6 years,16245
 2008,Austria,From 6 to 10 years,0
 2008,Austria,From 6 to 11 years,17308
@@ -499,7 +499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Austria,65 years or over,17351
 2008,Austria,Less than 75 years,19600
 2008,Austria,75 years or over,16810
-2008,Poland,4155
+2008,Poland,Total,4155
 2008,Poland,Less than 6 years,4020
 2008,Poland,From 6 to 10 years,0
 2008,Poland,From 6 to 11 years,3812
@@ -524,7 +524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Poland,65 years or over,4032
 2008,Poland,Less than 75 years,4161
 2008,Poland,75 years or over,4106
-2008,Portugal,8143
+2008,Portugal,Total,8143
 2008,Portugal,Less than 6 years,8803
 2008,Portugal,From 6 to 10 years,0
 2008,Portugal,From 6 to 11 years,7460
@@ -549,7 +549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Portugal,65 years or over,6996
 2008,Portugal,Less than 75 years,8382
 2008,Portugal,75 years or over,6216
-2008,Romania,1952
+2008,Romania,Total,1952
 2008,Romania,Less than 6 years,1838
 2008,Romania,From 6 to 10 years,0
 2008,Romania,From 6 to 11 years,1613
@@ -574,7 +574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Romania,65 years or over,1705
 2008,Romania,Less than 75 years,1977
 2008,Romania,75 years or over,1579
-2008,Slovenia,10893
+2008,Slovenia,Total,10893
 2008,Slovenia,Less than 6 years,11231
 2008,Slovenia,From 6 to 10 years,0
 2008,Slovenia,From 6 to 11 years,10604
@@ -599,7 +599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Slovenia,65 years or over,9421
 2008,Slovenia,Less than 75 years,11014
 2008,Slovenia,75 years or over,8867
-2008,Slovakia,4792
+2008,Slovakia,Total,4792
 2008,Slovakia,Less than 6 years,4560
 2008,Slovakia,From 6 to 10 years,0
 2008,Slovakia,From 6 to 11 years,4601
@@ -624,7 +624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Slovakia,65 years or over,3943
 2008,Slovakia,Less than 75 years,4868
 2008,Slovakia,75 years or over,3814
-2008,Finland,19794
+2008,Finland,Total,19794
 2008,Finland,Less than 6 years,19004
 2008,Finland,From 6 to 10 years,0
 2008,Finland,From 6 to 11 years,19865
@@ -649,7 +649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Finland,65 years or over,15029
 2008,Finland,Less than 75 years,20346
 2008,Finland,75 years or over,13548
-2008,Sweden,20217
+2008,Sweden,Total,20217
 2008,Sweden,Less than 6 years,19541
 2008,Sweden,From 6 to 10 years,0
 2008,Sweden,From 6 to 11 years,19207
@@ -674,7 +674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Sweden,65 years or over,16097
 2008,Sweden,Less than 75 years,20830
 2008,Sweden,75 years or over,14110
-2008,Iceland,32206
+2008,Iceland,Total,32206
 2008,Iceland,Less than 6 years,28880
 2008,Iceland,From 6 to 10 years,0
 2008,Iceland,From 6 to 11 years,30601
@@ -699,7 +699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Iceland,65 years or over,26708
 2008,Iceland,Less than 75 years,32837
 2008,Iceland,75 years or over,24135
-2008,Norway,31798
+2008,Norway,Total,31798
 2008,Norway,Less than 6 years,30981
 2008,Norway,From 6 to 10 years,0
 2008,Norway,From 6 to 11 years,30641
@@ -724,7 +724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Norway,65 years or over,26720
 2008,Norway,Less than 75 years,32487
 2008,Norway,75 years or over,23587
-2008,Switzerland,26987
+2008,Switzerland,Total,26987
 2008,Switzerland,Less than 6 years,23365
 2008,Switzerland,From 6 to 10 years,0
 2008,Switzerland,From 6 to 11 years,22941
@@ -749,7 +749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Switzerland,65 years or over,22313
 2008,Switzerland,Less than 75 years,27355
 2008,Switzerland,75 years or over,20531
-2008,United Kingdom,18923
+2008,United Kingdom,Total,18923
 2008,United Kingdom,Less than 6 years,17458
 2008,United Kingdom,From 6 to 10 years,0
 2008,United Kingdom,From 6 to 11 years,16604
@@ -774,7 +774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,United Kingdom,65 years or over,14707
 2008,United Kingdom,Less than 75 years,19502
 2008,United Kingdom,75 years or over,14027
-2008,North Macedonia,0
+2008,North Macedonia,Total,0
 2008,North Macedonia,Less than 6 years,0
 2008,North Macedonia,From 6 to 10 years,0
 2008,North Macedonia,From 6 to 11 years,0
@@ -799,7 +799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,North Macedonia,65 years or over,0
 2008,North Macedonia,Less than 75 years,0
 2008,North Macedonia,75 years or over,0
-2008,Serbia,0
+2008,Serbia,Total,0
 2008,Serbia,Less than 6 years,0
 2008,Serbia,From 6 to 10 years,0
 2008,Serbia,From 6 to 11 years,0
@@ -824,7 +824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Serbia,65 years or over,0
 2008,Serbia,Less than 75 years,0
 2008,Serbia,75 years or over,0
-2008,Turkey,2903
+2008,Turkey,Total,2903
 2008,Turkey,Less than 6 years,2379
 2008,Turkey,From 6 to 10 years,0
 2008,Turkey,From 6 to 11 years,2232
@@ -849,7 +849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2008,Turkey,65 years or over,3117
 2008,Turkey,Less than 75 years,2899
 2008,Turkey,75 years or over,3049
-2009,Belgium,19313
+2009,Belgium,Total,19313
 2009,Belgium,Less than 6 years,19313
 2009,Belgium,From 6 to 10 years,0
 2009,Belgium,From 6 to 11 years,18806
@@ -874,7 +874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Belgium,65 years or over,14967
 2009,Belgium,Less than 75 years,19711
 2009,Belgium,75 years or over,14108
-2009,Bulgaria,2828
+2009,Bulgaria,Total,2828
 2009,Bulgaria,Less than 6 years,2908
 2009,Bulgaria,From 6 to 10 years,0
 2009,Bulgaria,From 6 to 11 years,2859
@@ -899,7 +899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Bulgaria,65 years or over,1900
 2009,Bulgaria,Less than 75 years,2909
 2009,Bulgaria,75 years or over,1740
-2009,Czechia,7295
+2009,Czechia,Total,7295
 2009,Czechia,Less than 6 years,7074
 2009,Czechia,From 6 to 10 years,0
 2009,Czechia,From 6 to 11 years,7083
@@ -924,7 +924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Czechia,65 years or over,5982
 2009,Czechia,Less than 75 years,7426
 2009,Czechia,75 years or over,5797
-2009,Denmark,25029
+2009,Denmark,Total,25029
 2009,Denmark,Less than 6 years,25825
 2009,Denmark,From 6 to 10 years,0
 2009,Denmark,From 6 to 11 years,25521
@@ -949,7 +949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Denmark,65 years or over,18662
 2009,Denmark,Less than 75 years,25759
 2009,Denmark,75 years or over,17710
-2009,Germany (until 1990 former territory of the FRG),18586
+2009,Germany (until 1990 former territory of the FRG),Total,18586
 2009,Germany (until 1990 former territory of the FRG),Less than 6 years,17850
 2009,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2009,Germany (until 1990 former territory of the FRG),From 6 to 11 years,17547
@@ -974,7 +974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Germany (until 1990 former territory of the FRG),65 years or over,16804
 2009,Germany (until 1990 former territory of the FRG),Less than 75 years,18686
 2009,Germany (until 1990 former territory of the FRG),75 years or over,17059
-2009,Estonia,6209
+2009,Estonia,Total,6209
 2009,Estonia,Less than 6 years,6769
 2009,Estonia,From 6 to 10 years,0
 2009,Estonia,From 6 to 11 years,6209
@@ -999,7 +999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Estonia,65 years or over,4384
 2009,Estonia,Less than 75 years,6441
 2009,Estonia,75 years or over,3979
-2009,Ireland,22445
+2009,Ireland,Total,22445
 2009,Ireland,Less than 6 years,22467
 2009,Ireland,From 6 to 10 years,0
 2009,Ireland,From 6 to 11 years,19564
@@ -1024,7 +1024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Ireland,65 years or over,17865
 2009,Ireland,Less than 75 years,22692
 2009,Ireland,75 years or over,16777
-2009,Greece,11496
+2009,Greece,Total,11496
 2009,Greece,Less than 6 years,11286
 2009,Greece,From 6 to 10 years,0
 2009,Greece,From 6 to 11 years,11088
@@ -1049,7 +1049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Greece,65 years or over,10211
 2009,Greece,Less than 75 years,11667
 2009,Greece,75 years or over,9836
-2009,Spain,14795
+2009,Spain,Total,14795
 2009,Spain,Less than 6 years,13482
 2009,Spain,From 6 to 10 years,0
 2009,Spain,From 6 to 11 years,12525
@@ -1074,7 +1074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Spain,65 years or over,13118
 2009,Spain,Less than 75 years,15025
 2009,Spain,75 years or over,12500
-2009,France,19644
+2009,France,Total,19644
 2009,France,Less than 6 years,18997
 2009,France,From 6 to 10 years,0
 2009,France,From 6 to 11 years,17839
@@ -1099,7 +1099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,France,65 years or over,18969
 2009,France,Less than 75 years,19804
 2009,France,75 years or over,18158
-2009,Croatia,0
+2009,Croatia,Total,0
 2009,Croatia,Less than 6 years,0
 2009,Croatia,From 6 to 10 years,0
 2009,Croatia,From 6 to 11 years,0
@@ -1124,7 +1124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Croatia,65 years or over,0
 2009,Croatia,Less than 75 years,0
 2009,Croatia,75 years or over,0
-2009,Italy,15605
+2009,Italy,Total,15605
 2009,Italy,Less than 6 years,14310
 2009,Italy,From 6 to 10 years,0
 2009,Italy,From 6 to 11 years,13931
@@ -1149,7 +1149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Italy,65 years or over,14287
 2009,Italy,Less than 75 years,15867
 2009,Italy,75 years or over,13699
-2009,Cyprus,16451
+2009,Cyprus,Total,16451
 2009,Cyprus,Less than 6 years,16881
 2009,Cyprus,From 6 to 10 years,0
 2009,Cyprus,From 6 to 11 years,16137
@@ -1174,7 +1174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Cyprus,65 years or over,10324
 2009,Cyprus,Less than 75 years,16849
 2009,Cyprus,75 years or over,9068
-2009,Latvia,5355
+2009,Latvia,Total,5355
 2009,Latvia,Less than 6 years,5743
 2009,Latvia,From 6 to 10 years,0
 2009,Latvia,From 6 to 11 years,5197
@@ -1199,7 +1199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Latvia,65 years or over,3302
 2009,Latvia,Less than 75 years,5597
 2009,Latvia,75 years or over,3058
-2009,Lithuania,4715
+2009,Lithuania,Total,4715
 2009,Lithuania,Less than 6 years,5185
 2009,Lithuania,From 6 to 10 years,0
 2009,Lithuania,From 6 to 11 years,4653
@@ -1224,7 +1224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Lithuania,65 years or over,3716
 2009,Lithuania,Less than 75 years,4899
 2009,Lithuania,75 years or over,3522
-2009,Luxembourg,31764
+2009,Luxembourg,Total,31764
 2009,Luxembourg,Less than 6 years,27441
 2009,Luxembourg,From 6 to 10 years,0
 2009,Luxembourg,From 6 to 11 years,28330
@@ -1249,7 +1249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Luxembourg,65 years or over,32002
 2009,Luxembourg,Less than 75 years,31686
 2009,Luxembourg,75 years or over,31854
-2009,Hungary,4739
+2009,Hungary,Total,4739
 2009,Hungary,Less than 6 years,4112
 2009,Hungary,From 6 to 10 years,0
 2009,Hungary,From 6 to 11 years,4208
@@ -1274,7 +1274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Hungary,65 years or over,4798
 2009,Hungary,Less than 75 years,4742
 2009,Hungary,75 years or over,4725
-2009,Malta,10503
+2009,Malta,Total,10503
 2009,Malta,Less than 6 years,9430
 2009,Malta,From 6 to 10 years,0
 2009,Malta,From 6 to 11 years,9112
@@ -1299,7 +1299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Malta,65 years or over,8448
 2009,Malta,Less than 75 years,10666
 2009,Malta,75 years or over,8331
-2009,Netherlands,20156
+2009,Netherlands,Total,20156
 2009,Netherlands,Less than 6 years,19560
 2009,Netherlands,From 6 to 10 years,0
 2009,Netherlands,From 6 to 11 years,18302
@@ -1324,7 +1324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Netherlands,65 years or over,17615
 2009,Netherlands,Less than 75 years,20409
 2009,Netherlands,75 years or over,16752
-2009,Austria,20469
+2009,Austria,Total,20469
 2009,Austria,Less than 6 years,18122
 2009,Austria,From 6 to 10 years,0
 2009,Austria,From 6 to 11 years,17946
@@ -1349,7 +1349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Austria,65 years or over,18466
 2009,Austria,Less than 75 years,20678
 2009,Austria,75 years or over,17316
-2009,Poland,5097
+2009,Poland,Total,5097
 2009,Poland,Less than 6 years,4932
 2009,Poland,From 6 to 10 years,0
 2009,Poland,From 6 to 11 years,4706
@@ -1374,7 +1374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Poland,65 years or over,4751
 2009,Poland,Less than 75 years,5125
 2009,Poland,75 years or over,4756
-2009,Portugal,8282
+2009,Portugal,Total,8282
 2009,Portugal,Less than 6 years,8282
 2009,Portugal,From 6 to 10 years,0
 2009,Portugal,From 6 to 11 years,7472
@@ -1399,7 +1399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Portugal,65 years or over,7243
 2009,Portugal,Less than 75 years,8448
 2009,Portugal,75 years or over,6396
-2009,Romania,2172
+2009,Romania,Total,2172
 2009,Romania,Less than 6 years,1951
 2009,Romania,From 6 to 10 years,0
 2009,Romania,From 6 to 11 years,1769
@@ -1424,7 +1424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Romania,65 years or over,2038
 2009,Romania,Less than 75 years,2194
 2009,Romania,75 years or over,1864
-2009,Slovenia,11864
+2009,Slovenia,Total,11864
 2009,Slovenia,Less than 6 years,12028
 2009,Slovenia,From 6 to 10 years,0
 2009,Slovenia,From 6 to 11 years,11498
@@ -1449,7 +1449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Slovenia,65 years or over,10372
 2009,Slovenia,Less than 75 years,11994
 2009,Slovenia,75 years or over,9818
-2009,Slovakia,5671
+2009,Slovakia,Total,5671
 2009,Slovakia,Less than 6 years,5190
 2009,Slovakia,From 6 to 10 years,0
 2009,Slovakia,From 6 to 11 years,5501
@@ -1474,7 +1474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Slovakia,65 years or over,4797
 2009,Slovakia,Less than 75 years,5735
 2009,Slovakia,75 years or over,4617
-2009,Finland,20962
+2009,Finland,Total,20962
 2009,Finland,Less than 6 years,19736
 2009,Finland,From 6 to 10 years,0
 2009,Finland,From 6 to 11 years,21101
@@ -1499,7 +1499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Finland,65 years or over,16009
 2009,Finland,Less than 75 years,21435
 2009,Finland,75 years or over,14314
-2009,Sweden,20477
+2009,Sweden,Total,20477
 2009,Sweden,Less than 6 years,20123
 2009,Sweden,From 6 to 10 years,0
 2009,Sweden,From 6 to 11 years,19603
@@ -1524,7 +1524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Sweden,65 years or over,16282
 2009,Sweden,Less than 75 years,21133
 2009,Sweden,75 years or over,14009
-2009,Iceland,22362
+2009,Iceland,Total,22362
 2009,Iceland,Less than 6 years,19574
 2009,Iceland,From 6 to 10 years,0
 2009,Iceland,From 6 to 11 years,20875
@@ -1549,7 +1549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Iceland,65 years or over,20546
 2009,Iceland,Less than 75 years,22580
 2009,Iceland,75 years or over,18689
-2009,Norway,33737
+2009,Norway,Total,33737
 2009,Norway,Less than 6 years,33174
 2009,Norway,From 6 to 10 years,0
 2009,Norway,From 6 to 11 years,31945
@@ -1574,7 +1574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Norway,65 years or over,28940
 2009,Norway,Less than 75 years,34296
 2009,Norway,75 years or over,25467
-2009,Switzerland,28958
+2009,Switzerland,Total,28958
 2009,Switzerland,Less than 6 years,25690
 2009,Switzerland,From 6 to 10 years,0
 2009,Switzerland,From 6 to 11 years,24873
@@ -1599,7 +1599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Switzerland,65 years or over,22778
 2009,Switzerland,Less than 75 years,29514
 2009,Switzerland,75 years or over,20983
-2009,United Kingdom,16262
+2009,United Kingdom,Total,16262
 2009,United Kingdom,Less than 6 years,14765
 2009,United Kingdom,From 6 to 10 years,0
 2009,United Kingdom,From 6 to 11 years,15013
@@ -1624,7 +1624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,United Kingdom,65 years or over,13564
 2009,United Kingdom,Less than 75 years,16714
 2009,United Kingdom,75 years or over,12745
-2009,North Macedonia,0
+2009,North Macedonia,Total,0
 2009,North Macedonia,Less than 6 years,0
 2009,North Macedonia,From 6 to 10 years,0
 2009,North Macedonia,From 6 to 11 years,0
@@ -1649,7 +1649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,North Macedonia,65 years or over,0
 2009,North Macedonia,Less than 75 years,0
 2009,North Macedonia,75 years or over,0
-2009,Serbia,0
+2009,Serbia,Total,0
 2009,Serbia,Less than 6 years,0
 2009,Serbia,From 6 to 10 years,0
 2009,Serbia,From 6 to 11 years,0
@@ -1674,7 +1674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Serbia,65 years or over,0
 2009,Serbia,Less than 75 years,0
 2009,Serbia,75 years or over,0
-2009,Turkey,3049
+2009,Turkey,Total,3049
 2009,Turkey,Less than 6 years,2434
 2009,Turkey,From 6 to 10 years,0
 2009,Turkey,From 6 to 11 years,2383
@@ -1699,7 +1699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2009,Turkey,65 years or over,3260
 2009,Turkey,Less than 75 years,3049
 2009,Turkey,75 years or over,3101
-2010,Belgium,19464
+2010,Belgium,Total,19464
 2010,Belgium,Less than 6 years,19094
 2010,Belgium,From 6 to 10 years,0
 2010,Belgium,From 6 to 11 years,19319
@@ -1724,7 +1724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Belgium,65 years or over,15218
 2010,Belgium,Less than 75 years,20011
 2010,Belgium,75 years or over,14610
-2010,Bulgaria,3017
+2010,Bulgaria,Total,3017
 2010,Bulgaria,Less than 6 years,2966
 2010,Bulgaria,From 6 to 10 years,0
 2010,Bulgaria,From 6 to 11 years,2749
@@ -1749,7 +1749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Bulgaria,65 years or over,2338
 2010,Bulgaria,Less than 75 years,3099
 2010,Bulgaria,75 years or over,2139
-2010,Czechia,7058
+2010,Czechia,Total,7058
 2010,Czechia,Less than 6 years,6888
 2010,Czechia,From 6 to 10 years,0
 2010,Czechia,From 6 to 11 years,6684
@@ -1774,7 +1774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Czechia,65 years or over,5984
 2010,Czechia,Less than 75 years,7182
 2010,Czechia,75 years or over,5746
-2010,Denmark,25668
+2010,Denmark,Total,25668
 2010,Denmark,Less than 6 years,26571
 2010,Denmark,From 6 to 10 years,0
 2010,Denmark,From 6 to 11 years,25372
@@ -1799,7 +1799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Denmark,65 years or over,19342
 2010,Denmark,Less than 75 years,26400
 2010,Denmark,75 years or over,18116
-2010,Germany (until 1990 former territory of the FRG),18797
+2010,Germany (until 1990 former territory of the FRG),Total,18797
 2010,Germany (until 1990 former territory of the FRG),Less than 6 years,17745
 2010,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2010,Germany (until 1990 former territory of the FRG),From 6 to 11 years,17930
@@ -1824,7 +1824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Germany (until 1990 former territory of the FRG),65 years or over,17167
 2010,Germany (until 1990 former territory of the FRG),Less than 75 years,18904
 2010,Germany (until 1990 former territory of the FRG),75 years or over,17708
-2010,Estonia,5727
+2010,Estonia,Total,5727
 2010,Estonia,Less than 6 years,6560
 2010,Estonia,From 6 to 10 years,0
 2010,Estonia,From 6 to 11 years,5860
@@ -1849,7 +1849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Estonia,65 years or over,4544
 2010,Estonia,Less than 75 years,5985
 2010,Estonia,75 years or over,4292
-2010,Ireland,20512
+2010,Ireland,Total,20512
 2010,Ireland,Less than 6 years,21646
 2010,Ireland,From 6 to 10 years,0
 2010,Ireland,From 6 to 11 years,17763
@@ -1874,7 +1874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Ireland,65 years or over,17766
 2010,Ireland,Less than 75 years,20854
 2010,Ireland,75 years or over,16953
-2010,Greece,11963
+2010,Greece,Total,11963
 2010,Greece,Less than 6 years,11905
 2010,Greece,From 6 to 10 years,0
 2010,Greece,From 6 to 11 years,11962
@@ -1899,7 +1899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Greece,65 years or over,10555
 2010,Greece,Less than 75 years,12300
 2010,Greece,75 years or over,9860
-2010,Spain,14605
+2010,Spain,Total,14605
 2010,Spain,Less than 6 years,14033
 2010,Spain,From 6 to 10 years,0
 2010,Spain,From 6 to 11 years,12351
@@ -1924,7 +1924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Spain,65 years or over,13167
 2010,Spain,Less than 75 years,14839
 2010,Spain,75 years or over,12607
-2010,France,19960
+2010,France,Total,19960
 2010,France,Less than 6 years,18818
 2010,France,From 6 to 10 years,0
 2010,France,From 6 to 11 years,18129
@@ -1949,7 +1949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,France,65 years or over,19575
 2010,France,Less than 75 years,20105
 2010,France,75 years or over,18379
-2010,Croatia,5810
+2010,Croatia,Total,5810
 2010,Croatia,Less than 6 years,6578
 2010,Croatia,From 6 to 10 years,0
 2010,Croatia,From 6 to 11 years,5575
@@ -1974,7 +1974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Croatia,65 years or over,4814
 2010,Croatia,Less than 75 years,5972
 2010,Croatia,75 years or over,4269
-2010,Italy,15964
+2010,Italy,Total,15964
 2010,Italy,Less than 6 years,14435
 2010,Italy,From 6 to 10 years,0
 2010,Italy,From 6 to 11 years,13710
@@ -1999,7 +1999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Italy,65 years or over,14974
 2010,Italy,Less than 75 years,16272
 2010,Italy,75 years or over,14251
-2010,Cyprus,16180
+2010,Cyprus,Total,16180
 2010,Cyprus,Less than 6 years,15866
 2010,Cyprus,From 6 to 10 years,0
 2010,Cyprus,From 6 to 11 years,15594
@@ -2024,7 +2024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Cyprus,65 years or over,10877
 2010,Cyprus,Less than 75 years,16437
 2010,Cyprus,75 years or over,9458
-2010,Latvia,4488
+2010,Latvia,Total,4488
 2010,Latvia,Less than 6 years,4961
 2010,Latvia,From 6 to 10 years,0
 2010,Latvia,From 6 to 11 years,4303
@@ -2049,7 +2049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Latvia,65 years or over,3726
 2010,Latvia,Less than 75 years,4662
 2010,Latvia,75 years or over,3445
-2010,Lithuania,4030
+2010,Lithuania,Total,4030
 2010,Lithuania,Less than 6 years,4343
 2010,Lithuania,From 6 to 10 years,0
 2010,Lithuania,From 6 to 11 years,3789
@@ -2074,7 +2074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Lithuania,65 years or over,3802
 2010,Lithuania,Less than 75 years,4065
 2010,Lithuania,75 years or over,3699
-2010,Luxembourg,32333
+2010,Luxembourg,Total,32333
 2010,Luxembourg,Less than 6 years,29055
 2010,Luxembourg,From 6 to 10 years,0
 2010,Luxembourg,From 6 to 11 years,27560
@@ -2099,7 +2099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Luxembourg,65 years or over,33637
 2010,Luxembourg,Less than 75 years,32243
 2010,Luxembourg,75 years or over,33638
-2010,Hungary,4241
+2010,Hungary,Total,4241
 2010,Hungary,Less than 6 years,3798
 2010,Hungary,From 6 to 10 years,0
 2010,Hungary,From 6 to 11 years,3811
@@ -2124,7 +2124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Hungary,65 years or over,4281
 2010,Hungary,Less than 75 years,4240
 2010,Hungary,75 years or over,4247
-2010,Malta,10435
+2010,Malta,Total,10435
 2010,Malta,Less than 6 years,9130
 2010,Malta,From 6 to 10 years,0
 2010,Malta,From 6 to 11 years,9436
@@ -2149,7 +2149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Malta,65 years or over,8669
 2010,Malta,Less than 75 years,10545
 2010,Malta,75 years or over,8459
-2010,Netherlands,20292
+2010,Netherlands,Total,20292
 2010,Netherlands,Less than 6 years,19940
 2010,Netherlands,From 6 to 10 years,0
 2010,Netherlands,From 6 to 11 years,18584
@@ -2174,7 +2174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Netherlands,65 years or over,18041
 2010,Netherlands,Less than 75 years,20627
 2010,Netherlands,75 years or over,16850
-2010,Austria,21058
+2010,Austria,Total,21058
 2010,Austria,Less than 6 years,17420
 2010,Austria,From 6 to 10 years,0
 2010,Austria,From 6 to 11 years,18353
@@ -2199,7 +2199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Austria,65 years or over,19269
 2010,Austria,Less than 75 years,21295
 2010,Austria,75 years or over,17910
-2010,Poland,4405
+2010,Poland,Total,4405
 2010,Poland,Less than 6 years,4297
 2010,Poland,From 6 to 10 years,0
 2010,Poland,From 6 to 11 years,4133
@@ -2224,7 +2224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Poland,65 years or over,4146
 2010,Poland,Less than 75 years,4424
 2010,Poland,75 years or over,4159
-2010,Portugal,8678
+2010,Portugal,Total,8678
 2010,Portugal,Less than 6 years,9070
 2010,Portugal,From 6 to 10 years,0
 2010,Portugal,From 6 to 11 years,7979
@@ -2249,7 +2249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Portugal,65 years or over,7386
 2010,Portugal,Less than 75 years,8925
 2010,Portugal,75 years or over,6636
-2010,Romania,2036
+2010,Romania,Total,2036
 2010,Romania,Less than 6 years,1812
 2010,Romania,From 6 to 10 years,0
 2010,Romania,From 6 to 11 years,1683
@@ -2274,7 +2274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Romania,65 years or over,1981
 2010,Romania,Less than 75 years,2054
 2010,Romania,75 years or over,1824
-2010,Slovenia,11736
+2010,Slovenia,Total,11736
 2010,Slovenia,Less than 6 years,12012
 2010,Slovenia,From 6 to 10 years,0
 2010,Slovenia,From 6 to 11 years,11346
@@ -2299,7 +2299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Slovenia,65 years or over,10419
 2010,Slovenia,Less than 75 years,11864
 2010,Slovenia,75 years or over,9891
-2010,Slovakia,6117
+2010,Slovakia,Total,6117
 2010,Slovakia,Less than 6 years,5731
 2010,Slovakia,From 6 to 10 years,0
 2010,Slovakia,From 6 to 11 years,5834
@@ -2324,7 +2324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Slovakia,65 years or over,5283
 2010,Slovakia,Less than 75 years,6200
 2010,Slovakia,75 years or over,5196
-2010,Finland,21349
+2010,Finland,Total,21349
 2010,Finland,Less than 6 years,20263
 2010,Finland,From 6 to 10 years,0
 2010,Finland,From 6 to 11 years,21597
@@ -2349,7 +2349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Finland,65 years or over,17400
 2010,Finland,Less than 75 years,21886
 2010,Finland,75 years or over,15546
-2010,Sweden,18897
+2010,Sweden,Total,18897
 2010,Sweden,Less than 6 years,18179
 2010,Sweden,From 6 to 10 years,0
 2010,Sweden,From 6 to 11 years,18248
@@ -2374,7 +2374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Sweden,65 years or over,15497
 2010,Sweden,Less than 75 years,19508
 2010,Sweden,75 years or over,13405
-2010,Iceland,18320
+2010,Iceland,Total,18320
 2010,Iceland,Less than 6 years,16608
 2010,Iceland,From 6 to 10 years,0
 2010,Iceland,From 6 to 11 years,17072
@@ -2399,7 +2399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Iceland,65 years or over,17754
 2010,Iceland,Less than 75 years,18488
 2010,Iceland,75 years or over,15418
-2010,Norway,32399
+2010,Norway,Total,32399
 2010,Norway,Less than 6 years,31623
 2010,Norway,From 6 to 10 years,0
 2010,Norway,From 6 to 11 years,30867
@@ -2424,7 +2424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Norway,65 years or over,28173
 2010,Norway,Less than 75 years,33087
 2010,Norway,75 years or over,24679
-2010,Switzerland,30666
+2010,Switzerland,Total,30666
 2010,Switzerland,Less than 6 years,26101
 2010,Switzerland,From 6 to 10 years,0
 2010,Switzerland,From 6 to 11 years,27057
@@ -2449,7 +2449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Switzerland,65 years or over,25032
 2010,Switzerland,Less than 75 years,31063
 2010,Switzerland,75 years or over,22839
-2010,United Kingdom,17106
+2010,United Kingdom,Total,17106
 2010,United Kingdom,Less than 6 years,15204
 2010,United Kingdom,From 6 to 10 years,0
 2010,United Kingdom,From 6 to 11 years,15342
@@ -2474,7 +2474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,United Kingdom,65 years or over,14535
 2010,United Kingdom,Less than 75 years,17644
 2010,United Kingdom,75 years or over,13555
-2010,North Macedonia,0
+2010,North Macedonia,Total,0
 2010,North Macedonia,Less than 6 years,0
 2010,North Macedonia,From 6 to 10 years,0
 2010,North Macedonia,From 6 to 11 years,0
@@ -2499,7 +2499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,North Macedonia,65 years or over,0
 2010,North Macedonia,Less than 75 years,0
 2010,North Macedonia,75 years or over,0
-2010,Serbia,0
+2010,Serbia,Total,0
 2010,Serbia,Less than 6 years,0
 2010,Serbia,From 6 to 10 years,0
 2010,Serbia,From 6 to 11 years,0
@@ -2524,7 +2524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Serbia,65 years or over,0
 2010,Serbia,Less than 75 years,0
 2010,Serbia,75 years or over,0
-2010,Turkey,2754
+2010,Turkey,Total,2754
 2010,Turkey,Less than 6 years,2299
 2010,Turkey,From 6 to 10 years,0
 2010,Turkey,From 6 to 11 years,2177
@@ -2549,7 +2549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2010,Turkey,65 years or over,2937
 2010,Turkey,Less than 75 years,2752
 2010,Turkey,75 years or over,2793
-2011,Belgium,20008
+2011,Belgium,Total,20008
 2011,Belgium,Less than 6 years,19772
 2011,Belgium,From 6 to 10 years,0
 2011,Belgium,From 6 to 11 years,20139
@@ -2574,7 +2574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Belgium,65 years or over,15398
 2011,Belgium,Less than 75 years,20454
 2011,Belgium,75 years or over,14681
-2011,Bulgaria,2914
+2011,Bulgaria,Total,2914
 2011,Bulgaria,Less than 6 years,2886
 2011,Bulgaria,From 6 to 10 years,0
 2011,Bulgaria,From 6 to 11 years,2601
@@ -2599,7 +2599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Bulgaria,65 years or over,2230
 2011,Bulgaria,Less than 75 years,2980
 2011,Bulgaria,75 years or over,2036
-2011,Czechia,7451
+2011,Czechia,Total,7451
 2011,Czechia,Less than 6 years,7317
 2011,Czechia,From 6 to 10 years,0
 2011,Czechia,From 6 to 11 years,7037
@@ -2624,7 +2624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Czechia,65 years or over,6348
 2011,Czechia,Less than 75 years,7588
 2011,Czechia,75 years or over,6119
-2011,Denmark,26944
+2011,Denmark,Total,26944
 2011,Denmark,Less than 6 years,27622
 2011,Denmark,From 6 to 10 years,0
 2011,Denmark,From 6 to 11 years,27091
@@ -2649,7 +2649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Denmark,65 years or over,21016
 2011,Denmark,Less than 75 years,27749
 2011,Denmark,75 years or over,19317
-2011,Germany (until 1990 former territory of the FRG),19043
+2011,Germany (until 1990 former territory of the FRG),Total,19043
 2011,Germany (until 1990 former territory of the FRG),Less than 6 years,17821
 2011,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2011,Germany (until 1990 former territory of the FRG),From 6 to 11 years,17857
@@ -2674,7 +2674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Germany (until 1990 former territory of the FRG),65 years or over,17611
 2011,Germany (until 1990 former territory of the FRG),Less than 75 years,19158
 2011,Germany (until 1990 former territory of the FRG),75 years or over,18131
-2011,Estonia,5598
+2011,Estonia,Total,5598
 2011,Estonia,Less than 6 years,6765
 2011,Estonia,From 6 to 10 years,0
 2011,Estonia,From 6 to 11 years,5637
@@ -2699,7 +2699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Estonia,65 years or over,4538
 2011,Estonia,Less than 75 years,5780
 2011,Estonia,75 years or over,4284
-2011,Ireland,19726
+2011,Ireland,Total,19726
 2011,Ireland,Less than 6 years,19852
 2011,Ireland,From 6 to 10 years,0
 2011,Ireland,From 6 to 11 years,18654
@@ -2724,7 +2724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Ireland,65 years or over,17343
 2011,Ireland,Less than 75 years,20072
 2011,Ireland,75 years or over,16598
-2011,Greece,10985
+2011,Greece,Total,10985
 2011,Greece,Less than 6 years,11214
 2011,Greece,From 6 to 10 years,0
 2011,Greece,From 6 to 11 years,10261
@@ -2749,7 +2749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Greece,65 years or over,9293
 2011,Greece,Less than 75 years,11200
 2011,Greece,75 years or over,8620
-2011,Spain,13929
+2011,Spain,Total,13929
 2011,Spain,Less than 6 years,13492
 2011,Spain,From 6 to 10 years,0
 2011,Spain,From 6 to 11 years,11929
@@ -2774,7 +2774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Spain,65 years or over,12858
 2011,Spain,Less than 75 years,14116
 2011,Spain,75 years or over,11981
-2011,France,19995
+2011,France,Total,19995
 2011,France,Less than 6 years,18782
 2011,France,From 6 to 10 years,0
 2011,France,From 6 to 11 years,18131
@@ -2799,7 +2799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,France,65 years or over,20138
 2011,France,Less than 75 years,20058
 2011,France,75 years or over,19092
-2011,Croatia,5579
+2011,Croatia,Total,5579
 2011,Croatia,Less than 6 years,5697
 2011,Croatia,From 6 to 10 years,0
 2011,Croatia,From 6 to 11 years,5278
@@ -2824,7 +2824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Croatia,65 years or over,4692
 2011,Croatia,Less than 75 years,5649
 2011,Croatia,75 years or over,4294
-2011,Italy,15971
+2011,Italy,Total,15971
 2011,Italy,Less than 6 years,15122
 2011,Italy,From 6 to 10 years,0
 2011,Italy,From 6 to 11 years,14183
@@ -2849,7 +2849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Italy,65 years or over,15002
 2011,Italy,Less than 75 years,16247
 2011,Italy,75 years or over,14401
-2011,Cyprus,16990
+2011,Cyprus,Total,16990
 2011,Cyprus,Less than 6 years,17995
 2011,Cyprus,From 6 to 10 years,0
 2011,Cyprus,From 6 to 11 years,16578
@@ -2874,7 +2874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Cyprus,65 years or over,11613
 2011,Cyprus,Less than 75 years,17201
 2011,Cyprus,75 years or over,10313
-2011,Latvia,4195
+2011,Latvia,Total,4195
 2011,Latvia,Less than 6 years,4898
 2011,Latvia,From 6 to 10 years,0
 2011,Latvia,From 6 to 11 years,3879
@@ -2899,7 +2899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Latvia,65 years or over,3776
 2011,Latvia,Less than 75 years,4306
 2011,Latvia,75 years or over,3579
-2011,Lithuania,3857
+2011,Lithuania,Total,3857
 2011,Lithuania,Less than 6 years,4395
 2011,Lithuania,From 6 to 10 years,0
 2011,Lithuania,From 6 to 11 years,3393
@@ -2924,7 +2924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Lithuania,65 years or over,3588
 2011,Lithuania,Less than 75 years,3891
 2011,Lithuania,75 years or over,3579
-2011,Luxembourg,32538
+2011,Luxembourg,Total,32538
 2011,Luxembourg,Less than 6 years,29168
 2011,Luxembourg,From 6 to 10 years,0
 2011,Luxembourg,From 6 to 11 years,28667
@@ -2949,7 +2949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Luxembourg,65 years or over,33975
 2011,Luxembourg,Less than 75 years,32450
 2011,Luxembourg,75 years or over,33177
-2011,Hungary,4493
+2011,Hungary,Total,4493
 2011,Hungary,Less than 6 years,4068
 2011,Hungary,From 6 to 10 years,0
 2011,Hungary,From 6 to 11 years,4030
@@ -2974,7 +2974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Hungary,65 years or over,4447
 2011,Hungary,Less than 75 years,4504
 2011,Hungary,75 years or over,4400
-2011,Malta,10862
+2011,Malta,Total,10862
 2011,Malta,Less than 6 years,10114
 2011,Malta,From 6 to 10 years,0
 2011,Malta,From 6 to 11 years,9575
@@ -2999,7 +2999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Malta,65 years or over,8986
 2011,Malta,Less than 75 years,11071
 2011,Malta,75 years or over,8905
-2011,Netherlands,20310
+2011,Netherlands,Total,20310
 2011,Netherlands,Less than 6 years,19869
 2011,Netherlands,From 6 to 10 years,0
 2011,Netherlands,From 6 to 11 years,18876
@@ -3024,7 +3024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Netherlands,65 years or over,18113
 2011,Netherlands,Less than 75 years,20674
 2011,Netherlands,75 years or over,17121
-2011,Austria,21463
+2011,Austria,Total,21463
 2011,Austria,Less than 6 years,18204
 2011,Austria,From 6 to 10 years,0
 2011,Austria,From 6 to 11 years,19108
@@ -3049,7 +3049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Austria,65 years or over,19978
 2011,Austria,Less than 75 years,21701
 2011,Austria,75 years or over,18852
-2011,Poland,5025
+2011,Poland,Total,5025
 2011,Poland,Less than 6 years,4933
 2011,Poland,From 6 to 10 years,0
 2011,Poland,From 6 to 11 years,4637
@@ -3074,7 +3074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Poland,65 years or over,4753
 2011,Poland,Less than 75 years,5042
 2011,Poland,75 years or over,4817
-2011,Portugal,8410
+2011,Portugal,Total,8410
 2011,Portugal,Less than 6 years,8185
 2011,Portugal,From 6 to 10 years,0
 2011,Portugal,From 6 to 11 years,7572
@@ -3099,7 +3099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Portugal,65 years or over,7472
 2011,Portugal,Less than 75 years,8581
 2011,Portugal,75 years or over,6757
-2011,Romania,2091
+2011,Romania,Total,2091
 2011,Romania,Less than 6 years,1804
 2011,Romania,From 6 to 10 years,0
 2011,Romania,From 6 to 11 years,1715
@@ -3124,7 +3124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Romania,65 years or over,2103
 2011,Romania,Less than 75 years,2107
 2011,Romania,75 years or over,1954
-2011,Slovenia,11999
+2011,Slovenia,Total,11999
 2011,Slovenia,Less than 6 years,12006
 2011,Slovenia,From 6 to 10 years,0
 2011,Slovenia,From 6 to 11 years,11628
@@ -3149,7 +3149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Slovenia,65 years or over,10596
 2011,Slovenia,Less than 75 years,12130
 2011,Slovenia,75 years or over,9942
-2011,Slovakia,6306
+2011,Slovakia,Total,6306
 2011,Slovakia,Less than 6 years,5803
 2011,Slovakia,From 6 to 10 years,0
 2011,Slovakia,From 6 to 11 years,6118
@@ -3174,7 +3174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Slovakia,65 years or over,5607
 2011,Slovakia,Less than 75 years,6382
 2011,Slovakia,75 years or over,5433
-2011,Finland,21826
+2011,Finland,Total,21826
 2011,Finland,Less than 6 years,20597
 2011,Finland,From 6 to 10 years,0
 2011,Finland,From 6 to 11 years,21901
@@ -3199,7 +3199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Finland,65 years or over,17763
 2011,Finland,Less than 75 years,22453
 2011,Finland,75 years or over,15518
-2011,Sweden,21584
+2011,Sweden,Total,21584
 2011,Sweden,Less than 6 years,20175
 2011,Sweden,From 6 to 10 years,0
 2011,Sweden,From 6 to 11 years,21993
@@ -3224,7 +3224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Sweden,65 years or over,17298
 2011,Sweden,Less than 75 years,22342
 2011,Sweden,75 years or over,15131
-2011,Iceland,18973
+2011,Iceland,Total,18973
 2011,Iceland,Less than 6 years,17210
 2011,Iceland,From 6 to 10 years,0
 2011,Iceland,From 6 to 11 years,18062
@@ -3249,7 +3249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Iceland,65 years or over,17353
 2011,Iceland,Less than 75 years,19202
 2011,Iceland,75 years or over,15728
-2011,Norway,36453
+2011,Norway,Total,36453
 2011,Norway,Less than 6 years,35424
 2011,Norway,From 6 to 10 years,0
 2011,Norway,From 6 to 11 years,34800
@@ -3274,7 +3274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Norway,65 years or over,31780
 2011,Norway,Less than 75 years,37039
 2011,Norway,75 years or over,27749
-2011,Switzerland,33936
+2011,Switzerland,Total,33936
 2011,Switzerland,Less than 6 years,29990
 2011,Switzerland,From 6 to 10 years,0
 2011,Switzerland,From 6 to 11 years,30096
@@ -3299,7 +3299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Switzerland,65 years or over,27362
 2011,Switzerland,Less than 75 years,34570
 2011,Switzerland,75 years or over,24719
-2011,United Kingdom,17136
+2011,United Kingdom,Total,17136
 2011,United Kingdom,Less than 6 years,15599
 2011,United Kingdom,From 6 to 10 years,0
 2011,United Kingdom,From 6 to 11 years,15704
@@ -3324,7 +3324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,United Kingdom,65 years or over,14534
 2011,United Kingdom,Less than 75 years,17566
 2011,United Kingdom,75 years or over,13530
-2011,North Macedonia,0
+2011,North Macedonia,Total,0
 2011,North Macedonia,Less than 6 years,0
 2011,North Macedonia,From 6 to 10 years,0
 2011,North Macedonia,From 6 to 11 years,0
@@ -3349,7 +3349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,North Macedonia,65 years or over,0
 2011,North Macedonia,Less than 75 years,0
 2011,North Macedonia,75 years or over,0
-2011,Serbia,0
+2011,Serbia,Total,0
 2011,Serbia,Less than 6 years,0
 2011,Serbia,From 6 to 10 years,0
 2011,Serbia,From 6 to 11 years,0
@@ -3374,7 +3374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Serbia,65 years or over,0
 2011,Serbia,Less than 75 years,0
 2011,Serbia,75 years or over,0
-2011,Turkey,3326
+2011,Turkey,Total,3326
 2011,Turkey,Less than 6 years,2791
 2011,Turkey,From 6 to 10 years,0
 2011,Turkey,From 6 to 11 years,2624
@@ -3399,7 +3399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2011,Turkey,65 years or over,3506
 2011,Turkey,Less than 75 years,3327
 2011,Turkey,75 years or over,3289
-2012,Belgium,20280
+2012,Belgium,Total,20280
 2012,Belgium,Less than 6 years,20489
 2012,Belgium,From 6 to 10 years,0
 2012,Belgium,From 6 to 11 years,19931
@@ -3424,7 +3424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Belgium,65 years or over,15800
 2012,Belgium,Less than 75 years,20803
 2012,Belgium,75 years or over,14872
-2012,Bulgaria,2860
+2012,Bulgaria,Total,2860
 2012,Bulgaria,Less than 6 years,2699
 2012,Bulgaria,From 6 to 10 years,0
 2012,Bulgaria,From 6 to 11 years,2660
@@ -3449,7 +3449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Bulgaria,65 years or over,2211
 2012,Bulgaria,Less than 75 years,2926
 2012,Bulgaria,75 years or over,2052
-2012,Czechia,7791
+2012,Czechia,Total,7791
 2012,Czechia,Less than 6 years,7664
 2012,Czechia,From 6 to 10 years,0
 2012,Czechia,From 6 to 11 years,7397
@@ -3474,7 +3474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Czechia,65 years or over,6767
 2012,Czechia,Less than 75 years,7934
 2012,Czechia,75 years or over,6506
-2012,Denmark,27184
+2012,Denmark,Total,27184
 2012,Denmark,Less than 6 years,28333
 2012,Denmark,From 6 to 10 years,0
 2012,Denmark,From 6 to 11 years,27007
@@ -3499,7 +3499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Denmark,65 years or over,21386
 2012,Denmark,Less than 75 years,28017
 2012,Denmark,75 years or over,20051
-2012,Germany (until 1990 former territory of the FRG),19595
+2012,Germany (until 1990 former territory of the FRG),Total,19595
 2012,Germany (until 1990 former territory of the FRG),Less than 6 years,18530
 2012,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2012,Germany (until 1990 former territory of the FRG),From 6 to 11 years,18773
@@ -3524,7 +3524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Germany (until 1990 former territory of the FRG),65 years or over,17729
 2012,Germany (until 1990 former territory of the FRG),Less than 75 years,19794
 2012,Germany (until 1990 former territory of the FRG),75 years or over,17945
-2012,Estonia,5987
+2012,Estonia,Total,5987
 2012,Estonia,Less than 6 years,7331
 2012,Estonia,From 6 to 10 years,0
 2012,Estonia,From 6 to 11 years,6252
@@ -3549,7 +3549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Estonia,65 years or over,4645
 2012,Estonia,Less than 75 years,6252
 2012,Estonia,75 years or over,4358
-2012,Ireland,19648
+2012,Ireland,Total,19648
 2012,Ireland,Less than 6 years,20255
 2012,Ireland,From 6 to 10 years,0
 2012,Ireland,From 6 to 11 years,18544
@@ -3574,7 +3574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Ireland,65 years or over,17185
 2012,Ireland,Less than 75 years,19874
 2012,Ireland,75 years or over,16394
-2012,Greece,9513
+2012,Greece,Total,9513
 2012,Greece,Less than 6 years,9687
 2012,Greece,From 6 to 10 years,0
 2012,Greece,From 6 to 11 years,8506
@@ -3599,7 +3599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Greece,65 years or over,9560
 2012,Greece,Less than 75 years,9555
 2012,Greece,75 years or over,9056
-2012,Spain,13868
+2012,Spain,Total,13868
 2012,Spain,Less than 6 years,13238
 2012,Spain,From 6 to 10 years,0
 2012,Spain,From 6 to 11 years,11832
@@ -3624,7 +3624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Spain,65 years or over,13497
 2012,Spain,Less than 75 years,14029
 2012,Spain,75 years or over,12548
-2012,France,20603
+2012,France,Total,20603
 2012,France,Less than 6 years,19719
 2012,France,From 6 to 10 years,0
 2012,France,From 6 to 11 years,19131
@@ -3649,7 +3649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,France,65 years or over,20603
 2012,France,Less than 75 years,20731
 2012,France,75 years or over,19140
-2012,Croatia,5377
+2012,Croatia,Total,5377
 2012,Croatia,Less than 6 years,5404
 2012,Croatia,From 6 to 10 years,0
 2012,Croatia,From 6 to 11 years,4983
@@ -3674,7 +3674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Croatia,65 years or over,4657
 2012,Croatia,Less than 75 years,5481
 2012,Croatia,75 years or over,4232
-2012,Italy,15979
+2012,Italy,Total,15979
 2012,Italy,Less than 6 years,14907
 2012,Italy,From 6 to 10 years,0
 2012,Italy,From 6 to 11 years,13662
@@ -3699,7 +3699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Italy,65 years or over,15431
 2012,Italy,Less than 75 years,16135
 2012,Italy,75 years or over,14625
-2012,Cyprus,16927
+2012,Cyprus,Total,16927
 2012,Cyprus,Less than 6 years,17469
 2012,Cyprus,From 6 to 10 years,0
 2012,Cyprus,From 6 to 11 years,16746
@@ -3724,7 +3724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Cyprus,65 years or over,12148
 2012,Cyprus,Less than 75 years,17290
 2012,Cyprus,75 years or over,10651
-2012,Latvia,4450
+2012,Latvia,Total,4450
 2012,Latvia,Less than 6 years,4777
 2012,Latvia,From 6 to 10 years,0
 2012,Latvia,From 6 to 11 years,4448
@@ -3749,7 +3749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Latvia,65 years or over,3765
 2012,Latvia,Less than 75 years,4586
 2012,Latvia,75 years or over,3591
-2012,Lithuania,4337
+2012,Lithuania,Total,4337
 2012,Lithuania,Less than 6 years,5045
 2012,Lithuania,From 6 to 10 years,0
 2012,Lithuania,From 6 to 11 years,3937
@@ -3774,7 +3774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Lithuania,65 years or over,3645
 2012,Lithuania,Less than 75 years,4477
 2012,Lithuania,75 years or over,3617
-2012,Luxembourg,32779
+2012,Luxembourg,Total,32779
 2012,Luxembourg,Less than 6 years,27481
 2012,Luxembourg,From 6 to 10 years,0
 2012,Luxembourg,From 6 to 11 years,27722
@@ -3799,7 +3799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Luxembourg,65 years or over,35396
 2012,Luxembourg,Less than 75 years,32662
 2012,Luxembourg,75 years or over,34162
-2012,Hungary,4696
+2012,Hungary,Total,4696
 2012,Hungary,Less than 6 years,4461
 2012,Hungary,From 6 to 10 years,0
 2012,Hungary,From 6 to 11 years,4365
@@ -3824,7 +3824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Hungary,65 years or over,4564
 2012,Hungary,Less than 75 years,4726
 2012,Hungary,75 years or over,4467
-2012,Malta,11449
+2012,Malta,Total,11449
 2012,Malta,Less than 6 years,10387
 2012,Malta,From 6 to 10 years,0
 2012,Malta,From 6 to 11 years,9955
@@ -3849,7 +3849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Malta,65 years or over,9483
 2012,Malta,Less than 75 years,11607
 2012,Malta,75 years or over,9187
-2012,Netherlands,20562
+2012,Netherlands,Total,20562
 2012,Netherlands,Less than 6 years,20238
 2012,Netherlands,From 6 to 10 years,0
 2012,Netherlands,From 6 to 11 years,19267
@@ -3874,7 +3874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Netherlands,65 years or over,18788
 2012,Netherlands,Less than 75 years,20777
 2012,Netherlands,75 years or over,17759
-2012,Austria,21807
+2012,Austria,Total,21807
 2012,Austria,Less than 6 years,17908
 2012,Austria,From 6 to 10 years,0
 2012,Austria,From 6 to 11 years,19259
@@ -3899,7 +3899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Austria,65 years or over,20596
 2012,Austria,Less than 75 years,22022
 2012,Austria,75 years or over,19579
-2012,Poland,5060
+2012,Poland,Total,5060
 2012,Poland,Less than 6 years,4876
 2012,Poland,From 6 to 10 years,0
 2012,Poland,From 6 to 11 years,4537
@@ -3924,7 +3924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Poland,65 years or over,4846
 2012,Poland,Less than 75 years,5082
 2012,Poland,75 years or over,4878
-2012,Portugal,8323
+2012,Portugal,Total,8323
 2012,Portugal,Less than 6 years,8394
 2012,Portugal,From 6 to 10 years,0
 2012,Portugal,From 6 to 11 years,7706
@@ -3949,7 +3949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Portugal,65 years or over,7734
 2012,Portugal,Less than 75 years,8462
 2012,Portugal,75 years or over,6814
-2012,Romania,2049
+2012,Romania,Total,2049
 2012,Romania,Less than 6 years,1958
 2012,Romania,From 6 to 10 years,0
 2012,Romania,From 6 to 11 years,1677
@@ -3974,7 +3974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Romania,65 years or over,2102
 2012,Romania,Less than 75 years,2055
 2012,Romania,75 years or over,1965
-2012,Slovenia,12122
+2012,Slovenia,Total,12122
 2012,Slovenia,Less than 6 years,12394
 2012,Slovenia,From 6 to 10 years,0
 2012,Slovenia,From 6 to 11 years,12069
@@ -3999,7 +3999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Slovenia,65 years or over,10786
 2012,Slovenia,Less than 75 years,12243
 2012,Slovenia,75 years or over,10265
-2012,Slovakia,6927
+2012,Slovakia,Total,6927
 2012,Slovakia,Less than 6 years,6606
 2012,Slovakia,From 6 to 10 years,0
 2012,Slovakia,From 6 to 11 years,6536
@@ -4024,7 +4024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Slovakia,65 years or over,5832
 2012,Slovakia,Less than 75 years,7002
 2012,Slovakia,75 years or over,5683
-2012,Finland,22699
+2012,Finland,Total,22699
 2012,Finland,Less than 6 years,21261
 2012,Finland,From 6 to 10 years,0
 2012,Finland,From 6 to 11 years,23145
@@ -4049,7 +4049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Finland,65 years or over,18469
 2012,Finland,Less than 75 years,23338
 2012,Finland,75 years or over,16105
-2012,Sweden,23852
+2012,Sweden,Total,23852
 2012,Sweden,Less than 6 years,22704
 2012,Sweden,From 6 to 10 years,0
 2012,Sweden,From 6 to 11 years,23643
@@ -4074,7 +4074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Sweden,65 years or over,19356
 2012,Sweden,Less than 75 years,24603
 2012,Sweden,75 years or over,16880
-2012,Iceland,19361
+2012,Iceland,Total,19361
 2012,Iceland,Less than 6 years,17249
 2012,Iceland,From 6 to 10 years,0
 2012,Iceland,From 6 to 11 years,17994
@@ -4099,7 +4099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Iceland,65 years or over,17800
 2012,Iceland,Less than 75 years,19756
 2012,Iceland,75 years or over,16186
-2012,Norway,40106
+2012,Norway,Total,40106
 2012,Norway,Less than 6 years,38011
 2012,Norway,From 6 to 10 years,0
 2012,Norway,From 6 to 11 years,38413
@@ -4124,7 +4124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Norway,65 years or over,37154
 2012,Norway,Less than 75 years,40637
 2012,Norway,75 years or over,32954
-2012,Switzerland,39407
+2012,Switzerland,Total,39407
 2012,Switzerland,Less than 6 years,35307
 2012,Switzerland,From 6 to 10 years,0
 2012,Switzerland,From 6 to 11 years,34820
@@ -4149,7 +4149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Switzerland,65 years or over,31467
 2012,Switzerland,Less than 75 years,40238
 2012,Switzerland,75 years or over,28211
-2012,United Kingdom,19166
+2012,United Kingdom,Total,19166
 2012,United Kingdom,Less than 6 years,16365
 2012,United Kingdom,From 6 to 10 years,0
 2012,United Kingdom,From 6 to 11 years,17443
@@ -4174,7 +4174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,United Kingdom,65 years or over,17313
 2012,United Kingdom,Less than 75 years,19460
 2012,United Kingdom,75 years or over,16012
-2012,North Macedonia,1822
+2012,North Macedonia,Total,1822
 2012,North Macedonia,Less than 6 years,1785
 2012,North Macedonia,From 6 to 10 years,0
 2012,North Macedonia,From 6 to 11 years,1692
@@ -4199,7 +4199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,North Macedonia,65 years or over,1838
 2012,North Macedonia,Less than 75 years,1828
 2012,North Macedonia,75 years or over,1734
-2012,Serbia,0
+2012,Serbia,Total,0
 2012,Serbia,Less than 6 years,0
 2012,Serbia,From 6 to 10 years,0
 2012,Serbia,From 6 to 11 years,0
@@ -4224,7 +4224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Serbia,65 years or over,0
 2012,Serbia,Less than 75 years,0
 2012,Serbia,75 years or over,0
-2012,Turkey,3222
+2012,Turkey,Total,3222
 2012,Turkey,Less than 6 years,2618
 2012,Turkey,From 6 to 10 years,0
 2012,Turkey,From 6 to 11 years,2567
@@ -4249,7 +4249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2012,Turkey,65 years or over,3285
 2012,Turkey,Less than 75 years,3232
 2012,Turkey,75 years or over,3070
-2013,Belgium,21483
+2013,Belgium,Total,21483
 2013,Belgium,Less than 6 years,21899
 2013,Belgium,From 6 to 10 years,0
 2013,Belgium,From 6 to 11 years,21728
@@ -4274,7 +4274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Belgium,65 years or over,17253
 2013,Belgium,Less than 75 years,22109
 2013,Belgium,75 years or over,16323
-2013,Bulgaria,2924
+2013,Bulgaria,Total,2924
 2013,Bulgaria,Less than 6 years,2709
 2013,Bulgaria,From 6 to 10 years,0
 2013,Bulgaria,From 6 to 11 years,2656
@@ -4299,7 +4299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Bulgaria,65 years or over,2351
 2013,Bulgaria,Less than 75 years,3012
 2013,Bulgaria,75 years or over,2165
-2013,Czechia,7694
+2013,Czechia,Total,7694
 2013,Czechia,Less than 6 years,7700
 2013,Czechia,From 6 to 10 years,0
 2013,Czechia,From 6 to 11 years,7542
@@ -4324,7 +4324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Czechia,65 years or over,6798
 2013,Czechia,Less than 75 years,7820
 2013,Czechia,75 years or over,6494
-2013,Denmark,27444
+2013,Denmark,Total,27444
 2013,Denmark,Less than 6 years,29112
 2013,Denmark,From 6 to 10 years,0
 2013,Denmark,From 6 to 11 years,28431
@@ -4349,7 +4349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Denmark,65 years or over,21867
 2013,Denmark,Less than 75 years,28240
 2013,Denmark,75 years or over,20426
-2013,Germany (until 1990 former territory of the FRG),19582
+2013,Germany (until 1990 former territory of the FRG),Total,19582
 2013,Germany (until 1990 former territory of the FRG),Less than 6 years,18975
 2013,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2013,Germany (until 1990 former territory of the FRG),From 6 to 11 years,19187
@@ -4374,7 +4374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Germany (until 1990 former territory of the FRG),65 years or over,17904
 2013,Germany (until 1990 former territory of the FRG),Less than 75 years,19734
 2013,Germany (until 1990 former territory of the FRG),75 years or over,18249
-2013,Estonia,6579
+2013,Estonia,Total,6579
 2013,Estonia,Less than 6 years,7722
 2013,Estonia,From 6 to 10 years,0
 2013,Estonia,From 6 to 11 years,6615
@@ -4399,7 +4399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Estonia,65 years or over,4877
 2013,Estonia,Less than 75 years,6866
 2013,Estonia,75 years or over,4578
-2013,Ireland,19856
+2013,Ireland,Total,19856
 2013,Ireland,Less than 6 years,20544
 2013,Ireland,From 6 to 10 years,0
 2013,Ireland,From 6 to 11 years,18408
@@ -4424,7 +4424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Ireland,65 years or over,18411
 2013,Ireland,Less than 75 years,20016
 2013,Ireland,75 years or over,17660
-2013,Greece,8371
+2013,Greece,Total,8371
 2013,Greece,Less than 6 years,7905
 2013,Greece,From 6 to 10 years,0
 2013,Greece,From 6 to 11 years,6905
@@ -4449,7 +4449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Greece,65 years or over,8553
 2013,Greece,Less than 75 years,8406
 2013,Greece,75 years or over,7967
-2013,Spain,13524
+2013,Spain,Total,13524
 2013,Spain,Less than 6 years,12909
 2013,Spain,From 6 to 10 years,0
 2013,Spain,From 6 to 11 years,11920
@@ -4474,7 +4474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Spain,65 years or over,13527
 2013,Spain,Less than 75 years,13618
 2013,Spain,75 years or over,12693
-2013,France,20924
+2013,France,Total,20924
 2013,France,Less than 6 years,20284
 2013,France,From 6 to 10 years,0
 2013,France,From 6 to 11 years,19407
@@ -4499,7 +4499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,France,65 years or over,21543
 2013,France,Less than 75 years,21007
 2013,France,75 years or over,19901
-2013,Croatia,5078
+2013,Croatia,Total,5078
 2013,Croatia,Less than 6 years,5034
 2013,Croatia,From 6 to 10 years,0
 2013,Croatia,From 6 to 11 years,4831
@@ -4524,7 +4524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Croatia,65 years or over,4573
 2013,Croatia,Less than 75 years,5169
 2013,Croatia,75 years or over,4148
-2013,Italy,15733
+2013,Italy,Total,15733
 2013,Italy,Less than 6 years,14822
 2013,Italy,From 6 to 10 years,0
 2013,Italy,From 6 to 11 years,14176
@@ -4549,7 +4549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Italy,65 years or over,15392
 2013,Italy,Less than 75 years,15892
 2013,Italy,75 years or over,14865
-2013,Cyprus,15873
+2013,Cyprus,Total,15873
 2013,Cyprus,Less than 6 years,16621
 2013,Cyprus,From 6 to 10 years,0
 2013,Cyprus,From 6 to 11 years,15479
@@ -4574,7 +4574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Cyprus,65 years or over,12640
 2013,Cyprus,Less than 75 years,16179
 2013,Cyprus,75 years or over,11029
-2013,Latvia,4666
+2013,Latvia,Total,4666
 2013,Latvia,Less than 6 years,5499
 2013,Latvia,From 6 to 10 years,0
 2013,Latvia,From 6 to 11 years,4429
@@ -4599,7 +4599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Latvia,65 years or over,3815
 2013,Latvia,Less than 75 years,4820
 2013,Latvia,75 years or over,3670
-2013,Lithuania,4698
+2013,Lithuania,Total,4698
 2013,Lithuania,Less than 6 years,4970
 2013,Lithuania,From 6 to 10 years,0
 2013,Lithuania,From 6 to 11 years,4202
@@ -4624,7 +4624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Lithuania,65 years or over,3990
 2013,Lithuania,Less than 75 years,4861
 2013,Lithuania,75 years or over,3816
-2013,Luxembourg,33301
+2013,Luxembourg,Total,33301
 2013,Luxembourg,Less than 6 years,27551
 2013,Luxembourg,From 6 to 10 years,0
 2013,Luxembourg,From 6 to 11 years,28254
@@ -4649,7 +4649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Luxembourg,65 years or over,36755
 2013,Luxembourg,Less than 75 years,33172
 2013,Luxembourg,75 years or over,36813
-2013,Hungary,4449
+2013,Hungary,Total,4449
 2013,Hungary,Less than 6 years,3966
 2013,Hungary,From 6 to 10 years,0
 2013,Hungary,From 6 to 11 years,4055
@@ -4674,7 +4674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Hungary,65 years or over,4564
 2013,Hungary,Less than 75 years,4447
 2013,Hungary,75 years or over,4466
-2013,Malta,12043
+2013,Malta,Total,12043
 2013,Malta,Less than 6 years,11394
 2013,Malta,From 6 to 10 years,0
 2013,Malta,From 6 to 11 years,10149
@@ -4699,7 +4699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Malta,65 years or over,9964
 2013,Malta,Less than 75 years,12201
 2013,Malta,75 years or over,9474
-2013,Netherlands,20839
+2013,Netherlands,Total,20839
 2013,Netherlands,Less than 6 years,20559
 2013,Netherlands,From 6 to 10 years,0
 2013,Netherlands,From 6 to 11 years,19528
@@ -4724,7 +4724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Netherlands,65 years or over,19168
 2013,Netherlands,Less than 75 years,21080
 2013,Netherlands,75 years or over,18114
-2013,Austria,22073
+2013,Austria,Total,22073
 2013,Austria,Less than 6 years,18135
 2013,Austria,From 6 to 10 years,0
 2013,Austria,From 6 to 11 years,18906
@@ -4749,7 +4749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Austria,65 years or over,21141
 2013,Austria,Less than 75 years,22257
 2013,Austria,75 years or over,19921
-2013,Poland,5164
+2013,Poland,Total,5164
 2013,Poland,Less than 6 years,4844
 2013,Poland,From 6 to 10 years,0
 2013,Poland,From 6 to 11 years,4831
@@ -4774,7 +4774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Poland,65 years or over,5079
 2013,Poland,Less than 75 years,5168
 2013,Poland,75 years or over,5143
-2013,Portugal,8177
+2013,Portugal,Total,8177
 2013,Portugal,Less than 6 years,8502
 2013,Portugal,From 6 to 10 years,0
 2013,Portugal,From 6 to 11 years,7610
@@ -4799,7 +4799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Portugal,65 years or over,7780
 2013,Portugal,Less than 75 years,8332
 2013,Portugal,75 years or over,7136
-2013,Romania,2016
+2013,Romania,Total,2016
 2013,Romania,Less than 6 years,1784
 2013,Romania,From 6 to 10 years,0
 2013,Romania,From 6 to 11 years,1623
@@ -4824,7 +4824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Romania,65 years or over,2090
 2013,Romania,Less than 75 years,2024
 2013,Romania,75 years or over,1927
-2013,Slovenia,11852
+2013,Slovenia,Total,11852
 2013,Slovenia,Less than 6 years,12069
 2013,Slovenia,From 6 to 10 years,0
 2013,Slovenia,From 6 to 11 years,12117
@@ -4849,7 +4849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Slovenia,65 years or over,10538
 2013,Slovenia,Less than 75 years,12003
 2013,Slovenia,75 years or over,10126
-2013,Slovakia,6737
+2013,Slovakia,Total,6737
 2013,Slovakia,Less than 6 years,6426
 2013,Slovakia,From 6 to 10 years,0
 2013,Slovakia,From 6 to 11 years,6158
@@ -4874,7 +4874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Slovakia,65 years or over,6145
 2013,Slovakia,Less than 75 years,6787
 2013,Slovakia,75 years or over,5846
-2013,Finland,23272
+2013,Finland,Total,23272
 2013,Finland,Less than 6 years,22241
 2013,Finland,From 6 to 10 years,0
 2013,Finland,From 6 to 11 years,23684
@@ -4899,7 +4899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Finland,65 years or over,19061
 2013,Finland,Less than 75 years,23962
 2013,Finland,75 years or over,16960
-2013,Sweden,25401
+2013,Sweden,Total,25401
 2013,Sweden,Less than 6 years,24389
 2013,Sweden,From 6 to 10 years,0
 2013,Sweden,From 6 to 11 years,25131
@@ -4924,7 +4924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Sweden,65 years or over,21064
 2013,Sweden,Less than 75 years,26220
 2013,Sweden,75 years or over,18513
-2013,Iceland,21234
+2013,Iceland,Total,21234
 2013,Iceland,Less than 6 years,18047
 2013,Iceland,From 6 to 10 years,0
 2013,Iceland,From 6 to 11 years,20021
@@ -4949,7 +4949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Iceland,65 years or over,18869
 2013,Iceland,Less than 75 years,21572
 2013,Iceland,75 years or over,17373
-2013,Norway,42909
+2013,Norway,Total,42909
 2013,Norway,Less than 6 years,41269
 2013,Norway,From 6 to 10 years,0
 2013,Norway,From 6 to 11 years,40569
@@ -4974,7 +4974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Norway,65 years or over,39654
 2013,Norway,Less than 75 years,43668
 2013,Norway,75 years or over,34039
-2013,Switzerland,40791
+2013,Switzerland,Total,40791
 2013,Switzerland,Less than 6 years,36540
 2013,Switzerland,From 6 to 10 years,0
 2013,Switzerland,From 6 to 11 years,35629
@@ -4999,7 +4999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Switzerland,65 years or over,32834
 2013,Switzerland,Less than 75 years,41696
 2013,Switzerland,75 years or over,28993
-2013,United Kingdom,18694
+2013,United Kingdom,Total,18694
 2013,United Kingdom,Less than 6 years,16264
 2013,United Kingdom,From 6 to 10 years,0
 2013,United Kingdom,From 6 to 11 years,16273
@@ -5024,7 +5024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,United Kingdom,65 years or over,16678
 2013,United Kingdom,Less than 75 years,19051
 2013,United Kingdom,75 years or over,15649
-2013,North Macedonia,1904
+2013,North Macedonia,Total,1904
 2013,North Macedonia,Less than 6 years,1866
 2013,North Macedonia,From 6 to 10 years,0
 2013,North Macedonia,From 6 to 11 years,1690
@@ -5049,7 +5049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,North Macedonia,65 years or over,2033
 2013,North Macedonia,Less than 75 years,1900
 2013,North Macedonia,75 years or over,1939
-2013,Serbia,2419
+2013,Serbia,Total,2419
 2013,Serbia,Less than 6 years,2367
 2013,Serbia,From 6 to 10 years,0
 2013,Serbia,From 6 to 11 years,2164
@@ -5074,7 +5074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Serbia,65 years or over,2452
 2013,Serbia,Less than 75 years,2421
 2013,Serbia,75 years or over,2334
-2013,Turkey,3438
+2013,Turkey,Total,3438
 2013,Turkey,Less than 6 years,2746
 2013,Turkey,From 6 to 10 years,0
 2013,Turkey,From 6 to 11 years,2701
@@ -5099,7 +5099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2013,Turkey,65 years or over,3688
 2013,Turkey,Less than 75 years,3436
 2013,Turkey,75 years or over,3523
-2014,Belgium,21705
+2014,Belgium,Total,21705
 2014,Belgium,Less than 6 years,21942
 2014,Belgium,From 6 to 10 years,0
 2014,Belgium,From 6 to 11 years,21959
@@ -5124,7 +5124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Belgium,65 years or over,17516
 2014,Belgium,Less than 75 years,22346
 2014,Belgium,75 years or over,16310
-2014,Bulgaria,3311
+2014,Bulgaria,Total,3311
 2014,Bulgaria,Less than 6 years,2977
 2014,Bulgaria,From 6 to 10 years,0
 2014,Bulgaria,From 6 to 11 years,2975
@@ -5149,7 +5149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Bulgaria,65 years or over,2822
 2014,Bulgaria,Less than 75 years,3397
 2014,Bulgaria,75 years or over,2646
-2014,Czechia,7622
+2014,Czechia,Total,7622
 2014,Czechia,Less than 6 years,7564
 2014,Czechia,From 6 to 10 years,0
 2014,Czechia,From 6 to 11 years,7331
@@ -5174,7 +5174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Czechia,65 years or over,6697
 2014,Czechia,Less than 75 years,7742
 2014,Czechia,75 years or over,6365
-2014,Denmark,27861
+2014,Denmark,Total,27861
 2014,Denmark,Less than 6 years,29447
 2014,Denmark,From 6 to 10 years,0
 2014,Denmark,From 6 to 11 years,28061
@@ -5199,7 +5199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Denmark,65 years or over,22636
 2014,Denmark,Less than 75 years,28632
 2014,Denmark,75 years or over,20958
-2014,Germany (until 1990 former territory of the FRG),19733
+2014,Germany (until 1990 former territory of the FRG),Total,19733
 2014,Germany (until 1990 former territory of the FRG),Less than 6 years,19161
 2014,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2014,Germany (until 1990 former territory of the FRG),From 6 to 11 years,19301
@@ -5224,7 +5224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Germany (until 1990 former territory of the FRG),65 years or over,18181
 2014,Germany (until 1990 former territory of the FRG),Less than 75 years,19928
 2014,Germany (until 1990 former territory of the FRG),75 years or over,18497
-2014,Estonia,7217
+2014,Estonia,Total,7217
 2014,Estonia,Less than 6 years,9023
 2014,Estonia,From 6 to 10 years,0
 2014,Estonia,From 6 to 11 years,7771
@@ -5249,7 +5249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Estonia,65 years or over,5074
 2014,Estonia,Less than 75 years,7647
 2014,Estonia,75 years or over,4739
-2014,Ireland,20171
+2014,Ireland,Total,20171
 2014,Ireland,Less than 6 years,21316
 2014,Ireland,From 6 to 10 years,0
 2014,Ireland,From 6 to 11 years,19159
@@ -5274,7 +5274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Ireland,65 years or over,18003
 2014,Ireland,Less than 75 years,20296
 2014,Ireland,75 years or over,17332
-2014,Greece,7680
+2014,Greece,Total,7680
 2014,Greece,Less than 6 years,7453
 2014,Greece,From 6 to 10 years,0
 2014,Greece,From 6 to 11 years,7352
@@ -5299,7 +5299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Greece,65 years or over,7667
 2014,Greece,Less than 75 years,7760
 2014,Greece,75 years or over,7200
-2014,Spain,13269
+2014,Spain,Total,13269
 2014,Spain,Less than 6 years,12842
 2014,Spain,From 6 to 10 years,0
 2014,Spain,From 6 to 11 years,11816
@@ -5324,7 +5324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Spain,65 years or over,13617
 2014,Spain,Less than 75 years,13330
 2014,Spain,75 years or over,12707
-2014,France,21199
+2014,France,Total,21199
 2014,France,Less than 6 years,20177
 2014,France,From 6 to 10 years,0
 2014,France,From 6 to 11 years,20047
@@ -5349,7 +5349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,France,65 years or over,21569
 2014,France,Less than 75 years,21331
 2014,France,75 years or over,19991
-2014,Croatia,5225
+2014,Croatia,Total,5225
 2014,Croatia,Less than 6 years,5212
 2014,Croatia,From 6 to 10 years,0
 2014,Croatia,From 6 to 11 years,4935
@@ -5374,7 +5374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Croatia,65 years or over,4720
 2014,Croatia,Less than 75 years,5302
 2014,Croatia,75 years or over,4275
-2014,Italy,15759
+2014,Italy,Total,15759
 2014,Italy,Less than 6 years,14671
 2014,Italy,From 6 to 10 years,0
 2014,Italy,From 6 to 11 years,14186
@@ -5399,7 +5399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Italy,65 years or over,15641
 2014,Italy,Less than 75 years,15918
 2014,Italy,75 years or over,15022
-2014,Cyprus,14400
+2014,Cyprus,Total,14400
 2014,Cyprus,Less than 6 years,15118
 2014,Cyprus,From 6 to 10 years,0
 2014,Cyprus,From 6 to 11 years,14278
@@ -5424,7 +5424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Cyprus,65 years or over,11187
 2014,Cyprus,Less than 75 years,14734
 2014,Cyprus,75 years or over,9894
-2014,Latvia,5203
+2014,Latvia,Total,5203
 2014,Latvia,Less than 6 years,5470
 2014,Latvia,From 6 to 10 years,0
 2014,Latvia,From 6 to 11 years,5066
@@ -5449,7 +5449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Latvia,65 years or over,3918
 2014,Latvia,Less than 75 years,5389
 2014,Latvia,75 years or over,3711
-2014,Lithuania,4823
+2014,Lithuania,Total,4823
 2014,Lithuania,Less than 6 years,5013
 2014,Lithuania,From 6 to 10 years,0
 2014,Lithuania,From 6 to 11 years,4471
@@ -5474,7 +5474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Lithuania,65 years or over,3990
 2014,Lithuania,Less than 75 years,5006
 2014,Lithuania,75 years or over,3904
-2014,Luxembourg,34320
+2014,Luxembourg,Total,34320
 2014,Luxembourg,Less than 6 years,31421
 2014,Luxembourg,From 6 to 10 years,0
 2014,Luxembourg,From 6 to 11 years,28830
@@ -5499,7 +5499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Luxembourg,65 years or over,37207
 2014,Luxembourg,Less than 75 years,34071
 2014,Luxembourg,75 years or over,35503
-2014,Hungary,4512
+2014,Hungary,Total,4512
 2014,Hungary,Less than 6 years,3810
 2014,Hungary,From 6 to 10 years,0
 2014,Hungary,From 6 to 11 years,4095
@@ -5524,7 +5524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Hungary,65 years or over,4699
 2014,Hungary,Less than 75 years,4497
 2014,Hungary,75 years or over,4651
-2014,Malta,12808
+2014,Malta,Total,12808
 2014,Malta,Less than 6 years,13376
 2014,Malta,From 6 to 10 years,0
 2014,Malta,From 6 to 11 years,11178
@@ -5549,7 +5549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Malta,65 years or over,10327
 2014,Malta,Less than 75 years,13011
 2014,Malta,75 years or over,9785
-2014,Netherlands,20891
+2014,Netherlands,Total,20891
 2014,Netherlands,Less than 6 years,21667
 2014,Netherlands,From 6 to 10 years,0
 2014,Netherlands,From 6 to 11 years,19509
@@ -5574,7 +5574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Netherlands,65 years or over,19059
 2014,Netherlands,Less than 75 years,21164
 2014,Netherlands,75 years or over,17953
-2014,Austria,23211
+2014,Austria,Total,23211
 2014,Austria,Less than 6 years,19980
 2014,Austria,From 6 to 10 years,0
 2014,Austria,From 6 to 11 years,19694
@@ -5599,7 +5599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Austria,65 years or over,22424
 2014,Austria,Less than 75 years,23484
 2014,Austria,75 years or over,20927
-2014,Poland,5336
+2014,Poland,Total,5336
 2014,Poland,Less than 6 years,5048
 2014,Poland,From 6 to 10 years,0
 2014,Poland,From 6 to 11 years,5080
@@ -5624,7 +5624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Poland,65 years or over,5283
 2014,Poland,Less than 75 years,5337
 2014,Poland,75 years or over,5269
-2014,Portugal,8229
+2014,Portugal,Total,8229
 2014,Portugal,Less than 6 years,8566
 2014,Portugal,From 6 to 10 years,0
 2014,Portugal,From 6 to 11 years,8035
@@ -5649,7 +5649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Portugal,65 years or over,7819
 2014,Portugal,Less than 75 years,8389
 2014,Portugal,75 years or over,7126
-2014,Romania,2155
+2014,Romania,Total,2155
 2014,Romania,Less than 6 years,1953
 2014,Romania,From 6 to 10 years,0
 2014,Romania,From 6 to 11 years,1628
@@ -5674,7 +5674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Romania,65 years or over,2219
 2014,Romania,Less than 75 years,2172
 2014,Romania,75 years or over,1999
-2014,Slovenia,11909
+2014,Slovenia,Total,11909
 2014,Slovenia,Less than 6 years,12075
 2014,Slovenia,From 6 to 10 years,0
 2014,Slovenia,From 6 to 11 years,12088
@@ -5699,7 +5699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Slovenia,65 years or over,10953
 2014,Slovenia,Less than 75 years,12019
 2014,Slovenia,75 years or over,10651
-2014,Slovakia,6809
+2014,Slovakia,Total,6809
 2014,Slovakia,Less than 6 years,6178
 2014,Slovakia,From 6 to 10 years,0
 2014,Slovakia,From 6 to 11 years,6010
@@ -5724,7 +5724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Slovakia,65 years or over,6301
 2014,Slovakia,Less than 75 years,6875
 2014,Slovakia,75 years or over,5961
-2014,Finland,23702
+2014,Finland,Total,23702
 2014,Finland,Less than 6 years,22384
 2014,Finland,From 6 to 10 years,0
 2014,Finland,From 6 to 11 years,24287
@@ -5749,7 +5749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Finland,65 years or over,19641
 2014,Finland,Less than 75 years,24376
 2014,Finland,75 years or over,17613
-2014,Sweden,25838
+2014,Sweden,Total,25838
 2014,Sweden,Less than 6 years,24130
 2014,Sweden,From 6 to 10 years,0
 2014,Sweden,From 6 to 11 years,25180
@@ -5774,7 +5774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Sweden,65 years or over,22190
 2014,Sweden,Less than 75 years,26769
 2014,Sweden,75 years or over,19522
-2014,Iceland,22487
+2014,Iceland,Total,22487
 2014,Iceland,Less than 6 years,19824
 2014,Iceland,From 6 to 10 years,0
 2014,Iceland,From 6 to 11 years,21302
@@ -5799,7 +5799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Iceland,65 years or over,20453
 2014,Iceland,Less than 75 years,22780
 2014,Iceland,75 years or over,17728
-2014,Norway,43775
+2014,Norway,Total,43775
 2014,Norway,Less than 6 years,42230
 2014,Norway,From 6 to 10 years,0
 2014,Norway,From 6 to 11 years,42334
@@ -5824,7 +5824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Norway,65 years or over,40729
 2014,Norway,Less than 75 years,44485
 2014,Norway,75 years or over,34566
-2014,Switzerland,38162
+2014,Switzerland,Total,38162
 2014,Switzerland,Less than 6 years,33218
 2014,Switzerland,From 6 to 10 years,0
 2014,Switzerland,From 6 to 11 years,33651
@@ -5849,7 +5849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Switzerland,65 years or over,32094
 2014,Switzerland,Less than 75 years,38940
 2014,Switzerland,75 years or over,28224
-2014,United Kingdom,20528
+2014,United Kingdom,Total,20528
 2014,United Kingdom,Less than 6 years,18102
 2014,United Kingdom,From 6 to 10 years,0
 2014,United Kingdom,From 6 to 11 years,18001
@@ -5874,7 +5874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,United Kingdom,65 years or over,18435
 2014,United Kingdom,Less than 75 years,21000
 2014,United Kingdom,75 years or over,16932
-2014,North Macedonia,1946
+2014,North Macedonia,Total,1946
 2014,North Macedonia,Less than 6 years,1855
 2014,North Macedonia,From 6 to 10 years,0
 2014,North Macedonia,From 6 to 11 years,1739
@@ -5899,7 +5899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,North Macedonia,65 years or over,2139
 2014,North Macedonia,Less than 75 years,1946
 2014,North Macedonia,75 years or over,2042
-2014,Serbia,2426
+2014,Serbia,Total,2426
 2014,Serbia,Less than 6 years,2357
 2014,Serbia,From 6 to 10 years,0
 2014,Serbia,From 6 to 11 years,2188
@@ -5924,7 +5924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Serbia,65 years or over,2528
 2014,Serbia,Less than 75 years,2440
 2014,Serbia,75 years or over,2333
-2014,Turkey,3497
+2014,Turkey,Total,3497
 2014,Turkey,Less than 6 years,2826
 2014,Turkey,From 6 to 10 years,0
 2014,Turkey,From 6 to 11 years,2733
@@ -5949,7 +5949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2014,Turkey,65 years or over,3671
 2014,Turkey,Less than 75 years,3499
 2014,Turkey,75 years or over,3470
-2015,Belgium,21654
+2015,Belgium,Total,21654
 2015,Belgium,Less than 6 years,22185
 2015,Belgium,From 6 to 10 years,0
 2015,Belgium,From 6 to 11 years,21412
@@ -5974,7 +5974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Belgium,65 years or over,17894
 2015,Belgium,Less than 75 years,22285
 2015,Belgium,75 years or over,16773
-2015,Bulgaria,3332
+2015,Bulgaria,Total,3332
 2015,Bulgaria,Less than 6 years,3327
 2015,Bulgaria,From 6 to 10 years,0
 2015,Bulgaria,From 6 to 11 years,3222
@@ -5999,7 +5999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Bulgaria,65 years or over,2562
 2015,Bulgaria,Less than 75 years,3468
 2015,Bulgaria,75 years or over,2303
-2015,Czechia,7423
+2015,Czechia,Total,7423
 2015,Czechia,Less than 6 years,7364
 2015,Czechia,From 6 to 10 years,0
 2015,Czechia,From 6 to 11 years,7322
@@ -6024,7 +6024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Czechia,65 years or over,6342
 2015,Czechia,Less than 75 years,7559
 2015,Czechia,75 years or over,6020
-2015,Denmark,28364
+2015,Denmark,Total,28364
 2015,Denmark,Less than 6 years,30335
 2015,Denmark,From 6 to 10 years,0
 2015,Denmark,From 6 to 11 years,29403
@@ -6049,7 +6049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Denmark,65 years or over,22943
 2015,Denmark,Less than 75 years,28974
 2015,Denmark,75 years or over,21182
-2015,Germany (until 1990 former territory of the FRG),20668
+2015,Germany (until 1990 former territory of the FRG),Total,20668
 2015,Germany (until 1990 former territory of the FRG),Less than 6 years,20031
 2015,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2015,Germany (until 1990 former territory of the FRG),From 6 to 11 years,20287
@@ -6074,7 +6074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Germany (until 1990 former territory of the FRG),65 years or over,18609
 2015,Germany (until 1990 former territory of the FRG),Less than 75 years,20974
 2015,Germany (until 1990 former territory of the FRG),75 years or over,18719
-2015,Estonia,7889
+2015,Estonia,Total,7889
 2015,Estonia,Less than 6 years,8314
 2015,Estonia,From 6 to 10 years,0
 2015,Estonia,From 6 to 11 years,8471
@@ -6099,7 +6099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Estonia,65 years or over,5452
 2015,Estonia,Less than 75 years,8338
 2015,Estonia,75 years or over,4994
-2015,Ireland,21629
+2015,Ireland,Total,21629
 2015,Ireland,Less than 6 years,22370
 2015,Ireland,From 6 to 10 years,0
 2015,Ireland,From 6 to 11 years,20629
@@ -6124,7 +6124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Ireland,65 years or over,19250
 2015,Ireland,Less than 75 years,21847
 2015,Ireland,75 years or over,18022
-2015,Greece,7520
+2015,Greece,Total,7520
 2015,Greece,Less than 6 years,7167
 2015,Greece,From 6 to 10 years,0
 2015,Greece,From 6 to 11 years,6667
@@ -6149,7 +6149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Greece,65 years or over,7714
 2015,Greece,Less than 75 years,7538
 2015,Greece,75 years or over,7367
-2015,Spain,13352
+2015,Spain,Total,13352
 2015,Spain,Less than 6 years,13169
 2015,Spain,From 6 to 10 years,0
 2015,Spain,From 6 to 11 years,11806
@@ -6174,7 +6174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Spain,65 years or over,13497
 2015,Spain,Less than 75 years,13432
 2015,Spain,75 years or over,12484
-2015,France,21415
+2015,France,Total,21415
 2015,France,Less than 6 years,20528
 2015,France,From 6 to 10 years,0
 2015,France,From 6 to 11 years,19806
@@ -6199,7 +6199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,France,65 years or over,22060
 2015,France,Less than 75 years,21477
 2015,France,75 years or over,20478
-2015,Croatia,5453
+2015,Croatia,Total,5453
 2015,Croatia,Less than 6 years,5610
 2015,Croatia,From 6 to 10 years,0
 2015,Croatia,From 6 to 11 years,4869
@@ -6224,7 +6224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Croatia,65 years or over,4768
 2015,Croatia,Less than 75 years,5531
 2015,Croatia,75 years or over,4572
-2015,Italy,15846
+2015,Italy,Total,15846
 2015,Italy,Less than 6 years,15273
 2015,Italy,From 6 to 10 years,0
 2015,Italy,From 6 to 11 years,13932
@@ -6249,7 +6249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Italy,65 years or over,15738
 2015,Italy,Less than 75 years,16006
 2015,Italy,75 years or over,14982
-2015,Cyprus,13793
+2015,Cyprus,Total,13793
 2015,Cyprus,Less than 6 years,13570
 2015,Cyprus,From 6 to 10 years,0
 2015,Cyprus,From 6 to 11 years,13593
@@ -6274,7 +6274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Cyprus,65 years or over,11407
 2015,Cyprus,Less than 75 years,14149
 2015,Cyprus,75 years or over,10099
-2015,Latvia,5828
+2015,Latvia,Total,5828
 2015,Latvia,Less than 6 years,6445
 2015,Latvia,From 6 to 10 years,0
 2015,Latvia,From 6 to 11 years,5908
@@ -6299,7 +6299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Latvia,65 years or over,4119
 2015,Latvia,Less than 75 years,6054
 2015,Latvia,75 years or over,3835
-2015,Lithuania,5180
+2015,Lithuania,Total,5180
 2015,Lithuania,Less than 6 years,5525
 2015,Lithuania,From 6 to 10 years,0
 2015,Lithuania,From 6 to 11 years,4796
@@ -6324,7 +6324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Lithuania,65 years or over,4045
 2015,Lithuania,Less than 75 years,5388
 2015,Lithuania,75 years or over,3864
-2015,Luxembourg,35270
+2015,Luxembourg,Total,35270
 2015,Luxembourg,Less than 6 years,32867
 2015,Luxembourg,From 6 to 10 years,0
 2015,Luxembourg,From 6 to 11 years,31652
@@ -6349,7 +6349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Luxembourg,65 years or over,37525
 2015,Luxembourg,Less than 75 years,35228
 2015,Luxembourg,75 years or over,36216
-2015,Hungary,4556
+2015,Hungary,Total,4556
 2015,Hungary,Less than 6 years,4450
 2015,Hungary,From 6 to 10 years,0
 2015,Hungary,From 6 to 11 years,4192
@@ -6374,7 +6374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Hungary,65 years or over,4614
 2015,Hungary,Less than 75 years,4555
 2015,Hungary,75 years or over,4576
-2015,Malta,13551
+2015,Malta,Total,13551
 2015,Malta,Less than 6 years,13984
 2015,Malta,From 6 to 10 years,0
 2015,Malta,From 6 to 11 years,12232
@@ -6399,7 +6399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Malta,65 years or over,10715
 2015,Malta,Less than 75 years,13885
 2015,Malta,75 years or over,10273
-2015,Netherlands,21292
+2015,Netherlands,Total,21292
 2015,Netherlands,Less than 6 years,21988
 2015,Netherlands,From 6 to 10 years,0
 2015,Netherlands,From 6 to 11 years,20771
@@ -6424,7 +6424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Netherlands,65 years or over,19330
 2015,Netherlands,Less than 75 years,21615
 2015,Netherlands,75 years or over,17940
-2015,Austria,23260
+2015,Austria,Total,23260
 2015,Austria,Less than 6 years,19682
 2015,Austria,From 6 to 10 years,0
 2015,Austria,From 6 to 11 years,20551
@@ -6449,7 +6449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Austria,65 years or over,22839
 2015,Austria,Less than 75 years,23456
 2015,Austria,75 years or over,21373
-2015,Poland,5556
+2015,Poland,Total,5556
 2015,Poland,Less than 6 years,5446
 2015,Poland,From 6 to 10 years,0
 2015,Poland,From 6 to 11 years,5296
@@ -6474,7 +6474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Poland,65 years or over,5497
 2015,Poland,Less than 75 years,5562
 2015,Poland,75 years or over,5484
-2015,Portugal,8435
+2015,Portugal,Total,8435
 2015,Portugal,Less than 6 years,8559
 2015,Portugal,From 6 to 10 years,0
 2015,Portugal,From 6 to 11 years,8434
@@ -6499,7 +6499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Portugal,65 years or over,7910
 2015,Portugal,Less than 75 years,8577
 2015,Portugal,75 years or over,7226
-2015,Romania,2315
+2015,Romania,Total,2315
 2015,Romania,Less than 6 years,1981
 2015,Romania,From 6 to 10 years,0
 2015,Romania,From 6 to 11 years,2001
@@ -6524,7 +6524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Romania,65 years or over,2312
 2015,Romania,Less than 75 years,2336
 2015,Romania,75 years or over,2088
-2015,Slovenia,12332
+2015,Slovenia,Total,12332
 2015,Slovenia,Less than 6 years,12493
 2015,Slovenia,From 6 to 10 years,0
 2015,Slovenia,From 6 to 11 years,12645
@@ -6549,7 +6549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Slovenia,65 years or over,11289
 2015,Slovenia,Less than 75 years,12458
 2015,Slovenia,75 years or over,10893
-2015,Slovakia,6930
+2015,Slovakia,Total,6930
 2015,Slovakia,Less than 6 years,6310
 2015,Slovakia,From 6 to 10 years,0
 2015,Slovakia,From 6 to 11 years,6027
@@ -6574,7 +6574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Slovakia,65 years or over,6421
 2015,Slovakia,Less than 75 years,6987
 2015,Slovakia,75 years or over,6047
-2015,Finland,23763
+2015,Finland,Total,23763
 2015,Finland,Less than 6 years,23587
 2015,Finland,From 6 to 10 years,0
 2015,Finland,From 6 to 11 years,24140
@@ -6599,7 +6599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Finland,65 years or over,20063
 2015,Finland,Less than 75 years,24368
 2015,Finland,75 years or over,18013
-2015,Sweden,25306
+2015,Sweden,Total,25306
 2015,Sweden,Less than 6 years,24239
 2015,Sweden,From 6 to 10 years,0
 2015,Sweden,From 6 to 11 years,25834
@@ -6624,7 +6624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Sweden,65 years or over,20927
 2015,Sweden,Less than 75 years,26145
 2015,Sweden,75 years or over,18059
-2015,Iceland,24554
+2015,Iceland,Total,24554
 2015,Iceland,Less than 6 years,21835
 2015,Iceland,From 6 to 10 years,0
 2015,Iceland,From 6 to 11 years,22877
@@ -6649,7 +6649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Iceland,65 years or over,22938
 2015,Iceland,Less than 75 years,25022
 2015,Iceland,75 years or over,20253
-2015,Norway,41483
+2015,Norway,Total,41483
 2015,Norway,Less than 6 years,40051
 2015,Norway,From 6 to 10 years,0
 2015,Norway,From 6 to 11 years,40229
@@ -6674,7 +6674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Norway,65 years or over,38860
 2015,Norway,Less than 75 years,42328
 2015,Norway,75 years or over,32973
-2015,Switzerland,39586
+2015,Switzerland,Total,39586
 2015,Switzerland,Less than 6 years,35604
 2015,Switzerland,From 6 to 10 years,0
 2015,Switzerland,From 6 to 11 years,34673
@@ -6699,7 +6699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Switzerland,65 years or over,33891
 2015,Switzerland,Less than 75 years,40187
 2015,Switzerland,75 years or over,30233
-2015,United Kingdom,21028
+2015,United Kingdom,Total,21028
 2015,United Kingdom,Less than 6 years,18004
 2015,United Kingdom,From 6 to 10 years,0
 2015,United Kingdom,From 6 to 11 years,18541
@@ -6724,7 +6724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,United Kingdom,65 years or over,19032
 2015,United Kingdom,Less than 75 years,21437
 2015,United Kingdom,75 years or over,17434
-2015,North Macedonia,2119
+2015,North Macedonia,Total,2119
 2015,North Macedonia,Less than 6 years,1859
 2015,North Macedonia,From 6 to 10 years,0
 2015,North Macedonia,From 6 to 11 years,1916
@@ -6749,7 +6749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,North Macedonia,65 years or over,2337
 2015,North Macedonia,Less than 75 years,2115
 2015,North Macedonia,75 years or over,2190
-2015,Serbia,2382
+2015,Serbia,Total,2382
 2015,Serbia,Less than 6 years,2586
 2015,Serbia,From 6 to 10 years,0
 2015,Serbia,From 6 to 11 years,2199
@@ -6774,7 +6774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Serbia,65 years or over,2523
 2015,Serbia,Less than 75 years,2387
 2015,Serbia,75 years or over,2319
-2015,Turkey,3386
+2015,Turkey,Total,3386
 2015,Turkey,Less than 6 years,2807
 2015,Turkey,From 6 to 10 years,0
 2015,Turkey,From 6 to 11 years,2635
@@ -6799,7 +6799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2015,Turkey,65 years or over,3510
 2015,Turkey,Less than 75 years,3387
 2015,Turkey,75 years or over,3338
-2016,Belgium,22295
+2016,Belgium,Total,22295
 2016,Belgium,Less than 6 years,23918
 2016,Belgium,From 6 to 10 years,0
 2016,Belgium,From 6 to 11 years,23469
@@ -6824,7 +6824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Belgium,65 years or over,18033
 2016,Belgium,Less than 75 years,23022
 2016,Belgium,75 years or over,16908
-2016,Bulgaria,3151
+2016,Bulgaria,Total,3151
 2016,Bulgaria,Less than 6 years,2861
 2016,Bulgaria,From 6 to 10 years,0
 2016,Bulgaria,From 6 to 11 years,2725
@@ -6849,7 +6849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Bulgaria,65 years or over,2649
 2016,Bulgaria,Less than 75 years,3256
 2016,Bulgaria,75 years or over,2368
-2016,Czechia,7838
+2016,Czechia,Total,7838
 2016,Czechia,Less than 6 years,7673
 2016,Czechia,From 6 to 10 years,0
 2016,Czechia,From 6 to 11 years,7785
@@ -6874,7 +6874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Czechia,65 years or over,6554
 2016,Czechia,Less than 75 years,8092
 2016,Czechia,75 years or over,6202
-2016,Denmark,28665
+2016,Denmark,Total,28665
 2016,Denmark,Less than 6 years,31040
 2016,Denmark,From 6 to 10 years,0
 2016,Denmark,From 6 to 11 years,31107
@@ -6899,7 +6899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Denmark,65 years or over,22845
 2016,Denmark,Less than 75 years,29555
 2016,Denmark,75 years or over,21387
-2016,Germany (until 1990 former territory of the FRG),21275
+2016,Germany (until 1990 former territory of the FRG),Total,21275
 2016,Germany (until 1990 former territory of the FRG),Less than 6 years,20771
 2016,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2016,Germany (until 1990 former territory of the FRG),From 6 to 11 years,20371
@@ -6924,7 +6924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Germany (until 1990 former territory of the FRG),65 years or over,18669
 2016,Germany (until 1990 former territory of the FRG),Less than 75 years,21603
 2016,Germany (until 1990 former territory of the FRG),75 years or over,18950
-2016,Estonia,8645
+2016,Estonia,Total,8645
 2016,Estonia,Less than 6 years,9534
 2016,Estonia,From 6 to 10 years,0
 2016,Estonia,From 6 to 11 years,9349
@@ -6949,7 +6949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Estonia,65 years or over,5765
 2016,Estonia,Less than 75 years,9156
 2016,Estonia,75 years or over,5298
-2016,Ireland,22544
+2016,Ireland,Total,22544
 2016,Ireland,Less than 6 years,22896
 2016,Ireland,From 6 to 10 years,0
 2016,Ireland,From 6 to 11 years,21682
@@ -6974,7 +6974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Ireland,65 years or over,19470
 2016,Ireland,Less than 75 years,22851
 2016,Ireland,75 years or over,17334
-2016,Greece,7500
+2016,Greece,Total,7500
 2016,Greece,Less than 6 years,7229
 2016,Greece,From 6 to 10 years,0
 2016,Greece,From 6 to 11 years,6614
@@ -6999,7 +6999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Greece,65 years or over,7816
 2016,Greece,Less than 75 years,7500
 2016,Greece,75 years or over,7480
-2016,Spain,13681
+2016,Spain,Total,13681
 2016,Spain,Less than 6 years,13756
 2016,Spain,From 6 to 10 years,0
 2016,Spain,From 6 to 11 years,12310
@@ -7024,7 +7024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Spain,65 years or over,13832
 2016,Spain,Less than 75 years,13827
 2016,Spain,75 years or over,12694
-2016,France,21713
+2016,France,Total,21713
 2016,France,Less than 6 years,20916
 2016,France,From 6 to 10 years,0
 2016,France,From 6 to 11 years,19428
@@ -7049,7 +7049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,France,65 years or over,22067
 2016,France,Less than 75 years,21780
 2016,France,75 years or over,20901
-2016,Croatia,5726
+2016,Croatia,Total,5726
 2016,Croatia,Less than 6 years,5973
 2016,Croatia,From 6 to 10 years,0
 2016,Croatia,From 6 to 11 years,5332
@@ -7074,7 +7074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Croatia,65 years or over,4963
 2016,Croatia,Less than 75 years,5832
 2016,Croatia,75 years or over,4728
-2016,Italy,16247
+2016,Italy,Total,16247
 2016,Italy,Less than 6 years,15105
 2016,Italy,From 6 to 10 years,0
 2016,Italy,From 6 to 11 years,13848
@@ -7099,7 +7099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Italy,65 years or over,16403
 2016,Italy,Less than 75 years,16400
 2016,Italy,75 years or over,15635
-2016,Cyprus,14020
+2016,Cyprus,Total,14020
 2016,Cyprus,Less than 6 years,13912
 2016,Cyprus,From 6 to 10 years,0
 2016,Cyprus,From 6 to 11 years,14398
@@ -7124,7 +7124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Cyprus,65 years or over,11573
 2016,Cyprus,Less than 75 years,14434
 2016,Cyprus,75 years or over,10152
-2016,Latvia,6365
+2016,Latvia,Total,6365
 2016,Latvia,Less than 6 years,7134
 2016,Latvia,From 6 to 10 years,0
 2016,Latvia,From 6 to 11 years,6638
@@ -7149,7 +7149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Latvia,65 years or over,4385
 2016,Latvia,Less than 75 years,6625
 2016,Latvia,75 years or over,4059
-2016,Lithuania,5645
+2016,Lithuania,Total,5645
 2016,Lithuania,Less than 6 years,5966
 2016,Lithuania,From 6 to 10 years,0
 2016,Lithuania,From 6 to 11 years,5104
@@ -7174,7 +7174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Lithuania,65 years or over,4323
 2016,Lithuania,Less than 75 years,5886
 2016,Lithuania,75 years or over,4169
-2016,Luxembourg,32841
+2016,Luxembourg,Total,32841
 2016,Luxembourg,Less than 6 years,28076
 2016,Luxembourg,From 6 to 10 years,0
 2016,Luxembourg,From 6 to 11 years,29394
@@ -7199,7 +7199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Luxembourg,65 years or over,38139
 2016,Luxembourg,Less than 75 years,32603
 2016,Luxembourg,75 years or over,39097
-2016,Hungary,4768
+2016,Hungary,Total,4768
 2016,Hungary,Less than 6 years,4579
 2016,Hungary,From 6 to 10 years,0
 2016,Hungary,From 6 to 11 years,4341
@@ -7224,7 +7224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Hungary,65 years or over,4800
 2016,Hungary,Less than 75 years,4773
 2016,Hungary,75 years or over,4747
-2016,Malta,13617
+2016,Malta,Total,13617
 2016,Malta,Less than 6 years,13729
 2016,Malta,From 6 to 10 years,0
 2016,Malta,From 6 to 11 years,12682
@@ -7249,7 +7249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Malta,65 years or over,10488
 2016,Malta,Less than 75 years,13938
 2016,Malta,75 years or over,10113
-2016,Netherlands,22733
+2016,Netherlands,Total,22733
 2016,Netherlands,Less than 6 years,23392
 2016,Netherlands,From 6 to 10 years,0
 2016,Netherlands,From 6 to 11 years,22884
@@ -7274,7 +7274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Netherlands,65 years or over,19401
 2016,Netherlands,Less than 75 years,23137
 2016,Netherlands,75 years or over,18328
-2016,Austria,23694
+2016,Austria,Total,23694
 2016,Austria,Less than 6 years,19868
 2016,Austria,From 6 to 10 years,0
 2016,Austria,From 6 to 11 years,20099
@@ -7299,7 +7299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Austria,65 years or over,23126
 2016,Austria,Less than 75 years,23880
 2016,Austria,75 years or over,22155
-2016,Poland,5884
+2016,Poland,Total,5884
 2016,Poland,Less than 6 years,5986
 2016,Poland,From 6 to 10 years,0
 2016,Poland,From 6 to 11 years,5433
@@ -7324,7 +7324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Poland,65 years or over,5738
 2016,Poland,Less than 75 years,5905
 2016,Poland,75 years or over,5730
-2016,Portugal,8782
+2016,Portugal,Total,8782
 2016,Portugal,Less than 6 years,8800
 2016,Portugal,From 6 to 10 years,0
 2016,Portugal,From 6 to 11 years,8595
@@ -7349,7 +7349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Portugal,65 years or over,8153
 2016,Portugal,Less than 75 years,8923
 2016,Portugal,75 years or over,7427
-2016,Romania,2448
+2016,Romania,Total,2448
 2016,Romania,Less than 6 years,2227
 2016,Romania,From 6 to 10 years,0
 2016,Romania,From 6 to 11 years,2035
@@ -7374,7 +7374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Romania,65 years or over,2400
 2016,Romania,Less than 75 years,2477
 2016,Romania,75 years or over,2192
-2016,Slovenia,12327
+2016,Slovenia,Total,12327
 2016,Slovenia,Less than 6 years,12525
 2016,Slovenia,From 6 to 10 years,0
 2016,Slovenia,From 6 to 11 years,12828
@@ -7399,7 +7399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Slovenia,65 years or over,11181
 2016,Slovenia,Less than 75 years,12465
 2016,Slovenia,75 years or over,10657
-2016,Slovakia,6951
+2016,Slovakia,Total,6951
 2016,Slovakia,Less than 6 years,6306
 2016,Slovakia,From 6 to 10 years,0
 2016,Slovakia,From 6 to 11 years,6176
@@ -7424,7 +7424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Slovakia,65 years or over,6500
 2016,Slovakia,Less than 75 years,7067
 2016,Slovakia,75 years or over,6155
-2016,Finland,23650
+2016,Finland,Total,23650
 2016,Finland,Less than 6 years,22889
 2016,Finland,From 6 to 10 years,0
 2016,Finland,From 6 to 11 years,24042
@@ -7449,7 +7449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Finland,65 years or over,20440
 2016,Finland,Less than 75 years,24404
 2016,Finland,75 years or over,18353
-2016,Sweden,25164
+2016,Sweden,Total,25164
 2016,Sweden,Less than 6 years,23345
 2016,Sweden,From 6 to 10 years,0
 2016,Sweden,From 6 to 11 years,24988
@@ -7474,7 +7474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Sweden,65 years or over,20376
 2016,Sweden,Less than 75 years,26039
 2016,Sweden,75 years or over,17731
-2016,Iceland,28393
+2016,Iceland,Total,28393
 2016,Iceland,Less than 6 years,24980
 2016,Iceland,From 6 to 10 years,0
 2016,Iceland,From 6 to 11 years,25801
@@ -7499,7 +7499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Iceland,65 years or over,26491
 2016,Iceland,Less than 75 years,28758
 2016,Iceland,75 years or over,23414
-2016,Norway,39573
+2016,Norway,Total,39573
 2016,Norway,Less than 6 years,37475
 2016,Norway,From 6 to 10 years,0
 2016,Norway,From 6 to 11 years,38442
@@ -7524,7 +7524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Norway,65 years or over,36788
 2016,Norway,Less than 75 years,40271
 2016,Norway,75 years or over,31441
-2016,Switzerland,44253
+2016,Switzerland,Total,44253
 2016,Switzerland,Less than 6 years,39288
 2016,Switzerland,From 6 to 10 years,0
 2016,Switzerland,From 6 to 11 years,37969
@@ -7549,7 +7549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Switzerland,65 years or over,37459
 2016,Switzerland,Less than 75 years,45221
 2016,Switzerland,75 years or over,34750
-2016,United Kingdom,21136
+2016,United Kingdom,Total,21136
 2016,United Kingdom,Less than 6 years,18573
 2016,United Kingdom,From 6 to 10 years,0
 2016,United Kingdom,From 6 to 11 years,18792
@@ -7574,7 +7574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,United Kingdom,65 years or over,19163
 2016,United Kingdom,Less than 75 years,21521
 2016,United Kingdom,75 years or over,17398
-2016,North Macedonia,2233
+2016,North Macedonia,Total,2233
 2016,North Macedonia,Less than 6 years,1990
 2016,North Macedonia,From 6 to 10 years,0
 2016,North Macedonia,From 6 to 11 years,1909
@@ -7599,7 +7599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,North Macedonia,65 years or over,2486
 2016,North Macedonia,Less than 75 years,2230
 2016,North Macedonia,75 years or over,2321
-2016,Serbia,2432
+2016,Serbia,Total,2432
 2016,Serbia,Less than 6 years,2452
 2016,Serbia,From 6 to 10 years,0
 2016,Serbia,From 6 to 11 years,2387
@@ -7624,7 +7624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Serbia,65 years or over,2584
 2016,Serbia,Less than 75 years,2439
 2016,Serbia,75 years or over,2385
-2016,Turkey,3752
+2016,Turkey,Total,3752
 2016,Turkey,Less than 6 years,3085
 2016,Turkey,From 6 to 10 years,0
 2016,Turkey,From 6 to 11 years,2926
@@ -7649,7 +7649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2016,Turkey,65 years or over,3841
 2016,Turkey,Less than 75 years,3757
 2016,Turkey,75 years or over,3648
-2017,Belgium,22733
+2017,Belgium,Total,22733
 2017,Belgium,Less than 6 years,23947
 2017,Belgium,From 6 to 10 years,0
 2017,Belgium,From 6 to 11 years,23452
@@ -7674,7 +7674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Belgium,65 years or over,18828
 2017,Belgium,Less than 75 years,23452
 2017,Belgium,75 years or over,17630
-2017,Bulgaria,3590
+2017,Bulgaria,Total,3590
 2017,Bulgaria,Less than 6 years,3224
 2017,Bulgaria,From 6 to 10 years,0
 2017,Bulgaria,From 6 to 11 years,3265
@@ -7699,7 +7699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Bulgaria,65 years or over,2752
 2017,Bulgaria,Less than 75 years,3741
 2017,Bulgaria,75 years or over,2425
-2017,Czechia,8282
+2017,Czechia,Total,8282
 2017,Czechia,Less than 6 years,8350
 2017,Czechia,From 6 to 10 years,0
 2017,Czechia,From 6 to 11 years,8285
@@ -7724,7 +7724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Czechia,65 years or over,6728
 2017,Czechia,Less than 75 years,8483
 2017,Czechia,75 years or over,6412
-2017,Denmark,29383
+2017,Denmark,Total,29383
 2017,Denmark,Less than 6 years,30352
 2017,Denmark,From 6 to 10 years,0
 2017,Denmark,From 6 to 11 years,31491
@@ -7749,7 +7749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Denmark,65 years or over,23871
 2017,Denmark,Less than 75 years,30218
 2017,Denmark,75 years or over,22336
-2017,Germany (until 1990 former territory of the FRG),21920
+2017,Germany (until 1990 former territory of the FRG),Total,21920
 2017,Germany (until 1990 former territory of the FRG),Less than 6 years,22150
 2017,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2017,Germany (until 1990 former territory of the FRG),From 6 to 11 years,20444
@@ -7774,7 +7774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Germany (until 1990 former territory of the FRG),65 years or over,19267
 2017,Germany (until 1990 former territory of the FRG),Less than 75 years,22326
 2017,Germany (until 1990 former territory of the FRG),75 years or over,19300
-2017,Estonia,9384
+2017,Estonia,Total,9384
 2017,Estonia,Less than 6 years,10492
 2017,Estonia,From 6 to 10 years,0
 2017,Estonia,From 6 to 11 years,10075
@@ -7799,7 +7799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Estonia,65 years or over,6144
 2017,Estonia,Less than 75 years,10036
 2017,Estonia,75 years or over,5638
-2017,Ireland,22879
+2017,Ireland,Total,22879
 2017,Ireland,Less than 6 years,23753
 2017,Ireland,From 6 to 10 years,0
 2017,Ireland,From 6 to 11 years,21258
@@ -7824,7 +7824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Ireland,65 years or over,19790
 2017,Ireland,Less than 75 years,23242
 2017,Ireland,75 years or over,18307
-2017,Greece,7600
+2017,Greece,Total,7600
 2017,Greece,Less than 6 years,7567
 2017,Greece,From 6 to 10 years,0
 2017,Greece,From 6 to 11 years,6938
@@ -7849,7 +7849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Greece,65 years or over,7800
 2017,Greece,Less than 75 years,7638
 2017,Greece,75 years or over,7450
-2017,Spain,14203
+2017,Spain,Total,14203
 2017,Spain,Less than 6 years,14202
 2017,Spain,From 6 to 10 years,0
 2017,Spain,From 6 to 11 years,12537
@@ -7874,7 +7874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Spain,65 years or over,13972
 2017,Spain,Less than 75 years,14409
 2017,Spain,75 years or over,12828
-2017,France,21960
+2017,France,Total,21960
 2017,France,Less than 6 years,20559
 2017,France,From 6 to 10 years,0
 2017,France,From 6 to 11 years,19854
@@ -7899,7 +7899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,France,65 years or over,22605
 2017,France,Less than 75 years,21999
 2017,France,75 years or over,21345
-2017,Croatia,6210
+2017,Croatia,Total,6210
 2017,Croatia,Less than 6 years,6410
 2017,Croatia,From 6 to 10 years,0
 2017,Croatia,From 6 to 11 years,5963
@@ -7924,7 +7924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Croatia,65 years or over,5285
 2017,Croatia,Less than 75 years,6332
 2017,Croatia,75 years or over,4889
-2017,Italy,16542
+2017,Italy,Total,16542
 2017,Italy,Less than 6 years,14756
 2017,Italy,From 6 to 10 years,0
 2017,Italy,From 6 to 11 years,14699
@@ -7949,7 +7949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Italy,65 years or over,16741
 2017,Italy,Less than 75 years,16688
 2017,Italy,75 years or over,15851
-2017,Cyprus,14497
+2017,Cyprus,Total,14497
 2017,Cyprus,Less than 6 years,14613
 2017,Cyprus,From 6 to 10 years,0
 2017,Cyprus,From 6 to 11 years,14877
@@ -7974,7 +7974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Cyprus,65 years or over,11918
 2017,Cyprus,Less than 75 years,14869
 2017,Cyprus,75 years or over,10309
-2017,Latvia,6607
+2017,Latvia,Total,6607
 2017,Latvia,Less than 6 years,7322
 2017,Latvia,From 6 to 10 years,0
 2017,Latvia,From 6 to 11 years,6667
@@ -7999,7 +7999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Latvia,65 years or over,4429
 2017,Latvia,Less than 75 years,7017
 2017,Latvia,75 years or over,4072
-2017,Lithuania,6134
+2017,Lithuania,Total,6134
 2017,Lithuania,Less than 6 years,6389
 2017,Lithuania,From 6 to 10 years,0
 2017,Lithuania,From 6 to 11 years,5451
@@ -8024,7 +8024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Lithuania,65 years or over,4549
 2017,Lithuania,Less than 75 years,6392
 2017,Lithuania,75 years or over,4245
-2017,Luxembourg,36315
+2017,Luxembourg,Total,36315
 2017,Luxembourg,Less than 6 years,32710
 2017,Luxembourg,From 6 to 10 years,0
 2017,Luxembourg,From 6 to 11 years,33887
@@ -8049,7 +8049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Luxembourg,65 years or over,39581
 2017,Luxembourg,Less than 75 years,36183
 2017,Luxembourg,75 years or over,39510
-2017,Hungary,4988
+2017,Hungary,Total,4988
 2017,Hungary,Less than 6 years,4431
 2017,Hungary,From 6 to 10 years,0
 2017,Hungary,From 6 to 11 years,4626
@@ -8074,7 +8074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Hungary,65 years or over,4917
 2017,Hungary,Less than 75 years,5001
 2017,Hungary,75 years or over,4827
-2017,Malta,14522
+2017,Malta,Total,14522
 2017,Malta,Less than 6 years,15144
 2017,Malta,From 6 to 10 years,0
 2017,Malta,From 6 to 11 years,13490
@@ -8099,7 +8099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Malta,65 years or over,11057
 2017,Malta,Less than 75 years,14903
 2017,Malta,75 years or over,10681
-2017,Netherlands,23561
+2017,Netherlands,Total,23561
 2017,Netherlands,Less than 6 years,25263
 2017,Netherlands,From 6 to 10 years,0
 2017,Netherlands,From 6 to 11 years,24026
@@ -8124,7 +8124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Netherlands,65 years or over,19834
 2017,Netherlands,Less than 75 years,24212
 2017,Netherlands,75 years or over,18509
-2017,Austria,24752
+2017,Austria,Total,24752
 2017,Austria,Less than 6 years,21167
 2017,Austria,From 6 to 10 years,0
 2017,Austria,From 6 to 11 years,21937
@@ -8149,7 +8149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Austria,65 years or over,24101
 2017,Austria,Less than 75 years,24978
 2017,Austria,75 years or over,23208
-2017,Poland,5945
+2017,Poland,Total,5945
 2017,Poland,Less than 6 years,6249
 2017,Poland,From 6 to 10 years,0
 2017,Poland,From 6 to 11 years,5891
@@ -8174,7 +8174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Poland,65 years or over,5617
 2017,Poland,Less than 75 years,5984
 2017,Poland,75 years or over,5530
-2017,Portugal,9071
+2017,Portugal,Total,9071
 2017,Portugal,Less than 6 years,9444
 2017,Portugal,From 6 to 10 years,0
 2017,Portugal,From 6 to 11 years,8969
@@ -8199,7 +8199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Portugal,65 years or over,8509
 2017,Portugal,Less than 75 years,9231
 2017,Portugal,75 years or over,7777
-2017,Romania,2742
+2017,Romania,Total,2742
 2017,Romania,Less than 6 years,2548
 2017,Romania,From 6 to 10 years,0
 2017,Romania,From 6 to 11 years,2474
@@ -8224,7 +8224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Romania,65 years or over,2628
 2017,Romania,Less than 75 years,2792
 2017,Romania,75 years or over,2405
-2017,Slovenia,12713
+2017,Slovenia,Total,12713
 2017,Slovenia,Less than 6 years,12739
 2017,Slovenia,From 6 to 10 years,0
 2017,Slovenia,From 6 to 11 years,13125
@@ -8249,7 +8249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Slovenia,65 years or over,11379
 2017,Slovenia,Less than 75 years,12856
 2017,Slovenia,75 years or over,11008
-2017,Slovakia,7183
+2017,Slovakia,Total,7183
 2017,Slovakia,Less than 6 years,6692
 2017,Slovakia,From 6 to 10 years,0
 2017,Slovakia,From 6 to 11 years,6673
@@ -8274,7 +8274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Slovakia,65 years or over,6533
 2017,Slovakia,Less than 75 years,7264
 2017,Slovakia,75 years or over,6133
-2017,Finland,23987
+2017,Finland,Total,23987
 2017,Finland,Less than 6 years,22564
 2017,Finland,From 6 to 10 years,0
 2017,Finland,From 6 to 11 years,24195
@@ -8299,7 +8299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Finland,65 years or over,20824
 2017,Finland,Less than 75 years,24574
 2017,Finland,75 years or over,18410
-2017,Sweden,25376
+2017,Sweden,Total,25376
 2017,Sweden,Less than 6 years,23393
 2017,Sweden,From 6 to 10 years,0
 2017,Sweden,From 6 to 11 years,25092
@@ -8324,7 +8324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Sweden,65 years or over,20853
 2017,Sweden,Less than 75 years,26324
 2017,Sweden,75 years or over,18144
-2017,Iceland,33874
+2017,Iceland,Total,33874
 2017,Iceland,Less than 6 years,29273
 2017,Iceland,From 6 to 10 years,0
 2017,Iceland,From 6 to 11 years,32393
@@ -8349,7 +8349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Iceland,65 years or over,31584
 2017,Iceland,Less than 75 years,34314
 2017,Iceland,75 years or over,26154
-2017,Norway,38471
+2017,Norway,Total,38471
 2017,Norway,Less than 6 years,36418
 2017,Norway,From 6 to 10 years,0
 2017,Norway,From 6 to 11 years,36901
@@ -8374,7 +8374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Norway,65 years or over,35550
 2017,Norway,Less than 75 years,39193
 2017,Norway,75 years or over,30277
-2017,Switzerland,43741
+2017,Switzerland,Total,43741
 2017,Switzerland,Less than 6 years,38031
 2017,Switzerland,From 6 to 10 years,0
 2017,Switzerland,From 6 to 11 years,39235
@@ -8399,7 +8399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Switzerland,65 years or over,37448
 2017,Switzerland,Less than 75 years,44542
 2017,Switzerland,75 years or over,34739
-2017,United Kingdom,20995
+2017,United Kingdom,Total,20995
 2017,United Kingdom,Less than 6 years,18723
 2017,United Kingdom,From 6 to 10 years,0
 2017,United Kingdom,From 6 to 11 years,18565
@@ -8424,7 +8424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,United Kingdom,65 years or over,18969
 2017,United Kingdom,Less than 75 years,21349
 2017,United Kingdom,75 years or over,17708
-2017,North Macedonia,2439
+2017,North Macedonia,Total,2439
 2017,North Macedonia,Less than 6 years,2230
 2017,North Macedonia,From 6 to 10 years,0
 2017,North Macedonia,From 6 to 11 years,2156
@@ -8449,7 +8449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,North Macedonia,65 years or over,2708
 2017,North Macedonia,Less than 75 years,2432
 2017,North Macedonia,75 years or over,2585
-2017,Serbia,2534
+2017,Serbia,Total,2534
 2017,Serbia,Less than 6 years,2518
 2017,Serbia,From 6 to 10 years,0
 2017,Serbia,From 6 to 11 years,2384
@@ -8474,7 +8474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Serbia,65 years or over,2595
 2017,Serbia,Less than 75 years,2534
 2017,Serbia,75 years or over,2378
-2017,Turkey,3866
+2017,Turkey,Total,3866
 2017,Turkey,Less than 6 years,3193
 2017,Turkey,From 6 to 10 years,0
 2017,Turkey,From 6 to 11 years,2999
@@ -8499,7 +8499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2017,Turkey,65 years or over,3902
 2017,Turkey,Less than 75 years,3872
 2017,Turkey,75 years or over,3685
-2018,Belgium,23686
+2018,Belgium,Total,23686
 2018,Belgium,Less than 6 years,24369
 2018,Belgium,From 6 to 10 years,0
 2018,Belgium,From 6 to 11 years,23875
@@ -8524,7 +8524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Belgium,65 years or over,19220
 2018,Belgium,Less than 75 years,24263
 2018,Belgium,75 years or over,17820
-2018,Bulgaria,3590
+2018,Bulgaria,Total,3590
 2018,Bulgaria,Less than 6 years,3526
 2018,Bulgaria,From 6 to 10 years,0
 2018,Bulgaria,From 6 to 11 years,3349
@@ -8549,7 +8549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Bulgaria,65 years or over,2860
 2018,Bulgaria,Less than 75 years,3715
 2018,Bulgaria,75 years or over,2577
-2018,Czechia,9088
+2018,Czechia,Total,9088
 2018,Czechia,Less than 6 years,9015
 2018,Czechia,From 6 to 10 years,0
 2018,Czechia,From 6 to 11 years,9442
@@ -8574,7 +8574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Czechia,65 years or over,7181
 2018,Czechia,Less than 75 years,9340
 2018,Czechia,75 years or over,6719
-2018,Denmark,30104
+2018,Denmark,Total,30104
 2018,Denmark,Less than 6 years,29325
 2018,Denmark,From 6 to 10 years,0
 2018,Denmark,From 6 to 11 years,31544
@@ -8599,7 +8599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Denmark,65 years or over,24514
 2018,Denmark,Less than 75 years,30901
 2018,Denmark,75 years or over,22931
-2018,Germany (until 1990 former territory of the FRG),22713
+2018,Germany (until 1990 former territory of the FRG),Total,22713
 2018,Germany (until 1990 former territory of the FRG),Less than 6 years,22220
 2018,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2018,Germany (until 1990 former territory of the FRG),From 6 to 11 years,22720
@@ -8624,7 +8624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Germany (until 1990 former territory of the FRG),65 years or over,19809
 2018,Germany (until 1990 former territory of the FRG),Less than 75 years,23073
 2018,Germany (until 1990 former territory of the FRG),75 years or over,20203
-2018,Estonia,10524
+2018,Estonia,Total,10524
 2018,Estonia,Less than 6 years,11441
 2018,Estonia,From 6 to 10 years,0
 2018,Estonia,From 6 to 11 years,11336
@@ -8649,7 +8649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Estonia,65 years or over,6527
 2018,Estonia,Less than 75 years,11071
 2018,Estonia,75 years or over,6138
-2018,Ireland,24920
+2018,Ireland,Total,24920
 2018,Ireland,Less than 6 years,24420
 2018,Ireland,From 6 to 10 years,0
 2018,Ireland,From 6 to 11 years,22533
@@ -8674,7 +8674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Ireland,65 years or over,21307
 2018,Ireland,Less than 75 years,25101
 2018,Ireland,75 years or over,19133
-2018,Greece,7863
+2018,Greece,Total,7863
 2018,Greece,Less than 6 years,7686
 2018,Greece,From 6 to 10 years,0
 2018,Greece,From 6 to 11 years,7275
@@ -8699,7 +8699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Greece,65 years or over,7913
 2018,Greece,Less than 75 years,7918
 2018,Greece,75 years or over,7540
-2018,Spain,14785
+2018,Spain,Total,14785
 2018,Spain,Less than 6 years,14724
 2018,Spain,From 6 to 10 years,0
 2018,Spain,From 6 to 11 years,13830
@@ -8724,7 +8724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Spain,65 years or over,14240
 2018,Spain,Less than 75 years,15022
 2018,Spain,75 years or over,12966
-2018,France,22220
+2018,France,Total,22220
 2018,France,Less than 6 years,20868
 2018,France,From 6 to 10 years,0
 2018,France,From 6 to 11 years,20190
@@ -8749,7 +8749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,France,65 years or over,22864
 2018,France,Less than 75 years,22264
 2018,France,75 years or over,21723
-2018,Croatia,6659
+2018,Croatia,Total,6659
 2018,Croatia,Less than 6 years,6902
 2018,Croatia,From 6 to 10 years,0
 2018,Croatia,From 6 to 11 years,6640
@@ -8774,7 +8774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Croatia,65 years or over,5574
 2018,Croatia,Less than 75 years,6848
 2018,Croatia,75 years or over,5198
-2018,Italy,16844
+2018,Italy,Total,16844
 2018,Italy,Less than 6 years,15192
 2018,Italy,From 6 to 10 years,0
 2018,Italy,From 6 to 11 years,14789
@@ -8799,7 +8799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Italy,65 years or over,17001
 2018,Italy,Less than 75 years,16967
 2018,Italy,75 years or over,16233
-2018,Cyprus,15336
+2018,Cyprus,Total,15336
 2018,Cyprus,Less than 6 years,14511
 2018,Cyprus,From 6 to 10 years,0
 2018,Cyprus,From 6 to 11 years,15319
@@ -8824,7 +8824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Cyprus,65 years or over,12493
 2018,Cyprus,Less than 75 years,15566
 2018,Cyprus,75 years or over,10927
-2018,Latvia,7333
+2018,Latvia,Total,7333
 2018,Latvia,Less than 6 years,8350
 2018,Latvia,From 6 to 10 years,0
 2018,Latvia,From 6 to 11 years,7796
@@ -8849,7 +8849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Latvia,65 years or over,4669
 2018,Latvia,Less than 75 years,7764
 2018,Latvia,75 years or over,4236
-2018,Lithuania,6895
+2018,Lithuania,Total,6895
 2018,Lithuania,Less than 6 years,7451
 2018,Lithuania,From 6 to 10 years,0
 2018,Lithuania,From 6 to 11 years,6673
@@ -8874,7 +8874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Lithuania,65 years or over,4837
 2018,Lithuania,Less than 75 years,7265
 2018,Lithuania,75 years or over,4503
-2018,Luxembourg,34472
+2018,Luxembourg,Total,34472
 2018,Luxembourg,Less than 6 years,28183
 2018,Luxembourg,From 6 to 10 years,0
 2018,Luxembourg,From 6 to 11 years,29324
@@ -8899,7 +8899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Luxembourg,65 years or over,41545
 2018,Luxembourg,Less than 75 years,33869
 2018,Luxembourg,75 years or over,41394
-2018,Hungary,5424
+2018,Hungary,Total,5424
 2018,Hungary,Less than 6 years,4934
 2018,Hungary,From 6 to 10 years,0
 2018,Hungary,From 6 to 11 years,5181
@@ -8924,7 +8924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Hungary,65 years or over,5294
 2018,Hungary,Less than 75 years,5445
 2018,Hungary,75 years or over,5184
-2018,Malta,14781
+2018,Malta,Total,14781
 2018,Malta,Less than 6 years,14757
 2018,Malta,From 6 to 10 years,0
 2018,Malta,From 6 to 11 years,14026
@@ -8949,7 +8949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Malta,65 years or over,11259
 2018,Malta,Less than 75 years,15055
 2018,Malta,75 years or over,10907
-2018,Netherlands,24016
+2018,Netherlands,Total,24016
 2018,Netherlands,Less than 6 years,25348
 2018,Netherlands,From 6 to 10 years,0
 2018,Netherlands,From 6 to 11 years,25055
@@ -8974,7 +8974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Netherlands,65 years or over,20428
 2018,Netherlands,Less than 75 years,24655
 2018,Netherlands,75 years or over,19014
-2018,Austria,25176
+2018,Austria,Total,25176
 2018,Austria,Less than 6 years,21158
 2018,Austria,From 6 to 10 years,0
 2018,Austria,From 6 to 11 years,22630
@@ -8999,7 +8999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Austria,65 years or over,24297
 2018,Austria,Less than 75 years,25500
 2018,Austria,75 years or over,23360
-2018,Poland,6574
+2018,Poland,Total,6574
 2018,Poland,Less than 6 years,6793
 2018,Poland,From 6 to 10 years,0
 2018,Poland,From 6 to 11 years,6575
@@ -9024,7 +9024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Poland,65 years or over,6107
 2018,Poland,Less than 75 years,6611
 2018,Poland,75 years or over,6085
-2018,Portugal,9346
+2018,Portugal,Total,9346
 2018,Portugal,Less than 6 years,9583
 2018,Portugal,From 6 to 10 years,0
 2018,Portugal,From 6 to 11 years,9137
@@ -9049,7 +9049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Portugal,65 years or over,8584
 2018,Portugal,Less than 75 years,9519
 2018,Portugal,75 years or over,7887
-2018,Romania,3284
+2018,Romania,Total,3284
 2018,Romania,Less than 6 years,3183
 2018,Romania,From 6 to 10 years,0
 2018,Romania,From 6 to 11 years,2787
@@ -9074,7 +9074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Romania,65 years or over,3058
 2018,Romania,Less than 75 years,3349
 2018,Romania,75 years or over,2765
-2018,Slovenia,13244
+2018,Slovenia,Total,13244
 2018,Slovenia,Less than 6 years,13236
 2018,Slovenia,From 6 to 10 years,0
 2018,Slovenia,From 6 to 11 years,13650
@@ -9099,7 +9099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Slovenia,65 years or over,11460
 2018,Slovenia,Less than 75 years,13376
 2018,Slovenia,75 years or over,11148
-2018,Slovakia,7462
+2018,Slovakia,Total,7462
 2018,Slovakia,Less than 6 years,6816
 2018,Slovakia,From 6 to 10 years,0
 2018,Slovakia,From 6 to 11 years,7145
@@ -9124,7 +9124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Slovakia,65 years or over,6974
 2018,Slovakia,Less than 75 years,7691
 2018,Slovakia,75 years or over,6508
-2018,Finland,24544
+2018,Finland,Total,24544
 2018,Finland,Less than 6 years,22841
 2018,Finland,From 6 to 10 years,0
 2018,Finland,From 6 to 11 years,24769
@@ -9149,7 +9149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Finland,65 years or over,20986
 2018,Finland,Less than 75 years,25223
 2018,Finland,75 years or over,18929
-2018,Sweden,25540
+2018,Sweden,Total,25540
 2018,Sweden,Less than 6 years,23587
 2018,Sweden,From 6 to 10 years,0
 2018,Sweden,From 6 to 11 years,24647
@@ -9174,7 +9174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Sweden,65 years or over,21398
 2018,Sweden,Less than 75 years,26591
 2018,Sweden,75 years or over,18612
-2018,Iceland,39918
+2018,Iceland,Total,39918
 2018,Iceland,Less than 6 years,34208
 2018,Iceland,From 6 to 10 years,0
 2018,Iceland,From 6 to 11 years,37747
@@ -9199,7 +9199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Iceland,65 years or over,37888
 2018,Iceland,Less than 75 years,40322
 2018,Iceland,75 years or over,33255
-2018,Norway,39438
+2018,Norway,Total,39438
 2018,Norway,Less than 6 years,37958
 2018,Norway,From 6 to 10 years,0
 2018,Norway,From 6 to 11 years,38353
@@ -9224,7 +9224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Norway,65 years or over,36672
 2018,Norway,Less than 75 years,40140
 2018,Norway,75 years or over,32343
-2018,Switzerland,43013
+2018,Switzerland,Total,43013
 2018,Switzerland,Less than 6 years,38161
 2018,Switzerland,From 6 to 10 years,0
 2018,Switzerland,From 6 to 11 years,37667
@@ -9249,7 +9249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Switzerland,65 years or over,37497
 2018,Switzerland,Less than 75 years,43628
 2018,Switzerland,75 years or over,35182
-2018,United Kingdom,21464
+2018,United Kingdom,Total,21464
 2018,United Kingdom,Less than 6 years,19375
 2018,United Kingdom,From 6 to 10 years,0
 2018,United Kingdom,From 6 to 11 years,18830
@@ -9274,7 +9274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,United Kingdom,65 years or over,19332
 2018,United Kingdom,Less than 75 years,21938
 2018,United Kingdom,75 years or over,17266
-2018,North Macedonia,2626
+2018,North Macedonia,Total,2626
 2018,North Macedonia,Less than 6 years,2346
 2018,North Macedonia,From 6 to 10 years,0
 2018,North Macedonia,From 6 to 11 years,2316
@@ -9299,7 +9299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,North Macedonia,65 years or over,2892
 2018,North Macedonia,Less than 75 years,2622
 2018,North Macedonia,75 years or over,2819
-2018,Serbia,2739
+2018,Serbia,Total,2739
 2018,Serbia,Less than 6 years,2692
 2018,Serbia,From 6 to 10 years,0
 2018,Serbia,From 6 to 11 years,2620
@@ -9324,7 +9324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Serbia,65 years or over,2769
 2018,Serbia,Less than 75 years,2759
 2018,Serbia,75 years or over,2588
-2018,Turkey,3499
+2018,Turkey,Total,3499
 2018,Turkey,Less than 6 years,2882
 2018,Turkey,From 6 to 10 years,0
 2018,Turkey,From 6 to 11 years,2725
@@ -9349,7 +9349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2018,Turkey,65 years or over,3588
 2018,Turkey,Less than 75 years,3507
 2018,Turkey,75 years or over,3381
-2019,Belgium,24608
+2019,Belgium,Total,24608
 2019,Belgium,Less than 6 years,24916
 2019,Belgium,From 6 to 10 years,0
 2019,Belgium,From 6 to 11 years,24608
@@ -9374,7 +9374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Belgium,65 years or over,19823
 2019,Belgium,Less than 75 years,25093
 2019,Belgium,75 years or over,17970
-2019,Bulgaria,4224
+2019,Bulgaria,Total,4224
 2019,Bulgaria,Less than 6 years,4316
 2019,Bulgaria,From 6 to 10 years,0
 2019,Bulgaria,From 6 to 11 years,3946
@@ -9399,7 +9399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Bulgaria,65 years or over,3072
 2019,Bulgaria,Less than 75 years,4407
 2019,Bulgaria,75 years or over,2746
-2019,Czechia,9995
+2019,Czechia,Total,9995
 2019,Czechia,Less than 6 years,9681
 2019,Czechia,From 6 to 10 years,0
 2019,Czechia,From 6 to 11 years,10352
@@ -9424,7 +9424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Czechia,65 years or over,7787
 2019,Czechia,Less than 75 years,10252
 2019,Czechia,75 years or over,7264
-2019,Denmark,30717
+2019,Denmark,Total,30717
 2019,Denmark,Less than 6 years,31401
 2019,Denmark,From 6 to 10 years,0
 2019,Denmark,From 6 to 11 years,32141
@@ -9449,7 +9449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Denmark,65 years or over,24831
 2019,Denmark,Less than 75 years,31669
 2019,Denmark,75 years or over,23289
-2019,Germany (until 1990 former territory of the FRG),23515
+2019,Germany (until 1990 former territory of the FRG),Total,23515
 2019,Germany (until 1990 former territory of the FRG),Less than 6 years,23213
 2019,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2019,Germany (until 1990 former territory of the FRG),From 6 to 11 years,23497
@@ -9474,7 +9474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Germany (until 1990 former territory of the FRG),65 years or over,20425
 2019,Germany (until 1990 former territory of the FRG),Less than 75 years,23890
 2019,Germany (until 1990 former territory of the FRG),75 years or over,21036
-2019,Estonia,11461
+2019,Estonia,Total,11461
 2019,Estonia,Less than 6 years,12381
 2019,Estonia,From 6 to 10 years,0
 2019,Estonia,From 6 to 11 years,12127
@@ -9499,7 +9499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Estonia,65 years or over,7302
 2019,Estonia,Less than 75 years,12039
 2019,Estonia,75 years or over,6586
-2019,Ireland,25528
+2019,Ireland,Total,25528
 2019,Ireland,Less than 6 years,25040
 2019,Ireland,From 6 to 10 years,0
 2019,Ireland,From 6 to 11 years,23993
@@ -9524,7 +9524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Ireland,65 years or over,22050
 2019,Ireland,Less than 75 years,25880
 2019,Ireland,75 years or over,20210
-2019,Greece,8195
+2019,Greece,Total,8195
 2019,Greece,Less than 6 years,8058
 2019,Greece,From 6 to 10 years,0
 2019,Greece,From 6 to 11 years,7694
@@ -9549,7 +9549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Greece,65 years or over,8160
 2019,Greece,Less than 75 years,8277
 2019,Greece,75 years or over,7700
-2019,Spain,15015
+2019,Spain,Total,15015
 2019,Spain,Less than 6 years,13569
 2019,Spain,From 6 to 10 years,0
 2019,Spain,From 6 to 11 years,14323
@@ -9574,7 +9574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Spain,65 years or over,14966
 2019,Spain,Less than 75 years,15191
 2019,Spain,75 years or over,13483
-2019,France,22562
+2019,France,Total,22562
 2019,France,Less than 6 years,21518
 2019,France,From 6 to 10 years,0
 2019,France,From 6 to 11 years,21187
@@ -9599,7 +9599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,France,65 years or over,22467
 2019,France,Less than 75 years,22688
 2019,France,75 years or over,21117
-2019,Croatia,7306
+2019,Croatia,Total,7306
 2019,Croatia,Less than 6 years,7684
 2019,Croatia,From 6 to 10 years,0
 2019,Croatia,From 6 to 11 years,7380
@@ -9624,7 +9624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Croatia,65 years or over,5759
 2019,Croatia,Less than 75 years,7453
 2019,Croatia,75 years or over,5500
-2019,Italy,17165
+2019,Italy,Total,17165
 2019,Italy,Less than 6 years,15749
 2019,Italy,From 6 to 10 years,0
 2019,Italy,From 6 to 11 years,15273
@@ -9649,7 +9649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Italy,65 years or over,17313
 2019,Italy,Less than 75 years,17328
 2019,Italy,75 years or over,16213
-2019,Cyprus,16215
+2019,Cyprus,Total,16215
 2019,Cyprus,Less than 6 years,15243
 2019,Cyprus,From 6 to 10 years,0
 2019,Cyprus,From 6 to 11 years,15867
@@ -9674,7 +9674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Cyprus,65 years or over,12900
 2019,Cyprus,Less than 75 years,16540
 2019,Cyprus,75 years or over,10988
-2019,Latvia,8187
+2019,Latvia,Total,8187
 2019,Latvia,Less than 6 years,9277
 2019,Latvia,From 6 to 10 years,0
 2019,Latvia,From 6 to 11 years,8947
@@ -9699,7 +9699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Latvia,65 years or over,5032
 2019,Latvia,Less than 75 years,8685
 2019,Latvia,75 years or over,4627
-2019,Lithuania,7586
+2019,Lithuania,Total,7586
 2019,Lithuania,Less than 6 years,7175
 2019,Lithuania,From 6 to 10 years,0
 2019,Lithuania,From 6 to 11 years,6995
@@ -9724,7 +9724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Lithuania,65 years or over,5600
 2019,Lithuania,Less than 75 years,8024
 2019,Lithuania,75 years or over,5407
-2019,Luxembourg,36354
+2019,Luxembourg,Total,36354
 2019,Luxembourg,Less than 6 years,31815
 2019,Luxembourg,From 6 to 10 years,0
 2019,Luxembourg,From 6 to 11 years,31556
@@ -9749,7 +9749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Luxembourg,65 years or over,43691
 2019,Luxembourg,Less than 75 years,35962
 2019,Luxembourg,75 years or over,42491
-2019,Hungary,5852
+2019,Hungary,Total,5852
 2019,Hungary,Less than 6 years,5768
 2019,Hungary,From 6 to 10 years,0
 2019,Hungary,From 6 to 11 years,5620
@@ -9774,7 +9774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Hungary,65 years or over,5382
 2019,Hungary,Less than 75 years,5923
 2019,Hungary,75 years or over,5246
-2019,Malta,15354
+2019,Malta,Total,15354
 2019,Malta,Less than 6 years,16233
 2019,Malta,From 6 to 10 years,0
 2019,Malta,From 6 to 11 years,14664
@@ -9799,7 +9799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Malta,65 years or over,11740
 2019,Malta,Less than 75 years,15797
 2019,Malta,75 years or over,11474
-2019,Netherlands,24612
+2019,Netherlands,Total,24612
 2019,Netherlands,Less than 6 years,25585
 2019,Netherlands,From 6 to 10 years,0
 2019,Netherlands,From 6 to 11 years,24901
@@ -9824,7 +9824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Netherlands,65 years or over,20663
 2019,Netherlands,Less than 75 years,25167
 2019,Netherlands,75 years or over,19642
-2019,Austria,25729
+2019,Austria,Total,25729
 2019,Austria,Less than 6 years,21574
 2019,Austria,From 6 to 10 years,0
 2019,Austria,From 6 to 11 years,22623
@@ -9849,7 +9849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Austria,65 years or over,25336
 2019,Austria,Less than 75 years,25808
 2019,Austria,75 years or over,24344
-2019,Poland,7124
+2019,Poland,Total,7124
 2019,Poland,Less than 6 years,7284
 2019,Poland,From 6 to 10 years,0
 2019,Poland,From 6 to 11 years,7124
@@ -9874,7 +9874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Poland,65 years or over,6443
 2019,Poland,Less than 75 years,7192
 2019,Poland,75 years or over,6301
-2019,Portugal,10023
+2019,Portugal,Total,10023
 2019,Portugal,Less than 6 years,10270
 2019,Portugal,From 6 to 10 years,0
 2019,Portugal,From 6 to 11 years,9857
@@ -9899,7 +9899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Portugal,65 years or over,9369
 2019,Portugal,Less than 75 years,10199
 2019,Portugal,75 years or over,8640
-2019,Romania,3851
+2019,Romania,Total,3851
 2019,Romania,Less than 6 years,3940
 2019,Romania,From 6 to 10 years,0
 2019,Romania,From 6 to 11 years,3389
@@ -9924,7 +9924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Romania,65 years or over,3330
 2019,Romania,Less than 75 years,3944
 2019,Romania,75 years or over,3053
-2019,Slovenia,14067
+2019,Slovenia,Total,14067
 2019,Slovenia,Less than 6 years,13874
 2019,Slovenia,From 6 to 10 years,0
 2019,Slovenia,From 6 to 11 years,14476
@@ -9949,7 +9949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Slovenia,65 years or over,12043
 2019,Slovenia,Less than 75 years,14271
 2019,Slovenia,75 years or over,11614
-2019,Slovakia,8119
+2019,Slovakia,Total,8119
 2019,Slovakia,Less than 6 years,7207
 2019,Slovakia,From 6 to 10 years,0
 2019,Slovakia,From 6 to 11 years,7694
@@ -9974,7 +9974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Slovakia,65 years or over,7144
 2019,Slovakia,Less than 75 years,8243
 2019,Slovakia,75 years or over,6737
-2019,Finland,24879
+2019,Finland,Total,24879
 2019,Finland,Less than 6 years,23082
 2019,Finland,From 6 to 10 years,0
 2019,Finland,From 6 to 11 years,25377
@@ -9999,7 +9999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Finland,65 years or over,21211
 2019,Finland,Less than 75 years,25628
 2019,Finland,75 years or over,19375
-2019,Sweden,24474
+2019,Sweden,Total,24474
 2019,Sweden,Less than 6 years,21996
 2019,Sweden,From 6 to 10 years,0
 2019,Sweden,From 6 to 11 years,23371
@@ -10024,7 +10024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Sweden,65 years or over,20648
 2019,Sweden,Less than 75 years,25341
 2019,Sweden,75 years or over,17750
-2019,Iceland,0
+2019,Iceland,Total,0
 2019,Iceland,Less than 6 years,0
 2019,Iceland,From 6 to 10 years,0
 2019,Iceland,From 6 to 11 years,0
@@ -10049,7 +10049,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Iceland,65 years or over,0
 2019,Iceland,Less than 75 years,0
 2019,Iceland,75 years or over,0
-2019,Norway,39125
+2019,Norway,Total,39125
 2019,Norway,Less than 6 years,37978
 2019,Norway,From 6 to 10 years,0
 2019,Norway,From 6 to 11 years,37248
@@ -10074,7 +10074,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Norway,65 years or over,36316
 2019,Norway,Less than 75 years,39904
 2019,Norway,75 years or over,32141
-2019,Switzerland,41259
+2019,Switzerland,Total,41259
 2019,Switzerland,Less than 6 years,37464
 2019,Switzerland,From 6 to 10 years,0
 2019,Switzerland,From 6 to 11 years,35870
@@ -10099,7 +10099,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Switzerland,65 years or over,33757
 2019,Switzerland,Less than 75 years,42383
 2019,Switzerland,75 years or over,31141
-2019,United Kingdom,0
+2019,United Kingdom,Total,0
 2019,United Kingdom,Less than 6 years,0
 2019,United Kingdom,From 6 to 10 years,0
 2019,United Kingdom,From 6 to 11 years,0
@@ -10124,7 +10124,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,United Kingdom,65 years or over,0
 2019,United Kingdom,Less than 75 years,0
 2019,United Kingdom,75 years or over,0
-2019,North Macedonia,2727
+2019,North Macedonia,Total,2727
 2019,North Macedonia,Less than 6 years,2405
 2019,North Macedonia,From 6 to 10 years,0
 2019,North Macedonia,From 6 to 11 years,2408
@@ -10149,7 +10149,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,North Macedonia,65 years or over,3030
 2019,North Macedonia,Less than 75 years,2719
 2019,North Macedonia,75 years or over,2967
-2019,Serbia,3277
+2019,Serbia,Total,3277
 2019,Serbia,Less than 6 years,3247
 2019,Serbia,From 6 to 10 years,0
 2019,Serbia,From 6 to 11 years,3167
@@ -10174,7 +10174,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Serbia,65 years or over,3179
 2019,Serbia,Less than 75 years,3297
 2019,Serbia,75 years or over,2976
-2019,Turkey,3021
+2019,Turkey,Total,3021
 2019,Turkey,Less than 6 years,2463
 2019,Turkey,From 6 to 10 years,0
 2019,Turkey,From 6 to 11 years,2373
@@ -10199,7 +10199,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2019,Turkey,65 years or over,3293
 2019,Turkey,Less than 75 years,3017
 2019,Turkey,75 years or over,3146
-2020,Belgium,25672
+2020,Belgium,Total,25672
 2020,Belgium,Less than 6 years,26376
 2020,Belgium,From 6 to 10 years,0
 2020,Belgium,From 6 to 11 years,25632
@@ -10224,7 +10224,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Belgium,65 years or over,20185
 2020,Belgium,Less than 75 years,26376
 2020,Belgium,75 years or over,18068
-2020,Bulgaria,4612
+2020,Bulgaria,Total,4612
 2020,Bulgaria,Less than 6 years,4549
 2020,Bulgaria,From 6 to 10 years,0
 2020,Bulgaria,From 6 to 11 years,4311
@@ -10249,7 +10249,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Bulgaria,65 years or over,3248
 2020,Bulgaria,Less than 75 years,4825
 2020,Bulgaria,75 years or over,2849
-2020,Czechia,10627
+2020,Czechia,Total,10627
 2020,Czechia,Less than 6 years,10006
 2020,Czechia,From 6 to 10 years,0
 2020,Czechia,From 6 to 11 years,11115
@@ -10274,7 +10274,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Czechia,65 years or over,8384
 2020,Czechia,Less than 75 years,10984
 2020,Czechia,75 years or over,7863
-2020,Denmark,30681
+2020,Denmark,Total,30681
 2020,Denmark,Less than 6 years,30730
 2020,Denmark,From 6 to 10 years,0
 2020,Denmark,From 6 to 11 years,32187
@@ -10299,7 +10299,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Denmark,65 years or over,25265
 2020,Denmark,Less than 75 years,31684
 2020,Denmark,75 years or over,23379
-2020,Germany (until 1990 former territory of the FRG),23460
+2020,Germany (until 1990 former territory of the FRG),Total,23460
 2020,Germany (until 1990 former territory of the FRG),Less than 6 years,22579
 2020,Germany (until 1990 former territory of the FRG),From 6 to 10 years,0
 2020,Germany (until 1990 former territory of the FRG),From 6 to 11 years,22655
@@ -10324,7 +10324,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Germany (until 1990 former territory of the FRG),65 years or over,20560
 2020,Germany (until 1990 former territory of the FRG),Less than 75 years,24000
 2020,Germany (until 1990 former territory of the FRG),75 years or over,20298
-2020,Estonia,12228
+2020,Estonia,Total,12228
 2020,Estonia,Less than 6 years,13097
 2020,Estonia,From 6 to 10 years,0
 2020,Estonia,From 6 to 11 years,12856
@@ -10349,7 +10349,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Estonia,65 years or over,7887
 2020,Estonia,Less than 75 years,12722
 2020,Estonia,75 years or over,7331
-2020,Ireland,26656
+2020,Ireland,Total,26656
 2020,Ireland,Less than 6 years,26758
 2020,Ireland,From 6 to 10 years,0
 2020,Ireland,From 6 to 11 years,24640
@@ -10374,7 +10374,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Ireland,65 years or over,23907
 2020,Ireland,Less than 75 years,26920
 2020,Ireland,75 years or over,21639
-2020,Greece,8781
+2020,Greece,Total,8781
 2020,Greece,Less than 6 years,8306
 2020,Greece,From 6 to 10 years,0
 2020,Greece,From 6 to 11 years,8447
@@ -10399,7 +10399,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Greece,65 years or over,8790
 2020,Greece,Less than 75 years,8873
 2020,Greece,75 years or over,8185
-2020,Spain,16043
+2020,Spain,Total,16043
 2020,Spain,Less than 6 years,13816
 2020,Spain,From 6 to 10 years,0
 2020,Spain,From 6 to 11 years,14864
@@ -10424,7 +10424,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Spain,65 years or over,16071
 2020,Spain,Less than 75 years,16192
 2020,Spain,75 years or over,14717
-2020,France,21726
+2020,France,Total,21726
 2020,France,Less than 6 years,21178
 2020,France,From 6 to 10 years,0
 2020,France,From 6 to 11 years,20443
@@ -10449,7 +10449,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,France,65 years or over,21335
 2020,France,Less than 75 years,21887
 2020,France,75 years or over,20405
-2020,Croatia,7892
+2020,Croatia,Total,7892
 2020,Croatia,Less than 6 years,8725
 2020,Croatia,From 6 to 10 years,0
 2020,Croatia,From 6 to 11 years,7895
@@ -10474,7 +10474,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Croatia,65 years or over,6316
 2020,Croatia,Less than 75 years,8088
 2020,Croatia,75 years or over,5900
-2020,Italy,18067
+2020,Italy,Total,18067
 2020,Italy,Less than 6 years,16584
 2020,Italy,From 6 to 10 years,0
 2020,Italy,From 6 to 11 years,16761
@@ -10499,7 +10499,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Italy,65 years or over,18090
 2020,Italy,Less than 75 years,18264
 2020,Italy,75 years or over,17015
-2020,Cyprus,16704
+2020,Cyprus,Total,16704
 2020,Cyprus,Less than 6 years,15241
 2020,Cyprus,From 6 to 10 years,0
 2020,Cyprus,From 6 to 11 years,16943
@@ -10524,7 +10524,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Cyprus,65 years or over,13545
 2020,Cyprus,Less than 75 years,17026
 2020,Cyprus,75 years or over,11343
-2020,Latvia,8827
+2020,Latvia,Total,8827
 2020,Latvia,Less than 6 years,10204
 2020,Latvia,From 6 to 10 years,0
 2020,Latvia,From 6 to 11 years,9352
@@ -10549,7 +10549,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Latvia,65 years or over,5979
 2020,Latvia,Less than 75 years,9324
 2020,Latvia,75 years or over,5286
-2020,Lithuania,8606
+2020,Lithuania,Total,8606
 2020,Lithuania,Less than 6 years,8969
 2020,Lithuania,From 6 to 10 years,0
 2020,Lithuania,From 6 to 11 years,8832
@@ -10574,7 +10574,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Lithuania,65 years or over,6102
 2020,Lithuania,Less than 75 years,9021
 2020,Lithuania,75 years or over,5782
-2020,Luxembourg,37844
+2020,Luxembourg,Total,37844
 2020,Luxembourg,Less than 6 years,37127
 2020,Luxembourg,From 6 to 10 years,0
 2020,Luxembourg,From 6 to 11 years,31078
@@ -10599,7 +10599,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Luxembourg,65 years or over,46700
 2020,Luxembourg,Less than 75 years,37264
 2020,Luxembourg,75 years or over,45133
-2020,Hungary,6478
+2020,Hungary,Total,6478
 2020,Hungary,Less than 6 years,5709
 2020,Hungary,From 6 to 10 years,0
 2020,Hungary,From 6 to 11 years,6002
@@ -10624,7 +10624,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Hungary,65 years or over,5871
 2020,Hungary,Less than 75 years,6568
 2020,Hungary,75 years or over,5537
-2020,Malta,16240
+2020,Malta,Total,16240
 2020,Malta,Less than 6 years,16959
 2020,Malta,From 6 to 10 years,0
 2020,Malta,From 6 to 11 years,15338
@@ -10649,7 +10649,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Malta,65 years or over,13235
 2020,Malta,Less than 75 years,16632
 2020,Malta,75 years or over,13433
-2020,Netherlands,25801
+2020,Netherlands,Total,25801
 2020,Netherlands,Less than 6 years,26627
 2020,Netherlands,From 6 to 10 years,0
 2020,Netherlands,From 6 to 11 years,25432
@@ -10674,7 +10674,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Netherlands,65 years or over,21585
 2020,Netherlands,Less than 75 years,26441
 2020,Netherlands,75 years or over,20401
-2020,Austria,26555
+2020,Austria,Total,26555
 2020,Austria,Less than 6 years,23491
 2020,Austria,From 6 to 10 years,0
 2020,Austria,From 6 to 11 years,23172
@@ -10699,7 +10699,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Austria,65 years or over,25996
 2020,Austria,Less than 75 years,26734
 2020,Austria,75 years or over,25253
-2020,Poland,8022
+2020,Poland,Total,8022
 2020,Poland,Less than 6 years,8360
 2020,Poland,From 6 to 10 years,0
 2020,Poland,From 6 to 11 years,8291
@@ -10724,7 +10724,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Poland,65 years or over,7023
 2020,Poland,Less than 75 years,8132
 2020,Poland,75 years or over,6906
-2020,Portugal,10800
+2020,Portugal,Total,10800
 2020,Portugal,Less than 6 years,10906
 2020,Portugal,From 6 to 10 years,0
 2020,Portugal,From 6 to 11 years,10404
@@ -10749,7 +10749,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Portugal,65 years or over,10067
 2020,Portugal,Less than 75 years,10980
 2020,Portugal,75 years or over,9498
-2020,Romania,4267
+2020,Romania,Total,4267
 2020,Romania,Less than 6 years,4405
 2020,Romania,From 6 to 10 years,0
 2020,Romania,From 6 to 11 years,3675
@@ -10774,7 +10774,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Romania,65 years or over,3825
 2020,Romania,Less than 75 years,4387
 2020,Romania,75 years or over,3366
-2020,Slovenia,14774
+2020,Slovenia,Total,14774
 2020,Slovenia,Less than 6 years,14346
 2020,Slovenia,From 6 to 10 years,0
 2020,Slovenia,From 6 to 11 years,15139
@@ -10799,7 +10799,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Slovenia,65 years or over,12667
 2020,Slovenia,Less than 75 years,15015
 2020,Slovenia,75 years or over,12436
-2020,Slovakia,8703
+2020,Slovakia,Total,8703
 2020,Slovakia,Less than 6 years,7825
 2020,Slovakia,From 6 to 10 years,0
 2020,Slovakia,From 6 to 11 years,8178
@@ -10824,7 +10824,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Slovakia,65 years or over,7693
 2020,Slovakia,Less than 75 years,8808
 2020,Slovakia,75 years or over,7371
-2020,Finland,25490
+2020,Finland,Total,25490
 2020,Finland,Less than 6 years,23378
 2020,Finland,From 6 to 10 years,0
 2020,Finland,From 6 to 11 years,25476
@@ -10849,7 +10849,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Finland,65 years or over,21429
 2020,Finland,Less than 75 years,26207
 2020,Finland,75 years or over,19300
-2020,Sweden,24700
+2020,Sweden,Total,24700
 2020,Sweden,Less than 6 years,22795
 2020,Sweden,From 6 to 10 years,0
 2020,Sweden,From 6 to 11 years,24018
@@ -10874,7 +10874,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Sweden,65 years or over,20542
 2020,Sweden,Less than 75 years,25593
 2020,Sweden,75 years or over,18212
-2020,Iceland,0
+2020,Iceland,Total,0
 2020,Iceland,Less than 6 years,0
 2020,Iceland,From 6 to 10 years,0
 2020,Iceland,From 6 to 11 years,0
@@ -10899,7 +10899,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Iceland,65 years or over,0
 2020,Iceland,Less than 75 years,0
 2020,Iceland,75 years or over,0
-2020,Norway,40241
+2020,Norway,Total,40241
 2020,Norway,Less than 6 years,38121
 2020,Norway,From 6 to 10 years,0
 2020,Norway,From 6 to 11 years,38526
@@ -10924,7 +10924,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Norway,65 years or over,37053
 2020,Norway,Less than 75 years,40965
 2020,Norway,75 years or over,33364
-2020,Switzerland,43051
+2020,Switzerland,Total,43051
 2020,Switzerland,Less than 6 years,37389
 2020,Switzerland,From 6 to 10 years,0
 2020,Switzerland,From 6 to 11 years,37696
@@ -10949,7 +10949,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Switzerland,65 years or over,35912
 2020,Switzerland,Less than 75 years,43917
 2020,Switzerland,75 years or over,32881
-2020,United Kingdom,0
+2020,United Kingdom,Total,0
 2020,United Kingdom,Less than 6 years,0
 2020,United Kingdom,From 6 to 10 years,0
 2020,United Kingdom,From 6 to 11 years,0
@@ -10974,7 +10974,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,United Kingdom,65 years or over,0
 2020,United Kingdom,Less than 75 years,0
 2020,United Kingdom,75 years or over,0
-2020,North Macedonia,0
+2020,North Macedonia,Total,0
 2020,North Macedonia,Less than 6 years,0
 2020,North Macedonia,From 6 to 10 years,0
 2020,North Macedonia,From 6 to 11 years,0
@@ -10999,7 +10999,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,North Macedonia,65 years or over,0
 2020,North Macedonia,Less than 75 years,0
 2020,North Macedonia,75 years or over,0
-2020,Serbia,3733
+2020,Serbia,Total,3733
 2020,Serbia,Less than 6 years,3739
 2020,Serbia,From 6 to 10 years,0
 2020,Serbia,From 6 to 11 years,3727
@@ -11024,7 +11024,7 @@ TIME,COUNTRY,AGE,INDIC_IL
 2020,Serbia,65 years or over,3496
 2020,Serbia,Less than 75 years,3776
 2020,Serbia,75 years or over,3304
-2020,Turkey,3128
+2020,Turkey,Total,3128
 2020,Turkey,Less than 6 years,2546
 2020,Turkey,From 6 to 10 years,0
 2020,Turkey,From 6 to 11 years,2427

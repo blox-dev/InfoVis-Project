@@ -1,4 +1,4 @@
-sectperf,COUNTRY,TIME_PERIOD,OBS_VALUE
+SECT_PERF,COUNTRY,TIME,VALUE
 Business enterprise sector,Austria,2002,1.38
 Business enterprise sector,Austria,2004,1.47
 Business enterprise sector,Austria,2005,1.66

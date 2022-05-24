@@ -1,4 +1,4 @@
-TIME,COUNTRY,TAX,CURRENCY,Value
+TIME,COUNTRY,TAX,CURRENCY,VALUE
 2015S1,Belgium,Excluding taxes and levies,Euro,0.1817
 2015S1,Belgium,Excluding taxes and levies,Purchasing Power Standard,0.1637
 2015S1,Belgium,All taxes and levies included,Euro,0.2126
