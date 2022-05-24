@@ -42,7 +42,7 @@ TIME,COUNTRY,DEG_URB,Value
 2011,Latvia,Towns and suburbs,1.5
 2011,Latvia,Rural areas,12.5
 2011,Lithuania,Cities,8.7
-2011,Lithuania,Towns and suburbs,:
+2011,Lithuania,Towns and suburbs,0
 2011,Lithuania,Rural areas,1.9
 2011,Luxembourg,Cities,15.2
 2011,Luxembourg,Towns and suburbs,9.6
@@ -52,7 +52,7 @@ TIME,COUNTRY,DEG_URB,Value
 2011,Hungary,Rural areas,9.1
 2011,Malta,Cities,13.7
 2011,Malta,Towns and suburbs,4.4
-2011,Malta,Rural areas,:
+2011,Malta,Rural areas,0
 2011,Netherlands,Cities,22.2
 2011,Netherlands,Towns and suburbs,11.7
 2011,Netherlands,Rural areas,10.3
@@ -81,7 +81,7 @@ TIME,COUNTRY,DEG_URB,Value
 2011,Sweden,Towns and suburbs,12.1
 2011,Sweden,Rural areas,8.3
 2011,Iceland,Cities,3.2
-2011,Iceland,Towns and suburbs,:
+2011,Iceland,Towns and suburbs,0
 2011,Iceland,Rural areas,0.9
 2011,Norway,Cities,6.7
 2011,Norway,Towns and suburbs,3.5
@@ -94,13 +94,13 @@ TIME,COUNTRY,DEG_URB,Value
 2011,United Kingdom,Rural areas,12.0
 2011,North Macedonia,Cities,9.8
 2011,North Macedonia,Towns and suburbs,3.0
-2011,North Macedonia,Rural areas,:
-2011,Albania,Cities,:
-2011,Albania,Towns and suburbs,:
-2011,Albania,Rural areas,:
-2011,Serbia,Cities,:
-2011,Serbia,Towns and suburbs,:
-2011,Serbia,Rural areas,:
+2011,North Macedonia,Rural areas,0
+2011,Albania,Cities,0
+2011,Albania,Towns and suburbs,0
+2011,Albania,Rural areas,0
+2011,Serbia,Cities,0
+2011,Serbia,Towns and suburbs,0
+2011,Serbia,Rural areas,0
 2012,Belgium,Cities,24.8
 2012,Belgium,Towns and suburbs,10.7
 2012,Belgium,Rural areas,8.1
@@ -154,7 +154,7 @@ TIME,COUNTRY,DEG_URB,Value
 2012,Hungary,Rural areas,9.7
 2012,Malta,Cities,13.3
 2012,Malta,Towns and suburbs,7.2
-2012,Malta,Rural areas,:
+2012,Malta,Rural areas,0
 2012,Netherlands,Cities,23.1
 2012,Netherlands,Towns and suburbs,16.1
 2012,Netherlands,Rural areas,8.8
@@ -183,7 +183,7 @@ TIME,COUNTRY,DEG_URB,Value
 2012,Sweden,Towns and suburbs,11.6
 2012,Sweden,Rural areas,7.8
 2012,Iceland,Cities,4.4
-2012,Iceland,Towns and suburbs,:
+2012,Iceland,Towns and suburbs,0
 2012,Iceland,Rural areas,1.6
 2012,Norway,Cities,8.0
 2012,Norway,Towns and suburbs,5.0
@@ -194,15 +194,15 @@ TIME,COUNTRY,DEG_URB,Value
 2012,United Kingdom,Cities,24.2
 2012,United Kingdom,Towns and suburbs,15.9
 2012,United Kingdom,Rural areas,9.4
-2012,North Macedonia,Cities,:
-2012,North Macedonia,Towns and suburbs,:
-2012,North Macedonia,Rural areas,:
-2012,Albania,Cities,:
-2012,Albania,Towns and suburbs,:
-2012,Albania,Rural areas,:
-2012,Serbia,Cities,:
-2012,Serbia,Towns and suburbs,:
-2012,Serbia,Rural areas,:
+2012,North Macedonia,Cities,0
+2012,North Macedonia,Towns and suburbs,0
+2012,North Macedonia,Rural areas,0
+2012,Albania,Cities,0
+2012,Albania,Towns and suburbs,0
+2012,Albania,Rural areas,0
+2012,Serbia,Cities,0
+2012,Serbia,Towns and suburbs,0
+2012,Serbia,Rural areas,0
 2013,Belgium,Cities,31.9
 2013,Belgium,Towns and suburbs,14.5
 2013,Belgium,Rural areas,13.4
@@ -256,7 +256,7 @@ TIME,COUNTRY,DEG_URB,Value
 2013,Hungary,Rural areas,11.5
 2013,Malta,Cities,13.4
 2013,Malta,Towns and suburbs,9.0
-2013,Malta,Rural areas,:
+2013,Malta,Rural areas,0
 2013,Netherlands,Cities,22.9
 2013,Netherlands,Towns and suburbs,15.7
 2013,Netherlands,Rural areas,9.0
@@ -285,7 +285,7 @@ TIME,COUNTRY,DEG_URB,Value
 2013,Sweden,Towns and suburbs,8.6
 2013,Sweden,Rural areas,6.7
 2013,Iceland,Cities,2.6
-2013,Iceland,Towns and suburbs,:
+2013,Iceland,Towns and suburbs,0
 2013,Iceland,Rural areas,1.6
 2013,Norway,Cities,6.1
 2013,Norway,Towns and suburbs,3.7
@@ -296,12 +296,12 @@ TIME,COUNTRY,DEG_URB,Value
 2013,United Kingdom,Cities,22.1
 2013,United Kingdom,Towns and suburbs,12.7
 2013,United Kingdom,Rural areas,8.5
-2013,North Macedonia,Cities,:
-2013,North Macedonia,Towns and suburbs,:
-2013,North Macedonia,Rural areas,:
-2013,Albania,Cities,:
-2013,Albania,Towns and suburbs,:
-2013,Albania,Rural areas,:
+2013,North Macedonia,Cities,0
+2013,North Macedonia,Towns and suburbs,0
+2013,North Macedonia,Rural areas,0
+2013,Albania,Cities,0
+2013,Albania,Towns and suburbs,0
+2013,Albania,Rural areas,0
 2013,Serbia,Cities,29.3
 2013,Serbia,Towns and suburbs,18.1
 2013,Serbia,Rural areas,12.8
@@ -389,21 +389,21 @@ TIME,COUNTRY,DEG_URB,Value
 2014,Iceland,Cities,2.5
 2014,Iceland,Towns and suburbs,2.2
 2014,Iceland,Rural areas,0.1
-2014,Norway,Cities,:
-2014,Norway,Towns and suburbs,:
-2014,Norway,Rural areas,:
+2014,Norway,Cities,0
+2014,Norway,Towns and suburbs,0
+2014,Norway,Rural areas,0
 2014,Switzerland,Cities,20.4
 2014,Switzerland,Towns and suburbs,13.9
 2014,Switzerland,Rural areas,10.2
 2014,United Kingdom,Cities,20.4
 2014,United Kingdom,Towns and suburbs,13.1
 2014,United Kingdom,Rural areas,7.6
-2014,North Macedonia,Cities,:
-2014,North Macedonia,Towns and suburbs,:
-2014,North Macedonia,Rural areas,:
-2014,Albania,Cities,:
-2014,Albania,Towns and suburbs,:
-2014,Albania,Rural areas,:
+2014,North Macedonia,Cities,0
+2014,North Macedonia,Towns and suburbs,0
+2014,North Macedonia,Rural areas,0
+2014,Albania,Cities,0
+2014,Albania,Towns and suburbs,0
+2014,Albania,Rural areas,0
 2014,Serbia,Cities,31.4
 2014,Serbia,Towns and suburbs,21.6
 2014,Serbia,Rural areas,10.5
@@ -500,12 +500,12 @@ TIME,COUNTRY,DEG_URB,Value
 2015,United Kingdom,Cities,20.7
 2015,United Kingdom,Towns and suburbs,12.1
 2015,United Kingdom,Rural areas,9.8
-2015,North Macedonia,Cities,:
-2015,North Macedonia,Towns and suburbs,:
-2015,North Macedonia,Rural areas,:
-2015,Albania,Cities,:
-2015,Albania,Towns and suburbs,:
-2015,Albania,Rural areas,:
+2015,North Macedonia,Cities,0
+2015,North Macedonia,Towns and suburbs,0
+2015,North Macedonia,Rural areas,0
+2015,Albania,Cities,0
+2015,Albania,Towns and suburbs,0
+2015,Albania,Rural areas,0
 2015,Serbia,Cities,26.4
 2015,Serbia,Towns and suburbs,15.9
 2015,Serbia,Rural areas,8.6
@@ -605,9 +605,9 @@ TIME,COUNTRY,DEG_URB,Value
 2016,North Macedonia,Cities,9.5
 2016,North Macedonia,Towns and suburbs,3.3
 2016,North Macedonia,Rural areas,2.9
-2016,Albania,Cities,:
-2016,Albania,Towns and suburbs,:
-2016,Albania,Rural areas,:
+2016,Albania,Cities,0
+2016,Albania,Towns and suburbs,0
+2016,Albania,Rural areas,0
 2016,Serbia,Cities,29.0
 2016,Serbia,Towns and suburbs,18.3
 2016,Serbia,Rural areas,8.1
@@ -664,7 +664,7 @@ TIME,COUNTRY,DEG_URB,Value
 2017,Hungary,Rural areas,5.7
 2017,Malta,Cities,10.6
 2017,Malta,Towns and suburbs,4.8
-2017,Malta,Rural areas,:
+2017,Malta,Rural areas,0
 2017,Netherlands,Cities,19.1
 2017,Netherlands,Towns and suburbs,10.7
 2017,Netherlands,Rural areas,8.1
@@ -766,7 +766,7 @@ TIME,COUNTRY,DEG_URB,Value
 2018,Hungary,Rural areas,4.0
 2018,Malta,Cities,13.4
 2018,Malta,Towns and suburbs,4.0
-2018,Malta,Rural areas,:
+2018,Malta,Rural areas,0
 2018,Netherlands,Cities,22.2
 2018,Netherlands,Towns and suburbs,12.4
 2018,Netherlands,Rural areas,8.1
@@ -868,7 +868,7 @@ TIME,COUNTRY,DEG_URB,Value
 2019,Hungary,Rural areas,5.6
 2019,Malta,Cities,14.7
 2019,Malta,Towns and suburbs,4.1
-2019,Malta,Rural areas,:
+2019,Malta,Rural areas,0
 2019,Netherlands,Cities,20.7
 2019,Netherlands,Towns and suburbs,11.1
 2019,Netherlands,Rural areas,9.4
@@ -896,18 +896,18 @@ TIME,COUNTRY,DEG_URB,Value
 2019,Sweden,Cities,17.7
 2019,Sweden,Towns and suburbs,10.2
 2019,Sweden,Rural areas,9.1
-2019,Iceland,Cities,:
-2019,Iceland,Towns and suburbs,:
-2019,Iceland,Rural areas,:
+2019,Iceland,Cities,0
+2019,Iceland,Towns and suburbs,0
+2019,Iceland,Rural areas,0
 2019,Norway,Cities,7.6
 2019,Norway,Towns and suburbs,3.3
 2019,Norway,Rural areas,1.6
 2019,Switzerland,Cities,11.3
 2019,Switzerland,Towns and suburbs,6.5
 2019,Switzerland,Rural areas,2.6
-2019,United Kingdom,Cities,:
-2019,United Kingdom,Towns and suburbs,:
-2019,United Kingdom,Rural areas,:
+2019,United Kingdom,Cities,0
+2019,United Kingdom,Towns and suburbs,0
+2019,United Kingdom,Rural areas,0
 2019,North Macedonia,Cities,7.1
 2019,North Macedonia,Towns and suburbs,6.7
 2019,North Macedonia,Rural areas,5.3
@@ -970,16 +970,16 @@ TIME,COUNTRY,DEG_URB,Value
 2020,Hungary,Rural areas,5.6
 2020,Malta,Cities,12.5
 2020,Malta,Towns and suburbs,2.6
-2020,Malta,Rural areas,:
+2020,Malta,Rural areas,0
 2020,Netherlands,Cities,20.2
 2020,Netherlands,Towns and suburbs,10.5
 2020,Netherlands,Rural areas,7.5
 2020,Austria,Cities,11.4
 2020,Austria,Towns and suburbs,4.1
 2020,Austria,Rural areas,2.4
-2020,Poland,Cities,:
-2020,Poland,Towns and suburbs,:
-2020,Poland,Rural areas,:
+2020,Poland,Cities,0
+2020,Poland,Towns and suburbs,0
+2020,Poland,Rural areas,0
 2020,Portugal,Cities,8.7
 2020,Portugal,Towns and suburbs,5.1
 2020,Portugal,Rural areas,4.4
@@ -998,21 +998,21 @@ TIME,COUNTRY,DEG_URB,Value
 2020,Sweden,Cities,19.9
 2020,Sweden,Towns and suburbs,10.4
 2020,Sweden,Rural areas,8.4
-2020,Iceland,Cities,:
-2020,Iceland,Towns and suburbs,:
-2020,Iceland,Rural areas,:
+2020,Iceland,Cities,0
+2020,Iceland,Towns and suburbs,0
+2020,Iceland,Rural areas,0
 2020,Norway,Cities,6.4
 2020,Norway,Towns and suburbs,3.7
 2020,Norway,Rural areas,2.1
 2020,Switzerland,Cities,11.8
 2020,Switzerland,Towns and suburbs,5.9
 2020,Switzerland,Rural areas,2.9
-2020,United Kingdom,Cities,:
-2020,United Kingdom,Towns and suburbs,:
-2020,United Kingdom,Rural areas,:
-2020,North Macedonia,Cities,:
-2020,North Macedonia,Towns and suburbs,:
-2020,North Macedonia,Rural areas,:
+2020,United Kingdom,Cities,0
+2020,United Kingdom,Towns and suburbs,0
+2020,United Kingdom,Rural areas,0
+2020,North Macedonia,Cities,0
+2020,North Macedonia,Towns and suburbs,0
+2020,North Macedonia,Rural areas,0
 2020,Albania,Cities,1.1
 2020,Albania,Towns and suburbs,0.5
 2020,Albania,Rural areas,0.4

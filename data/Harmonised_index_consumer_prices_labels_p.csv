@@ -2514,7 +2514,7 @@ TIME,COUNTRY,Value
 2020M12,Iceland,103.95
 2020M12,Norway,113.6
 2020M12,Switzerland,100.19
-2020M12,United Kingdom,:
+2020M12,United Kingdom,0
 2020M12,North Macedonia,107.86
 2020M12,Serbia,110.7
 2020M12,Turkey,193.48
@@ -2549,7 +2549,7 @@ TIME,COUNTRY,Value
 2021M01,Iceland,103.77
 2021M01,Norway,114.9
 2021M01,Switzerland,100.24
-2021M01,United Kingdom,:
+2021M01,United Kingdom,0
 2021M01,North Macedonia,107.51
 2021M01,Serbia,111.2
 2021M01,Turkey,196.72
@@ -2584,7 +2584,7 @@ TIME,COUNTRY,Value
 2021M02,Iceland,104.62
 2021M02,Norway,115.8
 2021M02,Switzerland,100.32
-2021M02,United Kingdom,:
+2021M02,United Kingdom,0
 2021M02,North Macedonia,107.68
 2021M02,Serbia,111.9
 2021M02,Turkey,198.50
@@ -2619,7 +2619,7 @@ TIME,COUNTRY,Value
 2021M03,Iceland,104.98
 2021M03,Norway,115.5
 2021M03,Switzerland,100.53
-2021M03,United Kingdom,:
+2021M03,United Kingdom,0
 2021M03,North Macedonia,108.24
 2021M03,Serbia,112.4
 2021M03,Turkey,200.65
@@ -2654,7 +2654,7 @@ TIME,COUNTRY,Value
 2021M04,Iceland,105.37
 2021M04,Norway,115.9
 2021M04,Switzerland,100.79
-2021M04,United Kingdom,:
+2021M04,United Kingdom,0
 2021M04,North Macedonia,109.15
 2021M04,Serbia,113.6
 2021M04,Turkey,204.02
@@ -2689,7 +2689,7 @@ TIME,COUNTRY,Value
 2021M05,Iceland,106.20
 2021M05,Norway,115.7
 2021M05,Switzerland,100.99
-2021M05,United Kingdom,:
+2021M05,United Kingdom,0
 2021M05,North Macedonia,110.09
 2021M05,Serbia,114.3
 2021M05,Turkey,205.82
@@ -2724,7 +2724,7 @@ TIME,COUNTRY,Value
 2021M06,Iceland,108.01
 2021M06,Norway,116.2
 2021M06,Switzerland,101.00
-2021M06,United Kingdom,:
+2021M06,United Kingdom,0
 2021M06,North Macedonia,110.27
 2021M06,Serbia,114.6
 2021M06,Turkey,209.82
@@ -2759,7 +2759,7 @@ TIME,COUNTRY,Value
 2021M07,Iceland,108.23
 2021M07,Norway,117.4
 2021M07,Switzerland,101.12
-2021M07,United Kingdom,:
+2021M07,United Kingdom,0
 2021M07,North Macedonia,110.47
 2021M07,Serbia,114.8
 2021M07,Turkey,213.59
@@ -2794,7 +2794,7 @@ TIME,COUNTRY,Value
 2021M08,Iceland,108.85
 2021M08,Norway,117.4
 2021M08,Switzerland,101.33
-2021M08,United Kingdom,:
+2021M08,United Kingdom,0
 2021M08,North Macedonia,111.46
 2021M08,Serbia,115.9
 2021M08,Turkey,215.96
@@ -2829,7 +2829,7 @@ TIME,COUNTRY,Value
 2021M09,Iceland,108.17
 2021M09,Norway,118.9
 2021M09,Switzerland,101.29
-2021M09,United Kingdom,:
+2021M09,United Kingdom,0
 2021M09,North Macedonia,111.51
 2021M09,Serbia,116.8
 2021M09,Turkey,218.71
@@ -2864,7 +2864,7 @@ TIME,COUNTRY,Value
 2021M10,Iceland,108.02
 2021M10,Norway,118.4
 2021M10,Switzerland,101.71
-2021M10,United Kingdom,:
+2021M10,United Kingdom,0
 2021M10,North Macedonia,112.02
 2021M10,Serbia,117.9
 2021M10,Turkey,223.96
@@ -2899,7 +2899,7 @@ TIME,COUNTRY,Value
 2021M11,Iceland,107.59
 2021M11,Norway,119.5
 2021M11,Switzerland,101.57
-2021M11,United Kingdom,:
+2021M11,United Kingdom,0
 2021M11,North Macedonia,112.82
 2021M11,Serbia,119.0
 2021M11,Turkey,231.83
@@ -2934,7 +2934,7 @@ TIME,COUNTRY,Value
 2021M12,Iceland,107.96
 2021M12,Norway,120.5
 2021M12,Switzerland,101.53
-2021M12,United Kingdom,:
+2021M12,United Kingdom,0
 2021M12,North Macedonia,113.11
 2021M12,Serbia,119.5
 2021M12,Turkey,263.29
@@ -2969,11 +2969,11 @@ TIME,COUNTRY,Value
 2022M01,Iceland,108.19
 2022M01,Norway,118.5
 2022M01,Switzerland,101.69
-2022M01,United Kingdom,:
+2022M01,United Kingdom,0
 2022M01,North Macedonia,114.68
 2022M01,Serbia,120.4
 2022M01,Turkey,292.52
-2022M01,United States,:
+2022M01,United States,0
 2022M02,Belgium,119.49
 2022M02,Bulgaria,116.16
 2022M02,Czechia,124.4
@@ -3004,11 +3004,11 @@ TIME,COUNTRY,Value
 2022M02,Iceland,109.26
 2022M02,Norway,119.9
 2022M02,Switzerland,102.25
-2022M02,United Kingdom,:
+2022M02,United Kingdom,0
 2022M02,North Macedonia,116.01
 2022M02,Serbia,121.7
 2022M02,Turkey,306.58
-2022M02,United States,:
+2022M02,United States,0
 2022M03,Belgium,120.28
 2022M03,Bulgaria,118.59
 2022M03,Czechia,126.8
@@ -3039,8 +3039,8 @@ TIME,COUNTRY,Value
 2022M03,Iceland,110.28
 2022M03,Norway,120.9
 2022M03,Switzerland,102.73
-2022M03,United Kingdom,:
+2022M03,United Kingdom,0
 2022M03,North Macedonia,118.00
 2022M03,Serbia,122.7
 2022M03,Turkey,323.33
-2022M03,United States,:
+2022M03,United States,0

@@ -9,10 +9,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Belgium,Environmental protection,1.2
 2010,Belgium,Housing and community amenities,0.4
 2010,Belgium,Health,7.8
-2010,Belgium,Medical products, appliances and equipment,0.9
+2010,Belgium,Medical products appliances and equipment,0.9
 2010,Belgium,Outpatient services,2.7
 2010,Belgium,Hospital services,3.8
-2010,Belgium,Recreation, culture and religion,1.3
+2010,Belgium,Recreation culture and religion,1.3
 2010,Belgium,Recreational and sporting services,0.4
 2010,Belgium,Cultural services,0.5
 2010,Belgium,Education,6.0
@@ -34,10 +34,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Bulgaria,Environmental protection,0.7
 2010,Bulgaria,Housing and community amenities,1.0
 2010,Bulgaria,Health,4.4
-2010,Bulgaria,Medical products, appliances and equipment,0.5
+2010,Bulgaria,Medical products appliances and equipment,0.5
 2010,Bulgaria,Outpatient services,1.1
 2010,Bulgaria,Hospital services,2.7
-2010,Bulgaria,Recreation, culture and religion,0.7
+2010,Bulgaria,Recreation culture and religion,0.7
 2010,Bulgaria,Recreational and sporting services,0.1
 2010,Bulgaria,Cultural services,0.4
 2010,Bulgaria,Education,3.6
@@ -59,10 +59,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Czechia,Environmental protection,1.0
 2010,Czechia,Housing and community amenities,0.9
 2010,Czechia,Health,7.7
-2010,Czechia,Medical products, appliances and equipment,1.0
+2010,Czechia,Medical products appliances and equipment,1.0
 2010,Czechia,Outpatient services,1.6
 2010,Czechia,Hospital services,3.4
-2010,Czechia,Recreation, culture and religion,1.5
+2010,Czechia,Recreation culture and religion,1.5
 2010,Czechia,Recreational and sporting services,0.4
 2010,Czechia,Cultural services,0.7
 2010,Czechia,Education,4.6
@@ -84,10 +84,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Denmark,Environmental protection,0.4
 2010,Denmark,Housing and community amenities,0.3
 2010,Denmark,Health,8.6
-2010,Denmark,Medical products, appliances and equipment,0.8
+2010,Denmark,Medical products appliances and equipment,0.8
 2010,Denmark,Outpatient services,1.2
 2010,Denmark,Hospital services,6.0
-2010,Denmark,Recreation, culture and religion,1.8
+2010,Denmark,Recreation culture and religion,1.8
 2010,Denmark,Recreational and sporting services,0.4
 2010,Denmark,Cultural services,0.7
 2010,Denmark,Education,7.1
@@ -109,10 +109,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2010,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.6
 2010,Germany (until 1990 former territory of the FRG),Health,7.0
-2010,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.6
+2010,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.6
 2010,Germany (until 1990 former territory of the FRG),Outpatient services,2.0
 2010,Germany (until 1990 former territory of the FRG),Hospital services,2.8
-2010,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.1
+2010,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.1
 2010,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2010,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2010,Germany (until 1990 former territory of the FRG),Education,4.4
@@ -134,10 +134,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Estonia,Environmental protection,-0.3
 2010,Estonia,Housing and community amenities,0.5
 2010,Estonia,Health,5.7
-2010,Estonia,Medical products, appliances and equipment,0.8
+2010,Estonia,Medical products appliances and equipment,0.8
 2010,Estonia,Outpatient services,0.5
 2010,Estonia,Hospital services,4.1
-2010,Estonia,Recreation, culture and religion,2.2
+2010,Estonia,Recreation culture and religion,2.2
 2010,Estonia,Recreational and sporting services,0.5
 2010,Estonia,Cultural services,1.1
 2010,Estonia,Education,6.5
@@ -159,10 +159,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Ireland,Environmental protection,1.0
 2010,Ireland,Housing and community amenities,1.2
 2010,Ireland,Health,7.5
-2010,Ireland,Medical products, appliances and equipment,0.9
+2010,Ireland,Medical products appliances and equipment,0.9
 2010,Ireland,Outpatient services,4.0
 2010,Ireland,Hospital services,1.9
-2010,Ireland,Recreation, culture and religion,0.9
+2010,Ireland,Recreation culture and religion,0.9
 2010,Ireland,Recreational and sporting services,0.2
 2010,Ireland,Cultural services,0.4
 2010,Ireland,Education,4.6
@@ -184,10 +184,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Greece,Environmental protection,0.8
 2010,Greece,Housing and community amenities,0.2
 2010,Greece,Health,6.9
-2010,Greece,Medical products, appliances and equipment,2.3
+2010,Greece,Medical products appliances and equipment,2.3
 2010,Greece,Outpatient services,0.3
 2010,Greece,Hospital services,4.3
-2010,Greece,Recreation, culture and religion,0.6
+2010,Greece,Recreation culture and religion,0.6
 2010,Greece,Recreational and sporting services,0.2
 2010,Greece,Cultural services,0.1
 2010,Greece,Education,4.1
@@ -209,10 +209,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Spain,Environmental protection,1.1
 2010,Spain,Housing and community amenities,0.7
 2010,Spain,Health,6.6
-2010,Spain,Medical products, appliances and equipment,1.3
+2010,Spain,Medical products appliances and equipment,1.3
 2010,Spain,Outpatient services,2.4
 2010,Spain,Hospital services,2.6
-2010,Spain,Recreation, culture and religion,1.6
+2010,Spain,Recreation culture and religion,1.6
 2010,Spain,Recreational and sporting services,0.5
 2010,Spain,Cultural services,0.7
 2010,Spain,Education,4.5
@@ -234,10 +234,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,France,Environmental protection,1.0
 2010,France,Housing and community amenities,1.4
 2010,France,Health,8.0
-2010,France,Medical products, appliances and equipment,1.5
+2010,France,Medical products appliances and equipment,1.5
 2010,France,Outpatient services,2.7
 2010,France,Hospital services,3.4
-2010,France,Recreation, culture and religion,1.6
+2010,France,Recreation culture and religion,1.6
 2010,France,Recreational and sporting services,0.6
 2010,France,Cultural services,0.8
 2010,France,Education,5.6
@@ -259,10 +259,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Croatia,Environmental protection,0.6
 2010,Croatia,Housing and community amenities,2.3
 2010,Croatia,Health,6.2
-2010,Croatia,Medical products, appliances and equipment,1.6
+2010,Croatia,Medical products appliances and equipment,1.6
 2010,Croatia,Outpatient services,0.9
 2010,Croatia,Hospital services,2.9
-2010,Croatia,Recreation, culture and religion,1.8
+2010,Croatia,Recreation culture and religion,1.8
 2010,Croatia,Recreational and sporting services,0.5
 2010,Croatia,Cultural services,0.7
 2010,Croatia,Education,4.6
@@ -284,10 +284,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Italy,Environmental protection,0.8
 2010,Italy,Housing and community amenities,0.8
 2010,Italy,Health,7.4
-2010,Italy,Medical products, appliances and equipment,1.0
+2010,Italy,Medical products appliances and equipment,1.0
 2010,Italy,Outpatient services,2.5
 2010,Italy,Hospital services,3.3
-2010,Italy,Recreation, culture and religion,0.7
+2010,Italy,Recreation culture and religion,0.7
 2010,Italy,Recreational and sporting services,0.2
 2010,Italy,Cultural services,0.3
 2010,Italy,Education,4.3
@@ -309,10 +309,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Cyprus,Environmental protection,0.3
 2010,Cyprus,Housing and community amenities,2.5
 2010,Cyprus,Health,3.0
-2010,Cyprus,Medical products, appliances and equipment,0.6
+2010,Cyprus,Medical products appliances and equipment,0.6
 2010,Cyprus,Outpatient services,0.1
 2010,Cyprus,Hospital services,2.2
-2010,Cyprus,Recreation, culture and religion,1.1
+2010,Cyprus,Recreation culture and religion,1.1
 2010,Cyprus,Recreational and sporting services,0.4
 2010,Cyprus,Cultural services,0.4
 2010,Cyprus,Education,6.5
@@ -334,10 +334,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Latvia,Environmental protection,0.3
 2010,Latvia,Housing and community amenities,1.5
 2010,Latvia,Health,4.1
-2010,Latvia,Medical products, appliances and equipment,0.6
+2010,Latvia,Medical products appliances and equipment,0.6
 2010,Latvia,Outpatient services,0.8
 2010,Latvia,Hospital services,2.4
-2010,Latvia,Recreation, culture and religion,1.6
+2010,Latvia,Recreation culture and religion,1.6
 2010,Latvia,Recreational and sporting services,0.2
 2010,Latvia,Cultural services,1.1
 2010,Latvia,Education,6.2
@@ -359,10 +359,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Lithuania,Environmental protection,1.3
 2010,Lithuania,Housing and community amenities,0.3
 2010,Lithuania,Health,5.4
-2010,Lithuania,Medical products, appliances and equipment,0.9
+2010,Lithuania,Medical products appliances and equipment,0.9
 2010,Lithuania,Outpatient services,1.7
 2010,Lithuania,Hospital services,2.5
-2010,Lithuania,Recreation, culture and religion,1.0
+2010,Lithuania,Recreation culture and religion,1.0
 2010,Lithuania,Recreational and sporting services,0.2
 2010,Lithuania,Cultural services,0.6
 2010,Lithuania,Education,5.9
@@ -384,10 +384,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Luxembourg,Environmental protection,0.8
 2010,Luxembourg,Housing and community amenities,0.8
 2010,Luxembourg,Health,5.0
-2010,Luxembourg,Medical products, appliances and equipment,1.7
+2010,Luxembourg,Medical products appliances and equipment,1.7
 2010,Luxembourg,Outpatient services,0.9
 2010,Luxembourg,Hospital services,2.1
-2010,Luxembourg,Recreation, culture and religion,1.2
+2010,Luxembourg,Recreation culture and religion,1.2
 2010,Luxembourg,Recreational and sporting services,0.4
 2010,Luxembourg,Cultural services,0.5
 2010,Luxembourg,Education,5.0
@@ -409,10 +409,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Hungary,Environmental protection,0.6
 2010,Hungary,Housing and community amenities,0.7
 2010,Hungary,Health,5.0
-2010,Hungary,Medical products, appliances and equipment,1.4
+2010,Hungary,Medical products appliances and equipment,1.4
 2010,Hungary,Outpatient services,1.4
 2010,Hungary,Hospital services,1.8
-2010,Hungary,Recreation, culture and religion,1.8
+2010,Hungary,Recreation culture and religion,1.8
 2010,Hungary,Recreational and sporting services,0.4
 2010,Hungary,Cultural services,0.8
 2010,Hungary,Education,5.5
@@ -434,10 +434,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Malta,Environmental protection,1.9
 2010,Malta,Housing and community amenities,0.3
 2010,Malta,Health,5.1
-2010,Malta,Medical products, appliances and equipment,0.6
+2010,Malta,Medical products appliances and equipment,0.6
 2010,Malta,Outpatient services,0.8
 2010,Malta,Hospital services,3.3
-2010,Malta,Recreation, culture and religion,0.8
+2010,Malta,Recreation culture and religion,0.8
 2010,Malta,Recreational and sporting services,0.1
 2010,Malta,Cultural services,0.5
 2010,Malta,Education,5.4
@@ -459,10 +459,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Netherlands,Environmental protection,1.6
 2010,Netherlands,Housing and community amenities,0.7
 2010,Netherlands,Health,7.8
-2010,Netherlands,Medical products, appliances and equipment,1.1
+2010,Netherlands,Medical products appliances and equipment,1.1
 2010,Netherlands,Outpatient services,2.5
 2010,Netherlands,Hospital services,3.4
-2010,Netherlands,Recreation, culture and religion,1.5
+2010,Netherlands,Recreation culture and religion,1.5
 2010,Netherlands,Recreational and sporting services,0.6
 2010,Netherlands,Cultural services,0.5
 2010,Netherlands,Education,5.6
@@ -484,10 +484,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Austria,Environmental protection,0.6
 2010,Austria,Housing and community amenities,0.4
 2010,Austria,Health,7.9
-2010,Austria,Medical products, appliances and equipment,1.1
+2010,Austria,Medical products appliances and equipment,1.1
 2010,Austria,Outpatient services,1.4
 2010,Austria,Hospital services,4.4
-2010,Austria,Recreation, culture and religion,1.3
+2010,Austria,Recreation culture and religion,1.3
 2010,Austria,Recreational and sporting services,0.3
 2010,Austria,Cultural services,0.6
 2010,Austria,Education,5.1
@@ -509,10 +509,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Poland,Environmental protection,0.7
 2010,Poland,Housing and community amenities,0.8
 2010,Poland,Health,5.0
-2010,Poland,Medical products, appliances and equipment,0.1
+2010,Poland,Medical products appliances and equipment,0.1
 2010,Poland,Outpatient services,1.6
 2010,Poland,Hospital services,3.0
-2010,Poland,Recreation, culture and religion,1.4
+2010,Poland,Recreation culture and religion,1.4
 2010,Poland,Recreational and sporting services,0.6
 2010,Poland,Cultural services,0.7
 2010,Poland,Education,5.5
@@ -534,10 +534,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Portugal,Environmental protection,0.7
 2010,Portugal,Housing and community amenities,0.6
 2010,Portugal,Health,7.5
-2010,Portugal,Medical products, appliances and equipment,0.6
+2010,Portugal,Medical products appliances and equipment,0.6
 2010,Portugal,Outpatient services,2.6
 2010,Portugal,Hospital services,3.9
-2010,Portugal,Recreation, culture and religion,1.2
+2010,Portugal,Recreation culture and religion,1.2
 2010,Portugal,Recreational and sporting services,0.4
 2010,Portugal,Cultural services,0.4
 2010,Portugal,Education,6.7
@@ -559,10 +559,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Romania,Environmental protection,0.8
 2010,Romania,Housing and community amenities,1.3
 2010,Romania,Health,4.1
-2010,Romania,Medical products, appliances and equipment,1.1
+2010,Romania,Medical products appliances and equipment,1.1
 2010,Romania,Outpatient services,0.1
 2010,Romania,Hospital services,2.5
-2010,Romania,Recreation, culture and religion,1.0
+2010,Romania,Recreation culture and religion,1.0
 2010,Romania,Recreational and sporting services,0.3
 2010,Romania,Cultural services,0.4
 2010,Romania,Education,3.3
@@ -584,10 +584,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Slovenia,Environmental protection,0.7
 2010,Slovenia,Housing and community amenities,0.7
 2010,Slovenia,Health,6.9
-2010,Slovenia,Medical products, appliances and equipment,1.1
+2010,Slovenia,Medical products appliances and equipment,1.1
 2010,Slovenia,Outpatient services,1.9
 2010,Slovenia,Hospital services,3.2
-2010,Slovenia,Recreation, culture and religion,2.2
+2010,Slovenia,Recreation culture and religion,2.2
 2010,Slovenia,Recreational and sporting services,0.6
 2010,Slovenia,Cultural services,0.9
 2010,Slovenia,Education,6.5
@@ -609,10 +609,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Slovakia,Environmental protection,0.9
 2010,Slovakia,Housing and community amenities,0.8
 2010,Slovakia,Health,7.3
-2010,Slovakia,Medical products, appliances and equipment,1.8
+2010,Slovakia,Medical products appliances and equipment,1.8
 2010,Slovakia,Outpatient services,2.0
 2010,Slovakia,Hospital services,3.1
-2010,Slovakia,Recreation, culture and religion,1.0
+2010,Slovakia,Recreation culture and religion,1.0
 2010,Slovakia,Recreational and sporting services,0.2
 2010,Slovakia,Cultural services,0.6
 2010,Slovakia,Education,4.5
@@ -634,10 +634,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Finland,Environmental protection,0.3
 2010,Finland,Housing and community amenities,0.5
 2010,Finland,Health,7.3
-2010,Finland,Medical products, appliances and equipment,0.7
+2010,Finland,Medical products appliances and equipment,0.7
 2010,Finland,Outpatient services,3.2
 2010,Finland,Hospital services,3.0
-2010,Finland,Recreation, culture and religion,1.2
+2010,Finland,Recreation culture and religion,1.2
 2010,Finland,Recreational and sporting services,0.5
 2010,Finland,Cultural services,0.5
 2010,Finland,Education,6.5
@@ -659,10 +659,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Sweden,Environmental protection,0.4
 2010,Sweden,Housing and community amenities,0.5
 2010,Sweden,Health,6.7
-2010,Sweden,Medical products, appliances and equipment,0.8
+2010,Sweden,Medical products appliances and equipment,0.8
 2010,Sweden,Outpatient services,2.9
 2010,Sweden,Hospital services,2.4
-2010,Sweden,Recreation, culture and religion,1.3
+2010,Sweden,Recreation culture and religion,1.3
 2010,Sweden,Recreational and sporting services,0.5
 2010,Sweden,Cultural services,0.6
 2010,Sweden,Education,6.4
@@ -684,10 +684,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Iceland,Environmental protection,0.6
 2010,Iceland,Housing and community amenities,0.4
 2010,Iceland,Health,7.2
-2010,Iceland,Medical products, appliances and equipment,0.7
+2010,Iceland,Medical products appliances and equipment,0.7
 2010,Iceland,Outpatient services,1.5
 2010,Iceland,Hospital services,4.8
-2010,Iceland,Recreation, culture and religion,3.5
+2010,Iceland,Recreation culture and religion,3.5
 2010,Iceland,Recreational and sporting services,1.6
 2010,Iceland,Cultural services,1.2
 2010,Iceland,Education,7.2
@@ -709,10 +709,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Norway,Environmental protection,0.8
 2010,Norway,Housing and community amenities,0.6
 2010,Norway,Health,7.4
-2010,Norway,Medical products, appliances and equipment,0.5
+2010,Norway,Medical products appliances and equipment,0.5
 2010,Norway,Outpatient services,1.7
 2010,Norway,Hospital services,4.4
-2010,Norway,Recreation, culture and religion,1.6
+2010,Norway,Recreation culture and religion,1.6
 2010,Norway,Recreational and sporting services,0.3
 2010,Norway,Cultural services,0.6
 2010,Norway,Education,5.3
@@ -734,10 +734,10 @@ TIME,COUNTRY,COFOG99,Value
 2010,Switzerland,Environmental protection,0.6
 2010,Switzerland,Housing and community amenities,0.2
 2010,Switzerland,Health,1.8
-2010,Switzerland,Medical products, appliances and equipment,0.0
+2010,Switzerland,Medical products appliances and equipment,0.0
 2010,Switzerland,Outpatient services,0.1
 2010,Switzerland,Hospital services,1.4
-2010,Switzerland,Recreation, culture and religion,1.0
+2010,Switzerland,Recreation culture and religion,1.0
 2010,Switzerland,Recreational and sporting services,0.3
 2010,Switzerland,Cultural services,0.4
 2010,Switzerland,Education,5.1
@@ -759,10 +759,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Belgium,Environmental protection,1.5
 2011,Belgium,Housing and community amenities,0.3
 2011,Belgium,Health,7.7
-2011,Belgium,Medical products, appliances and equipment,0.9
+2011,Belgium,Medical products appliances and equipment,0.9
 2011,Belgium,Outpatient services,2.7
 2011,Belgium,Hospital services,3.8
-2011,Belgium,Recreation, culture and religion,1.3
+2011,Belgium,Recreation culture and religion,1.3
 2011,Belgium,Recreational and sporting services,0.4
 2011,Belgium,Cultural services,0.5
 2011,Belgium,Education,6.2
@@ -784,10 +784,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Bulgaria,Environmental protection,0.7
 2011,Bulgaria,Housing and community amenities,1.1
 2011,Bulgaria,Health,4.1
-2011,Bulgaria,Medical products, appliances and equipment,0.6
+2011,Bulgaria,Medical products appliances and equipment,0.6
 2011,Bulgaria,Outpatient services,1.1
 2011,Bulgaria,Hospital services,2.0
-2011,Bulgaria,Recreation, culture and religion,0.7
+2011,Bulgaria,Recreation culture and religion,0.7
 2011,Bulgaria,Recreational and sporting services,0.1
 2011,Bulgaria,Cultural services,0.4
 2011,Bulgaria,Education,3.4
@@ -809,10 +809,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Czechia,Environmental protection,1.3
 2011,Czechia,Housing and community amenities,0.9
 2011,Czechia,Health,7.6
-2011,Czechia,Medical products, appliances and equipment,1.0
+2011,Czechia,Medical products appliances and equipment,1.0
 2011,Czechia,Outpatient services,1.6
 2011,Czechia,Hospital services,3.3
-2011,Czechia,Recreation, culture and religion,1.4
+2011,Czechia,Recreation culture and religion,1.4
 2011,Czechia,Recreational and sporting services,0.4
 2011,Czechia,Cultural services,0.6
 2011,Czechia,Education,4.6
@@ -834,10 +834,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Denmark,Environmental protection,0.4
 2011,Denmark,Housing and community amenities,0.3
 2011,Denmark,Health,8.4
-2011,Denmark,Medical products, appliances and equipment,0.7
+2011,Denmark,Medical products appliances and equipment,0.7
 2011,Denmark,Outpatient services,1.2
 2011,Denmark,Hospital services,6.0
-2011,Denmark,Recreation, culture and religion,1.8
+2011,Denmark,Recreation culture and religion,1.8
 2011,Denmark,Recreational and sporting services,0.4
 2011,Denmark,Cultural services,0.7
 2011,Denmark,Education,6.8
@@ -859,10 +859,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2011,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.5
 2011,Germany (until 1990 former territory of the FRG),Health,6.8
-2011,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.5
+2011,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.5
 2011,Germany (until 1990 former territory of the FRG),Outpatient services,2.0
 2011,Germany (until 1990 former territory of the FRG),Hospital services,2.7
-2011,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.1
+2011,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.1
 2011,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2011,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2011,Germany (until 1990 former territory of the FRG),Education,4.3
@@ -884,10 +884,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Estonia,Environmental protection,-0.2
 2011,Estonia,Housing and community amenities,0.5
 2011,Estonia,Health,5.2
-2011,Estonia,Medical products, appliances and equipment,0.7
+2011,Estonia,Medical products appliances and equipment,0.7
 2011,Estonia,Outpatient services,0.4
 2011,Estonia,Hospital services,3.9
-2011,Estonia,Recreation, culture and religion,2.0
+2011,Estonia,Recreation culture and religion,2.0
 2011,Estonia,Recreational and sporting services,0.4
 2011,Estonia,Cultural services,1.0
 2011,Estonia,Education,6.1
@@ -909,10 +909,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Ireland,Environmental protection,0.8
 2011,Ireland,Housing and community amenities,0.8
 2011,Ireland,Health,7.9
-2011,Ireland,Medical products, appliances and equipment,1.1
+2011,Ireland,Medical products appliances and equipment,1.1
 2011,Ireland,Outpatient services,2.8
 2011,Ireland,Hospital services,3.1
-2011,Ireland,Recreation, culture and religion,0.9
+2011,Ireland,Recreation culture and religion,0.9
 2011,Ireland,Recreational and sporting services,0.1
 2011,Ireland,Cultural services,0.4
 2011,Ireland,Education,5.3
@@ -934,10 +934,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Greece,Environmental protection,0.9
 2011,Greece,Housing and community amenities,0.2
 2011,Greece,Health,6.6
-2011,Greece,Medical products, appliances and equipment,2.3
+2011,Greece,Medical products appliances and equipment,2.3
 2011,Greece,Outpatient services,0.4
 2011,Greece,Hospital services,3.8
-2011,Greece,Recreation, culture and religion,0.6
+2011,Greece,Recreation culture and religion,0.6
 2011,Greece,Recreational and sporting services,0.2
 2011,Greece,Cultural services,0.1
 2011,Greece,Education,4.5
@@ -959,10 +959,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Spain,Environmental protection,1.0
 2011,Spain,Housing and community amenities,0.6
 2011,Spain,Health,6.5
-2011,Spain,Medical products, appliances and equipment,1.2
+2011,Spain,Medical products appliances and equipment,1.2
 2011,Spain,Outpatient services,2.3
 2011,Spain,Hospital services,2.5
-2011,Spain,Recreation, culture and religion,1.5
+2011,Spain,Recreation culture and religion,1.5
 2011,Spain,Recreational and sporting services,0.5
 2011,Spain,Cultural services,0.6
 2011,Spain,Education,4.4
@@ -984,10 +984,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,France,Environmental protection,1.0
 2011,France,Housing and community amenities,1.4
 2011,France,Health,7.9
-2011,France,Medical products, appliances and equipment,1.5
+2011,France,Medical products appliances and equipment,1.5
 2011,France,Outpatient services,2.7
 2011,France,Hospital services,3.4
-2011,France,Recreation, culture and religion,1.5
+2011,France,Recreation culture and religion,1.5
 2011,France,Recreational and sporting services,0.6
 2011,France,Cultural services,0.8
 2011,France,Education,5.5
@@ -1009,10 +1009,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Croatia,Environmental protection,0.6
 2011,Croatia,Housing and community amenities,2.0
 2011,Croatia,Health,6.2
-2011,Croatia,Medical products, appliances and equipment,1.6
+2011,Croatia,Medical products appliances and equipment,1.6
 2011,Croatia,Outpatient services,0.9
 2011,Croatia,Hospital services,3.0
-2011,Croatia,Recreation, culture and religion,1.7
+2011,Croatia,Recreation culture and religion,1.7
 2011,Croatia,Recreational and sporting services,0.5
 2011,Croatia,Cultural services,0.7
 2011,Croatia,Education,4.6
@@ -1034,10 +1034,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Italy,Environmental protection,0.9
 2011,Italy,Housing and community amenities,0.6
 2011,Italy,Health,7.1
-2011,Italy,Medical products, appliances and equipment,1.0
+2011,Italy,Medical products appliances and equipment,1.0
 2011,Italy,Outpatient services,2.5
 2011,Italy,Hospital services,3.2
-2011,Italy,Recreation, culture and religion,0.6
+2011,Italy,Recreation culture and religion,0.6
 2011,Italy,Recreational and sporting services,0.2
 2011,Italy,Cultural services,0.3
 2011,Italy,Education,4.1
@@ -1059,10 +1059,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Cyprus,Environmental protection,0.3
 2011,Cyprus,Housing and community amenities,2.4
 2011,Cyprus,Health,3.1
-2011,Cyprus,Medical products, appliances and equipment,0.7
+2011,Cyprus,Medical products appliances and equipment,0.7
 2011,Cyprus,Outpatient services,0.1
 2011,Cyprus,Hospital services,2.2
-2011,Cyprus,Recreation, culture and religion,1.2
+2011,Cyprus,Recreation culture and religion,1.2
 2011,Cyprus,Recreational and sporting services,0.4
 2011,Cyprus,Cultural services,0.4
 2011,Cyprus,Education,6.3
@@ -1084,10 +1084,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Latvia,Environmental protection,0.7
 2011,Latvia,Housing and community amenities,1.3
 2011,Latvia,Health,4.3
-2011,Latvia,Medical products, appliances and equipment,0.5
+2011,Latvia,Medical products appliances and equipment,0.5
 2011,Latvia,Outpatient services,0.9
 2011,Latvia,Hospital services,2.3
-2011,Latvia,Recreation, culture and religion,1.8
+2011,Latvia,Recreation culture and religion,1.8
 2011,Latvia,Recreational and sporting services,0.5
 2011,Latvia,Cultural services,1.0
 2011,Latvia,Education,6.0
@@ -1109,10 +1109,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Lithuania,Environmental protection,0.8
 2011,Lithuania,Housing and community amenities,0.3
 2011,Lithuania,Health,5.2
-2011,Lithuania,Medical products, appliances and equipment,0.8
+2011,Lithuania,Medical products appliances and equipment,0.8
 2011,Lithuania,Outpatient services,1.6
 2011,Lithuania,Hospital services,2.3
-2011,Lithuania,Recreation, culture and religion,1.0
+2011,Lithuania,Recreation culture and religion,1.0
 2011,Lithuania,Recreational and sporting services,0.3
 2011,Lithuania,Cultural services,0.6
 2011,Lithuania,Education,5.6
@@ -1134,10 +1134,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Luxembourg,Environmental protection,0.8
 2011,Luxembourg,Housing and community amenities,0.7
 2011,Luxembourg,Health,4.9
-2011,Luxembourg,Medical products, appliances and equipment,1.6
+2011,Luxembourg,Medical products appliances and equipment,1.6
 2011,Luxembourg,Outpatient services,0.9
 2011,Luxembourg,Hospital services,2.0
-2011,Luxembourg,Recreation, culture and religion,1.1
+2011,Luxembourg,Recreation culture and religion,1.1
 2011,Luxembourg,Recreational and sporting services,0.4
 2011,Luxembourg,Cultural services,0.5
 2011,Luxembourg,Education,5.0
@@ -1159,10 +1159,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Hungary,Environmental protection,0.7
 2011,Hungary,Housing and community amenities,0.8
 2011,Hungary,Health,5.1
-2011,Hungary,Medical products, appliances and equipment,1.5
+2011,Hungary,Medical products appliances and equipment,1.5
 2011,Hungary,Outpatient services,1.4
 2011,Hungary,Hospital services,1.8
-2011,Hungary,Recreation, culture and religion,1.7
+2011,Hungary,Recreation culture and religion,1.7
 2011,Hungary,Recreational and sporting services,0.3
 2011,Hungary,Cultural services,0.8
 2011,Hungary,Education,5.0
@@ -1184,10 +1184,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Malta,Environmental protection,1.3
 2011,Malta,Housing and community amenities,0.3
 2011,Malta,Health,5.3
-2011,Malta,Medical products, appliances and equipment,0.6
+2011,Malta,Medical products appliances and equipment,0.6
 2011,Malta,Outpatient services,0.9
 2011,Malta,Hospital services,3.3
-2011,Malta,Recreation, culture and religion,0.8
+2011,Malta,Recreation culture and religion,0.8
 2011,Malta,Recreational and sporting services,0.2
 2011,Malta,Cultural services,0.6
 2011,Malta,Education,5.6
@@ -1209,10 +1209,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Netherlands,Environmental protection,1.6
 2011,Netherlands,Housing and community amenities,0.5
 2011,Netherlands,Health,7.9
-2011,Netherlands,Medical products, appliances and equipment,1.1
+2011,Netherlands,Medical products appliances and equipment,1.1
 2011,Netherlands,Outpatient services,2.6
 2011,Netherlands,Hospital services,3.5
-2011,Netherlands,Recreation, culture and religion,1.5
+2011,Netherlands,Recreation culture and religion,1.5
 2011,Netherlands,Recreational and sporting services,0.6
 2011,Netherlands,Cultural services,0.5
 2011,Netherlands,Education,5.5
@@ -1234,10 +1234,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Austria,Environmental protection,0.5
 2011,Austria,Housing and community amenities,0.4
 2011,Austria,Health,7.7
-2011,Austria,Medical products, appliances and equipment,1.1
+2011,Austria,Medical products appliances and equipment,1.1
 2011,Austria,Outpatient services,1.4
 2011,Austria,Hospital services,4.3
-2011,Austria,Recreation, culture and religion,1.3
+2011,Austria,Recreation culture and religion,1.3
 2011,Austria,Recreational and sporting services,0.3
 2011,Austria,Cultural services,0.6
 2011,Austria,Education,5.0
@@ -1259,10 +1259,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Poland,Environmental protection,0.7
 2011,Poland,Housing and community amenities,0.8
 2011,Poland,Health,4.7
-2011,Poland,Medical products, appliances and equipment,0.0
+2011,Poland,Medical products appliances and equipment,0.0
 2011,Poland,Outpatient services,1.5
 2011,Poland,Hospital services,2.8
-2011,Poland,Recreation, culture and religion,1.3
+2011,Poland,Recreation culture and religion,1.3
 2011,Poland,Recreational and sporting services,0.6
 2011,Poland,Cultural services,0.6
 2011,Poland,Education,5.4
@@ -1284,10 +1284,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Portugal,Environmental protection,0.7
 2011,Portugal,Housing and community amenities,0.4
 2011,Portugal,Health,7.0
-2011,Portugal,Medical products, appliances and equipment,0.5
+2011,Portugal,Medical products appliances and equipment,0.5
 2011,Portugal,Outpatient services,2.0
 2011,Portugal,Hospital services,4.0
-2011,Portugal,Recreation, culture and religion,1.2
+2011,Portugal,Recreation culture and religion,1.2
 2011,Portugal,Recreational and sporting services,0.4
 2011,Portugal,Cultural services,0.4
 2011,Portugal,Education,6.1
@@ -1309,10 +1309,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Romania,Environmental protection,0.9
 2011,Romania,Housing and community amenities,1.2
 2011,Romania,Health,4.2
-2011,Romania,Medical products, appliances and equipment,1.3
+2011,Romania,Medical products appliances and equipment,1.3
 2011,Romania,Outpatient services,0.1
 2011,Romania,Hospital services,2.0
-2011,Romania,Recreation, culture and religion,1.1
+2011,Romania,Recreation culture and religion,1.1
 2011,Romania,Recreational and sporting services,0.4
 2011,Romania,Cultural services,0.5
 2011,Romania,Education,4.1
@@ -1334,10 +1334,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Slovenia,Environmental protection,0.8
 2011,Slovenia,Housing and community amenities,0.6
 2011,Slovenia,Health,7.0
-2011,Slovenia,Medical products, appliances and equipment,1.1
+2011,Slovenia,Medical products appliances and equipment,1.1
 2011,Slovenia,Outpatient services,1.9
 2011,Slovenia,Hospital services,3.2
-2011,Slovenia,Recreation, culture and religion,1.9
+2011,Slovenia,Recreation culture and religion,1.9
 2011,Slovenia,Recreational and sporting services,0.3
 2011,Slovenia,Cultural services,0.8
 2011,Slovenia,Education,6.4
@@ -1359,10 +1359,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Slovakia,Environmental protection,0.8
 2011,Slovakia,Housing and community amenities,0.8
 2011,Slovakia,Health,7.0
-2011,Slovakia,Medical products, appliances and equipment,1.7
+2011,Slovakia,Medical products appliances and equipment,1.7
 2011,Slovakia,Outpatient services,1.9
 2011,Slovakia,Hospital services,3.0
-2011,Slovakia,Recreation, culture and religion,1.0
+2011,Slovakia,Recreation culture and religion,1.0
 2011,Slovakia,Recreational and sporting services,0.2
 2011,Slovakia,Cultural services,0.6
 2011,Slovakia,Education,4.3
@@ -1384,10 +1384,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Finland,Environmental protection,0.2
 2011,Finland,Housing and community amenities,0.5
 2011,Finland,Health,7.4
-2011,Finland,Medical products, appliances and equipment,0.6
+2011,Finland,Medical products appliances and equipment,0.6
 2011,Finland,Outpatient services,3.3
 2011,Finland,Hospital services,3.0
-2011,Finland,Recreation, culture and religion,1.2
+2011,Finland,Recreation culture and religion,1.2
 2011,Finland,Recreational and sporting services,0.4
 2011,Finland,Cultural services,0.5
 2011,Finland,Education,6.4
@@ -1409,10 +1409,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Sweden,Environmental protection,0.4
 2011,Sweden,Housing and community amenities,0.5
 2011,Sweden,Health,6.7
-2011,Sweden,Medical products, appliances and equipment,0.8
+2011,Sweden,Medical products appliances and equipment,0.8
 2011,Sweden,Outpatient services,2.9
 2011,Sweden,Hospital services,2.5
-2011,Sweden,Recreation, culture and religion,1.3
+2011,Sweden,Recreation culture and religion,1.3
 2011,Sweden,Recreational and sporting services,0.5
 2011,Sweden,Cultural services,0.5
 2011,Sweden,Education,6.3
@@ -1434,10 +1434,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Iceland,Environmental protection,0.6
 2011,Iceland,Housing and community amenities,0.7
 2011,Iceland,Health,7.0
-2011,Iceland,Medical products, appliances and equipment,0.7
+2011,Iceland,Medical products appliances and equipment,0.7
 2011,Iceland,Outpatient services,1.5
 2011,Iceland,Hospital services,4.7
-2011,Iceland,Recreation, culture and religion,4.6
+2011,Iceland,Recreation culture and religion,4.6
 2011,Iceland,Recreational and sporting services,1.4
 2011,Iceland,Cultural services,2.6
 2011,Iceland,Education,7.1
@@ -1459,10 +1459,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Norway,Environmental protection,0.8
 2011,Norway,Housing and community amenities,0.6
 2011,Norway,Health,7.1
-2011,Norway,Medical products, appliances and equipment,0.5
+2011,Norway,Medical products appliances and equipment,0.5
 2011,Norway,Outpatient services,1.6
 2011,Norway,Hospital services,4.3
-2011,Norway,Recreation, culture and religion,1.5
+2011,Norway,Recreation culture and religion,1.5
 2011,Norway,Recreational and sporting services,0.3
 2011,Norway,Cultural services,0.6
 2011,Norway,Education,5.0
@@ -1484,10 +1484,10 @@ TIME,COUNTRY,COFOG99,Value
 2011,Switzerland,Environmental protection,0.6
 2011,Switzerland,Housing and community amenities,0.2
 2011,Switzerland,Health,1.9
-2011,Switzerland,Medical products, appliances and equipment,0.0
+2011,Switzerland,Medical products appliances and equipment,0.0
 2011,Switzerland,Outpatient services,0.1
 2011,Switzerland,Hospital services,1.5
-2011,Switzerland,Recreation, culture and religion,1.0
+2011,Switzerland,Recreation culture and religion,1.0
 2011,Switzerland,Recreational and sporting services,0.3
 2011,Switzerland,Cultural services,0.4
 2011,Switzerland,Education,5.2
@@ -1509,10 +1509,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Belgium,Environmental protection,1.6
 2012,Belgium,Housing and community amenities,0.4
 2012,Belgium,Health,7.9
-2012,Belgium,Medical products, appliances and equipment,0.9
+2012,Belgium,Medical products appliances and equipment,0.9
 2012,Belgium,Outpatient services,2.8
 2012,Belgium,Hospital services,3.9
-2012,Belgium,Recreation, culture and religion,1.4
+2012,Belgium,Recreation culture and religion,1.4
 2012,Belgium,Recreational and sporting services,0.5
 2012,Belgium,Cultural services,0.5
 2012,Belgium,Education,6.3
@@ -1534,10 +1534,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Bulgaria,Environmental protection,0.7
 2012,Bulgaria,Housing and community amenities,1.0
 2012,Bulgaria,Health,4.4
-2012,Bulgaria,Medical products, appliances and equipment,0.6
+2012,Bulgaria,Medical products appliances and equipment,0.6
 2012,Bulgaria,Outpatient services,0.8
 2012,Bulgaria,Hospital services,2.6
-2012,Bulgaria,Recreation, culture and religion,0.8
+2012,Bulgaria,Recreation culture and religion,0.8
 2012,Bulgaria,Recreational and sporting services,0.2
 2012,Bulgaria,Cultural services,0.4
 2012,Bulgaria,Education,3.3
@@ -1559,10 +1559,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Czechia,Environmental protection,1.3
 2012,Czechia,Housing and community amenities,0.7
 2012,Czechia,Health,7.7
-2012,Czechia,Medical products, appliances and equipment,1.1
+2012,Czechia,Medical products appliances and equipment,1.1
 2012,Czechia,Outpatient services,1.6
 2012,Czechia,Hospital services,3.3
-2012,Czechia,Recreation, culture and religion,1.4
+2012,Czechia,Recreation culture and religion,1.4
 2012,Czechia,Recreational and sporting services,0.4
 2012,Czechia,Cultural services,0.6
 2012,Czechia,Education,4.5
@@ -1584,10 +1584,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Denmark,Environmental protection,0.4
 2012,Denmark,Housing and community amenities,0.3
 2012,Denmark,Health,8.7
-2012,Denmark,Medical products, appliances and equipment,0.7
+2012,Denmark,Medical products appliances and equipment,0.7
 2012,Denmark,Outpatient services,1.2
 2012,Denmark,Hospital services,6.1
-2012,Denmark,Recreation, culture and religion,1.8
+2012,Denmark,Recreation culture and religion,1.8
 2012,Denmark,Recreational and sporting services,0.4
 2012,Denmark,Cultural services,0.7
 2012,Denmark,Education,7.0
@@ -1609,10 +1609,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2012,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.5
 2012,Germany (until 1990 former territory of the FRG),Health,6.9
-2012,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.5
+2012,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.5
 2012,Germany (until 1990 former territory of the FRG),Outpatient services,2.0
 2012,Germany (until 1990 former territory of the FRG),Hospital services,2.7
-2012,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.1
+2012,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.1
 2012,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2012,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2012,Germany (until 1990 former territory of the FRG),Education,4.3
@@ -1634,10 +1634,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Estonia,Environmental protection,0.9
 2012,Estonia,Housing and community amenities,0.7
 2012,Estonia,Health,5.2
-2012,Estonia,Medical products, appliances and equipment,0.7
+2012,Estonia,Medical products appliances and equipment,0.7
 2012,Estonia,Outpatient services,0.4
 2012,Estonia,Hospital services,3.9
-2012,Estonia,Recreation, culture and religion,1.9
+2012,Estonia,Recreation culture and religion,1.9
 2012,Estonia,Recreational and sporting services,0.3
 2012,Estonia,Cultural services,1.0
 2012,Estonia,Education,6.1
@@ -1659,10 +1659,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Ireland,Environmental protection,0.7
 2012,Ireland,Housing and community amenities,0.7
 2012,Ireland,Health,7.7
-2012,Ireland,Medical products, appliances and equipment,1.2
+2012,Ireland,Medical products appliances and equipment,1.2
 2012,Ireland,Outpatient services,2.7
 2012,Ireland,Hospital services,2.9
-2012,Ireland,Recreation, culture and religion,0.8
+2012,Ireland,Recreation culture and religion,0.8
 2012,Ireland,Recreational and sporting services,0.1
 2012,Ireland,Cultural services,0.4
 2012,Ireland,Education,5.1
@@ -1684,10 +1684,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Greece,Environmental protection,1.1
 2012,Greece,Housing and community amenities,0.2
 2012,Greece,Health,6.0
-2012,Greece,Medical products, appliances and equipment,2.0
+2012,Greece,Medical products appliances and equipment,2.0
 2012,Greece,Outpatient services,0.2
 2012,Greece,Hospital services,3.7
-2012,Greece,Recreation, culture and religion,0.6
+2012,Greece,Recreation culture and religion,0.6
 2012,Greece,Recreational and sporting services,0.2
 2012,Greece,Cultural services,0.1
 2012,Greece,Education,4.6
@@ -1709,10 +1709,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Spain,Environmental protection,1.0
 2012,Spain,Housing and community amenities,0.6
 2012,Spain,Health,6.3
-2012,Spain,Medical products, appliances and equipment,1.1
+2012,Spain,Medical products appliances and equipment,1.1
 2012,Spain,Outpatient services,2.3
 2012,Spain,Hospital services,2.4
-2012,Spain,Recreation, culture and religion,1.2
+2012,Spain,Recreation culture and religion,1.2
 2012,Spain,Recreational and sporting services,0.4
 2012,Spain,Cultural services,0.5
 2012,Spain,Education,4.2
@@ -1734,10 +1734,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,France,Environmental protection,1.0
 2012,France,Housing and community amenities,1.3
 2012,France,Health,8.0
-2012,France,Medical products, appliances and equipment,1.4
+2012,France,Medical products appliances and equipment,1.4
 2012,France,Outpatient services,2.8
 2012,France,Hospital services,3.5
-2012,France,Recreation, culture and religion,1.6
+2012,France,Recreation culture and religion,1.6
 2012,France,Recreational and sporting services,0.6
 2012,France,Cultural services,0.8
 2012,France,Education,5.5
@@ -1759,10 +1759,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Croatia,Environmental protection,0.6
 2012,Croatia,Housing and community amenities,2.4
 2012,Croatia,Health,6.4
-2012,Croatia,Medical products, appliances and equipment,1.6
+2012,Croatia,Medical products appliances and equipment,1.6
 2012,Croatia,Outpatient services,1.0
 2012,Croatia,Hospital services,3.0
-2012,Croatia,Recreation, culture and religion,1.8
+2012,Croatia,Recreation culture and religion,1.8
 2012,Croatia,Recreational and sporting services,0.5
 2012,Croatia,Cultural services,0.7
 2012,Croatia,Education,4.7
@@ -1784,10 +1784,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Italy,Environmental protection,0.9
 2012,Italy,Housing and community amenities,0.7
 2012,Italy,Health,7.1
-2012,Italy,Medical products, appliances and equipment,0.9
+2012,Italy,Medical products appliances and equipment,0.9
 2012,Italy,Outpatient services,2.5
 2012,Italy,Hospital services,3.2
-2012,Italy,Recreation, culture and religion,0.6
+2012,Italy,Recreation culture and religion,0.6
 2012,Italy,Recreational and sporting services,0.2
 2012,Italy,Cultural services,0.3
 2012,Italy,Education,4.1
@@ -1809,10 +1809,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Cyprus,Environmental protection,0.3
 2012,Cyprus,Housing and community amenities,2.1
 2012,Cyprus,Health,3.0
-2012,Cyprus,Medical products, appliances and equipment,0.6
+2012,Cyprus,Medical products appliances and equipment,0.6
 2012,Cyprus,Outpatient services,0.1
 2012,Cyprus,Hospital services,2.2
-2012,Cyprus,Recreation, culture and religion,1.0
+2012,Cyprus,Recreation culture and religion,1.0
 2012,Cyprus,Recreational and sporting services,0.4
 2012,Cyprus,Cultural services,0.3
 2012,Cyprus,Education,5.9
@@ -1834,10 +1834,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Latvia,Environmental protection,0.7
 2012,Latvia,Housing and community amenities,1.2
 2012,Latvia,Health,3.9
-2012,Latvia,Medical products, appliances and equipment,0.5
+2012,Latvia,Medical products appliances and equipment,0.5
 2012,Latvia,Outpatient services,1.0
 2012,Latvia,Hospital services,2.1
-2012,Latvia,Recreation, culture and religion,1.5
+2012,Latvia,Recreation culture and religion,1.5
 2012,Latvia,Recreational and sporting services,0.2
 2012,Latvia,Cultural services,1.1
 2012,Latvia,Education,5.7
@@ -1859,10 +1859,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Lithuania,Environmental protection,0.9
 2012,Lithuania,Housing and community amenities,0.3
 2012,Lithuania,Health,4.7
-2012,Lithuania,Medical products, appliances and equipment,0.7
+2012,Lithuania,Medical products appliances and equipment,0.7
 2012,Lithuania,Outpatient services,1.5
 2012,Lithuania,Hospital services,2.2
-2012,Lithuania,Recreation, culture and religion,0.8
+2012,Lithuania,Recreation culture and religion,0.8
 2012,Lithuania,Recreational and sporting services,0.1
 2012,Lithuania,Cultural services,0.6
 2012,Lithuania,Education,5.4
@@ -1884,10 +1884,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Luxembourg,Environmental protection,0.8
 2012,Luxembourg,Housing and community amenities,0.7
 2012,Luxembourg,Health,5.0
-2012,Luxembourg,Medical products, appliances and equipment,1.7
+2012,Luxembourg,Medical products appliances and equipment,1.7
 2012,Luxembourg,Outpatient services,1.0
 2012,Luxembourg,Hospital services,2.0
-2012,Luxembourg,Recreation, culture and religion,1.1
+2012,Luxembourg,Recreation culture and religion,1.1
 2012,Luxembourg,Recreational and sporting services,0.4
 2012,Luxembourg,Cultural services,0.4
 2012,Luxembourg,Education,5.1
@@ -1909,10 +1909,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Hungary,Environmental protection,0.7
 2012,Hungary,Housing and community amenities,0.8
 2012,Hungary,Health,5.1
-2012,Hungary,Medical products, appliances and equipment,1.2
+2012,Hungary,Medical products appliances and equipment,1.2
 2012,Hungary,Outpatient services,1.5
 2012,Hungary,Hospital services,2.0
-2012,Hungary,Recreation, culture and religion,1.9
+2012,Hungary,Recreation culture and religion,1.9
 2012,Hungary,Recreational and sporting services,0.4
 2012,Hungary,Cultural services,0.7
 2012,Hungary,Education,4.7
@@ -1934,10 +1934,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Malta,Environmental protection,1.4
 2012,Malta,Housing and community amenities,0.4
 2012,Malta,Health,5.4
-2012,Malta,Medical products, appliances and equipment,0.5
+2012,Malta,Medical products appliances and equipment,0.5
 2012,Malta,Outpatient services,0.9
 2012,Malta,Hospital services,3.6
-2012,Malta,Recreation, culture and religion,0.9
+2012,Malta,Recreation culture and religion,0.9
 2012,Malta,Recreational and sporting services,0.2
 2012,Malta,Cultural services,0.6
 2012,Malta,Education,5.6
@@ -1959,10 +1959,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Netherlands,Environmental protection,1.5
 2012,Netherlands,Housing and community amenities,0.6
 2012,Netherlands,Health,8.1
-2012,Netherlands,Medical products, appliances and equipment,1.0
+2012,Netherlands,Medical products appliances and equipment,1.0
 2012,Netherlands,Outpatient services,2.5
 2012,Netherlands,Hospital services,3.8
-2012,Netherlands,Recreation, culture and religion,1.4
+2012,Netherlands,Recreation culture and religion,1.4
 2012,Netherlands,Recreational and sporting services,0.6
 2012,Netherlands,Cultural services,0.5
 2012,Netherlands,Education,5.5
@@ -1984,10 +1984,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Austria,Environmental protection,0.5
 2012,Austria,Housing and community amenities,0.4
 2012,Austria,Health,7.7
-2012,Austria,Medical products, appliances and equipment,1.1
+2012,Austria,Medical products appliances and equipment,1.1
 2012,Austria,Outpatient services,1.4
 2012,Austria,Hospital services,4.3
-2012,Austria,Recreation, culture and religion,1.3
+2012,Austria,Recreation culture and religion,1.3
 2012,Austria,Recreational and sporting services,0.3
 2012,Austria,Cultural services,0.6
 2012,Austria,Education,5.0
@@ -2009,10 +2009,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Poland,Environmental protection,0.6
 2012,Poland,Housing and community amenities,0.8
 2012,Poland,Health,4.6
-2012,Poland,Medical products, appliances and equipment,0.1
+2012,Poland,Medical products appliances and equipment,0.1
 2012,Poland,Outpatient services,1.5
 2012,Poland,Hospital services,2.8
-2012,Poland,Recreation, culture and religion,1.2
+2012,Poland,Recreation culture and religion,1.2
 2012,Poland,Recreational and sporting services,0.5
 2012,Poland,Cultural services,0.6
 2012,Poland,Education,5.4
@@ -2034,10 +2034,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Portugal,Environmental protection,0.6
 2012,Portugal,Housing and community amenities,0.5
 2012,Portugal,Health,6.6
-2012,Portugal,Medical products, appliances and equipment,0.5
+2012,Portugal,Medical products appliances and equipment,0.5
 2012,Portugal,Outpatient services,2.0
 2012,Portugal,Hospital services,3.7
-2012,Portugal,Recreation, culture and religion,1.1
+2012,Portugal,Recreation culture and religion,1.1
 2012,Portugal,Recreational and sporting services,0.3
 2012,Portugal,Cultural services,0.4
 2012,Portugal,Education,5.4
@@ -2059,10 +2059,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Romania,Environmental protection,0.8
 2012,Romania,Housing and community amenities,1.1
 2012,Romania,Health,3.9
-2012,Romania,Medical products, appliances and equipment,1.1
+2012,Romania,Medical products appliances and equipment,1.1
 2012,Romania,Outpatient services,0.1
 2012,Romania,Hospital services,2.0
-2012,Romania,Recreation, culture and religion,1.2
+2012,Romania,Recreation culture and religion,1.2
 2012,Romania,Recreational and sporting services,0.3
 2012,Romania,Cultural services,0.4
 2012,Romania,Education,3.0
@@ -2084,10 +2084,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Slovenia,Environmental protection,0.8
 2012,Slovenia,Housing and community amenities,0.8
 2012,Slovenia,Health,6.9
-2012,Slovenia,Medical products, appliances and equipment,1.0
+2012,Slovenia,Medical products appliances and equipment,1.0
 2012,Slovenia,Outpatient services,1.9
 2012,Slovenia,Hospital services,3.3
-2012,Slovenia,Recreation, culture and religion,1.8
+2012,Slovenia,Recreation culture and religion,1.8
 2012,Slovenia,Recreational and sporting services,0.3
 2012,Slovenia,Cultural services,0.8
 2012,Slovenia,Education,6.4
@@ -2109,10 +2109,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Slovakia,Environmental protection,0.9
 2012,Slovakia,Housing and community amenities,0.6
 2012,Slovakia,Health,7.0
-2012,Slovakia,Medical products, appliances and equipment,1.7
+2012,Slovakia,Medical products appliances and equipment,1.7
 2012,Slovakia,Outpatient services,1.9
 2012,Slovakia,Hospital services,2.9
-2012,Slovakia,Recreation, culture and religion,1.0
+2012,Slovakia,Recreation culture and religion,1.0
 2012,Slovakia,Recreational and sporting services,0.2
 2012,Slovakia,Cultural services,0.6
 2012,Slovakia,Education,4.0
@@ -2134,10 +2134,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Finland,Environmental protection,0.2
 2012,Finland,Housing and community amenities,0.4
 2012,Finland,Health,7.7
-2012,Finland,Medical products, appliances and equipment,0.7
+2012,Finland,Medical products appliances and equipment,0.7
 2012,Finland,Outpatient services,3.5
 2012,Finland,Hospital services,3.2
-2012,Finland,Recreation, culture and religion,1.2
+2012,Finland,Recreation culture and religion,1.2
 2012,Finland,Recreational and sporting services,0.5
 2012,Finland,Cultural services,0.5
 2012,Finland,Education,6.4
@@ -2159,10 +2159,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Sweden,Environmental protection,0.5
 2012,Sweden,Housing and community amenities,0.5
 2012,Sweden,Health,6.8
-2012,Sweden,Medical products, appliances and equipment,0.7
+2012,Sweden,Medical products appliances and equipment,0.7
 2012,Sweden,Outpatient services,3.0
 2012,Sweden,Hospital services,2.6
-2012,Sweden,Recreation, culture and religion,1.3
+2012,Sweden,Recreation culture and religion,1.3
 2012,Sweden,Recreational and sporting services,0.5
 2012,Sweden,Cultural services,0.6
 2012,Sweden,Education,6.4
@@ -2184,10 +2184,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Iceland,Environmental protection,0.6
 2012,Iceland,Housing and community amenities,0.8
 2012,Iceland,Health,7.1
-2012,Iceland,Medical products, appliances and equipment,0.7
+2012,Iceland,Medical products appliances and equipment,0.7
 2012,Iceland,Outpatient services,1.5
 2012,Iceland,Hospital services,4.7
-2012,Iceland,Recreation, culture and religion,3.0
+2012,Iceland,Recreation culture and religion,3.0
 2012,Iceland,Recreational and sporting services,1.3
 2012,Iceland,Cultural services,1.1
 2012,Iceland,Education,7.0
@@ -2209,10 +2209,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Norway,Environmental protection,0.8
 2012,Norway,Housing and community amenities,0.6
 2012,Norway,Health,7.1
-2012,Norway,Medical products, appliances and equipment,0.5
+2012,Norway,Medical products appliances and equipment,0.5
 2012,Norway,Outpatient services,1.7
 2012,Norway,Hospital services,4.3
-2012,Norway,Recreation, culture and religion,1.5
+2012,Norway,Recreation culture and religion,1.5
 2012,Norway,Recreational and sporting services,0.3
 2012,Norway,Cultural services,0.6
 2012,Norway,Education,4.9
@@ -2234,10 +2234,10 @@ TIME,COUNTRY,COFOG99,Value
 2012,Switzerland,Environmental protection,0.6
 2012,Switzerland,Housing and community amenities,0.2
 2012,Switzerland,Health,2.0
-2012,Switzerland,Medical products, appliances and equipment,0.0
+2012,Switzerland,Medical products appliances and equipment,0.0
 2012,Switzerland,Outpatient services,0.2
 2012,Switzerland,Hospital services,1.6
-2012,Switzerland,Recreation, culture and religion,1.0
+2012,Switzerland,Recreation culture and religion,1.0
 2012,Switzerland,Recreational and sporting services,0.3
 2012,Switzerland,Cultural services,0.4
 2012,Switzerland,Education,5.3
@@ -2259,10 +2259,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Belgium,Environmental protection,1.5
 2013,Belgium,Housing and community amenities,0.4
 2013,Belgium,Health,8.0
-2013,Belgium,Medical products, appliances and equipment,0.8
+2013,Belgium,Medical products appliances and equipment,0.8
 2013,Belgium,Outpatient services,2.9
 2013,Belgium,Hospital services,4.0
-2013,Belgium,Recreation, culture and religion,1.3
+2013,Belgium,Recreation culture and religion,1.3
 2013,Belgium,Recreational and sporting services,0.4
 2013,Belgium,Cultural services,0.5
 2013,Belgium,Education,6.4
@@ -2284,10 +2284,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Bulgaria,Environmental protection,0.9
 2013,Bulgaria,Housing and community amenities,1.3
 2013,Bulgaria,Health,4.5
-2013,Bulgaria,Medical products, appliances and equipment,0.8
+2013,Bulgaria,Medical products appliances and equipment,0.8
 2013,Bulgaria,Outpatient services,0.8
 2013,Bulgaria,Hospital services,2.6
-2013,Bulgaria,Recreation, culture and religion,0.8
+2013,Bulgaria,Recreation culture and religion,0.8
 2013,Bulgaria,Recreational and sporting services,0.1
 2013,Bulgaria,Cultural services,0.5
 2013,Bulgaria,Education,3.7
@@ -2309,10 +2309,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Czechia,Environmental protection,1.0
 2013,Czechia,Housing and community amenities,0.8
 2013,Czechia,Health,7.6
-2013,Czechia,Medical products, appliances and equipment,1.0
+2013,Czechia,Medical products appliances and equipment,1.0
 2013,Czechia,Outpatient services,1.7
 2013,Czechia,Hospital services,3.3
-2013,Czechia,Recreation, culture and religion,1.3
+2013,Czechia,Recreation culture and religion,1.3
 2013,Czechia,Recreational and sporting services,0.4
 2013,Czechia,Cultural services,0.6
 2013,Czechia,Education,4.5
@@ -2334,10 +2334,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Denmark,Environmental protection,0.5
 2013,Denmark,Housing and community amenities,0.3
 2013,Denmark,Health,8.5
-2013,Denmark,Medical products, appliances and equipment,0.6
+2013,Denmark,Medical products appliances and equipment,0.6
 2013,Denmark,Outpatient services,1.2
 2013,Denmark,Hospital services,6.1
-2013,Denmark,Recreation, culture and religion,1.8
+2013,Denmark,Recreation culture and religion,1.8
 2013,Denmark,Recreational and sporting services,0.4
 2013,Denmark,Cultural services,0.7
 2013,Denmark,Education,6.9
@@ -2359,10 +2359,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2013,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.4
 2013,Germany (until 1990 former territory of the FRG),Health,7.1
-2013,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.5
+2013,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.5
 2013,Germany (until 1990 former territory of the FRG),Outpatient services,2.1
 2013,Germany (until 1990 former territory of the FRG),Hospital services,2.8
-2013,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.0
+2013,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.0
 2013,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2013,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2013,Germany (until 1990 former territory of the FRG),Education,4.4
@@ -2384,10 +2384,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Estonia,Environmental protection,0.7
 2013,Estonia,Housing and community amenities,0.6
 2013,Estonia,Health,5.2
-2013,Estonia,Medical products, appliances and equipment,0.7
+2013,Estonia,Medical products appliances and equipment,0.7
 2013,Estonia,Outpatient services,0.4
 2013,Estonia,Hospital services,3.9
-2013,Estonia,Recreation, culture and religion,2.1
+2013,Estonia,Recreation culture and religion,2.1
 2013,Estonia,Recreational and sporting services,0.5
 2013,Estonia,Cultural services,1.1
 2013,Estonia,Education,5.9
@@ -2409,10 +2409,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Ireland,Environmental protection,0.6
 2013,Ireland,Housing and community amenities,0.7
 2013,Ireland,Health,7.3
-2013,Ireland,Medical products, appliances and equipment,1.1
+2013,Ireland,Medical products appliances and equipment,1.1
 2013,Ireland,Outpatient services,2.6
 2013,Ireland,Hospital services,2.8
-2013,Ireland,Recreation, culture and religion,0.8
+2013,Ireland,Recreation culture and religion,0.8
 2013,Ireland,Recreational and sporting services,0.2
 2013,Ireland,Cultural services,0.3
 2013,Ireland,Education,4.8
@@ -2434,10 +2434,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Greece,Environmental protection,1.7
 2013,Greece,Housing and community amenities,0.3
 2013,Greece,Health,5.4
-2013,Greece,Medical products, appliances and equipment,1.5
+2013,Greece,Medical products appliances and equipment,1.5
 2013,Greece,Outpatient services,0.5
 2013,Greece,Hospital services,3.4
-2013,Greece,Recreation, culture and religion,0.6
+2013,Greece,Recreation culture and religion,0.6
 2013,Greece,Recreational and sporting services,0.2
 2013,Greece,Cultural services,0.1
 2013,Greece,Education,4.5
@@ -2459,10 +2459,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Spain,Environmental protection,0.9
 2013,Spain,Housing and community amenities,0.5
 2013,Spain,Health,6.2
-2013,Spain,Medical products, appliances and equipment,1.1
+2013,Spain,Medical products appliances and equipment,1.1
 2013,Spain,Outpatient services,2.3
 2013,Spain,Hospital services,2.4
-2013,Spain,Recreation, culture and religion,1.1
+2013,Spain,Recreation culture and religion,1.1
 2013,Spain,Recreational and sporting services,0.4
 2013,Spain,Cultural services,0.4
 2013,Spain,Education,4.1
@@ -2484,10 +2484,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,France,Environmental protection,1.0
 2013,France,Housing and community amenities,1.3
 2013,France,Health,8.1
-2013,France,Medical products, appliances and equipment,1.4
+2013,France,Medical products appliances and equipment,1.4
 2013,France,Outpatient services,2.8
 2013,France,Hospital services,3.5
-2013,France,Recreation, culture and religion,1.6
+2013,France,Recreation culture and religion,1.6
 2013,France,Recreational and sporting services,0.6
 2013,France,Cultural services,0.8
 2013,France,Education,5.5
@@ -2509,10 +2509,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Croatia,Environmental protection,0.7
 2013,Croatia,Housing and community amenities,2.2
 2013,Croatia,Health,6.3
-2013,Croatia,Medical products, appliances and equipment,1.9
+2013,Croatia,Medical products appliances and equipment,1.9
 2013,Croatia,Outpatient services,0.8
 2013,Croatia,Hospital services,2.9
-2013,Croatia,Recreation, culture and religion,1.7
+2013,Croatia,Recreation culture and religion,1.7
 2013,Croatia,Recreational and sporting services,0.5
 2013,Croatia,Cultural services,0.7
 2013,Croatia,Education,4.8
@@ -2534,10 +2534,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Italy,Environmental protection,0.9
 2013,Italy,Housing and community amenities,0.6
 2013,Italy,Health,7.1
-2013,Italy,Medical products, appliances and equipment,0.9
+2013,Italy,Medical products appliances and equipment,0.9
 2013,Italy,Outpatient services,2.5
 2013,Italy,Hospital services,3.1
-2013,Italy,Recreation, culture and religion,0.7
+2013,Italy,Recreation culture and religion,0.7
 2013,Italy,Recreational and sporting services,0.3
 2013,Italy,Cultural services,0.3
 2013,Italy,Education,4.1
@@ -2559,10 +2559,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Cyprus,Environmental protection,0.2
 2013,Cyprus,Housing and community amenities,1.9
 2013,Cyprus,Health,3.1
-2013,Cyprus,Medical products, appliances and equipment,0.7
+2013,Cyprus,Medical products appliances and equipment,0.7
 2013,Cyprus,Outpatient services,0.1
 2013,Cyprus,Hospital services,2.2
-2013,Cyprus,Recreation, culture and religion,0.9
+2013,Cyprus,Recreation culture and religion,0.9
 2013,Cyprus,Recreational and sporting services,0.3
 2013,Cyprus,Cultural services,0.3
 2013,Cyprus,Education,6.4
@@ -2584,10 +2584,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Latvia,Environmental protection,0.7
 2013,Latvia,Housing and community amenities,1.2
 2013,Latvia,Health,3.7
-2013,Latvia,Medical products, appliances and equipment,0.5
+2013,Latvia,Medical products appliances and equipment,0.5
 2013,Latvia,Outpatient services,1.0
 2013,Latvia,Hospital services,2.0
-2013,Latvia,Recreation, culture and religion,1.6
+2013,Latvia,Recreation culture and religion,1.6
 2013,Latvia,Recreational and sporting services,0.2
 2013,Latvia,Cultural services,1.2
 2013,Latvia,Education,5.7
@@ -2609,10 +2609,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Lithuania,Environmental protection,0.5
 2013,Lithuania,Housing and community amenities,0.3
 2013,Lithuania,Health,4.5
-2013,Lithuania,Medical products, appliances and equipment,0.8
+2013,Lithuania,Medical products appliances and equipment,0.8
 2013,Lithuania,Outpatient services,1.4
 2013,Lithuania,Hospital services,2.1
-2013,Lithuania,Recreation, culture and religion,0.8
+2013,Lithuania,Recreation culture and religion,0.8
 2013,Lithuania,Recreational and sporting services,0.1
 2013,Lithuania,Cultural services,0.6
 2013,Lithuania,Education,5.2
@@ -2634,10 +2634,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Luxembourg,Environmental protection,0.8
 2013,Luxembourg,Housing and community amenities,0.5
 2013,Luxembourg,Health,5.2
-2013,Luxembourg,Medical products, appliances and equipment,1.9
+2013,Luxembourg,Medical products appliances and equipment,1.9
 2013,Luxembourg,Outpatient services,1.0
 2013,Luxembourg,Hospital services,2.0
-2013,Luxembourg,Recreation, culture and religion,1.2
+2013,Luxembourg,Recreation culture and religion,1.2
 2013,Luxembourg,Recreational and sporting services,0.5
 2013,Luxembourg,Cultural services,0.5
 2013,Luxembourg,Education,4.7
@@ -2659,10 +2659,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Hungary,Environmental protection,0.9
 2013,Hungary,Housing and community amenities,0.8
 2013,Hungary,Health,5.0
-2013,Hungary,Medical products, appliances and equipment,1.1
+2013,Hungary,Medical products appliances and equipment,1.1
 2013,Hungary,Outpatient services,1.6
 2013,Hungary,Hospital services,1.9
-2013,Hungary,Recreation, culture and religion,1.8
+2013,Hungary,Recreation culture and religion,1.8
 2013,Hungary,Recreational and sporting services,0.4
 2013,Hungary,Cultural services,0.8
 2013,Hungary,Education,4.7
@@ -2684,10 +2684,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Malta,Environmental protection,1.4
 2013,Malta,Housing and community amenities,0.3
 2013,Malta,Health,5.5
-2013,Malta,Medical products, appliances and equipment,0.6
+2013,Malta,Medical products appliances and equipment,0.6
 2013,Malta,Outpatient services,0.9
 2013,Malta,Hospital services,3.6
-2013,Malta,Recreation, culture and religion,0.9
+2013,Malta,Recreation culture and religion,0.9
 2013,Malta,Recreational and sporting services,0.1
 2013,Malta,Cultural services,0.6
 2013,Malta,Education,5.6
@@ -2709,10 +2709,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Netherlands,Environmental protection,1.5
 2013,Netherlands,Housing and community amenities,0.6
 2013,Netherlands,Health,8.0
-2013,Netherlands,Medical products, appliances and equipment,0.9
+2013,Netherlands,Medical products appliances and equipment,0.9
 2013,Netherlands,Outpatient services,2.5
 2013,Netherlands,Hospital services,3.9
-2013,Netherlands,Recreation, culture and religion,1.4
+2013,Netherlands,Recreation culture and religion,1.4
 2013,Netherlands,Recreational and sporting services,0.5
 2013,Netherlands,Cultural services,0.5
 2013,Netherlands,Education,5.4
@@ -2734,10 +2734,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Austria,Environmental protection,0.4
 2013,Austria,Housing and community amenities,0.3
 2013,Austria,Health,7.8
-2013,Austria,Medical products, appliances and equipment,1.1
+2013,Austria,Medical products appliances and equipment,1.1
 2013,Austria,Outpatient services,1.5
 2013,Austria,Hospital services,4.3
-2013,Austria,Recreation, culture and religion,1.3
+2013,Austria,Recreation culture and religion,1.3
 2013,Austria,Recreational and sporting services,0.3
 2013,Austria,Cultural services,0.6
 2013,Austria,Education,5.0
@@ -2759,10 +2759,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Poland,Environmental protection,0.6
 2013,Poland,Housing and community amenities,0.7
 2013,Poland,Health,4.7
-2013,Poland,Medical products, appliances and equipment,0.1
+2013,Poland,Medical products appliances and equipment,0.1
 2013,Poland,Outpatient services,1.5
 2013,Poland,Hospital services,2.8
-2013,Poland,Recreation, culture and religion,1.1
+2013,Poland,Recreation culture and religion,1.1
 2013,Poland,Recreational and sporting services,0.4
 2013,Poland,Cultural services,0.6
 2013,Poland,Education,5.3
@@ -2784,10 +2784,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Portugal,Environmental protection,0.7
 2013,Portugal,Housing and community amenities,0.5
 2013,Portugal,Health,6.5
-2013,Portugal,Medical products, appliances and equipment,0.4
+2013,Portugal,Medical products appliances and equipment,0.4
 2013,Portugal,Outpatient services,1.9
 2013,Portugal,Hospital services,3.7
-2013,Portugal,Recreation, culture and religion,1.0
+2013,Portugal,Recreation culture and religion,1.0
 2013,Portugal,Recreational and sporting services,0.4
 2013,Portugal,Cultural services,0.3
 2013,Portugal,Education,5.5
@@ -2809,10 +2809,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Romania,Environmental protection,0.8
 2013,Romania,Housing and community amenities,1.2
 2013,Romania,Health,4.0
-2013,Romania,Medical products, appliances and equipment,1.2
+2013,Romania,Medical products appliances and equipment,1.2
 2013,Romania,Outpatient services,0.1
 2013,Romania,Hospital services,2.1
-2013,Romania,Recreation, culture and religion,1.0
+2013,Romania,Recreation culture and religion,1.0
 2013,Romania,Recreational and sporting services,0.2
 2013,Romania,Cultural services,0.4
 2013,Romania,Education,2.8
@@ -2834,10 +2834,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Slovenia,Environmental protection,0.7
 2013,Slovenia,Housing and community amenities,0.7
 2013,Slovenia,Health,6.8
-2013,Slovenia,Medical products, appliances and equipment,1.0
+2013,Slovenia,Medical products appliances and equipment,1.0
 2013,Slovenia,Outpatient services,1.9
 2013,Slovenia,Hospital services,3.2
-2013,Slovenia,Recreation, culture and religion,1.7
+2013,Slovenia,Recreation culture and religion,1.7
 2013,Slovenia,Recreational and sporting services,0.3
 2013,Slovenia,Cultural services,0.8
 2013,Slovenia,Education,6.4
@@ -2859,10 +2859,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Slovakia,Environmental protection,0.9
 2013,Slovakia,Housing and community amenities,0.6
 2013,Slovakia,Health,7.0
-2013,Slovakia,Medical products, appliances and equipment,1.7
+2013,Slovakia,Medical products appliances and equipment,1.7
 2013,Slovakia,Outpatient services,2.0
 2013,Slovakia,Hospital services,3.0
-2013,Slovakia,Recreation, culture and religion,1.0
+2013,Slovakia,Recreation culture and religion,1.0
 2013,Slovakia,Recreational and sporting services,0.1
 2013,Slovakia,Cultural services,0.6
 2013,Slovakia,Education,4.1
@@ -2884,10 +2884,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Finland,Environmental protection,0.3
 2013,Finland,Housing and community amenities,0.4
 2013,Finland,Health,7.8
-2013,Finland,Medical products, appliances and equipment,0.6
+2013,Finland,Medical products appliances and equipment,0.6
 2013,Finland,Outpatient services,3.5
 2013,Finland,Hospital services,3.3
-2013,Finland,Recreation, culture and religion,1.5
+2013,Finland,Recreation culture and religion,1.5
 2013,Finland,Recreational and sporting services,0.5
 2013,Finland,Cultural services,0.5
 2013,Finland,Education,6.4
@@ -2909,10 +2909,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Sweden,Environmental protection,0.5
 2013,Sweden,Housing and community amenities,0.6
 2013,Sweden,Health,6.9
-2013,Sweden,Medical products, appliances and equipment,0.7
+2013,Sweden,Medical products appliances and equipment,0.7
 2013,Sweden,Outpatient services,3.0
 2013,Sweden,Hospital services,2.6
-2013,Sweden,Recreation, culture and religion,1.3
+2013,Sweden,Recreation culture and religion,1.3
 2013,Sweden,Recreational and sporting services,0.5
 2013,Sweden,Cultural services,0.6
 2013,Sweden,Education,6.5
@@ -2934,10 +2934,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Iceland,Environmental protection,0.5
 2013,Iceland,Housing and community amenities,0.5
 2013,Iceland,Health,7.1
-2013,Iceland,Medical products, appliances and equipment,0.6
+2013,Iceland,Medical products appliances and equipment,0.6
 2013,Iceland,Outpatient services,1.5
 2013,Iceland,Hospital services,4.8
-2013,Iceland,Recreation, culture and religion,3.2
+2013,Iceland,Recreation culture and religion,3.2
 2013,Iceland,Recreational and sporting services,1.4
 2013,Iceland,Cultural services,1.2
 2013,Iceland,Education,6.8
@@ -2959,10 +2959,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Norway,Environmental protection,0.8
 2013,Norway,Housing and community amenities,0.6
 2013,Norway,Health,7.4
-2013,Norway,Medical products, appliances and equipment,0.5
+2013,Norway,Medical products appliances and equipment,0.5
 2013,Norway,Outpatient services,1.7
 2013,Norway,Hospital services,4.5
-2013,Norway,Recreation, culture and religion,1.5
+2013,Norway,Recreation culture and religion,1.5
 2013,Norway,Recreational and sporting services,0.3
 2013,Norway,Cultural services,0.6
 2013,Norway,Education,4.9
@@ -2984,10 +2984,10 @@ TIME,COUNTRY,COFOG99,Value
 2013,Switzerland,Environmental protection,0.6
 2013,Switzerland,Housing and community amenities,0.2
 2013,Switzerland,Health,2.1
-2013,Switzerland,Medical products, appliances and equipment,0.0
+2013,Switzerland,Medical products appliances and equipment,0.0
 2013,Switzerland,Outpatient services,0.2
 2013,Switzerland,Hospital services,1.6
-2013,Switzerland,Recreation, culture and religion,1.0
+2013,Switzerland,Recreation culture and religion,1.0
 2013,Switzerland,Recreational and sporting services,0.3
 2013,Switzerland,Cultural services,0.4
 2013,Switzerland,Education,5.3
@@ -3009,10 +3009,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Belgium,Environmental protection,1.4
 2014,Belgium,Housing and community amenities,0.4
 2014,Belgium,Health,8.0
-2014,Belgium,Medical products, appliances and equipment,0.8
+2014,Belgium,Medical products appliances and equipment,0.8
 2014,Belgium,Outpatient services,2.9
 2014,Belgium,Hospital services,4.0
-2014,Belgium,Recreation, culture and religion,1.3
+2014,Belgium,Recreation culture and religion,1.3
 2014,Belgium,Recreational and sporting services,0.4
 2014,Belgium,Cultural services,0.5
 2014,Belgium,Education,6.3
@@ -3034,10 +3034,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Bulgaria,Environmental protection,0.7
 2014,Bulgaria,Housing and community amenities,1.6
 2014,Bulgaria,Health,5.5
-2014,Bulgaria,Medical products, appliances and equipment,0.7
+2014,Bulgaria,Medical products appliances and equipment,0.7
 2014,Bulgaria,Outpatient services,0.6
 2014,Bulgaria,Hospital services,3.9
-2014,Bulgaria,Recreation, culture and religion,1.5
+2014,Bulgaria,Recreation culture and religion,1.5
 2014,Bulgaria,Recreational and sporting services,0.6
 2014,Bulgaria,Cultural services,0.6
 2014,Bulgaria,Education,4.1
@@ -3059,10 +3059,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Czechia,Environmental protection,1.1
 2014,Czechia,Housing and community amenities,0.8
 2014,Czechia,Health,7.6
-2014,Czechia,Medical products, appliances and equipment,1.0
+2014,Czechia,Medical products appliances and equipment,1.0
 2014,Czechia,Outpatient services,1.6
 2014,Czechia,Hospital services,3.2
-2014,Czechia,Recreation, culture and religion,1.4
+2014,Czechia,Recreation culture and religion,1.4
 2014,Czechia,Recreational and sporting services,0.4
 2014,Czechia,Cultural services,0.6
 2014,Czechia,Education,4.5
@@ -3084,10 +3084,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Denmark,Environmental protection,0.5
 2014,Denmark,Housing and community amenities,0.2
 2014,Denmark,Health,8.6
-2014,Denmark,Medical products, appliances and equipment,0.6
+2014,Denmark,Medical products appliances and equipment,0.6
 2014,Denmark,Outpatient services,1.2
 2014,Denmark,Hospital services,6.1
-2014,Denmark,Recreation, culture and religion,1.7
+2014,Denmark,Recreation culture and religion,1.7
 2014,Denmark,Recreational and sporting services,0.4
 2014,Denmark,Cultural services,0.7
 2014,Denmark,Education,7.1
@@ -3109,10 +3109,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2014,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.4
 2014,Germany (until 1990 former territory of the FRG),Health,7.2
-2014,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.6
+2014,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.6
 2014,Germany (until 1990 former territory of the FRG),Outpatient services,2.1
 2014,Germany (until 1990 former territory of the FRG),Hospital services,2.8
-2014,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.0
+2014,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.0
 2014,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2014,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2014,Germany (until 1990 former territory of the FRG),Education,4.3
@@ -3134,10 +3134,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Estonia,Environmental protection,0.7
 2014,Estonia,Housing and community amenities,0.5
 2014,Estonia,Health,5.3
-2014,Estonia,Medical products, appliances and equipment,0.7
+2014,Estonia,Medical products appliances and equipment,0.7
 2014,Estonia,Outpatient services,0.5
 2014,Estonia,Hospital services,3.9
-2014,Estonia,Recreation, culture and religion,2.0
+2014,Estonia,Recreation culture and religion,2.0
 2014,Estonia,Recreational and sporting services,0.4
 2014,Estonia,Cultural services,1.0
 2014,Estonia,Education,5.5
@@ -3159,10 +3159,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Ireland,Environmental protection,0.6
 2014,Ireland,Housing and community amenities,0.7
 2014,Ireland,Health,6.7
-2014,Ireland,Medical products, appliances and equipment,1.0
+2014,Ireland,Medical products appliances and equipment,1.0
 2014,Ireland,Outpatient services,2.4
 2014,Ireland,Hospital services,2.6
-2014,Ireland,Recreation, culture and religion,0.8
+2014,Ireland,Recreation culture and religion,0.8
 2014,Ireland,Recreational and sporting services,0.1
 2014,Ireland,Cultural services,0.3
 2014,Ireland,Education,4.5
@@ -3184,10 +3184,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Greece,Environmental protection,1.5
 2014,Greece,Housing and community amenities,0.3
 2014,Greece,Health,4.8
-2014,Greece,Medical products, appliances and equipment,1.4
+2014,Greece,Medical products appliances and equipment,1.4
 2014,Greece,Outpatient services,0.5
 2014,Greece,Hospital services,2.8
-2014,Greece,Recreation, culture and religion,0.7
+2014,Greece,Recreation culture and religion,0.7
 2014,Greece,Recreational and sporting services,0.3
 2014,Greece,Cultural services,0.1
 2014,Greece,Education,4.3
@@ -3209,10 +3209,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Spain,Environmental protection,0.9
 2014,Spain,Housing and community amenities,0.5
 2014,Spain,Health,6.2
-2014,Spain,Medical products, appliances and equipment,1.0
+2014,Spain,Medical products appliances and equipment,1.0
 2014,Spain,Outpatient services,2.2
 2014,Spain,Hospital services,2.5
-2014,Spain,Recreation, culture and religion,1.1
+2014,Spain,Recreation culture and religion,1.1
 2014,Spain,Recreational and sporting services,0.4
 2014,Spain,Cultural services,0.5
 2014,Spain,Education,4.1
@@ -3234,10 +3234,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,France,Environmental protection,1.0
 2014,France,Housing and community amenities,1.2
 2014,France,Health,8.2
-2014,France,Medical products, appliances and equipment,1.5
+2014,France,Medical products appliances and equipment,1.5
 2014,France,Outpatient services,2.9
 2014,France,Hospital services,3.6
-2014,France,Recreation, culture and religion,1.5
+2014,France,Recreation culture and religion,1.5
 2014,France,Recreational and sporting services,0.6
 2014,France,Cultural services,0.8
 2014,France,Education,5.5
@@ -3259,10 +3259,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Croatia,Environmental protection,0.6
 2014,Croatia,Housing and community amenities,2.4
 2014,Croatia,Health,6.4
-2014,Croatia,Medical products, appliances and equipment,1.5
+2014,Croatia,Medical products appliances and equipment,1.5
 2014,Croatia,Outpatient services,1.2
 2014,Croatia,Hospital services,3.0
-2014,Croatia,Recreation, culture and religion,1.7
+2014,Croatia,Recreation culture and religion,1.7
 2014,Croatia,Recreational and sporting services,0.5
 2014,Croatia,Cultural services,0.7
 2014,Croatia,Education,4.9
@@ -3284,10 +3284,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Italy,Environmental protection,0.9
 2014,Italy,Housing and community amenities,0.5
 2014,Italy,Health,7.1
-2014,Italy,Medical products, appliances and equipment,1.0
+2014,Italy,Medical products appliances and equipment,1.0
 2014,Italy,Outpatient services,2.6
 2014,Italy,Hospital services,3.0
-2014,Italy,Recreation, culture and religion,0.7
+2014,Italy,Recreation culture and religion,0.7
 2014,Italy,Recreational and sporting services,0.3
 2014,Italy,Cultural services,0.3
 2014,Italy,Education,4.0
@@ -3309,10 +3309,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Cyprus,Environmental protection,0.3
 2014,Cyprus,Housing and community amenities,2.2
 2014,Cyprus,Health,2.7
-2014,Cyprus,Medical products, appliances and equipment,0.6
+2014,Cyprus,Medical products appliances and equipment,0.6
 2014,Cyprus,Outpatient services,0.1
 2014,Cyprus,Hospital services,1.9
-2014,Cyprus,Recreation, culture and religion,0.9
+2014,Cyprus,Recreation culture and religion,0.9
 2014,Cyprus,Recreational and sporting services,0.3
 2014,Cyprus,Cultural services,0.3
 2014,Cyprus,Education,5.6
@@ -3334,10 +3334,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Latvia,Environmental protection,0.7
 2014,Latvia,Housing and community amenities,1.1
 2014,Latvia,Health,3.8
-2014,Latvia,Medical products, appliances and equipment,0.5
+2014,Latvia,Medical products appliances and equipment,0.5
 2014,Latvia,Outpatient services,1.0
 2014,Latvia,Hospital services,2.1
-2014,Latvia,Recreation, culture and religion,1.7
+2014,Latvia,Recreation culture and religion,1.7
 2014,Latvia,Recreational and sporting services,0.3
 2014,Latvia,Cultural services,1.2
 2014,Latvia,Education,5.9
@@ -3359,10 +3359,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Lithuania,Environmental protection,0.6
 2014,Lithuania,Housing and community amenities,0.3
 2014,Lithuania,Health,4.4
-2014,Lithuania,Medical products, appliances and equipment,0.7
+2014,Lithuania,Medical products appliances and equipment,0.7
 2014,Lithuania,Outpatient services,1.4
 2014,Lithuania,Hospital services,2.0
-2014,Lithuania,Recreation, culture and religion,0.9
+2014,Lithuania,Recreation culture and religion,0.9
 2014,Lithuania,Recreational and sporting services,0.2
 2014,Lithuania,Cultural services,0.6
 2014,Lithuania,Education,5.0
@@ -3384,10 +3384,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Luxembourg,Environmental protection,0.8
 2014,Luxembourg,Housing and community amenities,0.6
 2014,Luxembourg,Health,5.1
-2014,Luxembourg,Medical products, appliances and equipment,1.9
+2014,Luxembourg,Medical products appliances and equipment,1.9
 2014,Luxembourg,Outpatient services,1.0
 2014,Luxembourg,Hospital services,1.9
-2014,Luxembourg,Recreation, culture and religion,1.1
+2014,Luxembourg,Recreation culture and religion,1.1
 2014,Luxembourg,Recreational and sporting services,0.5
 2014,Luxembourg,Cultural services,0.4
 2014,Luxembourg,Education,4.6
@@ -3409,10 +3409,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Hungary,Environmental protection,1.2
 2014,Hungary,Housing and community amenities,0.9
 2014,Hungary,Health,4.8
-2014,Hungary,Medical products, appliances and equipment,1.0
+2014,Hungary,Medical products appliances and equipment,1.0
 2014,Hungary,Outpatient services,1.4
 2014,Hungary,Hospital services,2.0
-2014,Hungary,Recreation, culture and religion,2.0
+2014,Hungary,Recreation culture and religion,2.0
 2014,Hungary,Recreational and sporting services,0.5
 2014,Hungary,Cultural services,0.8
 2014,Hungary,Education,5.2
@@ -3434,10 +3434,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Malta,Environmental protection,1.5
 2014,Malta,Housing and community amenities,0.3
 2014,Malta,Health,5.5
-2014,Malta,Medical products, appliances and equipment,0.5
+2014,Malta,Medical products appliances and equipment,0.5
 2014,Malta,Outpatient services,1.0
 2014,Malta,Hospital services,3.7
-2014,Malta,Recreation, culture and religion,1.0
+2014,Malta,Recreation culture and religion,1.0
 2014,Malta,Recreational and sporting services,0.1
 2014,Malta,Cultural services,0.8
 2014,Malta,Education,5.4
@@ -3459,10 +3459,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Netherlands,Environmental protection,1.4
 2014,Netherlands,Housing and community amenities,0.5
 2014,Netherlands,Health,8.0
-2014,Netherlands,Medical products, appliances and equipment,0.9
+2014,Netherlands,Medical products appliances and equipment,0.9
 2014,Netherlands,Outpatient services,2.4
 2014,Netherlands,Hospital services,3.8
-2014,Netherlands,Recreation, culture and religion,1.3
+2014,Netherlands,Recreation culture and religion,1.3
 2014,Netherlands,Recreational and sporting services,0.5
 2014,Netherlands,Cultural services,0.4
 2014,Netherlands,Education,5.4
@@ -3484,10 +3484,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Austria,Environmental protection,0.5
 2014,Austria,Housing and community amenities,0.3
 2014,Austria,Health,7.9
-2014,Austria,Medical products, appliances and equipment,1.1
+2014,Austria,Medical products appliances and equipment,1.1
 2014,Austria,Outpatient services,1.4
 2014,Austria,Hospital services,4.5
-2014,Austria,Recreation, culture and religion,1.2
+2014,Austria,Recreation culture and religion,1.2
 2014,Austria,Recreational and sporting services,0.3
 2014,Austria,Cultural services,0.5
 2014,Austria,Education,4.9
@@ -3509,10 +3509,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Poland,Environmental protection,0.6
 2014,Poland,Housing and community amenities,0.7
 2014,Poland,Health,4.7
-2014,Poland,Medical products, appliances and equipment,0.1
+2014,Poland,Medical products appliances and equipment,0.1
 2014,Poland,Outpatient services,1.5
 2014,Poland,Hospital services,2.9
-2014,Poland,Recreation, culture and religion,1.2
+2014,Poland,Recreation culture and religion,1.2
 2014,Poland,Recreational and sporting services,0.4
 2014,Poland,Cultural services,0.7
 2014,Poland,Education,5.3
@@ -3534,10 +3534,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Portugal,Environmental protection,0.6
 2014,Portugal,Housing and community amenities,0.5
 2014,Portugal,Health,6.3
-2014,Portugal,Medical products, appliances and equipment,0.4
+2014,Portugal,Medical products appliances and equipment,0.4
 2014,Portugal,Outpatient services,1.8
 2014,Portugal,Hospital services,3.6
-2014,Portugal,Recreation, culture and religion,0.9
+2014,Portugal,Recreation culture and religion,0.9
 2014,Portugal,Recreational and sporting services,0.3
 2014,Portugal,Cultural services,0.3
 2014,Portugal,Education,5.3
@@ -3559,10 +3559,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Romania,Environmental protection,0.8
 2014,Romania,Housing and community amenities,1.2
 2014,Romania,Health,4.0
-2014,Romania,Medical products, appliances and equipment,1.3
+2014,Romania,Medical products appliances and equipment,1.3
 2014,Romania,Outpatient services,0.1
 2014,Romania,Hospital services,2.0
-2014,Romania,Recreation, culture and religion,1.1
+2014,Romania,Recreation culture and religion,1.1
 2014,Romania,Recreational and sporting services,0.3
 2014,Romania,Cultural services,0.4
 2014,Romania,Education,3.0
@@ -3584,10 +3584,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Slovenia,Environmental protection,1.0
 2014,Slovenia,Housing and community amenities,0.9
 2014,Slovenia,Health,6.5
-2014,Slovenia,Medical products, appliances and equipment,0.9
+2014,Slovenia,Medical products appliances and equipment,0.9
 2014,Slovenia,Outpatient services,1.8
 2014,Slovenia,Hospital services,3.0
-2014,Slovenia,Recreation, culture and religion,1.6
+2014,Slovenia,Recreation culture and religion,1.6
 2014,Slovenia,Recreational and sporting services,0.3
 2014,Slovenia,Cultural services,0.8
 2014,Slovenia,Education,6.0
@@ -3609,10 +3609,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Slovakia,Environmental protection,0.8
 2014,Slovakia,Housing and community amenities,0.5
 2014,Slovakia,Health,7.1
-2014,Slovakia,Medical products, appliances and equipment,1.4
+2014,Slovakia,Medical products appliances and equipment,1.4
 2014,Slovakia,Outpatient services,2.2
 2014,Slovakia,Hospital services,3.2
-2014,Slovakia,Recreation, culture and religion,0.8
+2014,Slovakia,Recreation culture and religion,0.8
 2014,Slovakia,Recreational and sporting services,0.1
 2014,Slovakia,Cultural services,0.5
 2014,Slovakia,Education,4.1
@@ -3634,10 +3634,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Finland,Environmental protection,0.3
 2014,Finland,Housing and community amenities,0.4
 2014,Finland,Health,7.8
-2014,Finland,Medical products, appliances and equipment,0.6
+2014,Finland,Medical products appliances and equipment,0.6
 2014,Finland,Outpatient services,3.6
 2014,Finland,Hospital services,3.2
-2014,Finland,Recreation, culture and religion,1.4
+2014,Finland,Recreation culture and religion,1.4
 2014,Finland,Recreational and sporting services,0.5
 2014,Finland,Cultural services,0.5
 2014,Finland,Education,6.3
@@ -3659,10 +3659,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Sweden,Environmental protection,0.4
 2014,Sweden,Housing and community amenities,0.6
 2014,Sweden,Health,6.9
-2014,Sweden,Medical products, appliances and equipment,0.7
+2014,Sweden,Medical products appliances and equipment,0.7
 2014,Sweden,Outpatient services,3.0
 2014,Sweden,Hospital services,2.6
-2014,Sweden,Recreation, culture and religion,1.3
+2014,Sweden,Recreation culture and religion,1.3
 2014,Sweden,Recreational and sporting services,0.6
 2014,Sweden,Cultural services,0.5
 2014,Sweden,Education,6.5
@@ -3684,10 +3684,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Iceland,Environmental protection,0.6
 2014,Iceland,Housing and community amenities,0.5
 2014,Iceland,Health,7.2
-2014,Iceland,Medical products, appliances and equipment,0.6
+2014,Iceland,Medical products appliances and equipment,0.6
 2014,Iceland,Outpatient services,1.6
 2014,Iceland,Hospital services,4.9
-2014,Iceland,Recreation, culture and religion,3.0
+2014,Iceland,Recreation culture and religion,3.0
 2014,Iceland,Recreational and sporting services,1.4
 2014,Iceland,Cultural services,1.1
 2014,Iceland,Education,6.9
@@ -3709,10 +3709,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Norway,Environmental protection,0.8
 2014,Norway,Housing and community amenities,0.7
 2014,Norway,Health,7.7
-2014,Norway,Medical products, appliances and equipment,0.5
+2014,Norway,Medical products appliances and equipment,0.5
 2014,Norway,Outpatient services,1.8
 2014,Norway,Hospital services,4.7
-2014,Norway,Recreation, culture and religion,1.6
+2014,Norway,Recreation culture and religion,1.6
 2014,Norway,Recreational and sporting services,0.3
 2014,Norway,Cultural services,0.6
 2014,Norway,Education,5.1
@@ -3734,10 +3734,10 @@ TIME,COUNTRY,COFOG99,Value
 2014,Switzerland,Environmental protection,0.6
 2014,Switzerland,Housing and community amenities,0.2
 2014,Switzerland,Health,2.1
-2014,Switzerland,Medical products, appliances and equipment,0.0
+2014,Switzerland,Medical products appliances and equipment,0.0
 2014,Switzerland,Outpatient services,0.2
 2014,Switzerland,Hospital services,1.6
-2014,Switzerland,Recreation, culture and religion,1.0
+2014,Switzerland,Recreation culture and religion,1.0
 2014,Switzerland,Recreational and sporting services,0.3
 2014,Switzerland,Cultural services,0.4
 2014,Switzerland,Education,5.3
@@ -3759,10 +3759,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Belgium,Environmental protection,1.3
 2015,Belgium,Housing and community amenities,0.3
 2015,Belgium,Health,7.8
-2015,Belgium,Medical products, appliances and equipment,0.8
+2015,Belgium,Medical products appliances and equipment,0.8
 2015,Belgium,Outpatient services,2.9
 2015,Belgium,Hospital services,3.8
-2015,Belgium,Recreation, culture and religion,1.2
+2015,Belgium,Recreation culture and religion,1.2
 2015,Belgium,Recreational and sporting services,0.4
 2015,Belgium,Cultural services,0.5
 2015,Belgium,Education,6.3
@@ -3784,10 +3784,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Bulgaria,Environmental protection,0.8
 2015,Bulgaria,Housing and community amenities,2.1
 2015,Bulgaria,Health,5.3
-2015,Bulgaria,Medical products, appliances and equipment,0.6
+2015,Bulgaria,Medical products appliances and equipment,0.6
 2015,Bulgaria,Outpatient services,0.5
 2015,Bulgaria,Hospital services,3.9
-2015,Bulgaria,Recreation, culture and religion,1.2
+2015,Bulgaria,Recreation culture and religion,1.2
 2015,Bulgaria,Recreational and sporting services,0.4
 2015,Bulgaria,Cultural services,0.6
 2015,Bulgaria,Education,3.9
@@ -3809,10 +3809,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Czechia,Environmental protection,1.1
 2015,Czechia,Housing and community amenities,0.7
 2015,Czechia,Health,7.5
-2015,Czechia,Medical products, appliances and equipment,0.9
+2015,Czechia,Medical products appliances and equipment,0.9
 2015,Czechia,Outpatient services,1.6
 2015,Czechia,Hospital services,3.4
-2015,Czechia,Recreation, culture and religion,1.3
+2015,Czechia,Recreation culture and religion,1.3
 2015,Czechia,Recreational and sporting services,0.4
 2015,Czechia,Cultural services,0.6
 2015,Czechia,Education,4.4
@@ -3834,10 +3834,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Denmark,Environmental protection,0.4
 2015,Denmark,Housing and community amenities,0.2
 2015,Denmark,Health,8.5
-2015,Denmark,Medical products, appliances and equipment,0.6
+2015,Denmark,Medical products appliances and equipment,0.6
 2015,Denmark,Outpatient services,1.2
 2015,Denmark,Hospital services,6.1
-2015,Denmark,Recreation, culture and religion,1.8
+2015,Denmark,Recreation culture and religion,1.8
 2015,Denmark,Recreational and sporting services,0.4
 2015,Denmark,Cultural services,0.7
 2015,Denmark,Education,7.0
@@ -3859,10 +3859,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2015,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.4
 2015,Germany (until 1990 former territory of the FRG),Health,7.2
-2015,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.6
+2015,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.6
 2015,Germany (until 1990 former territory of the FRG),Outpatient services,2.1
 2015,Germany (until 1990 former territory of the FRG),Hospital services,2.8
-2015,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.0
+2015,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.0
 2015,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2015,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2015,Germany (until 1990 former territory of the FRG),Education,4.2
@@ -3884,10 +3884,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Estonia,Environmental protection,0.7
 2015,Estonia,Housing and community amenities,0.4
 2015,Estonia,Health,5.7
-2015,Estonia,Medical products, appliances and equipment,0.8
+2015,Estonia,Medical products appliances and equipment,0.8
 2015,Estonia,Outpatient services,0.5
 2015,Estonia,Hospital services,4.1
-2015,Estonia,Recreation, culture and religion,2.0
+2015,Estonia,Recreation culture and religion,2.0
 2015,Estonia,Recreational and sporting services,0.4
 2015,Estonia,Cultural services,1.0
 2015,Estonia,Education,5.9
@@ -3909,10 +3909,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Ireland,Environmental protection,0.5
 2015,Ireland,Housing and community amenities,0.6
 2015,Ireland,Health,5.2
-2015,Ireland,Medical products, appliances and equipment,0.7
+2015,Ireland,Medical products appliances and equipment,0.7
 2015,Ireland,Outpatient services,1.9
 2015,Ireland,Hospital services,2.0
-2015,Ireland,Recreation, culture and religion,0.6
+2015,Ireland,Recreation culture and religion,0.6
 2015,Ireland,Recreational and sporting services,0.1
 2015,Ireland,Cultural services,0.2
 2015,Ireland,Education,3.4
@@ -3934,10 +3934,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Greece,Environmental protection,1.5
 2015,Greece,Housing and community amenities,0.2
 2015,Greece,Health,5.0
-2015,Greece,Medical products, appliances and equipment,1.5
+2015,Greece,Medical products appliances and equipment,1.5
 2015,Greece,Outpatient services,0.5
 2015,Greece,Hospital services,3.0
-2015,Greece,Recreation, culture and religion,0.7
+2015,Greece,Recreation culture and religion,0.7
 2015,Greece,Recreational and sporting services,0.4
 2015,Greece,Cultural services,0.1
 2015,Greece,Education,4.1
@@ -3959,10 +3959,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Spain,Environmental protection,0.9
 2015,Spain,Housing and community amenities,0.5
 2015,Spain,Health,6.2
-2015,Spain,Medical products, appliances and equipment,1.0
+2015,Spain,Medical products appliances and equipment,1.0
 2015,Spain,Outpatient services,2.3
 2015,Spain,Hospital services,2.5
-2015,Spain,Recreation, culture and religion,1.2
+2015,Spain,Recreation culture and religion,1.2
 2015,Spain,Recreational and sporting services,0.4
 2015,Spain,Cultural services,0.5
 2015,Spain,Education,4.1
@@ -3984,10 +3984,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,France,Environmental protection,1.0
 2015,France,Housing and community amenities,1.1
 2015,France,Health,8.1
-2015,France,Medical products, appliances and equipment,1.4
+2015,France,Medical products appliances and equipment,1.4
 2015,France,Outpatient services,2.9
 2015,France,Hospital services,3.5
-2015,France,Recreation, culture and religion,1.4
+2015,France,Recreation culture and religion,1.4
 2015,France,Recreational and sporting services,0.5
 2015,France,Cultural services,0.7
 2015,France,Education,5.4
@@ -4009,10 +4009,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Croatia,Environmental protection,0.7
 2015,Croatia,Housing and community amenities,2.0
 2015,Croatia,Health,6.6
-2015,Croatia,Medical products, appliances and equipment,1.7
+2015,Croatia,Medical products appliances and equipment,1.7
 2015,Croatia,Outpatient services,1.0
 2015,Croatia,Hospital services,3.1
-2015,Croatia,Recreation, culture and religion,1.6
+2015,Croatia,Recreation culture and religion,1.6
 2015,Croatia,Recreational and sporting services,0.5
 2015,Croatia,Cultural services,0.7
 2015,Croatia,Education,4.9
@@ -4034,10 +4034,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Italy,Environmental protection,0.9
 2015,Italy,Housing and community amenities,0.5
 2015,Italy,Health,7.0
-2015,Italy,Medical products, appliances and equipment,1.1
+2015,Italy,Medical products appliances and equipment,1.1
 2015,Italy,Outpatient services,2.5
 2015,Italy,Hospital services,3.0
-2015,Italy,Recreation, culture and religion,0.7
+2015,Italy,Recreation culture and religion,0.7
 2015,Italy,Recreational and sporting services,0.3
 2015,Italy,Cultural services,0.3
 2015,Italy,Education,4.0
@@ -4059,10 +4059,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Cyprus,Environmental protection,0.4
 2015,Cyprus,Housing and community amenities,1.8
 2015,Cyprus,Health,2.5
-2015,Cyprus,Medical products, appliances and equipment,0.6
+2015,Cyprus,Medical products appliances and equipment,0.6
 2015,Cyprus,Outpatient services,0.1
 2015,Cyprus,Hospital services,1.8
-2015,Cyprus,Recreation, culture and religion,0.9
+2015,Cyprus,Recreation culture and religion,0.9
 2015,Cyprus,Recreational and sporting services,0.3
 2015,Cyprus,Cultural services,0.3
 2015,Cyprus,Education,5.6
@@ -4084,10 +4084,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Latvia,Environmental protection,0.7
 2015,Latvia,Housing and community amenities,1.0
 2015,Latvia,Health,3.7
-2015,Latvia,Medical products, appliances and equipment,0.5
+2015,Latvia,Medical products appliances and equipment,0.5
 2015,Latvia,Outpatient services,1.0
 2015,Latvia,Hospital services,2.1
-2015,Latvia,Recreation, culture and religion,1.6
+2015,Latvia,Recreation culture and religion,1.6
 2015,Latvia,Recreational and sporting services,0.3
 2015,Latvia,Cultural services,1.1
 2015,Latvia,Education,5.9
@@ -4109,10 +4109,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Lithuania,Environmental protection,0.6
 2015,Lithuania,Housing and community amenities,0.3
 2015,Lithuania,Health,4.7
-2015,Lithuania,Medical products, appliances and equipment,0.8
+2015,Lithuania,Medical products appliances and equipment,0.8
 2015,Lithuania,Outpatient services,1.5
 2015,Lithuania,Hospital services,2.2
-2015,Lithuania,Recreation, culture and religion,0.9
+2015,Lithuania,Recreation culture and religion,0.9
 2015,Lithuania,Recreational and sporting services,0.1
 2015,Lithuania,Cultural services,0.6
 2015,Lithuania,Education,5.1
@@ -4134,10 +4134,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Luxembourg,Environmental protection,0.8
 2015,Luxembourg,Housing and community amenities,0.5
 2015,Luxembourg,Health,4.9
-2015,Luxembourg,Medical products, appliances and equipment,1.7
+2015,Luxembourg,Medical products appliances and equipment,1.7
 2015,Luxembourg,Outpatient services,1.0
 2015,Luxembourg,Hospital services,1.9
-2015,Luxembourg,Recreation, culture and religion,1.1
+2015,Luxembourg,Recreation culture and religion,1.1
 2015,Luxembourg,Recreational and sporting services,0.4
 2015,Luxembourg,Cultural services,0.4
 2015,Luxembourg,Education,4.5
@@ -4159,10 +4159,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Hungary,Environmental protection,1.2
 2015,Hungary,Housing and community amenities,1.0
 2015,Hungary,Health,5.1
-2015,Hungary,Medical products, appliances and equipment,1.0
+2015,Hungary,Medical products appliances and equipment,1.0
 2015,Hungary,Outpatient services,1.3
 2015,Hungary,Hospital services,2.3
-2015,Hungary,Recreation, culture and religion,2.1
+2015,Hungary,Recreation culture and religion,2.1
 2015,Hungary,Recreational and sporting services,0.5
 2015,Hungary,Cultural services,0.8
 2015,Hungary,Education,5.2
@@ -4184,10 +4184,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Malta,Environmental protection,1.8
 2015,Malta,Housing and community amenities,0.4
 2015,Malta,Health,5.4
-2015,Malta,Medical products, appliances and equipment,0.5
+2015,Malta,Medical products appliances and equipment,0.5
 2015,Malta,Outpatient services,0.9
 2015,Malta,Hospital services,3.6
-2015,Malta,Recreation, culture and religion,1.2
+2015,Malta,Recreation culture and religion,1.2
 2015,Malta,Recreational and sporting services,0.1
 2015,Malta,Cultural services,0.8
 2015,Malta,Education,5.1
@@ -4209,10 +4209,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Netherlands,Environmental protection,1.4
 2015,Netherlands,Housing and community amenities,0.5
 2015,Netherlands,Health,7.7
-2015,Netherlands,Medical products, appliances and equipment,0.8
+2015,Netherlands,Medical products appliances and equipment,0.8
 2015,Netherlands,Outpatient services,2.5
 2015,Netherlands,Hospital services,3.6
-2015,Netherlands,Recreation, culture and religion,1.3
+2015,Netherlands,Recreation culture and religion,1.3
 2015,Netherlands,Recreational and sporting services,0.6
 2015,Netherlands,Cultural services,0.5
 2015,Netherlands,Education,5.3
@@ -4234,10 +4234,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Austria,Environmental protection,0.4
 2015,Austria,Housing and community amenities,0.4
 2015,Austria,Health,8.2
-2015,Austria,Medical products, appliances and equipment,1.1
+2015,Austria,Medical products appliances and equipment,1.1
 2015,Austria,Outpatient services,1.5
 2015,Austria,Hospital services,4.7
-2015,Austria,Recreation, culture and religion,1.2
+2015,Austria,Recreation culture and religion,1.2
 2015,Austria,Recreational and sporting services,0.3
 2015,Austria,Cultural services,0.5
 2015,Austria,Education,4.9
@@ -4259,10 +4259,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Poland,Environmental protection,0.6
 2015,Poland,Housing and community amenities,0.7
 2015,Poland,Health,4.7
-2015,Poland,Medical products, appliances and equipment,0.1
+2015,Poland,Medical products appliances and equipment,0.1
 2015,Poland,Outpatient services,1.5
 2015,Poland,Hospital services,2.8
-2015,Poland,Recreation, culture and religion,1.1
+2015,Poland,Recreation culture and religion,1.1
 2015,Poland,Recreational and sporting services,0.4
 2015,Poland,Cultural services,0.6
 2015,Poland,Education,5.3
@@ -4284,10 +4284,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Portugal,Environmental protection,0.6
 2015,Portugal,Housing and community amenities,0.5
 2015,Portugal,Health,6.2
-2015,Portugal,Medical products, appliances and equipment,0.4
+2015,Portugal,Medical products appliances and equipment,0.4
 2015,Portugal,Outpatient services,2.0
 2015,Portugal,Hospital services,3.4
-2015,Portugal,Recreation, culture and religion,0.8
+2015,Portugal,Recreation culture and religion,0.8
 2015,Portugal,Recreational and sporting services,0.3
 2015,Portugal,Cultural services,0.2
 2015,Portugal,Education,5.1
@@ -4309,10 +4309,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Romania,Environmental protection,1.0
 2015,Romania,Housing and community amenities,1.5
 2015,Romania,Health,4.2
-2015,Romania,Medical products, appliances and equipment,1.2
+2015,Romania,Medical products appliances and equipment,1.2
 2015,Romania,Outpatient services,0.1
 2015,Romania,Hospital services,2.1
-2015,Romania,Recreation, culture and religion,1.0
+2015,Romania,Recreation culture and religion,1.0
 2015,Romania,Recreational and sporting services,0.3
 2015,Romania,Cultural services,0.4
 2015,Romania,Education,3.1
@@ -4334,10 +4334,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Slovenia,Environmental protection,1.0
 2015,Slovenia,Housing and community amenities,0.6
 2015,Slovenia,Health,6.7
-2015,Slovenia,Medical products, appliances and equipment,1.0
+2015,Slovenia,Medical products appliances and equipment,1.0
 2015,Slovenia,Outpatient services,1.8
 2015,Slovenia,Hospital services,3.1
-2015,Slovenia,Recreation, culture and religion,1.6
+2015,Slovenia,Recreation culture and religion,1.6
 2015,Slovenia,Recreational and sporting services,0.3
 2015,Slovenia,Cultural services,0.7
 2015,Slovenia,Education,5.6
@@ -4359,10 +4359,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Slovakia,Environmental protection,0.9
 2015,Slovakia,Housing and community amenities,0.7
 2015,Slovakia,Health,7.1
-2015,Slovakia,Medical products, appliances and equipment,1.4
+2015,Slovakia,Medical products appliances and equipment,1.4
 2015,Slovakia,Outpatient services,2.3
 2015,Slovakia,Hospital services,3.1
-2015,Slovakia,Recreation, culture and religion,1.0
+2015,Slovakia,Recreation culture and religion,1.0
 2015,Slovakia,Recreational and sporting services,0.2
 2015,Slovakia,Cultural services,0.6
 2015,Slovakia,Education,4.2
@@ -4384,10 +4384,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Finland,Environmental protection,0.2
 2015,Finland,Housing and community amenities,0.4
 2015,Finland,Health,7.3
-2015,Finland,Medical products, appliances and equipment,0.7
+2015,Finland,Medical products appliances and equipment,0.7
 2015,Finland,Outpatient services,3.3
 2015,Finland,Hospital services,3.1
-2015,Finland,Recreation, culture and religion,1.5
+2015,Finland,Recreation culture and religion,1.5
 2015,Finland,Recreational and sporting services,0.5
 2015,Finland,Cultural services,0.5
 2015,Finland,Education,6.2
@@ -4409,10 +4409,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Sweden,Environmental protection,0.4
 2015,Sweden,Housing and community amenities,0.6
 2015,Sweden,Health,6.8
-2015,Sweden,Medical products, appliances and equipment,0.7
+2015,Sweden,Medical products appliances and equipment,0.7
 2015,Sweden,Outpatient services,2.9
 2015,Sweden,Hospital services,2.6
-2015,Sweden,Recreation, culture and religion,1.3
+2015,Sweden,Recreation culture and religion,1.3
 2015,Sweden,Recreational and sporting services,0.5
 2015,Sweden,Cultural services,0.5
 2015,Sweden,Education,6.4
@@ -4434,10 +4434,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Iceland,Environmental protection,0.6
 2015,Iceland,Housing and community amenities,0.5
 2015,Iceland,Health,7.1
-2015,Iceland,Medical products, appliances and equipment,0.5
+2015,Iceland,Medical products appliances and equipment,0.5
 2015,Iceland,Outpatient services,1.6
 2015,Iceland,Hospital services,4.8
-2015,Iceland,Recreation, culture and religion,3.1
+2015,Iceland,Recreation culture and religion,3.1
 2015,Iceland,Recreational and sporting services,1.4
 2015,Iceland,Cultural services,1.1
 2015,Iceland,Education,6.8
@@ -4459,10 +4459,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Norway,Environmental protection,0.9
 2015,Norway,Housing and community amenities,0.8
 2015,Norway,Health,8.2
-2015,Norway,Medical products, appliances and equipment,0.5
+2015,Norway,Medical products appliances and equipment,0.5
 2015,Norway,Outpatient services,1.9
 2015,Norway,Hospital services,4.9
-2015,Norway,Recreation, culture and religion,1.6
+2015,Norway,Recreation culture and religion,1.6
 2015,Norway,Recreational and sporting services,0.3
 2015,Norway,Cultural services,0.6
 2015,Norway,Education,5.5
@@ -4484,10 +4484,10 @@ TIME,COUNTRY,COFOG99,Value
 2015,Switzerland,Environmental protection,0.6
 2015,Switzerland,Housing and community amenities,0.2
 2015,Switzerland,Health,2.1
-2015,Switzerland,Medical products, appliances and equipment,0.0
+2015,Switzerland,Medical products appliances and equipment,0.0
 2015,Switzerland,Outpatient services,0.2
 2015,Switzerland,Hospital services,1.6
-2015,Switzerland,Recreation, culture and religion,1.0
+2015,Switzerland,Recreation culture and religion,1.0
 2015,Switzerland,Recreational and sporting services,0.3
 2015,Switzerland,Cultural services,0.4
 2015,Switzerland,Education,5.4
@@ -4509,10 +4509,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Belgium,Environmental protection,1.2
 2016,Belgium,Housing and community amenities,0.3
 2016,Belgium,Health,7.6
-2016,Belgium,Medical products, appliances and equipment,0.8
+2016,Belgium,Medical products appliances and equipment,0.8
 2016,Belgium,Outpatient services,2.9
 2016,Belgium,Hospital services,3.6
-2016,Belgium,Recreation, culture and religion,1.3
+2016,Belgium,Recreation culture and religion,1.3
 2016,Belgium,Recreational and sporting services,0.4
 2016,Belgium,Cultural services,0.5
 2016,Belgium,Education,6.2
@@ -4534,10 +4534,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Bulgaria,Environmental protection,0.7
 2016,Bulgaria,Housing and community amenities,1.9
 2016,Bulgaria,Health,5.0
-2016,Bulgaria,Medical products, appliances and equipment,0.7
+2016,Bulgaria,Medical products appliances and equipment,0.7
 2016,Bulgaria,Outpatient services,0.6
 2016,Bulgaria,Hospital services,3.5
-2016,Bulgaria,Recreation, culture and religion,0.8
+2016,Bulgaria,Recreation culture and religion,0.8
 2016,Bulgaria,Recreational and sporting services,0.2
 2016,Bulgaria,Cultural services,0.4
 2016,Bulgaria,Education,3.4
@@ -4559,10 +4559,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Czechia,Environmental protection,0.7
 2016,Czechia,Housing and community amenities,0.6
 2016,Czechia,Health,7.4
-2016,Czechia,Medical products, appliances and equipment,0.9
+2016,Czechia,Medical products appliances and equipment,0.9
 2016,Czechia,Outpatient services,1.6
 2016,Czechia,Hospital services,3.3
-2016,Czechia,Recreation, culture and religion,1.3
+2016,Czechia,Recreation culture and religion,1.3
 2016,Czechia,Recreational and sporting services,0.4
 2016,Czechia,Cultural services,0.6
 2016,Czechia,Education,3.9
@@ -4584,10 +4584,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Denmark,Environmental protection,0.4
 2016,Denmark,Housing and community amenities,0.3
 2016,Denmark,Health,8.4
-2016,Denmark,Medical products, appliances and equipment,0.6
+2016,Denmark,Medical products appliances and equipment,0.6
 2016,Denmark,Outpatient services,1.2
 2016,Denmark,Hospital services,6.0
-2016,Denmark,Recreation, culture and religion,1.7
+2016,Denmark,Recreation culture and religion,1.7
 2016,Denmark,Recreational and sporting services,0.4
 2016,Denmark,Cultural services,0.7
 2016,Denmark,Education,6.8
@@ -4609,10 +4609,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2016,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.4
 2016,Germany (until 1990 former territory of the FRG),Health,7.2
-2016,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.6
+2016,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.6
 2016,Germany (until 1990 former territory of the FRG),Outpatient services,2.2
 2016,Germany (until 1990 former territory of the FRG),Hospital services,2.8
-2016,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.0
+2016,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.0
 2016,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.2
 2016,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2016,Germany (until 1990 former territory of the FRG),Education,4.2
@@ -4634,10 +4634,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Estonia,Environmental protection,0.6
 2016,Estonia,Housing and community amenities,0.3
 2016,Estonia,Health,5.4
-2016,Estonia,Medical products, appliances and equipment,0.8
+2016,Estonia,Medical products appliances and equipment,0.8
 2016,Estonia,Outpatient services,0.5
 2016,Estonia,Hospital services,3.8
-2016,Estonia,Recreation, culture and religion,2.1
+2016,Estonia,Recreation culture and religion,2.1
 2016,Estonia,Recreational and sporting services,0.4
 2016,Estonia,Cultural services,1.0
 2016,Estonia,Education,5.7
@@ -4659,10 +4659,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Ireland,Environmental protection,0.5
 2016,Ireland,Housing and community amenities,0.5
 2016,Ireland,Health,5.2
-2016,Ireland,Medical products, appliances and equipment,0.7
+2016,Ireland,Medical products appliances and equipment,0.7
 2016,Ireland,Outpatient services,1.9
 2016,Ireland,Hospital services,2.0
-2016,Ireland,Recreation, culture and religion,0.6
+2016,Ireland,Recreation culture and religion,0.6
 2016,Ireland,Recreational and sporting services,0.1
 2016,Ireland,Cultural services,0.3
 2016,Ireland,Education,3.5
@@ -4684,10 +4684,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Greece,Environmental protection,1.5
 2016,Greece,Housing and community amenities,0.2
 2016,Greece,Health,5.3
-2016,Greece,Medical products, appliances and equipment,1.6
+2016,Greece,Medical products appliances and equipment,1.6
 2016,Greece,Outpatient services,0.5
 2016,Greece,Hospital services,3.2
-2016,Greece,Recreation, culture and religion,0.7
+2016,Greece,Recreation culture and religion,0.7
 2016,Greece,Recreational and sporting services,0.4
 2016,Greece,Cultural services,0.1
 2016,Greece,Education,4.0
@@ -4709,10 +4709,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Spain,Environmental protection,0.9
 2016,Spain,Housing and community amenities,0.4
 2016,Spain,Health,6.1
-2016,Spain,Medical products, appliances and equipment,1.0
+2016,Spain,Medical products appliances and equipment,1.0
 2016,Spain,Outpatient services,2.2
 2016,Spain,Hospital services,2.5
-2016,Spain,Recreation, culture and religion,1.1
+2016,Spain,Recreation culture and religion,1.1
 2016,Spain,Recreational and sporting services,0.4
 2016,Spain,Cultural services,0.4
 2016,Spain,Education,4.1
@@ -4734,10 +4734,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,France,Environmental protection,0.9
 2016,France,Housing and community amenities,1.1
 2016,France,Health,8.1
-2016,France,Medical products, appliances and equipment,1.4
+2016,France,Medical products appliances and equipment,1.4
 2016,France,Outpatient services,2.9
 2016,France,Hospital services,3.5
-2016,France,Recreation, culture and religion,1.4
+2016,France,Recreation culture and religion,1.4
 2016,France,Recreational and sporting services,0.5
 2016,France,Cultural services,0.7
 2016,France,Education,5.4
@@ -4759,10 +4759,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Croatia,Environmental protection,0.7
 2016,Croatia,Housing and community amenities,2.2
 2016,Croatia,Health,6.4
-2016,Croatia,Medical products, appliances and equipment,1.6
+2016,Croatia,Medical products appliances and equipment,1.6
 2016,Croatia,Outpatient services,1.1
 2016,Croatia,Hospital services,3.0
-2016,Croatia,Recreation, culture and religion,1.5
+2016,Croatia,Recreation culture and religion,1.5
 2016,Croatia,Recreational and sporting services,0.4
 2016,Croatia,Cultural services,0.6
 2016,Croatia,Education,4.7
@@ -4784,10 +4784,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Italy,Environmental protection,0.9
 2016,Italy,Housing and community amenities,0.4
 2016,Italy,Health,6.9
-2016,Italy,Medical products, appliances and equipment,1.0
+2016,Italy,Medical products appliances and equipment,1.0
 2016,Italy,Outpatient services,2.4
 2016,Italy,Hospital services,2.9
-2016,Italy,Recreation, culture and religion,0.8
+2016,Italy,Recreation culture and religion,0.8
 2016,Italy,Recreational and sporting services,0.3
 2016,Italy,Cultural services,0.3
 2016,Italy,Education,3.9
@@ -4809,10 +4809,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Cyprus,Environmental protection,0.2
 2016,Cyprus,Housing and community amenities,1.5
 2016,Cyprus,Health,2.5
-2016,Cyprus,Medical products, appliances and equipment,0.6
+2016,Cyprus,Medical products appliances and equipment,0.6
 2016,Cyprus,Outpatient services,0.1
 2016,Cyprus,Hospital services,1.8
-2016,Cyprus,Recreation, culture and religion,0.9
+2016,Cyprus,Recreation culture and religion,0.9
 2016,Cyprus,Recreational and sporting services,0.3
 2016,Cyprus,Cultural services,0.2
 2016,Cyprus,Education,5.5
@@ -4834,10 +4834,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Latvia,Environmental protection,0.5
 2016,Latvia,Housing and community amenities,0.9
 2016,Latvia,Health,3.7
-2016,Latvia,Medical products, appliances and equipment,0.6
+2016,Latvia,Medical products appliances and equipment,0.6
 2016,Latvia,Outpatient services,1.0
 2016,Latvia,Hospital services,2.0
-2016,Latvia,Recreation, culture and religion,1.4
+2016,Latvia,Recreation culture and religion,1.4
 2016,Latvia,Recreational and sporting services,0.3
 2016,Latvia,Cultural services,1.0
 2016,Latvia,Education,5.5
@@ -4859,10 +4859,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Lithuania,Environmental protection,0.5
 2016,Lithuania,Housing and community amenities,0.4
 2016,Lithuania,Health,4.8
-2016,Lithuania,Medical products, appliances and equipment,0.8
+2016,Lithuania,Medical products appliances and equipment,0.8
 2016,Lithuania,Outpatient services,1.5
 2016,Lithuania,Hospital services,2.2
-2016,Lithuania,Recreation, culture and religion,1.0
+2016,Lithuania,Recreation culture and religion,1.0
 2016,Lithuania,Recreational and sporting services,0.2
 2016,Lithuania,Cultural services,0.7
 2016,Lithuania,Education,4.8
@@ -4884,10 +4884,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Luxembourg,Environmental protection,0.7
 2016,Luxembourg,Housing and community amenities,0.5
 2016,Luxembourg,Health,4.8
-2016,Luxembourg,Medical products, appliances and equipment,1.6
+2016,Luxembourg,Medical products appliances and equipment,1.6
 2016,Luxembourg,Outpatient services,1.0
 2016,Luxembourg,Hospital services,1.9
-2016,Luxembourg,Recreation, culture and religion,1.2
+2016,Luxembourg,Recreation culture and religion,1.2
 2016,Luxembourg,Recreational and sporting services,0.5
 2016,Luxembourg,Cultural services,0.5
 2016,Luxembourg,Education,4.3
@@ -4909,10 +4909,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Hungary,Environmental protection,0.5
 2016,Hungary,Housing and community amenities,0.7
 2016,Hungary,Health,4.7
-2016,Hungary,Medical products, appliances and equipment,1.0
+2016,Hungary,Medical products appliances and equipment,1.0
 2016,Hungary,Outpatient services,1.3
 2016,Hungary,Hospital services,2.0
-2016,Hungary,Recreation, culture and religion,3.3
+2016,Hungary,Recreation culture and religion,3.3
 2016,Hungary,Recreational and sporting services,1.1
 2016,Hungary,Cultural services,1.0
 2016,Hungary,Education,5.0
@@ -4934,10 +4934,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Malta,Environmental protection,1.0
 2016,Malta,Housing and community amenities,0.3
 2016,Malta,Health,5.3
-2016,Malta,Medical products, appliances and equipment,0.5
+2016,Malta,Medical products appliances and equipment,0.5
 2016,Malta,Outpatient services,0.9
 2016,Malta,Hospital services,3.5
-2016,Malta,Recreation, culture and religion,1.0
+2016,Malta,Recreation culture and religion,1.0
 2016,Malta,Recreational and sporting services,0.1
 2016,Malta,Cultural services,0.7
 2016,Malta,Education,5.1
@@ -4959,10 +4959,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Netherlands,Environmental protection,1.4
 2016,Netherlands,Housing and community amenities,0.4
 2016,Netherlands,Health,7.2
-2016,Netherlands,Medical products, appliances and equipment,0.8
+2016,Netherlands,Medical products appliances and equipment,0.8
 2016,Netherlands,Outpatient services,2.3
 2016,Netherlands,Hospital services,3.3
-2016,Netherlands,Recreation, culture and religion,1.3
+2016,Netherlands,Recreation culture and religion,1.3
 2016,Netherlands,Recreational and sporting services,0.5
 2016,Netherlands,Cultural services,0.5
 2016,Netherlands,Education,5.3
@@ -4984,10 +4984,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Austria,Environmental protection,0.4
 2016,Austria,Housing and community amenities,0.3
 2016,Austria,Health,8.2
-2016,Austria,Medical products, appliances and equipment,1.1
+2016,Austria,Medical products appliances and equipment,1.1
 2016,Austria,Outpatient services,1.5
 2016,Austria,Hospital services,4.7
-2016,Austria,Recreation, culture and religion,1.2
+2016,Austria,Recreation culture and religion,1.2
 2016,Austria,Recreational and sporting services,0.3
 2016,Austria,Cultural services,0.5
 2016,Austria,Education,4.9
@@ -5009,10 +5009,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Poland,Environmental protection,0.4
 2016,Poland,Housing and community amenities,0.6
 2016,Poland,Health,4.6
-2016,Poland,Medical products, appliances and equipment,0.1
+2016,Poland,Medical products appliances and equipment,0.1
 2016,Poland,Outpatient services,1.5
 2016,Poland,Hospital services,2.8
-2016,Poland,Recreation, culture and religion,1.1
+2016,Poland,Recreation culture and religion,1.1
 2016,Poland,Recreational and sporting services,0.3
 2016,Poland,Cultural services,0.6
 2016,Poland,Education,5.0
@@ -5034,10 +5034,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Portugal,Environmental protection,0.6
 2016,Portugal,Housing and community amenities,0.4
 2016,Portugal,Health,6.1
-2016,Portugal,Medical products, appliances and equipment,0.5
+2016,Portugal,Medical products appliances and equipment,0.5
 2016,Portugal,Outpatient services,1.9
 2016,Portugal,Hospital services,3.4
-2016,Portugal,Recreation, culture and religion,0.8
+2016,Portugal,Recreation culture and religion,0.8
 2016,Portugal,Recreational and sporting services,0.3
 2016,Portugal,Cultural services,0.3
 2016,Portugal,Education,4.8
@@ -5059,10 +5059,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Romania,Environmental protection,0.6
 2016,Romania,Housing and community amenities,1.2
 2016,Romania,Health,4.0
-2016,Romania,Medical products, appliances and equipment,1.2
+2016,Romania,Medical products appliances and equipment,1.2
 2016,Romania,Outpatient services,0.1
 2016,Romania,Hospital services,2.1
-2016,Romania,Recreation, culture and religion,0.9
+2016,Romania,Recreation culture and religion,0.9
 2016,Romania,Recreational and sporting services,0.3
 2016,Romania,Cultural services,0.4
 2016,Romania,Education,3.3
@@ -5084,10 +5084,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Slovenia,Environmental protection,0.6
 2016,Slovenia,Housing and community amenities,0.4
 2016,Slovenia,Health,6.7
-2016,Slovenia,Medical products, appliances and equipment,1.0
+2016,Slovenia,Medical products appliances and equipment,1.0
 2016,Slovenia,Outpatient services,1.9
 2016,Slovenia,Hospital services,3.1
-2016,Slovenia,Recreation, culture and religion,1.4
+2016,Slovenia,Recreation culture and religion,1.4
 2016,Slovenia,Recreational and sporting services,0.3
 2016,Slovenia,Cultural services,0.7
 2016,Slovenia,Education,5.5
@@ -5109,10 +5109,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Slovakia,Environmental protection,0.7
 2016,Slovakia,Housing and community amenities,0.5
 2016,Slovakia,Health,7.5
-2016,Slovakia,Medical products, appliances and equipment,1.5
+2016,Slovakia,Medical products appliances and equipment,1.5
 2016,Slovakia,Outpatient services,2.3
 2016,Slovakia,Hospital services,3.3
-2016,Slovakia,Recreation, culture and religion,0.8
+2016,Slovakia,Recreation culture and religion,0.8
 2016,Slovakia,Recreational and sporting services,0.2
 2016,Slovakia,Cultural services,0.4
 2016,Slovakia,Education,3.9
@@ -5134,10 +5134,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Finland,Environmental protection,0.2
 2016,Finland,Housing and community amenities,0.3
 2016,Finland,Health,7.2
-2016,Finland,Medical products, appliances and equipment,0.7
+2016,Finland,Medical products appliances and equipment,0.7
 2016,Finland,Outpatient services,3.2
 2016,Finland,Hospital services,3.1
-2016,Finland,Recreation, culture and religion,1.4
+2016,Finland,Recreation culture and religion,1.4
 2016,Finland,Recreational and sporting services,0.5
 2016,Finland,Cultural services,0.5
 2016,Finland,Education,6.0
@@ -5159,10 +5159,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Sweden,Environmental protection,0.4
 2016,Sweden,Housing and community amenities,0.5
 2016,Sweden,Health,6.9
-2016,Sweden,Medical products, appliances and equipment,0.8
+2016,Sweden,Medical products appliances and equipment,0.8
 2016,Sweden,Outpatient services,3.0
 2016,Sweden,Hospital services,2.5
-2016,Sweden,Recreation, culture and religion,1.3
+2016,Sweden,Recreation culture and religion,1.3
 2016,Sweden,Recreational and sporting services,0.5
 2016,Sweden,Cultural services,0.5
 2016,Sweden,Education,6.6
@@ -5184,10 +5184,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Iceland,Environmental protection,0.6
 2016,Iceland,Housing and community amenities,0.6
 2016,Iceland,Health,7.3
-2016,Iceland,Medical products, appliances and equipment,0.5
+2016,Iceland,Medical products appliances and equipment,0.5
 2016,Iceland,Outpatient services,1.7
 2016,Iceland,Hospital services,4.9
-2016,Iceland,Recreation, culture and religion,3.0
+2016,Iceland,Recreation culture and religion,3.0
 2016,Iceland,Recreational and sporting services,1.4
 2016,Iceland,Cultural services,1.0
 2016,Iceland,Education,6.7
@@ -5209,10 +5209,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Norway,Environmental protection,0.9
 2016,Norway,Housing and community amenities,0.8
 2016,Norway,Health,8.6
-2016,Norway,Medical products, appliances and equipment,0.5
+2016,Norway,Medical products appliances and equipment,0.5
 2016,Norway,Outpatient services,2.0
 2016,Norway,Hospital services,5.1
-2016,Norway,Recreation, culture and religion,1.7
+2016,Norway,Recreation culture and religion,1.7
 2016,Norway,Recreational and sporting services,0.4
 2016,Norway,Cultural services,0.7
 2016,Norway,Education,5.7
@@ -5234,10 +5234,10 @@ TIME,COUNTRY,COFOG99,Value
 2016,Switzerland,Environmental protection,0.6
 2016,Switzerland,Housing and community amenities,0.2
 2016,Switzerland,Health,2.1
-2016,Switzerland,Medical products, appliances and equipment,0.0
+2016,Switzerland,Medical products appliances and equipment,0.0
 2016,Switzerland,Outpatient services,0.2
 2016,Switzerland,Hospital services,1.7
-2016,Switzerland,Recreation, culture and religion,1.0
+2016,Switzerland,Recreation culture and religion,1.0
 2016,Switzerland,Recreational and sporting services,0.3
 2016,Switzerland,Cultural services,0.4
 2016,Switzerland,Education,5.4
@@ -5259,10 +5259,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Belgium,Environmental protection,1.3
 2017,Belgium,Housing and community amenities,0.3
 2017,Belgium,Health,7.6
-2017,Belgium,Medical products, appliances and equipment,0.8
+2017,Belgium,Medical products appliances and equipment,0.8
 2017,Belgium,Outpatient services,2.9
 2017,Belgium,Hospital services,3.6
-2017,Belgium,Recreation, culture and religion,1.2
+2017,Belgium,Recreation culture and religion,1.2
 2017,Belgium,Recreational and sporting services,0.4
 2017,Belgium,Cultural services,0.5
 2017,Belgium,Education,6.2
@@ -5284,10 +5284,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Bulgaria,Environmental protection,0.7
 2017,Bulgaria,Housing and community amenities,1.5
 2017,Bulgaria,Health,4.8
-2017,Bulgaria,Medical products, appliances and equipment,0.7
+2017,Bulgaria,Medical products appliances and equipment,0.7
 2017,Bulgaria,Outpatient services,0.6
 2017,Bulgaria,Hospital services,3.2
-2017,Bulgaria,Recreation, culture and religion,1.0
+2017,Bulgaria,Recreation culture and religion,1.0
 2017,Bulgaria,Recreational and sporting services,0.2
 2017,Bulgaria,Cultural services,0.6
 2017,Bulgaria,Education,3.5
@@ -5309,10 +5309,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Czechia,Environmental protection,0.8
 2017,Czechia,Housing and community amenities,0.6
 2017,Czechia,Health,7.4
-2017,Czechia,Medical products, appliances and equipment,0.9
+2017,Czechia,Medical products appliances and equipment,0.9
 2017,Czechia,Outpatient services,1.5
 2017,Czechia,Hospital services,3.4
-2017,Czechia,Recreation, culture and religion,1.3
+2017,Czechia,Recreation culture and religion,1.3
 2017,Czechia,Recreational and sporting services,0.4
 2017,Czechia,Cultural services,0.6
 2017,Czechia,Education,4.1
@@ -5334,10 +5334,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Denmark,Environmental protection,0.4
 2017,Denmark,Housing and community amenities,0.2
 2017,Denmark,Health,8.3
-2017,Denmark,Medical products, appliances and equipment,0.5
+2017,Denmark,Medical products appliances and equipment,0.5
 2017,Denmark,Outpatient services,1.2
 2017,Denmark,Hospital services,5.9
-2017,Denmark,Recreation, culture and religion,1.7
+2017,Denmark,Recreation culture and religion,1.7
 2017,Denmark,Recreational and sporting services,0.4
 2017,Denmark,Cultural services,0.6
 2017,Denmark,Education,6.4
@@ -5359,10 +5359,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Germany (until 1990 former territory of the FRG),Environmental protection,0.5
 2017,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.4
 2017,Germany (until 1990 former territory of the FRG),Health,7.1
-2017,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.6
+2017,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.6
 2017,Germany (until 1990 former territory of the FRG),Outpatient services,2.1
 2017,Germany (until 1990 former territory of the FRG),Hospital services,2.7
-2017,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.0
+2017,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.0
 2017,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.2
 2017,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2017,Germany (until 1990 former territory of the FRG),Education,4.2
@@ -5384,10 +5384,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Estonia,Environmental protection,0.7
 2017,Estonia,Housing and community amenities,0.4
 2017,Estonia,Health,5.2
-2017,Estonia,Medical products, appliances and equipment,0.7
+2017,Estonia,Medical products appliances and equipment,0.7
 2017,Estonia,Outpatient services,0.5
 2017,Estonia,Hospital services,3.8
-2017,Estonia,Recreation, culture and religion,2.1
+2017,Estonia,Recreation culture and religion,2.1
 2017,Estonia,Recreational and sporting services,0.6
 2017,Estonia,Cultural services,1.0
 2017,Estonia,Education,5.7
@@ -5409,10 +5409,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Ireland,Environmental protection,0.4
 2017,Ireland,Housing and community amenities,0.5
 2017,Ireland,Health,4.9
-2017,Ireland,Medical products, appliances and equipment,0.7
+2017,Ireland,Medical products appliances and equipment,0.7
 2017,Ireland,Outpatient services,1.8
 2017,Ireland,Hospital services,1.9
-2017,Ireland,Recreation, culture and religion,0.5
+2017,Ireland,Recreation culture and religion,0.5
 2017,Ireland,Recreational and sporting services,0.1
 2017,Ireland,Cultural services,0.2
 2017,Ireland,Education,3.3
@@ -5434,10 +5434,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Greece,Environmental protection,1.4
 2017,Greece,Housing and community amenities,0.2
 2017,Greece,Health,5.5
-2017,Greece,Medical products, appliances and equipment,1.6
+2017,Greece,Medical products appliances and equipment,1.6
 2017,Greece,Outpatient services,0.5
 2017,Greece,Hospital services,3.2
-2017,Greece,Recreation, culture and religion,0.8
+2017,Greece,Recreation culture and religion,0.8
 2017,Greece,Recreational and sporting services,0.4
 2017,Greece,Cultural services,0.2
 2017,Greece,Education,3.9
@@ -5459,10 +5459,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Spain,Environmental protection,0.9
 2017,Spain,Housing and community amenities,0.4
 2017,Spain,Health,6.0
-2017,Spain,Medical products, appliances and equipment,1.0
+2017,Spain,Medical products appliances and equipment,1.0
 2017,Spain,Outpatient services,2.2
 2017,Spain,Hospital services,2.4
-2017,Spain,Recreation, culture and religion,1.1
+2017,Spain,Recreation culture and religion,1.1
 2017,Spain,Recreational and sporting services,0.4
 2017,Spain,Cultural services,0.4
 2017,Spain,Education,4.0
@@ -5484,10 +5484,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,France,Environmental protection,0.9
 2017,France,Housing and community amenities,1.0
 2017,France,Health,8.1
-2017,France,Medical products, appliances and equipment,1.4
+2017,France,Medical products appliances and equipment,1.4
 2017,France,Outpatient services,2.9
 2017,France,Hospital services,3.4
-2017,France,Recreation, culture and religion,1.4
+2017,France,Recreation culture and religion,1.4
 2017,France,Recreational and sporting services,0.5
 2017,France,Cultural services,0.7
 2017,France,Education,5.4
@@ -5509,10 +5509,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Croatia,Environmental protection,0.6
 2017,Croatia,Housing and community amenities,2.1
 2017,Croatia,Health,6.3
-2017,Croatia,Medical products, appliances and equipment,1.6
+2017,Croatia,Medical products appliances and equipment,1.6
 2017,Croatia,Outpatient services,1.0
 2017,Croatia,Hospital services,3.1
-2017,Croatia,Recreation, culture and religion,1.4
+2017,Croatia,Recreation culture and religion,1.4
 2017,Croatia,Recreational and sporting services,0.3
 2017,Croatia,Cultural services,0.6
 2017,Croatia,Education,4.7
@@ -5534,10 +5534,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Italy,Environmental protection,0.9
 2017,Italy,Housing and community amenities,0.4
 2017,Italy,Health,6.8
-2017,Italy,Medical products, appliances and equipment,1.0
+2017,Italy,Medical products appliances and equipment,1.0
 2017,Italy,Outpatient services,2.4
 2017,Italy,Hospital services,2.8
-2017,Italy,Recreation, culture and religion,0.8
+2017,Italy,Recreation culture and religion,0.8
 2017,Italy,Recreational and sporting services,0.3
 2017,Italy,Cultural services,0.3
 2017,Italy,Education,3.9
@@ -5559,10 +5559,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Cyprus,Environmental protection,0.3
 2017,Cyprus,Housing and community amenities,1.5
 2017,Cyprus,Health,2.5
-2017,Cyprus,Medical products, appliances and equipment,0.6
+2017,Cyprus,Medical products appliances and equipment,0.6
 2017,Cyprus,Outpatient services,0.1
 2017,Cyprus,Hospital services,1.8
-2017,Cyprus,Recreation, culture and religion,0.9
+2017,Cyprus,Recreation culture and religion,0.9
 2017,Cyprus,Recreational and sporting services,0.3
 2017,Cyprus,Cultural services,0.2
 2017,Cyprus,Education,5.3
@@ -5584,10 +5584,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Latvia,Environmental protection,0.5
 2017,Latvia,Housing and community amenities,1.1
 2017,Latvia,Health,3.5
-2017,Latvia,Medical products, appliances and equipment,0.6
+2017,Latvia,Medical products appliances and equipment,0.6
 2017,Latvia,Outpatient services,0.9
 2017,Latvia,Hospital services,1.9
-2017,Latvia,Recreation, culture and religion,1.7
+2017,Latvia,Recreation culture and religion,1.7
 2017,Latvia,Recreational and sporting services,0.3
 2017,Latvia,Cultural services,1.1
 2017,Latvia,Education,5.8
@@ -5609,10 +5609,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Lithuania,Environmental protection,0.5
 2017,Lithuania,Housing and community amenities,0.4
 2017,Lithuania,Health,4.6
-2017,Lithuania,Medical products, appliances and equipment,0.7
+2017,Lithuania,Medical products appliances and equipment,0.7
 2017,Lithuania,Outpatient services,1.5
 2017,Lithuania,Hospital services,2.1
-2017,Lithuania,Recreation, culture and religion,1.1
+2017,Lithuania,Recreation culture and religion,1.1
 2017,Lithuania,Recreational and sporting services,0.2
 2017,Lithuania,Cultural services,0.7
 2017,Lithuania,Education,4.5
@@ -5634,10 +5634,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Luxembourg,Environmental protection,0.8
 2017,Luxembourg,Housing and community amenities,0.5
 2017,Luxembourg,Health,5.0
-2017,Luxembourg,Medical products, appliances and equipment,1.6
+2017,Luxembourg,Medical products appliances and equipment,1.6
 2017,Luxembourg,Outpatient services,1.0
 2017,Luxembourg,Hospital services,2.0
-2017,Luxembourg,Recreation, culture and religion,1.2
+2017,Luxembourg,Recreation culture and religion,1.2
 2017,Luxembourg,Recreational and sporting services,0.5
 2017,Luxembourg,Cultural services,0.5
 2017,Luxembourg,Education,4.4
@@ -5659,10 +5659,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Hungary,Environmental protection,0.7
 2017,Hungary,Housing and community amenities,0.7
 2017,Hungary,Health,4.7
-2017,Hungary,Medical products, appliances and equipment,0.9
+2017,Hungary,Medical products appliances and equipment,0.9
 2017,Hungary,Outpatient services,1.3
 2017,Hungary,Hospital services,2.1
-2017,Hungary,Recreation, culture and religion,3.3
+2017,Hungary,Recreation culture and religion,3.3
 2017,Hungary,Recreational and sporting services,1.2
 2017,Hungary,Cultural services,1.1
 2017,Hungary,Education,5.1
@@ -5684,10 +5684,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Malta,Environmental protection,0.9
 2017,Malta,Housing and community amenities,0.2
 2017,Malta,Health,5.1
-2017,Malta,Medical products, appliances and equipment,0.6
+2017,Malta,Medical products appliances and equipment,0.6
 2017,Malta,Outpatient services,0.9
 2017,Malta,Hospital services,3.4
-2017,Malta,Recreation, culture and religion,1.2
+2017,Malta,Recreation culture and religion,1.2
 2017,Malta,Recreational and sporting services,0.2
 2017,Malta,Cultural services,0.8
 2017,Malta,Education,4.6
@@ -5709,10 +5709,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Netherlands,Environmental protection,1.4
 2017,Netherlands,Housing and community amenities,0.4
 2017,Netherlands,Health,7.3
-2017,Netherlands,Medical products, appliances and equipment,0.7
+2017,Netherlands,Medical products appliances and equipment,0.7
 2017,Netherlands,Outpatient services,2.4
 2017,Netherlands,Hospital services,3.4
-2017,Netherlands,Recreation, culture and religion,1.3
+2017,Netherlands,Recreation culture and religion,1.3
 2017,Netherlands,Recreational and sporting services,0.5
 2017,Netherlands,Cultural services,0.5
 2017,Netherlands,Education,5.1
@@ -5734,10 +5734,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Austria,Environmental protection,0.4
 2017,Austria,Housing and community amenities,0.3
 2017,Austria,Health,8.2
-2017,Austria,Medical products, appliances and equipment,1.1
+2017,Austria,Medical products appliances and equipment,1.1
 2017,Austria,Outpatient services,1.5
 2017,Austria,Hospital services,4.7
-2017,Austria,Recreation, culture and religion,1.2
+2017,Austria,Recreation culture and religion,1.2
 2017,Austria,Recreational and sporting services,0.3
 2017,Austria,Cultural services,0.5
 2017,Austria,Education,4.8
@@ -5759,10 +5759,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Poland,Environmental protection,0.4
 2017,Poland,Housing and community amenities,0.6
 2017,Poland,Health,4.7
-2017,Poland,Medical products, appliances and equipment,0.1
+2017,Poland,Medical products appliances and equipment,0.1
 2017,Poland,Outpatient services,1.5
 2017,Poland,Hospital services,2.9
-2017,Poland,Recreation, culture and religion,1.2
+2017,Poland,Recreation culture and religion,1.2
 2017,Poland,Recreational and sporting services,0.4
 2017,Poland,Cultural services,0.7
 2017,Poland,Education,4.9
@@ -5784,10 +5784,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Portugal,Environmental protection,0.6
 2017,Portugal,Housing and community amenities,0.4
 2017,Portugal,Health,6.2
-2017,Portugal,Medical products, appliances and equipment,0.5
+2017,Portugal,Medical products appliances and equipment,0.5
 2017,Portugal,Outpatient services,2.0
 2017,Portugal,Hospital services,3.4
-2017,Portugal,Recreation, culture and religion,0.8
+2017,Portugal,Recreation culture and religion,0.8
 2017,Portugal,Recreational and sporting services,0.3
 2017,Portugal,Cultural services,0.3
 2017,Portugal,Education,4.6
@@ -5809,10 +5809,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Romania,Environmental protection,0.5
 2017,Romania,Housing and community amenities,0.9
 2017,Romania,Health,4.3
-2017,Romania,Medical products, appliances and equipment,0.9
+2017,Romania,Medical products appliances and equipment,0.9
 2017,Romania,Outpatient services,0.1
 2017,Romania,Hospital services,2.5
-2017,Romania,Recreation, culture and religion,1.0
+2017,Romania,Recreation culture and religion,1.0
 2017,Romania,Recreational and sporting services,0.3
 2017,Romania,Cultural services,0.4
 2017,Romania,Education,2.8
@@ -5834,10 +5834,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Slovenia,Environmental protection,0.5
 2017,Slovenia,Housing and community amenities,0.5
 2017,Slovenia,Health,6.6
-2017,Slovenia,Medical products, appliances and equipment,0.9
+2017,Slovenia,Medical products appliances and equipment,0.9
 2017,Slovenia,Outpatient services,1.9
 2017,Slovenia,Hospital services,3.0
-2017,Slovenia,Recreation, culture and religion,1.4
+2017,Slovenia,Recreation culture and religion,1.4
 2017,Slovenia,Recreational and sporting services,0.3
 2017,Slovenia,Cultural services,0.6
 2017,Slovenia,Education,5.4
@@ -5859,10 +5859,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Slovakia,Environmental protection,0.8
 2017,Slovakia,Housing and community amenities,0.5
 2017,Slovakia,Health,5.5
-2017,Slovakia,Medical products, appliances and equipment,1.0
+2017,Slovakia,Medical products appliances and equipment,1.0
 2017,Slovakia,Outpatient services,1.4
 2017,Slovakia,Hospital services,2.6
-2017,Slovakia,Recreation, culture and religion,0.8
+2017,Slovakia,Recreation culture and religion,0.8
 2017,Slovakia,Recreational and sporting services,0.1
 2017,Slovakia,Cultural services,0.4
 2017,Slovakia,Education,3.9
@@ -5884,10 +5884,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Finland,Environmental protection,0.2
 2017,Finland,Housing and community amenities,0.3
 2017,Finland,Health,7.0
-2017,Finland,Medical products, appliances and equipment,0.6
+2017,Finland,Medical products appliances and equipment,0.6
 2017,Finland,Outpatient services,3.1
 2017,Finland,Hospital services,3.1
-2017,Finland,Recreation, culture and religion,1.5
+2017,Finland,Recreation culture and religion,1.5
 2017,Finland,Recreational and sporting services,0.5
 2017,Finland,Cultural services,0.5
 2017,Finland,Education,5.6
@@ -5909,10 +5909,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Sweden,Environmental protection,0.5
 2017,Sweden,Housing and community amenities,0.6
 2017,Sweden,Health,6.8
-2017,Sweden,Medical products, appliances and equipment,0.7
+2017,Sweden,Medical products appliances and equipment,0.7
 2017,Sweden,Outpatient services,3.0
 2017,Sweden,Hospital services,2.5
-2017,Sweden,Recreation, culture and religion,1.2
+2017,Sweden,Recreation culture and religion,1.2
 2017,Sweden,Recreational and sporting services,0.5
 2017,Sweden,Cultural services,0.5
 2017,Sweden,Education,6.7
@@ -5934,10 +5934,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Iceland,Environmental protection,0.6
 2017,Iceland,Housing and community amenities,0.6
 2017,Iceland,Health,7.5
-2017,Iceland,Medical products, appliances and equipment,0.5
+2017,Iceland,Medical products appliances and equipment,0.5
 2017,Iceland,Outpatient services,1.8
 2017,Iceland,Hospital services,5.0
-2017,Iceland,Recreation, culture and religion,3.0
+2017,Iceland,Recreation culture and religion,3.0
 2017,Iceland,Recreational and sporting services,1.5
 2017,Iceland,Cultural services,1.0
 2017,Iceland,Education,7.0
@@ -5959,10 +5959,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Norway,Environmental protection,0.9
 2017,Norway,Housing and community amenities,0.8
 2017,Norway,Health,8.4
-2017,Norway,Medical products, appliances and equipment,0.5
+2017,Norway,Medical products appliances and equipment,0.5
 2017,Norway,Outpatient services,2.0
 2017,Norway,Hospital services,4.9
-2017,Norway,Recreation, culture and religion,1.8
+2017,Norway,Recreation culture and religion,1.8
 2017,Norway,Recreational and sporting services,0.5
 2017,Norway,Cultural services,0.7
 2017,Norway,Education,5.6
@@ -5984,10 +5984,10 @@ TIME,COUNTRY,COFOG99,Value
 2017,Switzerland,Environmental protection,0.6
 2017,Switzerland,Housing and community amenities,0.2
 2017,Switzerland,Health,2.1
-2017,Switzerland,Medical products, appliances and equipment,0.0
+2017,Switzerland,Medical products appliances and equipment,0.0
 2017,Switzerland,Outpatient services,0.2
 2017,Switzerland,Hospital services,1.6
-2017,Switzerland,Recreation, culture and religion,1.0
+2017,Switzerland,Recreation culture and religion,1.0
 2017,Switzerland,Recreational and sporting services,0.3
 2017,Switzerland,Cultural services,0.4
 2017,Switzerland,Education,5.4
@@ -6009,10 +6009,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Belgium,Environmental protection,1.3
 2018,Belgium,Housing and community amenities,0.3
 2018,Belgium,Health,7.6
-2018,Belgium,Medical products, appliances and equipment,0.8
+2018,Belgium,Medical products appliances and equipment,0.8
 2018,Belgium,Outpatient services,2.9
 2018,Belgium,Hospital services,3.6
-2018,Belgium,Recreation, culture and religion,1.3
+2018,Belgium,Recreation culture and religion,1.3
 2018,Belgium,Recreational and sporting services,0.4
 2018,Belgium,Cultural services,0.5
 2018,Belgium,Education,6.2
@@ -6034,10 +6034,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Bulgaria,Environmental protection,0.7
 2018,Bulgaria,Housing and community amenities,1.1
 2018,Bulgaria,Health,5.0
-2018,Bulgaria,Medical products, appliances and equipment,0.7
+2018,Bulgaria,Medical products appliances and equipment,0.7
 2018,Bulgaria,Outpatient services,0.5
 2018,Bulgaria,Hospital services,3.5
-2018,Bulgaria,Recreation, culture and religion,0.8
+2018,Bulgaria,Recreation culture and religion,0.8
 2018,Bulgaria,Recreational and sporting services,0.2
 2018,Bulgaria,Cultural services,0.5
 2018,Bulgaria,Education,3.5
@@ -6059,10 +6059,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Czechia,Environmental protection,0.9
 2018,Czechia,Housing and community amenities,0.8
 2018,Czechia,Health,7.5
-2018,Czechia,Medical products, appliances and equipment,0.9
+2018,Czechia,Medical products appliances and equipment,0.9
 2018,Czechia,Outpatient services,1.5
 2018,Czechia,Hospital services,3.5
-2018,Czechia,Recreation, culture and religion,1.5
+2018,Czechia,Recreation culture and religion,1.5
 2018,Czechia,Recreational and sporting services,0.5
 2018,Czechia,Cultural services,0.7
 2018,Czechia,Education,4.6
@@ -6084,10 +6084,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Denmark,Environmental protection,0.4
 2018,Denmark,Housing and community amenities,0.2
 2018,Denmark,Health,8.3
-2018,Denmark,Medical products, appliances and equipment,0.5
+2018,Denmark,Medical products appliances and equipment,0.5
 2018,Denmark,Outpatient services,1.2
 2018,Denmark,Hospital services,5.9
-2018,Denmark,Recreation, culture and religion,1.6
+2018,Denmark,Recreation culture and religion,1.6
 2018,Denmark,Recreational and sporting services,0.4
 2018,Denmark,Cultural services,0.6
 2018,Denmark,Education,6.4
@@ -6109,10 +6109,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2018,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.4
 2018,Germany (until 1990 former territory of the FRG),Health,7.2
-2018,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.6
+2018,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.6
 2018,Germany (until 1990 former territory of the FRG),Outpatient services,2.2
 2018,Germany (until 1990 former territory of the FRG),Hospital services,2.7
-2018,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.0
+2018,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.0
 2018,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2018,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2018,Germany (until 1990 former territory of the FRG),Education,4.3
@@ -6134,10 +6134,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Estonia,Environmental protection,0.8
 2018,Estonia,Housing and community amenities,0.3
 2018,Estonia,Health,5.5
-2018,Estonia,Medical products, appliances and equipment,0.8
+2018,Estonia,Medical products appliances and equipment,0.8
 2018,Estonia,Outpatient services,0.6
 2018,Estonia,Hospital services,3.9
-2018,Estonia,Recreation, culture and religion,2.0
+2018,Estonia,Recreation culture and religion,2.0
 2018,Estonia,Recreational and sporting services,0.5
 2018,Estonia,Cultural services,1.0
 2018,Estonia,Education,6.2
@@ -6159,10 +6159,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Ireland,Environmental protection,0.4
 2018,Ireland,Housing and community amenities,0.6
 2018,Ireland,Health,4.8
-2018,Ireland,Medical products, appliances and equipment,0.7
+2018,Ireland,Medical products appliances and equipment,0.7
 2018,Ireland,Outpatient services,1.8
 2018,Ireland,Hospital services,1.8
-2018,Ireland,Recreation, culture and religion,0.6
+2018,Ireland,Recreation culture and religion,0.6
 2018,Ireland,Recreational and sporting services,0.1
 2018,Ireland,Cultural services,0.2
 2018,Ireland,Education,3.2
@@ -6184,10 +6184,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Greece,Environmental protection,1.4
 2018,Greece,Housing and community amenities,0.2
 2018,Greece,Health,5.6
-2018,Greece,Medical products, appliances and equipment,1.5
+2018,Greece,Medical products appliances and equipment,1.5
 2018,Greece,Outpatient services,0.6
 2018,Greece,Hospital services,3.4
-2018,Greece,Recreation, culture and religion,0.8
+2018,Greece,Recreation culture and religion,0.8
 2018,Greece,Recreational and sporting services,0.4
 2018,Greece,Cultural services,0.2
 2018,Greece,Education,4.1
@@ -6209,10 +6209,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Spain,Environmental protection,0.9
 2018,Spain,Housing and community amenities,0.4
 2018,Spain,Health,6.0
-2018,Spain,Medical products, appliances and equipment,1.0
+2018,Spain,Medical products appliances and equipment,1.0
 2018,Spain,Outpatient services,2.2
 2018,Spain,Hospital services,2.5
-2018,Spain,Recreation, culture and religion,1.1
+2018,Spain,Recreation culture and religion,1.1
 2018,Spain,Recreational and sporting services,0.4
 2018,Spain,Cultural services,0.4
 2018,Spain,Education,4.0
@@ -6234,10 +6234,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,France,Environmental protection,1.0
 2018,France,Housing and community amenities,1.0
 2018,France,Health,8.0
-2018,France,Medical products, appliances and equipment,1.4
+2018,France,Medical products appliances and equipment,1.4
 2018,France,Outpatient services,2.9
 2018,France,Hospital services,3.4
-2018,France,Recreation, culture and religion,1.4
+2018,France,Recreation culture and religion,1.4
 2018,France,Recreational and sporting services,0.5
 2018,France,Cultural services,0.7
 2018,France,Education,5.3
@@ -6259,10 +6259,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Croatia,Environmental protection,0.7
 2018,Croatia,Housing and community amenities,1.9
 2018,Croatia,Health,6.3
-2018,Croatia,Medical products, appliances and equipment,1.6
+2018,Croatia,Medical products appliances and equipment,1.6
 2018,Croatia,Outpatient services,1.0
 2018,Croatia,Hospital services,3.0
-2018,Croatia,Recreation, culture and religion,1.5
+2018,Croatia,Recreation culture and religion,1.5
 2018,Croatia,Recreational and sporting services,0.3
 2018,Croatia,Cultural services,0.7
 2018,Croatia,Education,4.7
@@ -6284,10 +6284,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Italy,Environmental protection,0.9
 2018,Italy,Housing and community amenities,0.4
 2018,Italy,Health,6.8
-2018,Italy,Medical products, appliances and equipment,1.0
+2018,Italy,Medical products appliances and equipment,1.0
 2018,Italy,Outpatient services,2.5
 2018,Italy,Hospital services,2.8
-2018,Italy,Recreation, culture and religion,0.8
+2018,Italy,Recreation culture and religion,0.8
 2018,Italy,Recreational and sporting services,0.3
 2018,Italy,Cultural services,0.3
 2018,Italy,Education,3.9
@@ -6309,10 +6309,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Cyprus,Environmental protection,0.3
 2018,Cyprus,Housing and community amenities,1.5
 2018,Cyprus,Health,2.6
-2018,Cyprus,Medical products, appliances and equipment,0.6
+2018,Cyprus,Medical products appliances and equipment,0.6
 2018,Cyprus,Outpatient services,0.1
 2018,Cyprus,Hospital services,1.9
-2018,Cyprus,Recreation, culture and religion,0.8
+2018,Cyprus,Recreation culture and religion,0.8
 2018,Cyprus,Recreational and sporting services,0.3
 2018,Cyprus,Cultural services,0.2
 2018,Cyprus,Education,5.0
@@ -6334,10 +6334,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Latvia,Environmental protection,0.6
 2018,Latvia,Housing and community amenities,1.1
 2018,Latvia,Health,4.0
-2018,Latvia,Medical products, appliances and equipment,0.6
+2018,Latvia,Medical products appliances and equipment,0.6
 2018,Latvia,Outpatient services,1.0
 2018,Latvia,Hospital services,2.2
-2018,Latvia,Recreation, culture and religion,1.6
+2018,Latvia,Recreation culture and religion,1.6
 2018,Latvia,Recreational and sporting services,0.3
 2018,Latvia,Cultural services,1.1
 2018,Latvia,Education,5.8
@@ -6359,10 +6359,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Lithuania,Environmental protection,0.5
 2018,Lithuania,Housing and community amenities,0.5
 2018,Lithuania,Health,4.8
-2018,Lithuania,Medical products, appliances and equipment,0.7
+2018,Lithuania,Medical products appliances and equipment,0.7
 2018,Lithuania,Outpatient services,1.5
 2018,Lithuania,Hospital services,2.2
-2018,Lithuania,Recreation, culture and religion,1.1
+2018,Lithuania,Recreation culture and religion,1.1
 2018,Lithuania,Recreational and sporting services,0.2
 2018,Lithuania,Cultural services,0.7
 2018,Lithuania,Education,4.5
@@ -6384,10 +6384,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Luxembourg,Environmental protection,0.9
 2018,Luxembourg,Housing and community amenities,0.6
 2018,Luxembourg,Health,5.1
-2018,Luxembourg,Medical products, appliances and equipment,1.7
+2018,Luxembourg,Medical products appliances and equipment,1.7
 2018,Luxembourg,Outpatient services,1.0
 2018,Luxembourg,Hospital services,2.0
-2018,Luxembourg,Recreation, culture and religion,1.3
+2018,Luxembourg,Recreation culture and religion,1.3
 2018,Luxembourg,Recreational and sporting services,0.5
 2018,Luxembourg,Cultural services,0.5
 2018,Luxembourg,Education,4.6
@@ -6409,10 +6409,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Hungary,Environmental protection,0.6
 2018,Hungary,Housing and community amenities,0.7
 2018,Hungary,Health,4.6
-2018,Hungary,Medical products, appliances and equipment,0.8
+2018,Hungary,Medical products appliances and equipment,0.8
 2018,Hungary,Outpatient services,1.3
 2018,Hungary,Hospital services,2.1
-2018,Hungary,Recreation, culture and religion,3.1
+2018,Hungary,Recreation culture and religion,3.1
 2018,Hungary,Recreational and sporting services,1.0
 2018,Hungary,Cultural services,1.3
 2018,Hungary,Education,5.0
@@ -6434,10 +6434,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Malta,Environmental protection,1.3
 2018,Malta,Housing and community amenities,0.4
 2018,Malta,Health,5.1
-2018,Malta,Medical products, appliances and equipment,0.6
+2018,Malta,Medical products appliances and equipment,0.6
 2018,Malta,Outpatient services,0.9
 2018,Malta,Hospital services,3.3
-2018,Malta,Recreation, culture and religion,1.2
+2018,Malta,Recreation culture and religion,1.2
 2018,Malta,Recreational and sporting services,0.2
 2018,Malta,Cultural services,0.8
 2018,Malta,Education,5.0
@@ -6459,10 +6459,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Netherlands,Environmental protection,1.4
 2018,Netherlands,Housing and community amenities,0.4
 2018,Netherlands,Health,7.3
-2018,Netherlands,Medical products, appliances and equipment,0.7
+2018,Netherlands,Medical products appliances and equipment,0.7
 2018,Netherlands,Outpatient services,2.4
 2018,Netherlands,Hospital services,3.4
-2018,Netherlands,Recreation, culture and religion,1.3
+2018,Netherlands,Recreation culture and religion,1.3
 2018,Netherlands,Recreational and sporting services,0.5
 2018,Netherlands,Cultural services,0.5
 2018,Netherlands,Education,5.1
@@ -6484,10 +6484,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Austria,Environmental protection,0.4
 2018,Austria,Housing and community amenities,0.3
 2018,Austria,Health,8.2
-2018,Austria,Medical products, appliances and equipment,1.1
+2018,Austria,Medical products appliances and equipment,1.1
 2018,Austria,Outpatient services,1.5
 2018,Austria,Hospital services,4.7
-2018,Austria,Recreation, culture and religion,1.2
+2018,Austria,Recreation culture and religion,1.2
 2018,Austria,Recreational and sporting services,0.3
 2018,Austria,Cultural services,0.5
 2018,Austria,Education,4.8
@@ -6509,10 +6509,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Poland,Environmental protection,0.5
 2018,Poland,Housing and community amenities,0.6
 2018,Poland,Health,4.8
-2018,Poland,Medical products, appliances and equipment,0.1
+2018,Poland,Medical products appliances and equipment,0.1
 2018,Poland,Outpatient services,1.4
 2018,Poland,Hospital services,3.0
-2018,Poland,Recreation, culture and religion,1.3
+2018,Poland,Recreation culture and religion,1.3
 2018,Poland,Recreational and sporting services,0.5
 2018,Poland,Cultural services,0.8
 2018,Poland,Education,5.0
@@ -6534,10 +6534,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Portugal,Environmental protection,0.6
 2018,Portugal,Housing and community amenities,0.5
 2018,Portugal,Health,6.5
-2018,Portugal,Medical products, appliances and equipment,0.6
+2018,Portugal,Medical products appliances and equipment,0.6
 2018,Portugal,Outpatient services,2.0
 2018,Portugal,Hospital services,3.5
-2018,Portugal,Recreation, culture and religion,0.9
+2018,Portugal,Recreation culture and religion,0.9
 2018,Portugal,Recreational and sporting services,0.3
 2018,Portugal,Cultural services,0.3
 2018,Portugal,Education,4.4
@@ -6559,10 +6559,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Romania,Environmental protection,0.7
 2018,Romania,Housing and community amenities,0.9
 2018,Romania,Health,4.7
-2018,Romania,Medical products, appliances and equipment,0.9
+2018,Romania,Medical products appliances and equipment,0.9
 2018,Romania,Outpatient services,0.1
 2018,Romania,Hospital services,2.7
-2018,Romania,Recreation, culture and religion,1.0
+2018,Romania,Recreation culture and religion,1.0
 2018,Romania,Recreational and sporting services,0.3
 2018,Romania,Cultural services,0.4
 2018,Romania,Education,3.2
@@ -6584,10 +6584,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Slovenia,Environmental protection,0.5
 2018,Slovenia,Housing and community amenities,0.4
 2018,Slovenia,Health,6.6
-2018,Slovenia,Medical products, appliances and equipment,0.9
+2018,Slovenia,Medical products appliances and equipment,0.9
 2018,Slovenia,Outpatient services,1.9
 2018,Slovenia,Hospital services,3.0
-2018,Slovenia,Recreation, culture and religion,1.4
+2018,Slovenia,Recreation culture and religion,1.4
 2018,Slovenia,Recreational and sporting services,0.3
 2018,Slovenia,Cultural services,0.6
 2018,Slovenia,Education,5.4
@@ -6609,10 +6609,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Slovakia,Environmental protection,0.8
 2018,Slovakia,Housing and community amenities,0.5
 2018,Slovakia,Health,5.5
-2018,Slovakia,Medical products, appliances and equipment,1.0
+2018,Slovakia,Medical products appliances and equipment,1.0
 2018,Slovakia,Outpatient services,1.4
 2018,Slovakia,Hospital services,2.7
-2018,Slovakia,Recreation, culture and religion,1.1
+2018,Slovakia,Recreation culture and religion,1.1
 2018,Slovakia,Recreational and sporting services,0.2
 2018,Slovakia,Cultural services,0.6
 2018,Slovakia,Education,3.9
@@ -6634,10 +6634,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Finland,Environmental protection,0.2
 2018,Finland,Housing and community amenities,0.3
 2018,Finland,Health,7.1
-2018,Finland,Medical products, appliances and equipment,0.6
+2018,Finland,Medical products appliances and equipment,0.6
 2018,Finland,Outpatient services,3.2
 2018,Finland,Hospital services,3.1
-2018,Finland,Recreation, culture and religion,1.5
+2018,Finland,Recreation culture and religion,1.5
 2018,Finland,Recreational and sporting services,0.6
 2018,Finland,Cultural services,0.5
 2018,Finland,Education,5.5
@@ -6659,10 +6659,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Sweden,Environmental protection,0.5
 2018,Sweden,Housing and community amenities,0.7
 2018,Sweden,Health,7.0
-2018,Sweden,Medical products, appliances and equipment,0.8
+2018,Sweden,Medical products appliances and equipment,0.8
 2018,Sweden,Outpatient services,3.1
 2018,Sweden,Hospital services,2.5
-2018,Sweden,Recreation, culture and religion,1.3
+2018,Sweden,Recreation culture and religion,1.3
 2018,Sweden,Recreational and sporting services,0.5
 2018,Sweden,Cultural services,0.5
 2018,Sweden,Education,6.9
@@ -6684,10 +6684,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Iceland,Environmental protection,0.7
 2018,Iceland,Housing and community amenities,0.6
 2018,Iceland,Health,7.7
-2018,Iceland,Medical products, appliances and equipment,0.5
+2018,Iceland,Medical products appliances and equipment,0.5
 2018,Iceland,Outpatient services,1.7
 2018,Iceland,Hospital services,5.2
-2018,Iceland,Recreation, culture and religion,3.2
+2018,Iceland,Recreation culture and religion,3.2
 2018,Iceland,Recreational and sporting services,1.5
 2018,Iceland,Cultural services,1.1
 2018,Iceland,Education,7.0
@@ -6709,10 +6709,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Norway,Environmental protection,0.9
 2018,Norway,Housing and community amenities,0.8
 2018,Norway,Health,8.2
-2018,Norway,Medical products, appliances and equipment,0.5
+2018,Norway,Medical products appliances and equipment,0.5
 2018,Norway,Outpatient services,1.9
 2018,Norway,Hospital services,4.8
-2018,Norway,Recreation, culture and religion,1.7
+2018,Norway,Recreation culture and religion,1.7
 2018,Norway,Recreational and sporting services,0.4
 2018,Norway,Cultural services,0.6
 2018,Norway,Education,5.4
@@ -6734,10 +6734,10 @@ TIME,COUNTRY,COFOG99,Value
 2018,Switzerland,Environmental protection,0.6
 2018,Switzerland,Housing and community amenities,0.2
 2018,Switzerland,Health,2.1
-2018,Switzerland,Medical products, appliances and equipment,0.0
+2018,Switzerland,Medical products appliances and equipment,0.0
 2018,Switzerland,Outpatient services,0.2
 2018,Switzerland,Hospital services,1.7
-2018,Switzerland,Recreation, culture and religion,1.0
+2018,Switzerland,Recreation culture and religion,1.0
 2018,Switzerland,Recreational and sporting services,0.3
 2018,Switzerland,Cultural services,0.4
 2018,Switzerland,Education,5.3
@@ -6759,10 +6759,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Belgium,Environmental protection,1.3
 2019,Belgium,Housing and community amenities,0.3
 2019,Belgium,Health,7.5
-2019,Belgium,Medical products, appliances and equipment,0.8
+2019,Belgium,Medical products appliances and equipment,0.8
 2019,Belgium,Outpatient services,2.9
 2019,Belgium,Hospital services,3.5
-2019,Belgium,Recreation, culture and religion,1.3
+2019,Belgium,Recreation culture and religion,1.3
 2019,Belgium,Recreational and sporting services,0.4
 2019,Belgium,Cultural services,0.5
 2019,Belgium,Education,6.1
@@ -6784,10 +6784,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Bulgaria,Environmental protection,0.7
 2019,Bulgaria,Housing and community amenities,1.2
 2019,Bulgaria,Health,4.6
-2019,Bulgaria,Medical products, appliances and equipment,0.7
+2019,Bulgaria,Medical products appliances and equipment,0.7
 2019,Bulgaria,Outpatient services,0.6
 2019,Bulgaria,Hospital services,3.0
-2019,Bulgaria,Recreation, culture and religion,0.7
+2019,Bulgaria,Recreation culture and religion,0.7
 2019,Bulgaria,Recreational and sporting services,0.1
 2019,Bulgaria,Cultural services,0.4
 2019,Bulgaria,Education,3.8
@@ -6809,10 +6809,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Czechia,Environmental protection,0.8
 2019,Czechia,Housing and community amenities,0.7
 2019,Czechia,Health,7.6
-2019,Czechia,Medical products, appliances and equipment,0.9
+2019,Czechia,Medical products appliances and equipment,0.9
 2019,Czechia,Outpatient services,1.6
 2019,Czechia,Hospital services,3.5
-2019,Czechia,Recreation, culture and religion,1.4
+2019,Czechia,Recreation culture and religion,1.4
 2019,Czechia,Recreational and sporting services,0.5
 2019,Czechia,Cultural services,0.6
 2019,Czechia,Education,4.9
@@ -6834,10 +6834,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Denmark,Environmental protection,0.4
 2019,Denmark,Housing and community amenities,0.2
 2019,Denmark,Health,8.3
-2019,Denmark,Medical products, appliances and equipment,0.5
+2019,Denmark,Medical products appliances and equipment,0.5
 2019,Denmark,Outpatient services,1.2
 2019,Denmark,Hospital services,5.8
-2019,Denmark,Recreation, culture and religion,1.6
+2019,Denmark,Recreation culture and religion,1.6
 2019,Denmark,Recreational and sporting services,0.4
 2019,Denmark,Cultural services,0.6
 2019,Denmark,Education,6.3
@@ -6859,10 +6859,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Germany (until 1990 former territory of the FRG),Environmental protection,0.6
 2019,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.4
 2019,Germany (until 1990 former territory of the FRG),Health,7.3
-2019,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.7
+2019,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.7
 2019,Germany (until 1990 former territory of the FRG),Outpatient services,2.2
 2019,Germany (until 1990 former territory of the FRG),Hospital services,2.8
-2019,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.0
+2019,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.0
 2019,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2019,Germany (until 1990 former territory of the FRG),Cultural services,0.4
 2019,Germany (until 1990 former territory of the FRG),Education,4.3
@@ -6884,10 +6884,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Estonia,Environmental protection,0.7
 2019,Estonia,Housing and community amenities,0.4
 2019,Estonia,Health,5.7
-2019,Estonia,Medical products, appliances and equipment,0.7
+2019,Estonia,Medical products appliances and equipment,0.7
 2019,Estonia,Outpatient services,0.6
 2019,Estonia,Hospital services,4.0
-2019,Estonia,Recreation, culture and religion,2.0
+2019,Estonia,Recreation culture and religion,2.0
 2019,Estonia,Recreational and sporting services,0.6
 2019,Estonia,Cultural services,1.0
 2019,Estonia,Education,6.1
@@ -6909,10 +6909,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Ireland,Environmental protection,0.4
 2019,Ireland,Housing and community amenities,0.6
 2019,Ireland,Health,4.7
-2019,Ireland,Medical products, appliances and equipment,0.6
+2019,Ireland,Medical products appliances and equipment,0.6
 2019,Ireland,Outpatient services,1.8
 2019,Ireland,Hospital services,1.8
-2019,Ireland,Recreation, culture and religion,0.5
+2019,Ireland,Recreation culture and religion,0.5
 2019,Ireland,Recreational and sporting services,0.1
 2019,Ireland,Cultural services,0.2
 2019,Ireland,Education,3.1
@@ -6934,10 +6934,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Greece,Environmental protection,1.4
 2019,Greece,Housing and community amenities,0.2
 2019,Greece,Health,5.7
-2019,Greece,Medical products, appliances and equipment,1.5
+2019,Greece,Medical products appliances and equipment,1.5
 2019,Greece,Outpatient services,0.6
 2019,Greece,Hospital services,3.5
-2019,Greece,Recreation, culture and religion,0.8
+2019,Greece,Recreation culture and religion,0.8
 2019,Greece,Recreational and sporting services,0.4
 2019,Greece,Cultural services,0.1
 2019,Greece,Education,4.0
@@ -6959,10 +6959,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Spain,Environmental protection,0.9
 2019,Spain,Housing and community amenities,0.4
 2019,Spain,Health,6.1
-2019,Spain,Medical products, appliances and equipment,1.0
+2019,Spain,Medical products appliances and equipment,1.0
 2019,Spain,Outpatient services,2.3
 2019,Spain,Hospital services,2.5
-2019,Spain,Recreation, culture and religion,1.2
+2019,Spain,Recreation culture and religion,1.2
 2019,Spain,Recreational and sporting services,0.4
 2019,Spain,Cultural services,0.5
 2019,Spain,Education,4.0
@@ -6984,10 +6984,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,France,Environmental protection,1.0
 2019,France,Housing and community amenities,1.1
 2019,France,Health,8.0
-2019,France,Medical products, appliances and equipment,1.4
+2019,France,Medical products appliances and equipment,1.4
 2019,France,Outpatient services,2.9
 2019,France,Hospital services,3.4
-2019,France,Recreation, culture and religion,1.4
+2019,France,Recreation culture and religion,1.4
 2019,France,Recreational and sporting services,0.6
 2019,France,Cultural services,0.7
 2019,France,Education,5.2
@@ -7009,10 +7009,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Croatia,Environmental protection,0.7
 2019,Croatia,Housing and community amenities,2.0
 2019,Croatia,Health,6.4
-2019,Croatia,Medical products, appliances and equipment,1.8
+2019,Croatia,Medical products appliances and equipment,1.8
 2019,Croatia,Outpatient services,0.9
 2019,Croatia,Hospital services,3.1
-2019,Croatia,Recreation, culture and religion,1.5
+2019,Croatia,Recreation culture and religion,1.5
 2019,Croatia,Recreational and sporting services,0.3
 2019,Croatia,Cultural services,0.7
 2019,Croatia,Education,4.7
@@ -7034,10 +7034,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Italy,Environmental protection,0.9
 2019,Italy,Housing and community amenities,0.5
 2019,Italy,Health,6.8
-2019,Italy,Medical products, appliances and equipment,0.9
+2019,Italy,Medical products appliances and equipment,0.9
 2019,Italy,Outpatient services,2.5
 2019,Italy,Hospital services,2.8
-2019,Italy,Recreation, culture and religion,0.8
+2019,Italy,Recreation culture and religion,0.8
 2019,Italy,Recreational and sporting services,0.3
 2019,Italy,Cultural services,0.3
 2019,Italy,Education,3.9
@@ -7059,10 +7059,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Cyprus,Environmental protection,0.3
 2019,Cyprus,Housing and community amenities,1.5
 2019,Cyprus,Health,3.5
-2019,Cyprus,Medical products, appliances and equipment,0.8
+2019,Cyprus,Medical products appliances and equipment,0.8
 2019,Cyprus,Outpatient services,0.6
 2019,Cyprus,Hospital services,2.1
-2019,Cyprus,Recreation, culture and religion,0.9
+2019,Cyprus,Recreation culture and religion,0.9
 2019,Cyprus,Recreational and sporting services,0.4
 2019,Cyprus,Cultural services,0.2
 2019,Cyprus,Education,5.2
@@ -7084,10 +7084,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Latvia,Environmental protection,0.6
 2019,Latvia,Housing and community amenities,1.0
 2019,Latvia,Health,4.2
-2019,Latvia,Medical products, appliances and equipment,0.6
+2019,Latvia,Medical products appliances and equipment,0.6
 2019,Latvia,Outpatient services,1.1
 2019,Latvia,Hospital services,2.4
-2019,Latvia,Recreation, culture and religion,1.5
+2019,Latvia,Recreation culture and religion,1.5
 2019,Latvia,Recreational and sporting services,0.2
 2019,Latvia,Cultural services,1.0
 2019,Latvia,Education,5.7
@@ -7109,10 +7109,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Lithuania,Environmental protection,0.5
 2019,Lithuania,Housing and community amenities,0.5
 2019,Lithuania,Health,5.1
-2019,Lithuania,Medical products, appliances and equipment,0.9
+2019,Lithuania,Medical products appliances and equipment,0.9
 2019,Lithuania,Outpatient services,1.6
 2019,Lithuania,Hospital services,2.3
-2019,Lithuania,Recreation, culture and religion,1.2
+2019,Lithuania,Recreation culture and religion,1.2
 2019,Lithuania,Recreational and sporting services,0.3
 2019,Lithuania,Cultural services,0.7
 2019,Lithuania,Education,4.6
@@ -7134,10 +7134,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Luxembourg,Environmental protection,0.9
 2019,Luxembourg,Housing and community amenities,0.6
 2019,Luxembourg,Health,5.2
-2019,Luxembourg,Medical products, appliances and equipment,1.7
+2019,Luxembourg,Medical products appliances and equipment,1.7
 2019,Luxembourg,Outpatient services,1.1
 2019,Luxembourg,Hospital services,2.1
-2019,Luxembourg,Recreation, culture and religion,1.3
+2019,Luxembourg,Recreation culture and religion,1.3
 2019,Luxembourg,Recreational and sporting services,0.5
 2019,Luxembourg,Cultural services,0.5
 2019,Luxembourg,Education,4.8
@@ -7159,10 +7159,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Hungary,Environmental protection,0.5
 2019,Hungary,Housing and community amenities,0.8
 2019,Hungary,Health,4.5
-2019,Hungary,Medical products, appliances and equipment,0.8
+2019,Hungary,Medical products appliances and equipment,0.8
 2019,Hungary,Outpatient services,1.3
 2019,Hungary,Hospital services,2.0
-2019,Hungary,Recreation, culture and religion,3.0
+2019,Hungary,Recreation culture and religion,3.0
 2019,Hungary,Recreational and sporting services,1.1
 2019,Hungary,Cultural services,1.1
 2019,Hungary,Education,4.7
@@ -7184,10 +7184,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Malta,Environmental protection,1.4
 2019,Malta,Housing and community amenities,0.4
 2019,Malta,Health,5.2
-2019,Malta,Medical products, appliances and equipment,0.6
+2019,Malta,Medical products appliances and equipment,0.6
 2019,Malta,Outpatient services,0.9
 2019,Malta,Hospital services,3.4
-2019,Malta,Recreation, culture and religion,1.1
+2019,Malta,Recreation culture and religion,1.1
 2019,Malta,Recreational and sporting services,0.2
 2019,Malta,Cultural services,0.7
 2019,Malta,Education,5.1
@@ -7209,10 +7209,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Netherlands,Environmental protection,1.4
 2019,Netherlands,Housing and community amenities,0.4
 2019,Netherlands,Health,7.4
-2019,Netherlands,Medical products, appliances and equipment,0.7
+2019,Netherlands,Medical products appliances and equipment,0.7
 2019,Netherlands,Outpatient services,2.4
 2019,Netherlands,Hospital services,3.4
-2019,Netherlands,Recreation, culture and religion,1.2
+2019,Netherlands,Recreation culture and religion,1.2
 2019,Netherlands,Recreational and sporting services,0.5
 2019,Netherlands,Cultural services,0.5
 2019,Netherlands,Education,5.0
@@ -7234,10 +7234,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Austria,Environmental protection,0.4
 2019,Austria,Housing and community amenities,0.3
 2019,Austria,Health,8.3
-2019,Austria,Medical products, appliances and equipment,1.1
+2019,Austria,Medical products appliances and equipment,1.1
 2019,Austria,Outpatient services,1.6
 2019,Austria,Hospital services,4.7
-2019,Austria,Recreation, culture and religion,1.2
+2019,Austria,Recreation culture and religion,1.2
 2019,Austria,Recreational and sporting services,0.3
 2019,Austria,Cultural services,0.5
 2019,Austria,Education,4.8
@@ -7259,10 +7259,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Poland,Environmental protection,0.5
 2019,Poland,Housing and community amenities,0.5
 2019,Poland,Health,4.9
-2019,Poland,Medical products, appliances and equipment,0.1
+2019,Poland,Medical products appliances and equipment,0.1
 2019,Poland,Outpatient services,1.4
 2019,Poland,Hospital services,3.1
-2019,Poland,Recreation, culture and religion,1.4
+2019,Poland,Recreation culture and religion,1.4
 2019,Poland,Recreational and sporting services,0.4
 2019,Poland,Cultural services,0.7
 2019,Poland,Education,5.0
@@ -7284,10 +7284,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Portugal,Environmental protection,0.6
 2019,Portugal,Housing and community amenities,0.5
 2019,Portugal,Health,6.5
-2019,Portugal,Medical products, appliances and equipment,0.6
+2019,Portugal,Medical products appliances and equipment,0.6
 2019,Portugal,Outpatient services,1.9
 2019,Portugal,Hospital services,3.6
-2019,Portugal,Recreation, culture and religion,0.9
+2019,Portugal,Recreation culture and religion,0.9
 2019,Portugal,Recreational and sporting services,0.3
 2019,Portugal,Cultural services,0.3
 2019,Portugal,Education,4.5
@@ -7309,10 +7309,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Romania,Environmental protection,0.7
 2019,Romania,Housing and community amenities,1.1
 2019,Romania,Health,5.0
-2019,Romania,Medical products, appliances and equipment,1.0
+2019,Romania,Medical products appliances and equipment,1.0
 2019,Romania,Outpatient services,0.1
 2019,Romania,Hospital services,2.9
-2019,Romania,Recreation, culture and religion,1.0
+2019,Romania,Recreation culture and religion,1.0
 2019,Romania,Recreational and sporting services,0.3
 2019,Romania,Cultural services,0.4
 2019,Romania,Education,3.6
@@ -7334,10 +7334,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Slovenia,Environmental protection,0.6
 2019,Slovenia,Housing and community amenities,0.4
 2019,Slovenia,Health,6.7
-2019,Slovenia,Medical products, appliances and equipment,0.9
+2019,Slovenia,Medical products appliances and equipment,0.9
 2019,Slovenia,Outpatient services,2.0
 2019,Slovenia,Hospital services,3.0
-2019,Slovenia,Recreation, culture and religion,1.4
+2019,Slovenia,Recreation culture and religion,1.4
 2019,Slovenia,Recreational and sporting services,0.3
 2019,Slovenia,Cultural services,0.6
 2019,Slovenia,Education,5.5
@@ -7359,10 +7359,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Slovakia,Environmental protection,0.8
 2019,Slovakia,Housing and community amenities,0.5
 2019,Slovakia,Health,5.7
-2019,Slovakia,Medical products, appliances and equipment,0.9
+2019,Slovakia,Medical products appliances and equipment,0.9
 2019,Slovakia,Outpatient services,1.5
 2019,Slovakia,Hospital services,2.9
-2019,Slovakia,Recreation, culture and religion,1.2
+2019,Slovakia,Recreation culture and religion,1.2
 2019,Slovakia,Recreational and sporting services,0.2
 2019,Slovakia,Cultural services,0.6
 2019,Slovakia,Education,4.3
@@ -7384,10 +7384,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Finland,Environmental protection,0.2
 2019,Finland,Housing and community amenities,0.3
 2019,Finland,Health,7.1
-2019,Finland,Medical products, appliances and equipment,0.7
+2019,Finland,Medical products appliances and equipment,0.7
 2019,Finland,Outpatient services,3.2
 2019,Finland,Hospital services,3.1
-2019,Finland,Recreation, culture and religion,1.5
+2019,Finland,Recreation culture and religion,1.5
 2019,Finland,Recreational and sporting services,0.6
 2019,Finland,Cultural services,0.5
 2019,Finland,Education,5.6
@@ -7409,10 +7409,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Sweden,Environmental protection,0.5
 2019,Sweden,Housing and community amenities,0.7
 2019,Sweden,Health,7.0
-2019,Sweden,Medical products, appliances and equipment,0.7
+2019,Sweden,Medical products appliances and equipment,0.7
 2019,Sweden,Outpatient services,3.2
 2019,Sweden,Hospital services,2.5
-2019,Sweden,Recreation, culture and religion,1.3
+2019,Sweden,Recreation culture and religion,1.3
 2019,Sweden,Recreational and sporting services,0.6
 2019,Sweden,Cultural services,0.5
 2019,Sweden,Education,6.9
@@ -7434,10 +7434,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Iceland,Environmental protection,0.6
 2019,Iceland,Housing and community amenities,0.6
 2019,Iceland,Health,7.7
-2019,Iceland,Medical products, appliances and equipment,0.5
+2019,Iceland,Medical products appliances and equipment,0.5
 2019,Iceland,Outpatient services,1.8
 2019,Iceland,Hospital services,5.2
-2019,Iceland,Recreation, culture and religion,3.1
+2019,Iceland,Recreation culture and religion,3.1
 2019,Iceland,Recreational and sporting services,1.5
 2019,Iceland,Cultural services,1.1
 2019,Iceland,Education,7.0
@@ -7459,10 +7459,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Norway,Environmental protection,0.9
 2019,Norway,Housing and community amenities,0.8
 2019,Norway,Health,8.7
-2019,Norway,Medical products, appliances and equipment,0.5
+2019,Norway,Medical products appliances and equipment,0.5
 2019,Norway,Outpatient services,2.0
 2019,Norway,Hospital services,5.2
-2019,Norway,Recreation, culture and religion,1.8
+2019,Norway,Recreation culture and religion,1.8
 2019,Norway,Recreational and sporting services,0.5
 2019,Norway,Cultural services,0.7
 2019,Norway,Education,5.6
@@ -7484,10 +7484,10 @@ TIME,COUNTRY,COFOG99,Value
 2019,Switzerland,Environmental protection,0.6
 2019,Switzerland,Housing and community amenities,0.2
 2019,Switzerland,Health,2.2
-2019,Switzerland,Medical products, appliances and equipment,0.0
+2019,Switzerland,Medical products appliances and equipment,0.0
 2019,Switzerland,Outpatient services,0.2
 2019,Switzerland,Hospital services,1.7
-2019,Switzerland,Recreation, culture and religion,1.0
+2019,Switzerland,Recreation culture and religion,1.0
 2019,Switzerland,Recreational and sporting services,0.4
 2019,Switzerland,Cultural services,0.4
 2019,Switzerland,Education,5.5
@@ -7509,10 +7509,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Belgium,Environmental protection,1.5
 2020,Belgium,Housing and community amenities,0.4
 2020,Belgium,Health,8.8
-2020,Belgium,Medical products, appliances and equipment,0.8
+2020,Belgium,Medical products appliances and equipment,0.8
 2020,Belgium,Outpatient services,3.1
 2020,Belgium,Hospital services,4.5
-2020,Belgium,Recreation, culture and religion,1.3
+2020,Belgium,Recreation culture and religion,1.3
 2020,Belgium,Recreational and sporting services,0.4
 2020,Belgium,Cultural services,0.5
 2020,Belgium,Education,6.6
@@ -7534,10 +7534,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Bulgaria,Environmental protection,0.7
 2020,Bulgaria,Housing and community amenities,0.9
 2020,Bulgaria,Health,5.9
-2020,Bulgaria,Medical products, appliances and equipment,0.8
+2020,Bulgaria,Medical products appliances and equipment,0.8
 2020,Bulgaria,Outpatient services,0.7
 2020,Bulgaria,Hospital services,3.8
-2020,Bulgaria,Recreation, culture and religion,0.9
+2020,Bulgaria,Recreation culture and religion,0.9
 2020,Bulgaria,Recreational and sporting services,0.2
 2020,Bulgaria,Cultural services,0.5
 2020,Bulgaria,Education,4.0
@@ -7559,10 +7559,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Czechia,Environmental protection,0.9
 2020,Czechia,Housing and community amenities,0.7
 2020,Czechia,Health,9.2
-2020,Czechia,Medical products, appliances and equipment,0.9
+2020,Czechia,Medical products appliances and equipment,0.9
 2020,Czechia,Outpatient services,1.8
 2020,Czechia,Hospital services,4.3
-2020,Czechia,Recreation, culture and religion,1.4
+2020,Czechia,Recreation culture and religion,1.4
 2020,Czechia,Recreational and sporting services,0.5
 2020,Czechia,Cultural services,0.7
 2020,Czechia,Education,5.1
@@ -7584,10 +7584,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Denmark,Environmental protection,0.4
 2020,Denmark,Housing and community amenities,0.2
 2020,Denmark,Health,8.9
-2020,Denmark,Medical products, appliances and equipment,0.6
+2020,Denmark,Medical products appliances and equipment,0.6
 2020,Denmark,Outpatient services,1.2
 2020,Denmark,Hospital services,6.2
-2020,Denmark,Recreation, culture and religion,1.7
+2020,Denmark,Recreation culture and religion,1.7
 2020,Denmark,Recreational and sporting services,0.4
 2020,Denmark,Cultural services,0.6
 2020,Denmark,Education,6.4
@@ -7609,10 +7609,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Germany (until 1990 former territory of the FRG),Environmental protection,0.7
 2020,Germany (until 1990 former territory of the FRG),Housing and community amenities,0.5
 2020,Germany (until 1990 former territory of the FRG),Health,8.5
-2020,Germany (until 1990 former territory of the FRG),Medical products, appliances and equipment,1.8
+2020,Germany (until 1990 former territory of the FRG),Medical products appliances and equipment,1.8
 2020,Germany (until 1990 former territory of the FRG),Outpatient services,2.4
 2020,Germany (until 1990 former territory of the FRG),Hospital services,3.0
-2020,Germany (until 1990 former territory of the FRG),Recreation, culture and religion,1.1
+2020,Germany (until 1990 former territory of the FRG),Recreation culture and religion,1.1
 2020,Germany (until 1990 former territory of the FRG),Recreational and sporting services,0.3
 2020,Germany (until 1990 former territory of the FRG),Cultural services,0.5
 2020,Germany (until 1990 former territory of the FRG),Education,4.7
@@ -7634,10 +7634,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Estonia,Environmental protection,0.7
 2020,Estonia,Housing and community amenities,0.4
 2020,Estonia,Health,6.7
-2020,Estonia,Medical products, appliances and equipment,0.8
+2020,Estonia,Medical products appliances and equipment,0.8
 2020,Estonia,Outpatient services,0.6
 2020,Estonia,Hospital services,4.7
-2020,Estonia,Recreation, culture and religion,2.1
+2020,Estonia,Recreation culture and religion,2.1
 2020,Estonia,Recreational and sporting services,0.6
 2020,Estonia,Cultural services,1.0
 2020,Estonia,Education,6.6
@@ -7659,10 +7659,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Ireland,Environmental protection,0.4
 2020,Ireland,Housing and community amenities,0.7
 2020,Ireland,Health,5.4
-2020,Ireland,Medical products, appliances and equipment,0.7
+2020,Ireland,Medical products appliances and equipment,0.7
 2020,Ireland,Outpatient services,1.9
 2020,Ireland,Hospital services,2.1
-2020,Ireland,Recreation, culture and religion,0.5
+2020,Ireland,Recreation culture and religion,0.5
 2020,Ireland,Recreational and sporting services,0.1
 2020,Ireland,Cultural services,0.2
 2020,Ireland,Education,3.1
@@ -7684,10 +7684,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Greece,Environmental protection,1.6
 2020,Greece,Housing and community amenities,0.3
 2020,Greece,Health,6.7
-2020,Greece,Medical products, appliances and equipment,1.8
+2020,Greece,Medical products appliances and equipment,1.8
 2020,Greece,Outpatient services,0.6
 2020,Greece,Hospital services,4.0
-2020,Greece,Recreation, culture and religion,1.0
+2020,Greece,Recreation culture and religion,1.0
 2020,Greece,Recreational and sporting services,0.5
 2020,Greece,Cultural services,0.2
 2020,Greece,Education,4.5
@@ -7709,10 +7709,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Spain,Environmental protection,1.0
 2020,Spain,Housing and community amenities,0.5
 2020,Spain,Health,7.6
-2020,Spain,Medical products, appliances and equipment,1.2
+2020,Spain,Medical products appliances and equipment,1.2
 2020,Spain,Outpatient services,2.8
 2020,Spain,Hospital services,3.2
-2020,Spain,Recreation, culture and religion,1.3
+2020,Spain,Recreation culture and religion,1.3
 2020,Spain,Recreational and sporting services,0.4
 2020,Spain,Cultural services,0.5
 2020,Spain,Education,4.6
@@ -7734,10 +7734,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,France,Environmental protection,1.0
 2020,France,Housing and community amenities,1.1
 2020,France,Health,9.0
-2020,France,Medical products, appliances and equipment,1.5
+2020,France,Medical products appliances and equipment,1.5
 2020,France,Outpatient services,3.1
 2020,France,Hospital services,3.8
-2020,France,Recreation, culture and religion,1.5
+2020,France,Recreation culture and religion,1.5
 2020,France,Recreational and sporting services,0.6
 2020,France,Cultural services,0.7
 2020,France,Education,5.5
@@ -7759,10 +7759,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Croatia,Environmental protection,0.8
 2020,Croatia,Housing and community amenities,2.4
 2020,Croatia,Health,7.3
-2020,Croatia,Medical products, appliances and equipment,2.0
+2020,Croatia,Medical products appliances and equipment,2.0
 2020,Croatia,Outpatient services,1.0
 2020,Croatia,Hospital services,3.6
-2020,Croatia,Recreation, culture and religion,1.7
+2020,Croatia,Recreation culture and religion,1.7
 2020,Croatia,Recreational and sporting services,0.4
 2020,Croatia,Cultural services,0.8
 2020,Croatia,Education,5.4
@@ -7784,10 +7784,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Italy,Environmental protection,1.0
 2020,Italy,Housing and community amenities,0.5
 2020,Italy,Health,7.9
-2020,Italy,Medical products, appliances and equipment,1.0
+2020,Italy,Medical products appliances and equipment,1.0
 2020,Italy,Outpatient services,2.9
 2020,Italy,Hospital services,3.2
-2020,Italy,Recreation, culture and religion,0.8
+2020,Italy,Recreation culture and religion,0.8
 2020,Italy,Recreational and sporting services,0.3
 2020,Italy,Cultural services,0.3
 2020,Italy,Education,4.3
@@ -7809,10 +7809,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Cyprus,Environmental protection,0.3
 2020,Cyprus,Housing and community amenities,1.5
 2020,Cyprus,Health,5.9
-2020,Cyprus,Medical products, appliances and equipment,1.0
+2020,Cyprus,Medical products appliances and equipment,1.0
 2020,Cyprus,Outpatient services,1.5
 2020,Cyprus,Hospital services,3.2
-2020,Cyprus,Recreation, culture and religion,0.9
+2020,Cyprus,Recreation culture and religion,0.9
 2020,Cyprus,Recreational and sporting services,0.4
 2020,Cyprus,Cultural services,0.2
 2020,Cyprus,Education,5.9
@@ -7834,10 +7834,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Latvia,Environmental protection,0.6
 2020,Latvia,Housing and community amenities,1.2
 2020,Latvia,Health,4.8
-2020,Latvia,Medical products, appliances and equipment,0.7
+2020,Latvia,Medical products appliances and equipment,0.7
 2020,Latvia,Outpatient services,1.1
 2020,Latvia,Hospital services,2.7
-2020,Latvia,Recreation, culture and religion,1.4
+2020,Latvia,Recreation culture and religion,1.4
 2020,Latvia,Recreational and sporting services,0.2
 2020,Latvia,Cultural services,0.9
 2020,Latvia,Education,5.9
@@ -7859,10 +7859,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Lithuania,Environmental protection,0.5
 2020,Lithuania,Housing and community amenities,0.6
 2020,Lithuania,Health,5.9
-2020,Lithuania,Medical products, appliances and equipment,0.9
+2020,Lithuania,Medical products appliances and equipment,0.9
 2020,Lithuania,Outpatient services,1.8
 2020,Lithuania,Hospital services,2.6
-2020,Lithuania,Recreation, culture and religion,1.4
+2020,Lithuania,Recreation culture and religion,1.4
 2020,Lithuania,Recreational and sporting services,0.3
 2020,Lithuania,Cultural services,0.9
 2020,Lithuania,Education,5.2
@@ -7884,10 +7884,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Luxembourg,Environmental protection,1.1
 2020,Luxembourg,Housing and community amenities,0.5
 2020,Luxembourg,Health,5.9
-2020,Luxembourg,Medical products, appliances and equipment,1.9
+2020,Luxembourg,Medical products appliances and equipment,1.9
 2020,Luxembourg,Outpatient services,1.1
 2020,Luxembourg,Hospital services,2.3
-2020,Luxembourg,Recreation, culture and religion,1.2
+2020,Luxembourg,Recreation culture and religion,1.2
 2020,Luxembourg,Recreational and sporting services,0.5
 2020,Luxembourg,Cultural services,0.5
 2020,Luxembourg,Education,5.0
@@ -7909,10 +7909,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Hungary,Environmental protection,0.8
 2020,Hungary,Housing and community amenities,1.0
 2020,Hungary,Health,6.4
-2020,Hungary,Medical products, appliances and equipment,0.8
+2020,Hungary,Medical products appliances and equipment,0.8
 2020,Hungary,Outpatient services,1.4
 2020,Hungary,Hospital services,3.5
-2020,Hungary,Recreation, culture and religion,4.0
+2020,Hungary,Recreation culture and religion,4.0
 2020,Hungary,Recreational and sporting services,1.3
 2020,Hungary,Cultural services,1.3
 2020,Hungary,Education,4.7
@@ -7934,10 +7934,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Malta,Environmental protection,1.5
 2020,Malta,Housing and community amenities,0.4
 2020,Malta,Health,7.2
-2020,Malta,Medical products, appliances and equipment,0.7
+2020,Malta,Medical products appliances and equipment,0.7
 2020,Malta,Outpatient services,1.0
 2020,Malta,Hospital services,4.2
-2020,Malta,Recreation, culture and religion,1.3
+2020,Malta,Recreation culture and religion,1.3
 2020,Malta,Recreational and sporting services,0.2
 2020,Malta,Cultural services,0.9
 2020,Malta,Education,5.9
@@ -7959,10 +7959,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Netherlands,Environmental protection,1.5
 2020,Netherlands,Housing and community amenities,0.5
 2020,Netherlands,Health,8.0
-2020,Netherlands,Medical products, appliances and equipment,0.9
+2020,Netherlands,Medical products appliances and equipment,0.9
 2020,Netherlands,Outpatient services,2.4
 2020,Netherlands,Hospital services,3.8
-2020,Netherlands,Recreation, culture and religion,1.3
+2020,Netherlands,Recreation culture and religion,1.3
 2020,Netherlands,Recreational and sporting services,0.5
 2020,Netherlands,Cultural services,0.5
 2020,Netherlands,Education,5.3
@@ -7984,10 +7984,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Austria,Environmental protection,0.4
 2020,Austria,Housing and community amenities,0.3
 2020,Austria,Health,9.2
-2020,Austria,Medical products, appliances and equipment,1.2
+2020,Austria,Medical products appliances and equipment,1.2
 2020,Austria,Outpatient services,1.6
 2020,Austria,Hospital services,5.1
-2020,Austria,Recreation, culture and religion,1.2
+2020,Austria,Recreation culture and religion,1.2
 2020,Austria,Recreational and sporting services,0.3
 2020,Austria,Cultural services,0.5
 2020,Austria,Education,5.1
@@ -8009,10 +8009,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Poland,Environmental protection,0.6
 2020,Poland,Housing and community amenities,0.5
 2020,Poland,Health,5.4
-2020,Poland,Medical products, appliances and equipment,0.1
+2020,Poland,Medical products appliances and equipment,0.1
 2020,Poland,Outpatient services,1.5
 2020,Poland,Hospital services,3.4
-2020,Poland,Recreation, culture and religion,1.3
+2020,Poland,Recreation culture and religion,1.3
 2020,Poland,Recreational and sporting services,0.4
 2020,Poland,Cultural services,0.7
 2020,Poland,Education,5.2
@@ -8034,10 +8034,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Portugal,Environmental protection,0.7
 2020,Portugal,Housing and community amenities,0.5
 2020,Portugal,Health,7.2
-2020,Portugal,Medical products, appliances and equipment,0.6
+2020,Portugal,Medical products appliances and equipment,0.6
 2020,Portugal,Outpatient services,2.0
 2020,Portugal,Hospital services,4.1
-2020,Portugal,Recreation, culture and religion,1.0
+2020,Portugal,Recreation culture and religion,1.0
 2020,Portugal,Recreational and sporting services,0.3
 2020,Portugal,Cultural services,0.3
 2020,Portugal,Education,5.0
@@ -8059,10 +8059,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Romania,Environmental protection,0.7
 2020,Romania,Housing and community amenities,1.1
 2020,Romania,Health,5.5
-2020,Romania,Medical products, appliances and equipment,1.0
+2020,Romania,Medical products appliances and equipment,1.0
 2020,Romania,Outpatient services,0.1
 2020,Romania,Hospital services,3.1
-2020,Romania,Recreation, culture and religion,1.0
+2020,Romania,Recreation culture and religion,1.0
 2020,Romania,Recreational and sporting services,0.3
 2020,Romania,Cultural services,0.4
 2020,Romania,Education,3.7
@@ -8084,10 +8084,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Slovenia,Environmental protection,0.6
 2020,Slovenia,Housing and community amenities,0.6
 2020,Slovenia,Health,7.9
-2020,Slovenia,Medical products, appliances and equipment,1.0
+2020,Slovenia,Medical products appliances and equipment,1.0
 2020,Slovenia,Outpatient services,2.2
 2020,Slovenia,Hospital services,3.9
-2020,Slovenia,Recreation, culture and religion,1.4
+2020,Slovenia,Recreation culture and religion,1.4
 2020,Slovenia,Recreational and sporting services,0.3
 2020,Slovenia,Cultural services,0.7
 2020,Slovenia,Education,5.8
@@ -8109,10 +8109,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Slovakia,Environmental protection,0.9
 2020,Slovakia,Housing and community amenities,0.5
 2020,Slovakia,Health,6.3
-2020,Slovakia,Medical products, appliances and equipment,0.9
+2020,Slovakia,Medical products appliances and equipment,0.9
 2020,Slovakia,Outpatient services,1.5
 2020,Slovakia,Hospital services,3.2
-2020,Slovakia,Recreation, culture and religion,1.2
+2020,Slovakia,Recreation culture and religion,1.2
 2020,Slovakia,Recreational and sporting services,0.2
 2020,Slovakia,Cultural services,0.6
 2020,Slovakia,Education,4.6
@@ -8134,10 +8134,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Finland,Environmental protection,0.2
 2020,Finland,Housing and community amenities,0.3
 2020,Finland,Health,7.7
-2020,Finland,Medical products, appliances and equipment,0.7
+2020,Finland,Medical products appliances and equipment,0.7
 2020,Finland,Outpatient services,3.4
 2020,Finland,Hospital services,3.3
-2020,Finland,Recreation, culture and religion,1.5
+2020,Finland,Recreation culture and religion,1.5
 2020,Finland,Recreational and sporting services,0.6
 2020,Finland,Cultural services,0.5
 2020,Finland,Education,5.9
@@ -8159,10 +8159,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Sweden,Environmental protection,0.5
 2020,Sweden,Housing and community amenities,0.7
 2020,Sweden,Health,7.4
-2020,Sweden,Medical products, appliances and equipment,0.8
+2020,Sweden,Medical products appliances and equipment,0.8
 2020,Sweden,Outpatient services,3.3
 2020,Sweden,Hospital services,2.7
-2020,Sweden,Recreation, culture and religion,1.4
+2020,Sweden,Recreation culture and religion,1.4
 2020,Sweden,Recreational and sporting services,0.6
 2020,Sweden,Cultural services,0.6
 2020,Sweden,Education,7.2
@@ -8184,10 +8184,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Iceland,Environmental protection,0.8
 2020,Iceland,Housing and community amenities,0.7
 2020,Iceland,Health,8.5
-2020,Iceland,Medical products, appliances and equipment,0.6
+2020,Iceland,Medical products appliances and equipment,0.6
 2020,Iceland,Outpatient services,1.9
 2020,Iceland,Hospital services,5.7
-2020,Iceland,Recreation, culture and religion,3.5
+2020,Iceland,Recreation culture and religion,3.5
 2020,Iceland,Recreational and sporting services,1.7
 2020,Iceland,Cultural services,1.2
 2020,Iceland,Education,7.7
@@ -8209,10 +8209,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Norway,Environmental protection,1.0
 2020,Norway,Housing and community amenities,0.9
 2020,Norway,Health,9.6
-2020,Norway,Medical products, appliances and equipment,0.5
+2020,Norway,Medical products appliances and equipment,0.5
 2020,Norway,Outpatient services,2.2
 2020,Norway,Hospital services,5.7
-2020,Norway,Recreation, culture and religion,2.0
+2020,Norway,Recreation culture and religion,2.0
 2020,Norway,Recreational and sporting services,0.5
 2020,Norway,Cultural services,0.7
 2020,Norway,Education,5.9
@@ -8234,10 +8234,10 @@ TIME,COUNTRY,COFOG99,Value
 2020,Switzerland,Environmental protection,0.6
 2020,Switzerland,Housing and community amenities,0.2
 2020,Switzerland,Health,2.5
-2020,Switzerland,Medical products, appliances and equipment,0.0
+2020,Switzerland,Medical products appliances and equipment,0.0
 2020,Switzerland,Outpatient services,0.2
 2020,Switzerland,Hospital services,1.9
-2020,Switzerland,Recreation, culture and religion,1.1
+2020,Switzerland,Recreation culture and religion,1.1
 2020,Switzerland,Recreational and sporting services,0.4
 2020,Switzerland,Cultural services,0.4
 2020,Switzerland,Education,5.7

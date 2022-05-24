@@ -64,7 +64,7 @@ TIME,COUNTRY,Value
 2011,Sweden,1.56
 2011,Iceland,1.86
 2011,Norway,1.82
-2011,Switzerland,:
+2011,Switzerland,0
 2011,United Kingdom,1.2
 2011,Turkey,1.02
 2011,Russia,1.47
@@ -102,7 +102,7 @@ TIME,COUNTRY,Value
 2012,Norway,1.81
 2012,Switzerland,2.59
 2012,United Kingdom,1.17
-2012,Turkey,:
+2012,Turkey,0
 2012,Russia,1.49
 2012,United States,1.81
 2012,Japan,1.83
@@ -136,9 +136,9 @@ TIME,COUNTRY,Value
 2013,Sweden,1.59
 2013,Iceland,2.2
 2013,Norway,1.83
-2013,Switzerland,:
+2013,Switzerland,0
 2013,United Kingdom,1.28
-2013,Turkey,:
+2013,Turkey,0
 2013,Russia,1.62
 2013,United States,1.7
 2013,Japan,1.76
@@ -174,7 +174,7 @@ TIME,COUNTRY,Value
 2014,Norway,1.85
 2014,Switzerland,2.58
 2014,United Kingdom,1.27
-2014,Turkey,:
+2014,Turkey,0
 2014,Russia,1.43
 2014,United States,1.7
 2014,Japan,1.76
@@ -210,7 +210,7 @@ TIME,COUNTRY,Value
 2015,Norway,1.89
 2015,Switzerland,2.62
 2015,United Kingdom,1.25
-2015,Turkey,:
+2015,Turkey,0
 2015,Russia,1.53
 2015,United States,1.69
 2015,Japan,1.66
@@ -244,13 +244,13 @@ TIME,COUNTRY,Value
 2016,Sweden,1.57
 2016,Iceland,2
 2016,Norway,1.94
-2016,Switzerland,:
+2016,Switzerland,0
 2016,United Kingdom,1.24
-2016,Turkey,:
-2016,Russia,:
-2016,United States,:
-2016,Japan,:
-2016,South Korea,:
+2016,Turkey,0
+2016,Russia,0
+2016,United States,0
+2016,Japan,0
+2016,South Korea,0
 2017,Belgium,1.27
 2017,Bulgaria,0.6
 2017,Czechia,1.54
@@ -282,11 +282,11 @@ TIME,COUNTRY,Value
 2017,Norway,2.04
 2017,Switzerland,2.97
 2017,United Kingdom,1.27
-2017,Turkey,:
-2017,Russia,:
-2017,United States,:
-2017,Japan,:
-2017,South Korea,:
+2017,Turkey,0
+2017,Russia,0
+2017,United States,0
+2017,Japan,0
+2017,South Korea,0
 2018,Belgium,1.21
 2018,Bulgaria,0.55
 2018,Czechia,1.52
@@ -318,11 +318,11 @@ TIME,COUNTRY,Value
 2018,Norway,2.02
 2018,Switzerland,2.86
 2018,United Kingdom,1.33
-2018,Turkey,:
-2018,Russia,:
-2018,United States,:
-2018,Japan,:
-2018,South Korea,:
+2018,Turkey,0
+2018,Russia,0
+2018,United States,0
+2018,Japan,0
+2018,South Korea,0
 2019,Belgium,1.34
 2019,Bulgaria,0.63
 2019,Czechia,1.51
@@ -354,11 +354,11 @@ TIME,COUNTRY,Value
 2019,Norway,1.99
 2019,Switzerland,2.91
 2019,United Kingdom,1.36
-2019,Turkey,:
-2019,Russia,:
-2019,United States,:
-2019,Japan,:
-2019,South Korea,:
+2019,Turkey,0
+2019,Russia,0
+2019,United States,0
+2019,Japan,0
+2019,South Korea,0
 2020,Belgium,1.26
 2020,Bulgaria,0.57
 2020,Czechia,1.42
@@ -386,12 +386,12 @@ TIME,COUNTRY,Value
 2020,Slovakia,0.92
 2020,Finland,1.68
 2020,Sweden,1.47
-2020,Iceland,:
+2020,Iceland,0
 2020,Norway,1.98
 2020,Switzerland,2.72
-2020,United Kingdom,:
-2020,Turkey,:
-2020,Russia,:
-2020,United States,:
-2020,Japan,:
-2020,South Korea,:
+2020,United Kingdom,0
+2020,Turkey,0
+2020,Russia,0
+2020,United States,0
+2020,Japan,0
+2020,South Korea,0

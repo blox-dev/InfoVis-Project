@@ -5,8 +5,8 @@ TIME,COUNTRY,ISCED11,Value
 2012,Bulgaria,Tertiary education (levels 5-8),0.66
 2012,Czechia,Pre-primary to tertiary education,4.33
 2012,Czechia,Tertiary education (levels 5-8),1.05
-2012,Denmark,Pre-primary to tertiary education,:
-2012,Denmark,Tertiary education (levels 5-8),:
+2012,Denmark,Pre-primary to tertiary education,0
+2012,Denmark,Tertiary education (levels 5-8),0
 2012,Germany (until 1990 former territory of the FRG),Pre-primary to tertiary education,4.64
 2012,Germany (until 1990 former territory of the FRG),Tertiary education (levels 5-8),1.28
 2012,Estonia,Pre-primary to tertiary education,4.70
@@ -19,8 +19,8 @@ TIME,COUNTRY,ISCED11,Value
 2012,Spain,Tertiary education (levels 5-8),1.02
 2012,France,Pre-primary to tertiary education,5.46
 2012,France,Tertiary education (levels 5-8),1.24
-2012,Croatia,Pre-primary to tertiary education,:
-2012,Croatia,Tertiary education (levels 5-8),:
+2012,Croatia,Pre-primary to tertiary education,0
+2012,Croatia,Tertiary education (levels 5-8),0
 2012,Italy,Pre-primary to tertiary education,4.08
 2012,Italy,Tertiary education (levels 5-8),0.79
 2012,Cyprus,Pre-primary to tertiary education,6.06
@@ -41,41 +41,41 @@ TIME,COUNTRY,ISCED11,Value
 2012,Austria,Tertiary education (levels 5-8),1.89
 2012,Poland,Pre-primary to tertiary education,4.91
 2012,Poland,Tertiary education (levels 5-8),1.15
-2012,Portugal,Pre-primary to tertiary education,:
-2012,Portugal,Tertiary education (levels 5-8),:
+2012,Portugal,Pre-primary to tertiary education,0
+2012,Portugal,Tertiary education (levels 5-8),0
 2012,Romania,Pre-primary to tertiary education,2.64
 2012,Romania,Tertiary education (levels 5-8),0.78
 2012,Slovenia,Pre-primary to tertiary education,5.44
 2012,Slovenia,Tertiary education (levels 5-8),1.23
-2012,Slovakia,Pre-primary to tertiary education,:
-2012,Slovakia,Tertiary education (levels 5-8),:
-2012,Finland,Pre-primary to tertiary education,:
-2012,Finland,Tertiary education (levels 5-8),:
+2012,Slovakia,Pre-primary to tertiary education,0
+2012,Slovakia,Tertiary education (levels 5-8),0
+2012,Finland,Pre-primary to tertiary education,0
+2012,Finland,Tertiary education (levels 5-8),0
 2012,Sweden,Pre-primary to tertiary education,7.38
 2012,Sweden,Tertiary education (levels 5-8),2.01
 2012,Iceland,Pre-primary to tertiary education,7.24
 2012,Iceland,Tertiary education (levels 5-8),1.60
-2012,Liechtenstein,Pre-primary to tertiary education,:
-2012,Liechtenstein,Tertiary education (levels 5-8),:
-2012,Norway,Pre-primary to tertiary education,:
+2012,Liechtenstein,Pre-primary to tertiary education,0
+2012,Liechtenstein,Tertiary education (levels 5-8),0
+2012,Norway,Pre-primary to tertiary education,0
 2012,Norway,Tertiary education (levels 5-8),1.98
-2012,Switzerland,Pre-primary to tertiary education,:
-2012,Switzerland,Tertiary education (levels 5-8),:
-2012,United Kingdom,Pre-primary to tertiary education,:
-2012,United Kingdom,Tertiary education (levels 5-8),:
-2012,North Macedonia,Pre-primary to tertiary education,:
-2012,North Macedonia,Tertiary education (levels 5-8),:
-2012,Serbia,Pre-primary to tertiary education,:
-2012,Serbia,Tertiary education (levels 5-8),:
-2012,Turkey,Pre-primary to tertiary education,:
-2012,Turkey,Tertiary education (levels 5-8),:
+2012,Switzerland,Pre-primary to tertiary education,0
+2012,Switzerland,Tertiary education (levels 5-8),0
+2012,United Kingdom,Pre-primary to tertiary education,0
+2012,United Kingdom,Tertiary education (levels 5-8),0
+2012,North Macedonia,Pre-primary to tertiary education,0
+2012,North Macedonia,Tertiary education (levels 5-8),0
+2012,Serbia,Pre-primary to tertiary education,0
+2012,Serbia,Tertiary education (levels 5-8),0
+2012,Turkey,Pre-primary to tertiary education,0
+2012,Turkey,Tertiary education (levels 5-8),0
 2013,Belgium,Pre-primary to tertiary education,6.56
 2013,Belgium,Tertiary education (levels 5-8),1.50
 2013,Bulgaria,Pre-primary to tertiary education,4.06
 2013,Bulgaria,Tertiary education (levels 5-8),0.65
 2013,Czechia,Pre-primary to tertiary education,3.95
 2013,Czechia,Tertiary education (levels 5-8),0.88
-2013,Denmark,Pre-primary to tertiary education,:
+2013,Denmark,Pre-primary to tertiary education,0
 2013,Denmark,Tertiary education (levels 5-8),2.28
 2013,Germany (until 1990 former territory of the FRG),Pre-primary to tertiary education,4.61
 2013,Germany (until 1990 former territory of the FRG),Tertiary education (levels 5-8),1.27
@@ -89,18 +89,18 @@ TIME,COUNTRY,ISCED11,Value
 2013,Spain,Tertiary education (levels 5-8),0.97
 2013,France,Pre-primary to tertiary education,5.51
 2013,France,Tertiary education (levels 5-8),1.24
-2013,Croatia,Pre-primary to tertiary education,:
-2013,Croatia,Tertiary education (levels 5-8),:
+2013,Croatia,Pre-primary to tertiary education,0
+2013,Croatia,Tertiary education (levels 5-8),0
 2013,Italy,Pre-primary to tertiary education,4.16
 2013,Italy,Tertiary education (levels 5-8),0.81
 2013,Cyprus,Pre-primary to tertiary education,6.14
 2013,Cyprus,Tertiary education (levels 5-8),1.15
 2013,Latvia,Pre-primary to tertiary education,4.91
 2013,Latvia,Tertiary education (levels 5-8),0.96
-2013,Lithuania,Pre-primary to tertiary education,:
+2013,Lithuania,Pre-primary to tertiary education,0
 2013,Lithuania,Tertiary education (levels 5-8),4.58
-2013,Luxembourg,Pre-primary to tertiary education,:
-2013,Luxembourg,Tertiary education (levels 5-8),:
+2013,Luxembourg,Pre-primary to tertiary education,0
+2013,Luxembourg,Tertiary education (levels 5-8),0
 2013,Hungary,Pre-primary to tertiary education,3.98
 2013,Hungary,Tertiary education (levels 5-8),0.90
 2013,Malta,Pre-primary to tertiary education,5.60
@@ -119,25 +119,25 @@ TIME,COUNTRY,ISCED11,Value
 2013,Slovenia,Tertiary education (levels 5-8),1.13
 2013,Slovakia,Pre-primary to tertiary education,4.01
 2013,Slovakia,Tertiary education (levels 5-8),0.97
-2013,Finland,Pre-primary to tertiary education,:
+2013,Finland,Pre-primary to tertiary education,0
 2013,Finland,Tertiary education (levels 5-8),2.01
 2013,Sweden,Pre-primary to tertiary education,7.17
 2013,Sweden,Tertiary education (levels 5-8),1.96
 2013,Iceland,Pre-primary to tertiary education,6.84
 2013,Iceland,Tertiary education (levels 5-8),1.50
-2013,Liechtenstein,Pre-primary to tertiary education,:
-2013,Liechtenstein,Tertiary education (levels 5-8),:
+2013,Liechtenstein,Pre-primary to tertiary education,0
+2013,Liechtenstein,Tertiary education (levels 5-8),0
 2013,Norway,Pre-primary to tertiary education,6.45
 2013,Norway,Tertiary education (levels 5-8),1.91
-2013,Switzerland,Pre-primary to tertiary education,:
+2013,Switzerland,Pre-primary to tertiary education,0
 2013,Switzerland,Tertiary education (levels 5-8),1.32
 2013,United Kingdom,Pre-primary to tertiary education,5.89
 2013,United Kingdom,Tertiary education (levels 5-8),1.45
-2013,North Macedonia,Pre-primary to tertiary education,:
-2013,North Macedonia,Tertiary education (levels 5-8),:
-2013,Serbia,Pre-primary to tertiary education,:
+2013,North Macedonia,Pre-primary to tertiary education,0
+2013,North Macedonia,Tertiary education (levels 5-8),0
+2013,Serbia,Pre-primary to tertiary education,0
 2013,Serbia,Tertiary education (levels 5-8),1.28
-2013,Turkey,Pre-primary to tertiary education,:
+2013,Turkey,Pre-primary to tertiary education,0
 2013,Turkey,Tertiary education (levels 5-8),1.53
 2014,Belgium,Pre-primary to tertiary education,6.49
 2014,Belgium,Tertiary education (levels 5-8),1.49
@@ -145,11 +145,11 @@ TIME,COUNTRY,ISCED11,Value
 2014,Bulgaria,Tertiary education (levels 5-8),0.70
 2014,Czechia,Pre-primary to tertiary education,3.84
 2014,Czechia,Tertiary education (levels 5-8),0.80
-2014,Denmark,Pre-primary to tertiary education,:
+2014,Denmark,Pre-primary to tertiary education,0
 2014,Denmark,Tertiary education (levels 5-8),2.35
 2014,Germany (until 1990 former territory of the FRG),Pre-primary to tertiary education,4.57
 2014,Germany (until 1990 former territory of the FRG),Tertiary education (levels 5-8),1.27
-2014,Estonia,Pre-primary to tertiary education,:
+2014,Estonia,Pre-primary to tertiary education,0
 2014,Estonia,Tertiary education (levels 5-8),1.51
 2014,Ireland,Pre-primary to tertiary education,4.92
 2014,Ireland,Tertiary education (levels 5-8),1.03
@@ -159,8 +159,8 @@ TIME,COUNTRY,ISCED11,Value
 2014,Spain,Tertiary education (levels 5-8),0.96
 2014,France,Pre-primary to tertiary education,5.52
 2014,France,Tertiary education (levels 5-8),1.25
-2014,Croatia,Pre-primary to tertiary education,:
-2014,Croatia,Tertiary education (levels 5-8),:
+2014,Croatia,Pre-primary to tertiary education,0
+2014,Croatia,Tertiary education (levels 5-8),0
 2014,Italy,Pre-primary to tertiary education,4.08
 2014,Italy,Tertiary education (levels 5-8),0.80
 2014,Cyprus,Pre-primary to tertiary education,6.12
@@ -171,7 +171,7 @@ TIME,COUNTRY,ISCED11,Value
 2014,Lithuania,Tertiary education (levels 5-8),1.33
 2014,Luxembourg,Pre-primary to tertiary education,4.00
 2014,Luxembourg,Tertiary education (levels 5-8),0.51
-2014,Hungary,Pre-primary to tertiary education,:
+2014,Hungary,Pre-primary to tertiary education,0
 2014,Hungary,Tertiary education (levels 5-8),0.77
 2014,Malta,Pre-primary to tertiary education,5.09
 2014,Malta,Tertiary education (levels 5-8),1.67
@@ -195,19 +195,19 @@ TIME,COUNTRY,ISCED11,Value
 2014,Sweden,Tertiary education (levels 5-8),1.94
 2014,Iceland,Pre-primary to tertiary education,6.98
 2014,Iceland,Tertiary education (levels 5-8),1.49
-2014,Liechtenstein,Pre-primary to tertiary education,:
-2014,Liechtenstein,Tertiary education (levels 5-8),:
+2014,Liechtenstein,Pre-primary to tertiary education,0
+2014,Liechtenstein,Tertiary education (levels 5-8),0
 2014,Norway,Pre-primary to tertiary education,6.64
 2014,Norway,Tertiary education (levels 5-8),2.19
 2014,Switzerland,Pre-primary to tertiary education,5.01
 2014,Switzerland,Tertiary education (levels 5-8),1.34
 2014,United Kingdom,Pre-primary to tertiary education,5.85
 2014,United Kingdom,Tertiary education (levels 5-8),1.34
-2014,North Macedonia,Pre-primary to tertiary education,:
-2014,North Macedonia,Tertiary education (levels 5-8),:
-2014,Serbia,Pre-primary to tertiary education,:
+2014,North Macedonia,Pre-primary to tertiary education,0
+2014,North Macedonia,Tertiary education (levels 5-8),0
+2014,Serbia,Pre-primary to tertiary education,0
 2014,Serbia,Tertiary education (levels 5-8),1.26
-2014,Turkey,Pre-primary to tertiary education,:
+2014,Turkey,Pre-primary to tertiary education,0
 2014,Turkey,Tertiary education (levels 5-8),1.55
 2015,Belgium,Pre-primary to tertiary education,6.43
 2015,Belgium,Tertiary education (levels 5-8),1.45
@@ -215,11 +215,11 @@ TIME,COUNTRY,ISCED11,Value
 2015,Bulgaria,Tertiary education (levels 5-8),0.65
 2015,Czechia,Pre-primary to tertiary education,3.79
 2015,Czechia,Tertiary education (levels 5-8),0.77
-2015,Denmark,Pre-primary to tertiary education,:
-2015,Denmark,Tertiary education (levels 5-8),:
+2015,Denmark,Pre-primary to tertiary education,0
+2015,Denmark,Tertiary education (levels 5-8),0
 2015,Germany (until 1990 former territory of the FRG),Pre-primary to tertiary education,4.52
 2015,Germany (until 1990 former territory of the FRG),Tertiary education (levels 5-8),1.25
-2015,Estonia,Pre-primary to tertiary education,:
+2015,Estonia,Pre-primary to tertiary education,0
 2015,Estonia,Tertiary education (levels 5-8),1.42
 2015,Ireland,Pre-primary to tertiary education,3.77
 2015,Ireland,Tertiary education (levels 5-8),0.88
@@ -229,8 +229,8 @@ TIME,COUNTRY,ISCED11,Value
 2015,Spain,Tertiary education (levels 5-8),0.96
 2015,France,Pre-primary to tertiary education,5.47
 2015,France,Tertiary education (levels 5-8),1.25
-2015,Croatia,Pre-primary to tertiary education,:
-2015,Croatia,Tertiary education (levels 5-8),:
+2015,Croatia,Pre-primary to tertiary education,0
+2015,Croatia,Tertiary education (levels 5-8),0
 2015,Italy,Pre-primary to tertiary education,4.10
 2015,Italy,Tertiary education (levels 5-8),0.76
 2015,Cyprus,Pre-primary to tertiary education,6.17
@@ -265,19 +265,19 @@ TIME,COUNTRY,ISCED11,Value
 2015,Sweden,Tertiary education (levels 5-8),1.89
 2015,Iceland,Pre-primary to tertiary education,6.84
 2015,Iceland,Tertiary education (levels 5-8),1.47
-2015,Liechtenstein,Pre-primary to tertiary education,:
-2015,Liechtenstein,Tertiary education (levels 5-8),:
+2015,Liechtenstein,Pre-primary to tertiary education,0
+2015,Liechtenstein,Tertiary education (levels 5-8),0
 2015,Norway,Pre-primary to tertiary education,6.72
 2015,Norway,Tertiary education (levels 5-8),1.96
 2015,Switzerland,Pre-primary to tertiary education,5.08
 2015,Switzerland,Tertiary education (levels 5-8),1.36
 2015,United Kingdom,Pre-primary to tertiary education,5.68
 2015,United Kingdom,Tertiary education (levels 5-8),1.38
-2015,North Macedonia,Pre-primary to tertiary education,:
-2015,North Macedonia,Tertiary education (levels 5-8),:
+2015,North Macedonia,Pre-primary to tertiary education,0
+2015,North Macedonia,Tertiary education (levels 5-8),0
 2015,Serbia,Pre-primary to tertiary education,3.84
 2015,Serbia,Tertiary education (levels 5-8),1.16
-2015,Turkey,Pre-primary to tertiary education,:
+2015,Turkey,Pre-primary to tertiary education,0
 2015,Turkey,Tertiary education (levels 5-8),1.48
 2016,Belgium,Pre-primary to tertiary education,6.33
 2016,Belgium,Tertiary education (levels 5-8),1.44
@@ -289,12 +289,12 @@ TIME,COUNTRY,ISCED11,Value
 2016,Denmark,Tertiary education (levels 5-8),2.44
 2016,Germany (until 1990 former territory of the FRG),Pre-primary to tertiary education,4.50
 2016,Germany (until 1990 former territory of the FRG),Tertiary education (levels 5-8),1.26
-2016,Estonia,Pre-primary to tertiary education,:
+2016,Estonia,Pre-primary to tertiary education,0
 2016,Estonia,Tertiary education (levels 5-8),1.40
-2016,Ireland,Pre-primary to tertiary education,:
+2016,Ireland,Pre-primary to tertiary education,0
 2016,Ireland,Tertiary education (levels 5-8),0.72
-2016,Greece,Pre-primary to tertiary education,:
-2016,Greece,Tertiary education (levels 5-8),:
+2016,Greece,Pre-primary to tertiary education,0
+2016,Greece,Tertiary education (levels 5-8),0
 2016,Spain,Pre-primary to tertiary education,4.10
 2016,Spain,Tertiary education (levels 5-8),0.92
 2016,France,Pre-primary to tertiary education,5.42
@@ -335,18 +335,18 @@ TIME,COUNTRY,ISCED11,Value
 2016,Sweden,Tertiary education (levels 5-8),1.85
 2016,Iceland,Pre-primary to tertiary education,6.51
 2016,Iceland,Tertiary education (levels 5-8),1.49
-2016,Liechtenstein,Pre-primary to tertiary education,:
-2016,Liechtenstein,Tertiary education (levels 5-8),:
+2016,Liechtenstein,Pre-primary to tertiary education,0
+2016,Liechtenstein,Tertiary education (levels 5-8),0
 2016,Norway,Pre-primary to tertiary education,7.01
 2016,Norway,Tertiary education (levels 5-8),2.13
 2016,Switzerland,Pre-primary to tertiary education,5.03
 2016,Switzerland,Tertiary education (levels 5-8),1.33
 2016,United Kingdom,Pre-primary to tertiary education,5.40
 2016,United Kingdom,Tertiary education (levels 5-8),1.39
-2016,North Macedonia,Pre-primary to tertiary education,:
-2016,North Macedonia,Tertiary education (levels 5-8),:
-2016,Serbia,Pre-primary to tertiary education,:
-2016,Serbia,Tertiary education (levels 5-8),:
+2016,North Macedonia,Pre-primary to tertiary education,0
+2016,North Macedonia,Tertiary education (levels 5-8),0
+2016,Serbia,Pre-primary to tertiary education,0
+2016,Serbia,Tertiary education (levels 5-8),0
 2016,Turkey,Pre-primary to tertiary education,4.66
 2016,Turkey,Tertiary education (levels 5-8),1.67
 2017,Belgium,Pre-primary to tertiary education,6.30
@@ -359,9 +359,9 @@ TIME,COUNTRY,ISCED11,Value
 2017,Denmark,Tertiary education (levels 5-8),2.20
 2017,Germany (until 1990 former territory of the FRG),Pre-primary to tertiary education,4.51
 2017,Germany (until 1990 former territory of the FRG),Tertiary education (levels 5-8),1.25
-2017,Estonia,Pre-primary to tertiary education,:
+2017,Estonia,Pre-primary to tertiary education,0
 2017,Estonia,Tertiary education (levels 5-8),1.13
-2017,Ireland,Pre-primary to tertiary education,:
+2017,Ireland,Pre-primary to tertiary education,0
 2017,Ireland,Tertiary education (levels 5-8),0.97
 2017,Greece,Pre-primary to tertiary education,3.41
 2017,Greece,Tertiary education (levels 5-8),0.62
@@ -369,7 +369,7 @@ TIME,COUNTRY,ISCED11,Value
 2017,Spain,Tertiary education (levels 5-8),0.93
 2017,France,Pre-primary to tertiary education,5.45
 2017,France,Tertiary education (levels 5-8),1.23
-2017,Croatia,Pre-primary to tertiary education,:
+2017,Croatia,Pre-primary to tertiary education,0
 2017,Croatia,Tertiary education (levels 5-8),0.86
 2017,Italy,Pre-primary to tertiary education,4.04
 2017,Italy,Tertiary education (levels 5-8),0.75
@@ -405,16 +405,16 @@ TIME,COUNTRY,ISCED11,Value
 2017,Sweden,Tertiary education (levels 5-8),1.79
 2017,Iceland,Pre-primary to tertiary education,6.60
 2017,Iceland,Tertiary education (levels 5-8),1.36
-2017,Liechtenstein,Pre-primary to tertiary education,:
-2017,Liechtenstein,Tertiary education (levels 5-8),:
+2017,Liechtenstein,Pre-primary to tertiary education,0
+2017,Liechtenstein,Tertiary education (levels 5-8),0
 2017,Norway,Pre-primary to tertiary education,6.94
 2017,Norway,Tertiary education (levels 5-8),2.11
 2017,Switzerland,Pre-primary to tertiary education,5.05
 2017,Switzerland,Tertiary education (levels 5-8),1.36
 2017,United Kingdom,Pre-primary to tertiary education,5.36
 2017,United Kingdom,Tertiary education (levels 5-8),1.44
-2017,North Macedonia,Pre-primary to tertiary education,:
-2017,North Macedonia,Tertiary education (levels 5-8),:
+2017,North Macedonia,Pre-primary to tertiary education,0
+2017,North Macedonia,Tertiary education (levels 5-8),0
 2017,Serbia,Pre-primary to tertiary education,3.59
 2017,Serbia,Tertiary education (levels 5-8),1.11
 2017,Turkey,Pre-primary to tertiary education,4.35
@@ -429,9 +429,9 @@ TIME,COUNTRY,ISCED11,Value
 2018,Denmark,Tertiary education (levels 5-8),2.20
 2018,Germany (until 1990 former territory of the FRG),Pre-primary to tertiary education,4.59
 2018,Germany (until 1990 former territory of the FRG),Tertiary education (levels 5-8),1.27
-2018,Estonia,Pre-primary to tertiary education,:
+2018,Estonia,Pre-primary to tertiary education,0
 2018,Estonia,Tertiary education (levels 5-8),1.17
-2018,Ireland,Pre-primary to tertiary education,:
+2018,Ireland,Pre-primary to tertiary education,0
 2018,Ireland,Tertiary education (levels 5-8),0.91
 2018,Greece,Pre-primary to tertiary education,3.60
 2018,Greece,Tertiary education (levels 5-8),0.67
@@ -439,7 +439,7 @@ TIME,COUNTRY,ISCED11,Value
 2018,Spain,Tertiary education (levels 5-8),0.92
 2018,France,Pre-primary to tertiary education,5.41
 2018,France,Tertiary education (levels 5-8),1.23
-2018,Croatia,Pre-primary to tertiary education,:
+2018,Croatia,Pre-primary to tertiary education,0
 2018,Croatia,Tertiary education (levels 5-8),0.87
 2018,Italy,Pre-primary to tertiary education,4.26
 2018,Italy,Tertiary education (levels 5-8),0.77
@@ -475,17 +475,17 @@ TIME,COUNTRY,ISCED11,Value
 2018,Sweden,Tertiary education (levels 5-8),1.79
 2018,Iceland,Pre-primary to tertiary education,6.61
 2018,Iceland,Tertiary education (levels 5-8),1.23
-2018,Liechtenstein,Pre-primary to tertiary education,:
-2018,Liechtenstein,Tertiary education (levels 5-8),:
+2018,Liechtenstein,Pre-primary to tertiary education,0
+2018,Liechtenstein,Tertiary education (levels 5-8),0
 2018,Norway,Pre-primary to tertiary education,6.84
 2018,Norway,Tertiary education (levels 5-8),2.08
 2018,Switzerland,Pre-primary to tertiary education,4.77
 2018,Switzerland,Tertiary education (levels 5-8),1.29
 2018,United Kingdom,Pre-primary to tertiary education,5.16
 2018,United Kingdom,Tertiary education (levels 5-8),1.44
-2018,North Macedonia,Pre-primary to tertiary education,:
-2018,North Macedonia,Tertiary education (levels 5-8),:
-2018,Serbia,Pre-primary to tertiary education,:
-2018,Serbia,Tertiary education (levels 5-8),:
+2018,North Macedonia,Pre-primary to tertiary education,0
+2018,North Macedonia,Tertiary education (levels 5-8),0
+2018,Serbia,Pre-primary to tertiary education,0
+2018,Serbia,Tertiary education (levels 5-8),0
 2018,Turkey,Pre-primary to tertiary education,4.29
 2018,Turkey,Tertiary education (levels 5-8),1.49

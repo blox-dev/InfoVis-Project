@@ -27,7 +27,7 @@ TIME,COUNTRY,Value
 2010,Sweden, 100.00
 2010,Iceland, 100.00
 2010,Norway, 100.00
-2010,Switzerland, :
+2010,Switzerland, 0
 2010,United Kingdom, 100.00
 2010,Turkey, 100.00
 2011,Belgium, 104.02
@@ -58,7 +58,7 @@ TIME,COUNTRY,Value
 2011,Sweden, 102.58
 2011,Iceland, 104.64
 2011,Norway, 108.17
-2011,Switzerland, :
+2011,Switzerland, 0
 2011,United Kingdom, 98.53
 2011,Turkey, 106.94
 2012,Belgium, 106.35
@@ -89,7 +89,7 @@ TIME,COUNTRY,Value
 2012,Sweden, 103.87
 2012,Iceland, 111.86
 2012,Norway, 115.46
-2012,Switzerland, :
+2012,Switzerland, 0
 2012,United Kingdom, 98.90
 2012,Turkey, 117.08
 2013,Belgium, 107.59
@@ -120,7 +120,7 @@ TIME,COUNTRY,Value
 2013,Sweden, 109.22
 2013,Iceland, 118.31
 2013,Norway, 120.43
-2013,Switzerland, :
+2013,Switzerland, 0
 2013,United Kingdom, 101.44
 2013,Turkey, 130.42
 2014,Belgium, 107.00
@@ -151,7 +151,7 @@ TIME,COUNTRY,Value
 2014,Sweden, 119.52
 2014,Iceland, 128.28
 2014,Norway, 123.72
-2014,Switzerland, :
+2014,Switzerland, 0
 2014,United Kingdom, 109.58
 2014,Turkey, 148.19
 2015,Belgium, 108.80
@@ -182,7 +182,7 @@ TIME,COUNTRY,Value
 2015,Sweden, 135.20
 2015,Iceland, 138.85
 2015,Norway, 131.99
-2015,Switzerland, :
+2015,Switzerland, 0
 2015,United Kingdom, 116.08
 2015,Turkey, 172.09
 2016,Belgium, 111.67
@@ -213,7 +213,7 @@ TIME,COUNTRY,Value
 2016,Sweden, 146.34
 2016,Iceland, 152.41
 2016,Norway, 142.39
-2016,Switzerland, :
+2016,Switzerland, 0
 2016,United Kingdom, 124.19
 2016,Turkey, 194.92
 2017,Belgium, 115.73
@@ -244,7 +244,7 @@ TIME,COUNTRY,Value
 2017,Sweden, 156.06
 2017,Iceland, 182.17
 2017,Norway, 150.13
-2017,Switzerland, :
+2017,Switzerland, 0
 2017,United Kingdom, 129.85
 2017,Turkey, 214.82
 2018,Belgium, 119.04
@@ -275,7 +275,7 @@ TIME,COUNTRY,Value
 2018,Sweden, 154.60
 2018,Iceland, 197.18
 2018,Norway, 152.48
-2018,Switzerland, :
+2018,Switzerland, 0
 2018,United Kingdom, 134.10
 2018,Turkey, 229.56
 2019,Belgium, 123.79
@@ -306,7 +306,7 @@ TIME,COUNTRY,Value
 2019,Sweden, 158.44
 2019,Iceland, 205.91
 2019,Norway, 158.62
-2019,Switzerland, :
+2019,Switzerland, 0
 2019,United Kingdom, 135.42
 2019,Turkey, 242.02
 2020,Belgium, 129.03
@@ -337,8 +337,8 @@ TIME,COUNTRY,Value
 2020,Sweden, 165.09
 2020,Iceland, 219.09
 2020,Norway, 166.17
-2020,Switzerland, :
-2020,United Kingdom, :
+2020,Switzerland, 0
+2020,United Kingdom, 0
 2020,Turkey, 302.01
 2021,Belgium, 138.24
 2021,Bulgaria, 141.14
@@ -368,6 +368,6 @@ TIME,COUNTRY,Value
 2021,Sweden, 181.88
 2021,Iceland, 246.55
 2021,Norway, 181.37
-2021,Switzerland, :
-2021,United Kingdom, :
+2021,Switzerland, 0
+2021,United Kingdom, 0
 2021,Turkey, 422.30
