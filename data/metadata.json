@@ -87,13 +87,6 @@
                 
             }
         },
-        "Mean_monthly_earnings_by_sex_and_occupation": {
-            "x":"Year",
-            "y":"Gross Earnings",
-            "values": {
-                "TODO": "TODO"
-            }
-        },
         "Median_net_income_by_age_p": {
             "x":"Year",
             "y":"Median net income (in euros)",

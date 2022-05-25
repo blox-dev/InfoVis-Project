@@ -1,4 +1,4 @@
-SEX,GEO,SIZECLAS,Value
+SEX,COUNTRY,SIZECLAS,VALUE
 Total,Belgium,Industry construction and services (except activities of households as employers and extra-territorial organisations and bodies),0
 Total,Belgium,Industry construction and services (except public administration defense compulsory social security),3360
 Total,Belgium,Business economy,3459
@@ -22,7 +22,7 @@ Total,Belgium,Real estate activities,3680
 Total,Belgium,Professional scientific and technical activities,4539
 Total,Belgium,Administrative and support service activities,2803
 Total,Belgium,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Total,Belgium,Public administration and defence; compulsory social security0
+Total,Belgium,Public administration and defence; compulsory social security,0
 Total,Belgium,Education; human health and social work activities; arts entertainment and recreation; other service activities,3143
 Total,Belgium,Education,3675
 Total,Belgium,Human health and social work activities,2956
@@ -51,7 +51,7 @@ Total,Bulgaria,Real estate activities,542
 Total,Bulgaria,Professional scientific and technical activities,926
 Total,Bulgaria,Administrative and support service activities,460
 Total,Bulgaria,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,579
-Total,Bulgaria,Public administration and defence; compulsory social security603
+Total,Bulgaria,Public administration and defence; compulsory social security,603
 Total,Bulgaria,Education; human health and social work activities; arts entertainment and recreation; other service activities,572
 Total,Bulgaria,Education,577
 Total,Bulgaria,Human health and social work activities,593
@@ -80,7 +80,7 @@ Total,Czechia,Real estate activities,1149
 Total,Czechia,Professional scientific and technical activities,1670
 Total,Czechia,Administrative and support service activities,824
 Total,Czechia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1250
-Total,Czechia,Public administration and defence; compulsory social security1345
+Total,Czechia,Public administration and defence; compulsory social security,1345
 Total,Czechia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1207
 Total,Czechia,Education,1169
 Total,Czechia,Human health and social work activities,1302
@@ -109,7 +109,7 @@ Total,Denmark,Real estate activities,4515
 Total,Denmark,Professional scientific and technical activities,5853
 Total,Denmark,Administrative and support service activities,3956
 Total,Denmark,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4233
-Total,Denmark,Public administration and defence; compulsory social security4855
+Total,Denmark,Public administration and defence; compulsory social security,4855
 Total,Denmark,Education; human health and social work activities; arts entertainment and recreation; other service activities,4139
 Total,Denmark,Education,4602
 Total,Denmark,Human health and social work activities,3939
@@ -138,7 +138,7 @@ Total,Germany (until 1990 former territory of the FRG),Real estate activities,35
 Total,Germany (until 1990 former territory of the FRG),Professional scientific and technical activities,4165
 Total,Germany (until 1990 former territory of the FRG),Administrative and support service activities,2343
 Total,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3440
-Total,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security3619
+Total,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security,3619
 Total,Germany (until 1990 former territory of the FRG),Education; human health and social work activities; arts entertainment and recreation; other service activities,3382
 Total,Germany (until 1990 former territory of the FRG),Education,3777
 Total,Germany (until 1990 former territory of the FRG),Human health and social work activities,3263
@@ -167,7 +167,7 @@ Total,Estonia,Real estate activities,1271
 Total,Estonia,Professional scientific and technical activities,1846
 Total,Estonia,Administrative and support service activities,1164
 Total,Estonia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1364
-Total,Estonia,Public administration and defence; compulsory social security1554
+Total,Estonia,Public administration and defence; compulsory social security,1554
 Total,Estonia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1303
 Total,Estonia,Education,1231
 Total,Estonia,Human health and social work activities,1478
@@ -196,7 +196,7 @@ Total,Ireland,Real estate activities,3735
 Total,Ireland,Professional scientific and technical activities,4482
 Total,Ireland,Administrative and support service activities,2915
 Total,Ireland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3990
-Total,Ireland,Public administration and defence; compulsory social security4138
+Total,Ireland,Public administration and defence; compulsory social security,4138
 Total,Ireland,Education; human health and social work activities; arts entertainment and recreation; other service activities,3953
 Total,Ireland,Education,4468
 Total,Ireland,Human health and social work activities,3800
@@ -225,7 +225,7 @@ Total,Greece,Real estate activities,1528
 Total,Greece,Professional scientific and technical activities,1917
 Total,Greece,Administrative and support service activities,1055
 Total,Greece,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Total,Greece,Public administration and defence; compulsory social security0
+Total,Greece,Public administration and defence; compulsory social security,0
 Total,Greece,Education; human health and social work activities; arts entertainment and recreation; other service activities,1596
 Total,Greece,Education,1765
 Total,Greece,Human health and social work activities,1547
@@ -254,7 +254,7 @@ Total,Spain,Real estate activities,2126
 Total,Spain,Professional scientific and technical activities,2367
 Total,Spain,Administrative and support service activities,1541
 Total,Spain,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2224
-Total,Spain,Public administration and defence; compulsory social security2247
+Total,Spain,Public administration and defence; compulsory social security,2247
 Total,Spain,Education; human health and social work activities; arts entertainment and recreation; other service activities,2215
 Total,Spain,Education,2358
 Total,Spain,Human health and social work activities,2223
@@ -283,7 +283,7 @@ Total,France,Real estate activities,2848
 Total,France,Professional scientific and technical activities,3903
 Total,France,Administrative and support service activities,2363
 Total,France,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2591
-Total,France,Public administration and defence; compulsory social security2518
+Total,France,Public administration and defence; compulsory social security,2518
 Total,France,Education; human health and social work activities; arts entertainment and recreation; other service activities,2627
 Total,France,Education,3004
 Total,France,Human health and social work activities,2414
@@ -312,7 +312,7 @@ Total,Croatia,Real estate activities,1235
 Total,Croatia,Professional scientific and technical activities,1699
 Total,Croatia,Administrative and support service activities,920
 Total,Croatia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1240
-Total,Croatia,Public administration and defence; compulsory social security1282
+Total,Croatia,Public administration and defence; compulsory social security,1282
 Total,Croatia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1228
 Total,Croatia,Education,1217
 Total,Croatia,Human health and social work activities,1271
@@ -341,7 +341,7 @@ Total,Italy,Real estate activities,2574
 Total,Italy,Professional scientific and technical activities,3107
 Total,Italy,Administrative and support service activities,1909
 Total,Italy,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2602
-Total,Italy,Public administration and defence; compulsory social security2807
+Total,Italy,Public administration and defence; compulsory social security,2807
 Total,Italy,Education; human health and social work activities; arts entertainment and recreation; other service activities,2496
 Total,Italy,Education,2298
 Total,Italy,Human health and social work activities,2686
@@ -370,7 +370,7 @@ Total,Cyprus,Real estate activities,1605
 Total,Cyprus,Professional scientific and technical activities,2363
 Total,Cyprus,Administrative and support service activities,1592
 Total,Cyprus,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2347
-Total,Cyprus,Public administration and defence; compulsory social security2202
+Total,Cyprus,Public administration and defence; compulsory social security,2202
 Total,Cyprus,Education; human health and social work activities; arts entertainment and recreation; other service activities,2428
 Total,Cyprus,Education,2793
 Total,Cyprus,Human health and social work activities,2082
@@ -399,7 +399,7 @@ Total,Latvia,Real estate activities,1072
 Total,Latvia,Professional scientific and technical activities,1650
 Total,Latvia,Administrative and support service activities,1085
 Total,Latvia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1080
-Total,Latvia,Public administration and defence; compulsory social security1197
+Total,Latvia,Public administration and defence; compulsory social security,1197
 Total,Latvia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1038
 Total,Latvia,Education,889
 Total,Latvia,Human health and social work activities,1318
@@ -428,7 +428,7 @@ Total,Lithuania,Real estate activities,869
 Total,Lithuania,Professional scientific and technical activities,1360
 Total,Lithuania,Administrative and support service activities,793
 Total,Lithuania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,980
-Total,Lithuania,Public administration and defence; compulsory social security1121
+Total,Lithuania,Public administration and defence; compulsory social security,1121
 Total,Lithuania,Education; human health and social work activities; arts entertainment and recreation; other service activities,937
 Total,Lithuania,Education,868
 Total,Lithuania,Human health and social work activities,1072
@@ -457,7 +457,7 @@ Total,Luxembourg,Real estate activities,0
 Total,Luxembourg,Professional scientific and technical activities,5506
 Total,Luxembourg,Administrative and support service activities,2988
 Total,Luxembourg,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,6001
-Total,Luxembourg,Public administration and defence; compulsory social security6857
+Total,Luxembourg,Public administration and defence; compulsory social security,6857
 Total,Luxembourg,Education; human health and social work activities; arts entertainment and recreation; other service activities,5818
 Total,Luxembourg,Education,7605
 Total,Luxembourg,Human health and social work activities,5089
@@ -486,7 +486,7 @@ Total,Hungary,Real estate activities,932
 Total,Hungary,Professional scientific and technical activities,1394
 Total,Hungary,Administrative and support service activities,870
 Total,Hungary,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,903
-Total,Hungary,Public administration and defence; compulsory social security869
+Total,Hungary,Public administration and defence; compulsory social security,869
 Total,Hungary,Education; human health and social work activities; arts entertainment and recreation; other service activities,926
 Total,Hungary,Education,952
 Total,Hungary,Human health and social work activities,912
@@ -515,7 +515,7 @@ Total,Malta,Real estate activities,2294
 Total,Malta,Professional scientific and technical activities,2538
 Total,Malta,Administrative and support service activities,1736
 Total,Malta,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2199
-Total,Malta,Public administration and defence; compulsory social security2132
+Total,Malta,Public administration and defence; compulsory social security,2132
 Total,Malta,Education; human health and social work activities; arts entertainment and recreation; other service activities,2218
 Total,Malta,Education,1984
 Total,Malta,Human health and social work activities,2338
@@ -544,7 +544,7 @@ Total,Netherlands,Real estate activities,3805
 Total,Netherlands,Professional scientific and technical activities,4140
 Total,Netherlands,Administrative and support service activities,2348
 Total,Netherlands,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3325
-Total,Netherlands,Public administration and defence; compulsory social security3819
+Total,Netherlands,Public administration and defence; compulsory social security,3819
 Total,Netherlands,Education; human health and social work activities; arts entertainment and recreation; other service activities,3194
 Total,Netherlands,Education,3651
 Total,Netherlands,Human health and social work activities,3044
@@ -573,7 +573,7 @@ Total,Austria,Real estate activities,3477
 Total,Austria,Professional scientific and technical activities,3817
 Total,Austria,Administrative and support service activities,2378
 Total,Austria,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Total,Austria,Public administration and defence; compulsory social security0
+Total,Austria,Public administration and defence; compulsory social security,0
 Total,Austria,Education; human health and social work activities; arts entertainment and recreation; other service activities,3035
 Total,Austria,Education,3295
 Total,Austria,Human health and social work activities,3021
@@ -602,7 +602,7 @@ Total,Poland,Real estate activities,1051
 Total,Poland,Professional scientific and technical activities,1572
 Total,Poland,Administrative and support service activities,778
 Total,Poland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1035
-Total,Poland,Public administration and defence; compulsory social security1155
+Total,Poland,Public administration and defence; compulsory social security,1155
 Total,Poland,Education; human health and social work activities; arts entertainment and recreation; other service activities,1002
 Total,Poland,Education,979
 Total,Poland,Human health and social work activities,1066
@@ -631,7 +631,7 @@ Total,Portugal,Real estate activities,1449
 Total,Portugal,Professional scientific and technical activities,1789
 Total,Portugal,Administrative and support service activities,911
 Total,Portugal,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Total,Portugal,Public administration and defence; compulsory social security0
+Total,Portugal,Public administration and defence; compulsory social security,0
 Total,Portugal,Education; human health and social work activities; arts entertainment and recreation; other service activities,1540
 Total,Portugal,Education,1921
 Total,Portugal,Human health and social work activities,1260
@@ -660,7 +660,7 @@ Total,Romania,Real estate activities,784
 Total,Romania,Professional scientific and technical activities,1340
 Total,Romania,Administrative and support service activities,743
 Total,Romania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1242
-Total,Romania,Public administration and defence; compulsory social security1291
+Total,Romania,Public administration and defence; compulsory social security,1291
 Total,Romania,Education; human health and social work activities; arts entertainment and recreation; other service activities,1224
 Total,Romania,Education,1125
 Total,Romania,Human health and social work activities,1460
@@ -689,7 +689,7 @@ Total,Slovenia,Real estate activities,1837
 Total,Slovenia,Professional scientific and technical activities,2249
 Total,Slovenia,Administrative and support service activities,1239
 Total,Slovenia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1856
-Total,Slovenia,Public administration and defence; compulsory social security2034
+Total,Slovenia,Public administration and defence; compulsory social security,2034
 Total,Slovenia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1793
 Total,Slovenia,Education,1779
 Total,Slovenia,Human health and social work activities,1816
@@ -718,7 +718,7 @@ Total,Slovakia,Real estate activities,1104
 Total,Slovakia,Professional scientific and technical activities,1529
 Total,Slovakia,Administrative and support service activities,900
 Total,Slovakia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1084
-Total,Slovakia,Public administration and defence; compulsory social security1131
+Total,Slovakia,Public administration and defence; compulsory social security,1131
 Total,Slovakia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1062
 Total,Slovakia,Education,1019
 Total,Slovakia,Human health and social work activities,1159
@@ -747,7 +747,7 @@ Total,Finland,Real estate activities,3506
 Total,Finland,Professional scientific and technical activities,3970
 Total,Finland,Administrative and support service activities,2593
 Total,Finland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3249
-Total,Finland,Public administration and defence; compulsory social security3649
+Total,Finland,Public administration and defence; compulsory social security,3649
 Total,Finland,Education; human health and social work activities; arts entertainment and recreation; other service activities,3165
 Total,Finland,Education,3528
 Total,Finland,Human health and social work activities,3041
@@ -776,7 +776,7 @@ Total,Sweden,Real estate activities,3730
 Total,Sweden,Professional scientific and technical activities,4343
 Total,Sweden,Administrative and support service activities,3063
 Total,Sweden,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3248
-Total,Sweden,Public administration and defence; compulsory social security3723
+Total,Sweden,Public administration and defence; compulsory social security,3723
 Total,Sweden,Education; human health and social work activities; arts entertainment and recreation; other service activities,3205
 Total,Sweden,Education,3211
 Total,Sweden,Human health and social work activities,3198
@@ -805,7 +805,7 @@ Total,Iceland,Real estate activities,0
 Total,Iceland,Professional scientific and technical activities,0
 Total,Iceland,Administrative and support service activities,0
 Total,Iceland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4898
-Total,Iceland,Public administration and defence; compulsory social security5863
+Total,Iceland,Public administration and defence; compulsory social security,5863
 Total,Iceland,Education; human health and social work activities; arts entertainment and recreation; other service activities,4693
 Total,Iceland,Education,4266
 Total,Iceland,Human health and social work activities,5097
@@ -834,7 +834,7 @@ Total,Norway,Real estate activities,5760
 Total,Norway,Professional scientific and technical activities,6035
 Total,Norway,Administrative and support service activities,4041
 Total,Norway,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4568
-Total,Norway,Public administration and defence; compulsory social security5161
+Total,Norway,Public administration and defence; compulsory social security,5161
 Total,Norway,Education; human health and social work activities; arts entertainment and recreation; other service activities,4450
 Total,Norway,Education,4629
 Total,Norway,Human health and social work activities,4418
@@ -863,7 +863,7 @@ Total,Switzerland,Real estate activities,6787
 Total,Switzerland,Professional scientific and technical activities,8432
 Total,Switzerland,Administrative and support service activities,5388
 Total,Switzerland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,6587
-Total,Switzerland,Public administration and defence; compulsory social security7976
+Total,Switzerland,Public administration and defence; compulsory social security,7976
 Total,Switzerland,Education; human health and social work activities; arts entertainment and recreation; other service activities,6578
 Total,Switzerland,Education,7752
 Total,Switzerland,Human health and social work activities,6328
@@ -892,7 +892,7 @@ Total,United Kingdom,Real estate activities,3258
 Total,United Kingdom,Professional scientific and technical activities,4459
 Total,United Kingdom,Administrative and support service activities,2813
 Total,United Kingdom,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3164
-Total,United Kingdom,Public administration and defence; compulsory social security3397
+Total,United Kingdom,Public administration and defence; compulsory social security,3397
 Total,United Kingdom,Education; human health and social work activities; arts entertainment and recreation; other service activities,3128
 Total,United Kingdom,Education,3191
 Total,United Kingdom,Human health and social work activities,3120
@@ -921,7 +921,7 @@ Total,North Macedonia,Real estate activities,486
 Total,North Macedonia,Professional scientific and technical activities,719
 Total,North Macedonia,Administrative and support service activities,450
 Total,North Macedonia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,637
-Total,North Macedonia,Public administration and defence; compulsory social security702
+Total,North Macedonia,Public administration and defence; compulsory social security,702
 Total,North Macedonia,Education; human health and social work activities; arts entertainment and recreation; other service activities,597
 Total,North Macedonia,Education,579
 Total,North Macedonia,Human health and social work activities,626
@@ -950,7 +950,7 @@ Total,Albania,Real estate activities,395
 Total,Albania,Professional scientific and technical activities,504
 Total,Albania,Administrative and support service activities,447
 Total,Albania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Total,Albania,Public administration and defence; compulsory social security0
+Total,Albania,Public administration and defence; compulsory social security,0
 Total,Albania,Education; human health and social work activities; arts entertainment and recreation; other service activities,465
 Total,Albania,Education,485
 Total,Albania,Human health and social work activities,442
@@ -979,7 +979,7 @@ Total,Serbia,Real estate activities,690
 Total,Serbia,Professional scientific and technical activities,893
 Total,Serbia,Administrative and support service activities,500
 Total,Serbia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,634
-Total,Serbia,Public administration and defence; compulsory social security719
+Total,Serbia,Public administration and defence; compulsory social security,719
 Total,Serbia,Education; human health and social work activities; arts entertainment and recreation; other service activities,615
 Total,Serbia,Education,617
 Total,Serbia,Human health and social work activities,627
@@ -1008,7 +1008,7 @@ Total,Turkey,Real estate activities,706
 Total,Turkey,Professional scientific and technical activities,1123
 Total,Turkey,Administrative and support service activities,593
 Total,Turkey,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Total,Turkey,Public administration and defence; compulsory social security0
+Total,Turkey,Public administration and defence; compulsory social security,0
 Total,Turkey,Education; human health and social work activities; arts entertainment and recreation; other service activities,1052
 Total,Turkey,Education,1077
 Total,Turkey,Human health and social work activities,1031
@@ -1037,7 +1037,7 @@ Males,Belgium,Real estate activities,3844
 Males,Belgium,Professional scientific and technical activities,4677
 Males,Belgium,Administrative and support service activities,2971
 Males,Belgium,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Males,Belgium,Public administration and defence; compulsory social security0
+Males,Belgium,Public administration and defence; compulsory social security,0
 Males,Belgium,Education; human health and social work activities; arts entertainment and recreation; other service activities,3195
 Males,Belgium,Education,3788
 Males,Belgium,Human health and social work activities,3023
@@ -1066,7 +1066,7 @@ Males,Bulgaria,Real estate activities,518
 Males,Bulgaria,Professional scientific and technical activities,993
 Males,Bulgaria,Administrative and support service activities,415
 Males,Bulgaria,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,652
-Males,Bulgaria,Public administration and defence; compulsory social security641
+Males,Bulgaria,Public administration and defence; compulsory social security,641
 Males,Bulgaria,Education; human health and social work activities; arts entertainment and recreation; other service activities,657
 Males,Bulgaria,Education,638
 Males,Bulgaria,Human health and social work activities,771
@@ -1095,7 +1095,7 @@ Males,Czechia,Real estate activities,1212
 Males,Czechia,Professional scientific and technical activities,1884
 Males,Czechia,Administrative and support service activities,855
 Males,Czechia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1443
-Males,Czechia,Public administration and defence; compulsory social security1483
+Males,Czechia,Public administration and defence; compulsory social security,1483
 Males,Czechia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1409
 Males,Czechia,Education,1391
 Males,Czechia,Human health and social work activities,1612
@@ -1124,7 +1124,7 @@ Males,Denmark,Real estate activities,4786
 Males,Denmark,Professional scientific and technical activities,6476
 Males,Denmark,Administrative and support service activities,4001
 Males,Denmark,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4716
-Males,Denmark,Public administration and defence; compulsory social security5141
+Males,Denmark,Public administration and defence; compulsory social security,5141
 Males,Denmark,Education; human health and social work activities; arts entertainment and recreation; other service activities,4593
 Males,Denmark,Education,4808
 Males,Denmark,Human health and social work activities,4427
@@ -1153,7 +1153,7 @@ Males,Germany (until 1990 former territory of the FRG),Real estate activities,38
 Males,Germany (until 1990 former territory of the FRG),Professional scientific and technical activities,4863
 Males,Germany (until 1990 former territory of the FRG),Administrative and support service activities,2497
 Males,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3873
-Males,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security3769
+Males,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security,3769
 Males,Germany (until 1990 former territory of the FRG),Education; human health and social work activities; arts entertainment and recreation; other service activities,3935
 Males,Germany (until 1990 former territory of the FRG),Education,4079
 Males,Germany (until 1990 former territory of the FRG),Human health and social work activities,4041
@@ -1182,7 +1182,7 @@ Males,Estonia,Real estate activities,1385
 Males,Estonia,Professional scientific and technical activities,2052
 Males,Estonia,Administrative and support service activities,1271
 Males,Estonia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1578
-Males,Estonia,Public administration and defence; compulsory social security1621
+Males,Estonia,Public administration and defence; compulsory social security,1621
 Males,Estonia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1546
 Males,Estonia,Education,1450
 Males,Estonia,Human health and social work activities,1986
@@ -1211,7 +1211,7 @@ Males,Ireland,Real estate activities,4611
 Males,Ireland,Professional scientific and technical activities,5025
 Males,Ireland,Administrative and support service activities,3133
 Males,Ireland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4373
-Males,Ireland,Public administration and defence; compulsory social security4408
+Males,Ireland,Public administration and defence; compulsory social security,4408
 Males,Ireland,Education; human health and social work activities; arts entertainment and recreation; other service activities,4353
 Males,Ireland,Education,4730
 Males,Ireland,Human health and social work activities,4413
@@ -1240,7 +1240,7 @@ Males,Greece,Real estate activities,1671
 Males,Greece,Professional scientific and technical activities,2195
 Males,Greece,Administrative and support service activities,1077
 Males,Greece,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Males,Greece,Public administration and defence; compulsory social security0
+Males,Greece,Public administration and defence; compulsory social security,0
 Males,Greece,Education; human health and social work activities; arts entertainment and recreation; other service activities,1712
 Males,Greece,Education,1900
 Males,Greece,Human health and social work activities,1765
@@ -1269,7 +1269,7 @@ Males,Spain,Real estate activities,2312
 Males,Spain,Professional scientific and technical activities,2626
 Males,Spain,Administrative and support service activities,1725
 Males,Spain,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2413
-Males,Spain,Public administration and defence; compulsory social security2328
+Males,Spain,Public administration and defence; compulsory social security,2328
 Males,Spain,Education; human health and social work activities; arts entertainment and recreation; other service activities,2466
 Males,Spain,Education,2531
 Males,Spain,Human health and social work activities,2677
@@ -1298,7 +1298,7 @@ Males,France,Real estate activities,3146
 Males,France,Professional scientific and technical activities,4432
 Males,France,Administrative and support service activities,2415
 Males,France,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2885
-Males,France,Public administration and defence; compulsory social security2660
+Males,France,Public administration and defence; compulsory social security,2660
 Males,France,Education; human health and social work activities; arts entertainment and recreation; other service activities,3071
 Males,France,Education,3369
 Males,France,Human health and social work activities,2853
@@ -1327,7 +1327,7 @@ Males,Croatia,Real estate activities,1248
 Males,Croatia,Professional scientific and technical activities,1836
 Males,Croatia,Administrative and support service activities,946
 Males,Croatia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1393
-Males,Croatia,Public administration and defence; compulsory social security1367
+Males,Croatia,Public administration and defence; compulsory social security,1367
 Males,Croatia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1404
 Males,Croatia,Education,1378
 Males,Croatia,Human health and social work activities,1498
@@ -1356,7 +1356,7 @@ Males,Italy,Real estate activities,2780
 Males,Italy,Professional scientific and technical activities,3526
 Males,Italy,Administrative and support service activities,1996
 Males,Italy,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2960
-Males,Italy,Public administration and defence; compulsory social security2957
+Males,Italy,Public administration and defence; compulsory social security,2957
 Males,Italy,Education; human health and social work activities; arts entertainment and recreation; other service activities,2963
 Males,Italy,Education,2527
 Males,Italy,Human health and social work activities,3209
@@ -1385,7 +1385,7 @@ Males,Cyprus,Real estate activities,0
 Males,Cyprus,Professional scientific and technical activities,2879
 Males,Cyprus,Administrative and support service activities,0
 Males,Cyprus,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2599
-Males,Cyprus,Public administration and defence; compulsory social security2388
+Males,Cyprus,Public administration and defence; compulsory social security,2388
 Males,Cyprus,Education; human health and social work activities; arts entertainment and recreation; other service activities,2801
 Males,Cyprus,Education,3317
 Males,Cyprus,Human health and social work activities,2469
@@ -1414,7 +1414,7 @@ Males,Latvia,Real estate activities,1175
 Males,Latvia,Professional scientific and technical activities,1805
 Males,Latvia,Administrative and support service activities,1214
 Males,Latvia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1178
-Males,Latvia,Public administration and defence; compulsory social security1182
+Males,Latvia,Public administration and defence; compulsory social security,1182
 Males,Latvia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1176
 Males,Latvia,Education,1013
 Males,Latvia,Human health and social work activities,1587
@@ -1443,7 +1443,7 @@ Males,Lithuania,Real estate activities,938
 Males,Lithuania,Professional scientific and technical activities,1549
 Males,Lithuania,Administrative and support service activities,835
 Males,Lithuania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1077
-Males,Lithuania,Public administration and defence; compulsory social security1152
+Males,Lithuania,Public administration and defence; compulsory social security,1152
 Males,Lithuania,Education; human health and social work activities; arts entertainment and recreation; other service activities,1027
 Males,Lithuania,Education,889
 Males,Lithuania,Human health and social work activities,1386
@@ -1472,7 +1472,7 @@ Males,Luxembourg,Real estate activities,0
 Males,Luxembourg,Professional scientific and technical activities,6104
 Males,Luxembourg,Administrative and support service activities,3134
 Males,Luxembourg,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,6359
-Males,Luxembourg,Public administration and defence; compulsory social security6939
+Males,Luxembourg,Public administration and defence; compulsory social security,6939
 Males,Luxembourg,Education; human health and social work activities; arts entertainment and recreation; other service activities,6088
 Males,Luxembourg,Education,7866
 Males,Luxembourg,Human health and social work activities,5128
@@ -1501,7 +1501,7 @@ Males,Hungary,Real estate activities,974
 Males,Hungary,Professional scientific and technical activities,1559
 Males,Hungary,Administrative and support service activities,945
 Males,Hungary,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,970
-Males,Hungary,Public administration and defence; compulsory social security927
+Males,Hungary,Public administration and defence; compulsory social security,927
 Males,Hungary,Education; human health and social work activities; arts entertainment and recreation; other service activities,1023
 Males,Hungary,Education,1040
 Males,Hungary,Human health and social work activities,1050
@@ -1530,7 +1530,7 @@ Males,Malta,Real estate activities,2605
 Males,Malta,Professional scientific and technical activities,2913
 Males,Malta,Administrative and support service activities,1905
 Males,Malta,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2402
-Males,Malta,Public administration and defence; compulsory social security2143
+Males,Malta,Public administration and defence; compulsory social security,2143
 Males,Malta,Education; human health and social work activities; arts entertainment and recreation; other service activities,2520
 Males,Malta,Education,2166
 Males,Malta,Human health and social work activities,2753
@@ -1559,7 +1559,7 @@ Males,Netherlands,Real estate activities,4190
 Males,Netherlands,Professional scientific and technical activities,4595
 Males,Netherlands,Administrative and support service activities,2478
 Males,Netherlands,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3757
-Males,Netherlands,Public administration and defence; compulsory social security3880
+Males,Netherlands,Public administration and defence; compulsory social security,3880
 Males,Netherlands,Education; human health and social work activities; arts entertainment and recreation; other service activities,3675
 Males,Netherlands,Education,3911
 Males,Netherlands,Human health and social work activities,3656
@@ -1588,7 +1588,7 @@ Males,Austria,Real estate activities,4149
 Males,Austria,Professional scientific and technical activities,4455
 Males,Austria,Administrative and support service activities,2578
 Males,Austria,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Males,Austria,Public administration and defence; compulsory social security0
+Males,Austria,Public administration and defence; compulsory social security,0
 Males,Austria,Education; human health and social work activities; arts entertainment and recreation; other service activities,3471
 Males,Austria,Education,3763
 Males,Austria,Human health and social work activities,3444
@@ -1617,7 +1617,7 @@ Males,Poland,Real estate activities,1097
 Males,Poland,Professional scientific and technical activities,1757
 Males,Poland,Administrative and support service activities,784
 Males,Poland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1151
-Males,Poland,Public administration and defence; compulsory social security1292
+Males,Poland,Public administration and defence; compulsory social security,1292
 Males,Poland,Education; human health and social work activities; arts entertainment and recreation; other service activities,1097
 Males,Poland,Education,1062
 Males,Poland,Human health and social work activities,1235
@@ -1646,7 +1646,7 @@ Males,Portugal,Real estate activities,1472
 Males,Portugal,Professional scientific and technical activities,1972
 Males,Portugal,Administrative and support service activities,953
 Males,Portugal,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Males,Portugal,Public administration and defence; compulsory social security0
+Males,Portugal,Public administration and defence; compulsory social security,0
 Males,Portugal,Education; human health and social work activities; arts entertainment and recreation; other service activities,1922
 Males,Portugal,Education,2211
 Males,Portugal,Human health and social work activities,1645
@@ -1675,7 +1675,7 @@ Males,Romania,Real estate activities,790
 Males,Romania,Professional scientific and technical activities,1376
 Males,Romania,Administrative and support service activities,694
 Males,Romania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1276
-Males,Romania,Public administration and defence; compulsory social security1309
+Males,Romania,Public administration and defence; compulsory social security,1309
 Males,Romania,Education; human health and social work activities; arts entertainment and recreation; other service activities,1258
 Males,Romania,Education,1171
 Males,Romania,Human health and social work activities,1613
@@ -1704,7 +1704,7 @@ Males,Slovenia,Real estate activities,1903
 Males,Slovenia,Professional scientific and technical activities,2377
 Males,Slovenia,Administrative and support service activities,1337
 Males,Slovenia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2134
-Males,Slovenia,Public administration and defence; compulsory social security2180
+Males,Slovenia,Public administration and defence; compulsory social security,2180
 Males,Slovenia,Education; human health and social work activities; arts entertainment and recreation; other service activities,2100
 Males,Slovenia,Education,2080
 Males,Slovenia,Human health and social work activities,2237
@@ -1733,7 +1733,7 @@ Males,Slovakia,Real estate activities,1217
 Males,Slovakia,Professional scientific and technical activities,1674
 Males,Slovakia,Administrative and support service activities,922
 Males,Slovakia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1251
-Males,Slovakia,Public administration and defence; compulsory social security1275
+Males,Slovakia,Public administration and defence; compulsory social security,1275
 Males,Slovakia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1231
 Males,Slovakia,Education,1128
 Males,Slovakia,Human health and social work activities,1524
@@ -1762,7 +1762,7 @@ Males,Finland,Real estate activities,3876
 Males,Finland,Professional scientific and technical activities,4267
 Males,Finland,Administrative and support service activities,2796
 Males,Finland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3779
-Males,Finland,Public administration and defence; compulsory social security4010
+Males,Finland,Public administration and defence; compulsory social security,4010
 Males,Finland,Education; human health and social work activities; arts entertainment and recreation; other service activities,3673
 Males,Finland,Education,3818
 Males,Finland,Human health and social work activities,3723
@@ -1791,7 +1791,7 @@ Males,Sweden,Real estate activities,3810
 Males,Sweden,Professional scientific and technical activities,4593
 Males,Sweden,Administrative and support service activities,3094
 Males,Sweden,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3497
-Males,Sweden,Public administration and defence; compulsory social security3901
+Males,Sweden,Public administration and defence; compulsory social security,3901
 Males,Sweden,Education; human health and social work activities; arts entertainment and recreation; other service activities,3431
 Males,Sweden,Education,3433
 Males,Sweden,Human health and social work activities,3440
@@ -1820,7 +1820,7 @@ Males,Iceland,Real estate activities,0
 Males,Iceland,Professional scientific and technical activities,0
 Males,Iceland,Administrative and support service activities,0
 Males,Iceland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,5601
-Males,Iceland,Public administration and defence; compulsory social security6268
+Males,Iceland,Public administration and defence; compulsory social security,6268
 Males,Iceland,Education; human health and social work activities; arts entertainment and recreation; other service activities,5272
 Males,Iceland,Education,4765
 Males,Iceland,Human health and social work activities,5797
@@ -1849,7 +1849,7 @@ Males,Norway,Real estate activities,6263
 Males,Norway,Professional scientific and technical activities,6592
 Males,Norway,Administrative and support service activities,4223
 Males,Norway,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,5002
-Males,Norway,Public administration and defence; compulsory social security5561
+Males,Norway,Public administration and defence; compulsory social security,5561
 Males,Norway,Education; human health and social work activities; arts entertainment and recreation; other service activities,4781
 Males,Norway,Education,4836
 Males,Norway,Human health and social work activities,4850
@@ -1878,7 +1878,7 @@ Males,Switzerland,Real estate activities,7805
 Males,Switzerland,Professional scientific and technical activities,9499
 Males,Switzerland,Administrative and support service activities,5865
 Males,Switzerland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,7610
-Males,Switzerland,Public administration and defence; compulsory social security8837
+Males,Switzerland,Public administration and defence; compulsory social security,8837
 Males,Switzerland,Education; human health and social work activities; arts entertainment and recreation; other service activities,7597
 Males,Switzerland,Education,8401
 Males,Switzerland,Human health and social work activities,7398
@@ -1907,7 +1907,7 @@ Males,United Kingdom,Real estate activities,3611
 Males,United Kingdom,Professional scientific and technical activities,5139
 Males,United Kingdom,Administrative and support service activities,2983
 Males,United Kingdom,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3689
-Males,United Kingdom,Public administration and defence; compulsory social security3676
+Males,United Kingdom,Public administration and defence; compulsory social security,3676
 Males,United Kingdom,Education; human health and social work activities; arts entertainment and recreation; other service activities,3692
 Males,United Kingdom,Education,3664
 Males,United Kingdom,Human health and social work activities,3957
@@ -1936,7 +1936,7 @@ Males,North Macedonia,Real estate activities,495
 Males,North Macedonia,Professional scientific and technical activities,717
 Males,North Macedonia,Administrative and support service activities,448
 Males,North Macedonia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,695
-Males,North Macedonia,Public administration and defence; compulsory social security724
+Males,North Macedonia,Public administration and defence; compulsory social security,724
 Males,North Macedonia,Education; human health and social work activities; arts entertainment and recreation; other service activities,657
 Males,North Macedonia,Education,591
 Males,North Macedonia,Human health and social work activities,842
@@ -1965,7 +1965,7 @@ Males,Albania,Real estate activities,433
 Males,Albania,Professional scientific and technical activities,513
 Males,Albania,Administrative and support service activities,427
 Males,Albania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Males,Albania,Public administration and defence; compulsory social security0
+Males,Albania,Public administration and defence; compulsory social security,0
 Males,Albania,Education; human health and social work activities; arts entertainment and recreation; other service activities,506
 Males,Albania,Education,524
 Males,Albania,Human health and social work activities,518
@@ -1994,7 +1994,7 @@ Males,Serbia,Real estate activities,0
 Males,Serbia,Professional scientific and technical activities,918
 Males,Serbia,Administrative and support service activities,505
 Males,Serbia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,676
-Males,Serbia,Public administration and defence; compulsory social security733
+Males,Serbia,Public administration and defence; compulsory social security,733
 Males,Serbia,Education; human health and social work activities; arts entertainment and recreation; other service activities,657
 Males,Serbia,Education,651
 Males,Serbia,Human health and social work activities,718
@@ -2023,7 +2023,7 @@ Males,Turkey,Real estate activities,638
 Males,Turkey,Professional scientific and technical activities,1190
 Males,Turkey,Administrative and support service activities,622
 Males,Turkey,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Males,Turkey,Public administration and defence; compulsory social security0
+Males,Turkey,Public administration and defence; compulsory social security,0
 Males,Turkey,Education; human health and social work activities; arts entertainment and recreation; other service activities,1150
 Males,Turkey,Education,1092
 Males,Turkey,Human health and social work activities,1374
@@ -2052,7 +2052,7 @@ Females,Belgium,Real estate activities,3445
 Females,Belgium,Professional scientific and technical activities,4384
 Females,Belgium,Administrative and support service activities,2682
 Females,Belgium,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Females,Belgium,Public administration and defence; compulsory social security0
+Females,Belgium,Public administration and defence; compulsory social security,0
 Females,Belgium,Education; human health and social work activities; arts entertainment and recreation; other service activities,3108
 Females,Belgium,Education,3613
 Females,Belgium,Human health and social work activities,2910
@@ -2081,7 +2081,7 @@ Females,Bulgaria,Real estate activities,575
 Females,Bulgaria,Professional scientific and technical activities,873
 Females,Bulgaria,Administrative and support service activities,552
 Females,Bulgaria,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,553
-Females,Bulgaria,Public administration and defence; compulsory social security583
+Females,Bulgaria,Public administration and defence; compulsory social security,583
 Females,Bulgaria,Education; human health and social work activities; arts entertainment and recreation; other service activities,544
 Females,Bulgaria,Education,562
 Females,Bulgaria,Human health and social work activities,542
@@ -2110,7 +2110,7 @@ Females,Czechia,Real estate activities,1072
 Females,Czechia,Professional scientific and technical activities,1406
 Females,Czechia,Administrative and support service activities,785
 Females,Czechia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1159
-Females,Czechia,Public administration and defence; compulsory social security1217
+Females,Czechia,Public administration and defence; compulsory social security,1217
 Females,Czechia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1141
 Females,Czechia,Education,1098
 Females,Czechia,Human health and social work activities,1225
@@ -2139,7 +2139,7 @@ Females,Denmark,Real estate activities,4210
 Females,Denmark,Professional scientific and technical activities,5071
 Females,Denmark,Administrative and support service activities,3911
 Females,Denmark,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4036
-Females,Denmark,Public administration and defence; compulsory social security4575
+Females,Denmark,Public administration and defence; compulsory social security,4575
 Females,Denmark,Education; human health and social work activities; arts entertainment and recreation; other service activities,3980
 Females,Denmark,Education,4473
 Females,Denmark,Human health and social work activities,3828
@@ -2168,7 +2168,7 @@ Females,Germany (until 1990 former territory of the FRG),Real estate activities,
 Females,Germany (until 1990 former territory of the FRG),Professional scientific and technical activities,3412
 Females,Germany (until 1990 former territory of the FRG),Administrative and support service activities,2160
 Females,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3234
-Females,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security3472
+Females,Germany (until 1990 former territory of the FRG),Public administration and defence; compulsory social security,3472
 Females,Germany (until 1990 former territory of the FRG),Education; human health and social work activities; arts entertainment and recreation; other service activities,3182
 Females,Germany (until 1990 former territory of the FRG),Education,3656
 Females,Germany (until 1990 former territory of the FRG),Human health and social work activities,3039
@@ -2197,7 +2197,7 @@ Females,Estonia,Real estate activities,1155
 Females,Estonia,Professional scientific and technical activities,1701
 Females,Estonia,Administrative and support service activities,1056
 Females,Estonia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1293
-Females,Estonia,Public administration and defence; compulsory social security1502
+Females,Estonia,Public administration and defence; compulsory social security,1502
 Females,Estonia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1246
 Females,Estonia,Education,1180
 Females,Estonia,Human health and social work activities,1398
@@ -2226,7 +2226,7 @@ Females,Ireland,Real estate activities,3002
 Females,Ireland,Professional scientific and technical activities,3918
 Females,Ireland,Administrative and support service activities,2659
 Females,Ireland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3811
-Females,Ireland,Public administration and defence; compulsory social security3789
+Females,Ireland,Public administration and defence; compulsory social security,3789
 Females,Ireland,Education; human health and social work activities; arts entertainment and recreation; other service activities,3814
 Females,Ireland,Education,4364
 Females,Ireland,Human health and social work activities,3640
@@ -2255,7 +2255,7 @@ Females,Greece,Real estate activities,1348
 Females,Greece,Professional scientific and technical activities,1604
 Females,Greece,Administrative and support service activities,1033
 Females,Greece,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Females,Greece,Public administration and defence; compulsory social security0
+Females,Greece,Public administration and defence; compulsory social security,0
 Females,Greece,Education; human health and social work activities; arts entertainment and recreation; other service activities,1529
 Females,Greece,Education,1690
 Females,Greece,Human health and social work activities,1445
@@ -2284,7 +2284,7 @@ Females,Spain,Real estate activities,1959
 Females,Spain,Professional scientific and technical activities,2115
 Females,Spain,Administrative and support service activities,1388
 Females,Spain,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2112
-Females,Spain,Public administration and defence; compulsory social security2161
+Females,Spain,Public administration and defence; compulsory social security,2161
 Females,Spain,Education; human health and social work activities; arts entertainment and recreation; other service activities,2098
 Females,Spain,Education,2263
 Females,Spain,Human health and social work activities,2076
@@ -2313,7 +2313,7 @@ Females,France,Real estate activities,2609
 Females,France,Professional scientific and technical activities,3343
 Females,France,Administrative and support service activities,2299
 Females,France,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2436
-Females,France,Public administration and defence; compulsory social security2396
+Females,France,Public administration and defence; compulsory social security,2396
 Females,France,Education; human health and social work activities; arts entertainment and recreation; other service activities,2451
 Females,France,Education,2824
 Females,France,Human health and social work activities,2279
@@ -2342,7 +2342,7 @@ Females,Croatia,Real estate activities,1217
 Females,Croatia,Professional scientific and technical activities,1538
 Females,Croatia,Administrative and support service activities,878
 Females,Croatia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1182
-Females,Croatia,Public administration and defence; compulsory social security1236
+Females,Croatia,Public administration and defence; compulsory social security,1236
 Females,Croatia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1169
 Females,Croatia,Education,1171
 Females,Croatia,Human health and social work activities,1203
@@ -2371,7 +2371,7 @@ Females,Italy,Real estate activities,2353
 Females,Italy,Professional scientific and technical activities,2633
 Females,Italy,Administrative and support service activities,1808
 Females,Italy,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2362
-Females,Italy,Public administration and defence; compulsory social security2536
+Females,Italy,Public administration and defence; compulsory social security,2536
 Females,Italy,Education; human health and social work activities; arts entertainment and recreation; other service activities,2318
 Females,Italy,Education,2229
 Females,Italy,Human health and social work activities,2466
@@ -2400,7 +2400,7 @@ Females,Cyprus,Real estate activities,0
 Females,Cyprus,Professional scientific and technical activities,2012
 Females,Cyprus,Administrative and support service activities,0
 Females,Cyprus,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2183
-Females,Cyprus,Public administration and defence; compulsory social security1983
+Females,Cyprus,Public administration and defence; compulsory social security,1983
 Females,Cyprus,Education; human health and social work activities; arts entertainment and recreation; other service activities,2257
 Females,Cyprus,Education,2588
 Females,Cyprus,Human health and social work activities,1949
@@ -2429,7 +2429,7 @@ Females,Latvia,Real estate activities,971
 Females,Latvia,Professional scientific and technical activities,1506
 Females,Latvia,Administrative and support service activities,929
 Females,Latvia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1043
-Females,Latvia,Public administration and defence; compulsory social security1211
+Females,Latvia,Public administration and defence; compulsory social security,1211
 Females,Latvia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1001
 Females,Latvia,Education,856
 Females,Latvia,Human health and social work activities,1265
@@ -2458,7 +2458,7 @@ Females,Lithuania,Real estate activities,806
 Females,Lithuania,Professional scientific and technical activities,1217
 Females,Lithuania,Administrative and support service activities,747
 Females,Lithuania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,944
-Females,Lithuania,Public administration and defence; compulsory social security1094
+Females,Lithuania,Public administration and defence; compulsory social security,1094
 Females,Lithuania,Education; human health and social work activities; arts entertainment and recreation; other service activities,913
 Females,Lithuania,Education,861
 Females,Lithuania,Human health and social work activities,1013
@@ -2487,7 +2487,7 @@ Females,Luxembourg,Real estate activities,3879
 Females,Luxembourg,Professional scientific and technical activities,4670
 Females,Luxembourg,Administrative and support service activities,2778
 Females,Luxembourg,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,5800
-Females,Luxembourg,Public administration and defence; compulsory social security6706
+Females,Luxembourg,Public administration and defence; compulsory social security,6706
 Females,Luxembourg,Education; human health and social work activities; arts entertainment and recreation; other service activities,5703
 Females,Luxembourg,Education,7469
 Females,Luxembourg,Human health and social work activities,5076
@@ -2516,7 +2516,7 @@ Females,Hungary,Real estate activities,881
 Females,Hungary,Professional scientific and technical activities,1220
 Females,Hungary,Administrative and support service activities,787
 Females,Hungary,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,870
-Females,Hungary,Public administration and defence; compulsory social security824
+Females,Hungary,Public administration and defence; compulsory social security,824
 Females,Hungary,Education; human health and social work activities; arts entertainment and recreation; other service activities,894
 Females,Hungary,Education,926
 Females,Hungary,Human health and social work activities,873
@@ -2545,7 +2545,7 @@ Females,Malta,Real estate activities,1844
 Females,Malta,Professional scientific and technical activities,2152
 Females,Malta,Administrative and support service activities,1483
 Females,Malta,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2045
-Females,Malta,Public administration and defence; compulsory social security2111
+Females,Malta,Public administration and defence; compulsory social security,2111
 Females,Malta,Education; human health and social work activities; arts entertainment and recreation; other service activities,2035
 Females,Malta,Education,1902
 Females,Malta,Human health and social work activities,2125
@@ -2574,7 +2574,7 @@ Females,Netherlands,Real estate activities,3383
 Females,Netherlands,Professional scientific and technical activities,3480
 Females,Netherlands,Administrative and support service activities,2174
 Females,Netherlands,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3132
-Females,Netherlands,Public administration and defence; compulsory social security3733
+Females,Netherlands,Public administration and defence; compulsory social security,3733
 Females,Netherlands,Education; human health and social work activities; arts entertainment and recreation; other service activities,3047
 Females,Netherlands,Education,3509
 Females,Netherlands,Human health and social work activities,2929
@@ -2603,7 +2603,7 @@ Females,Austria,Real estate activities,2914
 Females,Austria,Professional scientific and technical activities,3166
 Females,Austria,Administrative and support service activities,2102
 Females,Austria,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Females,Austria,Public administration and defence; compulsory social security0
+Females,Austria,Public administration and defence; compulsory social security,0
 Females,Austria,Education; human health and social work activities; arts entertainment and recreation; other service activities,2814
 Females,Austria,Education,2953
 Females,Austria,Human health and social work activities,2881
@@ -2632,7 +2632,7 @@ Females,Poland,Real estate activities,1010
 Females,Poland,Professional scientific and technical activities,1414
 Females,Poland,Administrative and support service activities,772
 Females,Poland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,999
-Females,Poland,Public administration and defence; compulsory social security1096
+Females,Poland,Public administration and defence; compulsory social security,1096
 Females,Poland,Education; human health and social work activities; arts entertainment and recreation; other service activities,976
 Females,Poland,Education,957
 Females,Poland,Human health and social work activities,1031
@@ -2661,7 +2661,7 @@ Females,Portugal,Real estate activities,1423
 Females,Portugal,Professional scientific and technical activities,1610
 Females,Portugal,Administrative and support service activities,865
 Females,Portugal,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Females,Portugal,Public administration and defence; compulsory social security0
+Females,Portugal,Public administration and defence; compulsory social security,0
 Females,Portugal,Education; human health and social work activities; arts entertainment and recreation; other service activities,1427
 Females,Portugal,Education,1819
 Females,Portugal,Human health and social work activities,1179
@@ -2690,7 +2690,7 @@ Females,Romania,Real estate activities,777
 Females,Romania,Professional scientific and technical activities,1301
 Females,Romania,Administrative and support service activities,834
 Females,Romania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1228
-Females,Romania,Public administration and defence; compulsory social security1279
+Females,Romania,Public administration and defence; compulsory social security,1279
 Females,Romania,Education; human health and social work activities; arts entertainment and recreation; other service activities,1211
 Females,Romania,Education,1107
 Females,Romania,Human health and social work activities,1419
@@ -2719,7 +2719,7 @@ Females,Slovenia,Real estate activities,1646
 Females,Slovenia,Professional scientific and technical activities,2092
 Females,Slovenia,Administrative and support service activities,1116
 Females,Slovenia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1750
-Females,Slovenia,Public administration and defence; compulsory social security1914
+Females,Slovenia,Public administration and defence; compulsory social security,1914
 Females,Slovenia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1709
 Females,Slovenia,Education,1705
 Females,Slovenia,Human health and social work activities,1718
@@ -2748,7 +2748,7 @@ Females,Slovakia,Real estate activities,978
 Females,Slovakia,Professional scientific and technical activities,1378
 Females,Slovakia,Administrative and support service activities,870
 Females,Slovakia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,1016
-Females,Slovakia,Public administration and defence; compulsory social security1031
+Females,Slovakia,Public administration and defence; compulsory social security,1031
 Females,Slovakia,Education; human health and social work activities; arts entertainment and recreation; other service activities,1011
 Females,Slovakia,Education,991
 Females,Slovakia,Human health and social work activities,1067
@@ -2777,7 +2777,7 @@ Females,Finland,Real estate activities,3189
 Females,Finland,Professional scientific and technical activities,3617
 Females,Finland,Administrative and support service activities,2434
 Females,Finland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3087
-Females,Finland,Public administration and defence; compulsory social security3383
+Females,Finland,Public administration and defence; compulsory social security,3383
 Females,Finland,Education; human health and social work activities; arts entertainment and recreation; other service activities,3043
 Females,Finland,Education,3398
 Females,Finland,Human health and social work activities,2952
@@ -2806,7 +2806,7 @@ Females,Sweden,Real estate activities,3622
 Females,Sweden,Professional scientific and technical activities,3993
 Females,Sweden,Administrative and support service activities,3026
 Females,Sweden,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,3155
-Females,Sweden,Public administration and defence; compulsory social security3570
+Females,Sweden,Public administration and defence; compulsory social security,3570
 Females,Sweden,Education; human health and social work activities; arts entertainment and recreation; other service activities,3128
 Females,Sweden,Education,3124
 Females,Sweden,Human health and social work activities,3128
@@ -2835,7 +2835,7 @@ Females,Iceland,Real estate activities,0
 Females,Iceland,Professional scientific and technical activities,0
 Females,Iceland,Administrative and support service activities,0
 Females,Iceland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4643
-Females,Iceland,Public administration and defence; compulsory social security5456
+Females,Iceland,Public administration and defence; compulsory social security,5456
 Females,Iceland,Education; human health and social work activities; arts entertainment and recreation; other service activities,4533
 Females,Iceland,Education,4120
 Females,Iceland,Human health and social work activities,4915
@@ -2864,7 +2864,7 @@ Females,Norway,Real estate activities,5018
 Females,Norway,Professional scientific and technical activities,5301
 Females,Norway,Administrative and support service activities,3759
 Females,Norway,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,4394
-Females,Norway,Public administration and defence; compulsory social security4780
+Females,Norway,Public administration and defence; compulsory social security,4780
 Females,Norway,Education; human health and social work activities; arts entertainment and recreation; other service activities,4342
 Females,Norway,Education,4527
 Females,Norway,Human health and social work activities,4319
@@ -2893,7 +2893,7 @@ Females,Switzerland,Real estate activities,6021
 Females,Switzerland,Professional scientific and technical activities,7049
 Females,Switzerland,Administrative and support service activities,4783
 Females,Switzerland,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,6170
-Females,Switzerland,Public administration and defence; compulsory social security7288
+Females,Switzerland,Public administration and defence; compulsory social security,7288
 Females,Switzerland,Education; human health and social work activities; arts entertainment and recreation; other service activities,6164
 Females,Switzerland,Education,7226
 Females,Switzerland,Human health and social work activities,6014
@@ -2922,7 +2922,7 @@ Females,United Kingdom,Real estate activities,2929
 Females,United Kingdom,Professional scientific and technical activities,3644
 Females,United Kingdom,Administrative and support service activities,2617
 Females,United Kingdom,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,2918
-Females,United Kingdom,Public administration and defence; compulsory social security3132
+Females,United Kingdom,Public administration and defence; compulsory social security,3132
 Females,United Kingdom,Education; human health and social work activities; arts entertainment and recreation; other service activities,2894
 Females,United Kingdom,Education,2970
 Females,United Kingdom,Human health and social work activities,2878
@@ -2951,7 +2951,7 @@ Females,North Macedonia,Real estate activities,472
 Females,North Macedonia,Professional scientific and technical activities,721
 Females,North Macedonia,Administrative and support service activities,454
 Females,North Macedonia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,588
-Females,North Macedonia,Public administration and defence; compulsory social security656
+Females,North Macedonia,Public administration and defence; compulsory social security,656
 Females,North Macedonia,Education; human health and social work activities; arts entertainment and recreation; other service activities,568
 Females,North Macedonia,Education,574
 Females,North Macedonia,Human health and social work activities,566
@@ -2980,7 +2980,7 @@ Females,Albania,Real estate activities,355
 Females,Albania,Professional scientific and technical activities,493
 Females,Albania,Administrative and support service activities,470
 Females,Albania,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Females,Albania,Public administration and defence; compulsory social security0
+Females,Albania,Public administration and defence; compulsory social security,0
 Females,Albania,Education; human health and social work activities; arts entertainment and recreation; other service activities,447
 Females,Albania,Education,469
 Females,Albania,Human health and social work activities,415
@@ -3009,7 +3009,7 @@ Females,Serbia,Real estate activities,0
 Females,Serbia,Professional scientific and technical activities,862
 Females,Serbia,Administrative and support service activities,490
 Females,Serbia,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,617
-Females,Serbia,Public administration and defence; compulsory social security710
+Females,Serbia,Public administration and defence; compulsory social security,710
 Females,Serbia,Education; human health and social work activities; arts entertainment and recreation; other service activities,599
 Females,Serbia,Education,606
 Females,Serbia,Human health and social work activities,601
@@ -3038,7 +3038,7 @@ Females,Turkey,Real estate activities,1112
 Females,Turkey,Professional scientific and technical activities,1012
 Females,Turkey,Administrative and support service activities,525
 Females,Turkey,Public administration and defence; compulsory social security; education; human health and social work activities; arts entertainment and recreation; other service activities,0
-Females,Turkey,Public administration and defence; compulsory social security0
+Females,Turkey,Public administration and defence; compulsory social security,0
 Females,Turkey,Education; human health and social work activities; arts entertainment and recreation; other service activities,973
 Females,Turkey,Education,1065
 Females,Turkey,Human health and social work activities,808
