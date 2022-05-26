@@ -68,7 +68,7 @@
           start = 0;
         }
         for (let i = start; i < end; i += step) {
-          var rounded = Math.round(i * 10) / 10
+          var rounded = i;//Math.round(i * 10) / 10
           output.push(rounded);
         }
         return output;
@@ -187,12 +187,34 @@
       async function load_file2(df) {
 
         let cox3 = df.column("TIME");
-        
+        let cox3array = cox3.values;
+
+        function getMax(arr) {
+          if (!arr) {
+            return null;
+          }
+          var maxV = arr[0];
+          for (a of arr) {
+            if (a > maxV) maxV = a;
+          }
+          return maxV;
+        }
+
+        function getMinNotNull(arr) {
+          if (!arr) {
+            return null;
+          }
+          var minV = arr[0];
+          for (a of arr) {
+            if (a < minV & a != 0) minV = a;
+          }
+          return minV;
+        }
         console.log("TODO: BUG HERE");
-        console.log(cox3.dtype);
+        console.log(getMax(cox3array));
         //console.log("2012M10" < "2012M3");
 
-        let most_recent_year = cox3.max();
+        let most_recent_year = getMax(cox3array);
         
 
         let rows = df["TIME"].eq(most_recent_year);
@@ -201,7 +223,10 @@
         // HERE HERE
         if(hasVaryingAttributes) {
           Object.keys(abc[2]).forEach(key => {
+              console.log("dropdown:");
+              console.log(key);
               const dropdown = document.getElementById(key);
+              
 
               console.log(key + ": " + dropdown.value);
 
@@ -237,9 +262,9 @@
         console.log(cox2);
 
 
-        let min = cox2.min();
+        let min = getMinNotNull(cox2.values);
         min_value = min;
-        let max = cox2.max();
+        let max = getMax(cox2.values);
         max_value = max;
 
         let dif = max - min;
@@ -248,6 +273,9 @@
 
 
         function getColor(d) {
+          console.log("getcolorfunctionminandmax")
+          console.log(min)
+          console.log(max)
           if(d == 0)
             return '#FFFFFF';
           return d > min + step * 7 ? '#800026' :
@@ -403,10 +431,12 @@
 
             //console.log("grades" + grades);
             // loop through our density intervals and generate a label with a colored square for each interval
+            console.log("colorscheme");
+            console.log(colorf);
             for (var i = 0; i < grades.length; i++) {
                 div.innerHTML +=
-                    '<i style="background:' + colorf(grades[i] + 1) + '"></i> ' +
-                    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+                    '<i style="background:' + colorf(grades[i] + 0.0001) + '"></i> ' +
+                    Math.round(grades[i] * 100) / 100 + (grades[i + 1] ? '&ndash;' + Math.round(grades[i + 1] * 100) / 100 + '<br>' : '+');
             }
 
             return div;
@@ -440,13 +470,7 @@
         console.log("data:")
         console.log(data)
         
-        //also update the heatmap
-        if(clear){
-          console.log("heeere");
-          console.log(updatef);
-          updatef();
-        }
-        mapFunction(current_data, data[3], clear);
+       
 
         //also update the table-specific dropdowns
         
@@ -492,6 +516,14 @@
         else {
           hasVaryingAttributes = false;
         }
+        
+         //also update the heatmap
+         if(clear){
+          console.log("heeere");
+          console.log(updatef);
+          updatef();
+        }
+        mapFunction(current_data, data[3], clear);
 
         //also update the current graph
         bindBarChart(current_selected_country, 'bar_chart');
