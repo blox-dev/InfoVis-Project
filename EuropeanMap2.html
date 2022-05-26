@@ -21,6 +21,29 @@
         height: 50vh;
         width: 40vw;
       }
+      .info {
+          padding: 6px 8px;
+          font: 14px/16px Arial, Helvetica, sans-serif;
+          background: white;
+          background: rgba(255,255,255,0.8);
+          box-shadow: 0 0 15px rgba(0,0,0,0.2);
+          border-radius: 5px;
+      }
+      .info h4 {
+          margin: 0 0 5px;
+          color: #777;
+      }
+      .legend {
+          line-height: 18px;
+          color: #555;
+      }
+      .legend i {
+          width: 18px;
+          height: 18px;
+          float: left;
+          margin-right: 8px;
+          opacity: 0.7;
+      }
     </style>
   </head>
 
@@ -38,6 +61,20 @@
       <!-- <p>This is a paragraph.</p> -->
     </div>
     <script>
+      const range = (start, end, step = 1) => {
+        let output = [];
+        if (typeof end === 'undefined') {
+          end = start;
+          start = 0;
+        }
+        for (let i = start; i < end; i += step) {
+          var rounded = Math.round(i * 10) / 10
+          output.push(rounded);
+        }
+        return output;
+      };
+
+
       var map = L.map("map").setView([56.105, 13.609], 4);
       // L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/dark_nolabels/{z}/{x}/{y}.png', {
       // attribution: '©OpenStreetMap, ©CartoDB'
@@ -105,19 +142,28 @@
       var current_data = "";
       var current_selected_country = "";
       var hasVaryingAttributes = false;
+      var colorf;
+      var color_matrix;
+      var color_by_c;
+      var value_matrix;
+      var value_by_c;
+      var min_value;
+      var max_value;
+      var step_interval;
+      var updatef;
 
-      async function main () {
-      await fetch("./data/metadata.json")
+      fetch("./data/metadata.json")
       .then(response => response.json())
       .then(metadata => {
         console.log(metadata);
-        
         const files = metadata.files;
         
         var selectFile = document.getElementById("select_file");
-        selectFile.onchange = (e) => {updateMap(selectFile.value);};
+        selectFile.onchange = (e) => {updateMap(selectFile.value, true);};
 
-        async function g(key) {
+        var first = true;
+
+        Object.keys(files).forEach(key => {
           var details = files[key];
 
           var a = document.createElement('option');
@@ -126,39 +172,287 @@
 
           selectFile.append(a);
 
-          const resp = await dfd.readCSV('./data/' + key + '.csv').then( df => {
-            //all_tables[key] = [details.x, details.y, details.values, df];
-            return [details.x, details.y, details.values, df];
+          dfd.readCSV('./data/' + key + '.csv').then( df => {
+            all_tables[key] = [details.x, details.y, details.values, df];
+          }).then(() => {
+            if(first)
+            {
+              first=false;
+              updateMap(key, false);
+            }
           });
-          
-          return [key,resp];
+        });
+      });
+
+      async function load_file2(df) {
+
+        let cox3 = df.column("TIME");
+        
+        console.log("TODO: BUG HERE");
+        console.log(cox3.dtype);
+        //console.log("2012M10" < "2012M3");
+
+        let most_recent_year = cox3.max();
+        
+
+        let rows = df["TIME"].eq(most_recent_year);
+        let abc = all_tables[current_data];
+
+        // HERE HERE
+        if(hasVaryingAttributes) {
+          Object.keys(abc[2]).forEach(key => {
+              const dropdown = document.getElementById(key);
+
+              console.log(key + ": " + dropdown.value);
+
+              //add condition to row selection
+              rows = rows.and(df[key].eq(dropdown.value));
+          });
         }
 
-        return Promise.all(Object.keys(files).map(key => g(key)));
-      })
-      .then(responses => {
-        responses.forEach(([key,resp]) => {all_tables[key]=resp;});
-        
-        //update for the first loaded file
-        updateMap(responses[0][0]);
-        
-      }).then(() => {
-        //all tables is set here
-        console.log(all_tables);
-      });
-    }
+        let cox = df.loc({
+          rows: rows
+        });
 
-    main();
+        console.log("this data right here");
+        console.log(cox);
 
-      function updateMap(filename) {
+
+        // let cox4 = cox.query(cox["TIME"].eq(most_recent_year));
+        // console.log("cox4");
+        // cox4.print();
+
+        let cox4 = cox; // OUR LORD AND SAVIOR
+
+        let cox2 = cox4.column("VALUE");
+
+        // let dataaa = df.loc({
+        //   columns: ["VALUE"],
+        //   rows: rows,
+        // })
+
+        //cox2 = rows;
+
+        console.log("valuees::");
+        console.log(cox2);
+
+
+        let min = cox2.min();
+        min_value = min;
+        let max = cox2.max();
+        max_value = max;
+
+        let dif = max - min;
+        let step = dif / 8;
+        step_interval = step;
+
+
+        function getColor(d) {
+          if(d == 0)
+            return '#FFFFFF';
+          return d > min + step * 7 ? '#800026' :
+                d > min + step * 6  ? '#BD0026' :
+                d > min + step * 5  ? '#E31A1C' :
+                d > min + step * 4  ? '#FC4E2A' :
+                d > min + step * 3   ? '#FD8D3C' :
+                d > min + step * 2   ? '#FEB24C' :
+                d > min + step   ? '#FED976' :
+                            '#FFEDA0';
+        };
+        colorf = getColor;
+        
+        let cox5 = cox4.loc({columns: ["COUNTRY", "VALUE"]});
+        
+        let cox_array = cox5.values;
+        
+        console.log("cox_array");
+        console.log(cox_array);
+        
+
+        value_matrix = cox_array
+        let map1 = cox_array.map(x => [x[0], colorf(x[1])]);
+        color_matrix = map1;
+
+        function countryComparison(x, y) {
+          if (y == "Germany" & x == "Germany (until 1990 former territory of the FRG)") {
+            return true
+          } else {
+            return x == y
+          }
+        }
+
+        function fetchColor(c) {
+          const found = color_matrix.find(element => countryComparison(element[0], c));
+          if (typeof found !== 'undefined' && found[1] != 0) {
+            return found[1]
+          } else {
+            return '#FFFFFF'
+          }
+        }
+        color_by_c = fetchColor;
+
+        function fetchValue(c) {
+          const found = value_matrix.find(element => countryComparison(element[0], c));
+          console.log(found);
+          if (typeof found !== 'undefined' && found[1] != 0) {
+            return found[1];
+          } else {
+            return 'NO DATA FOR ' + most_recent_year;
+          }
+        }
+        value_by_c = fetchValue;
+      };
+
+      function style(feature) {
+        //console.log(colorf);
+        //console.log(color_by_c);
+        return {
+          fillColor: color_by_c(feature.properties.ADMIN),
+          weight: 2,
+          opacity: 1,
+          color: 'white',
+          dashArray: '3',
+          fillOpacity: 1
+        };
+      }
+
+      async function mapFunction(clearmap) {
+
+        let dataframe = all_tables[current_data][3];
+        let filenameee = current_data;
+
+        var geoMap;
+
+        await load_file2(dataframe);
+
+        console.log("matrix" + color_matrix);
+
+        function highlightFeature(e) {
+          var layer = e.target;
+
+          layer.setStyle({
+              weight: 5,
+              color: '#666',
+              dashArray: '',
+              fillOpacity: 0.7
+          });
+
+          if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+              layer.bringToFront();
+          }
+
+          info.update(filenameee, [layer.feature.properties.ADMIN, value_by_c(layer.feature.properties.ADMIN)]);
+        }
+
+        function resetHighlight(e) {
+            geoMap.resetStyle(e.target);
+            info.update(filenameee);
+        }
+
+        function graphData(e) {
+          const country = e.target.feature.properties.ADMIN;
+
+          current_selected_country = country;
+          
+          console.log("ccc" + country);
+
+          //plot data for {country} in div with id 'bar_chart'
+          bindBarChart(country, 'bar_chart');
+        }
+
+        function onEachFeature(feature, layer) {
+          layer.on({
+            mouseover: highlightFeature,
+            mouseout: resetHighlight,
+            click: graphData
+          });
+        }
+
+        geoMap = L.geoJson(myGeoJson, {
+        onEachFeature: onEachFeature,
+        style: style,
+        }).addTo(map);
+
+        // HOVER BOX
+        var info = L.control();
+
+        info.onAdd = function (map) {
+            this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+            this.update(filenameee);
+            return this._div;
+        };
+
+        // method that we will use to update the control based on feature properties passed
+        info.update = function (filename, props) {
+          //console.log("props" + props);
+            this._div.innerHTML = '<h4>' + filename.replaceAll('_', ' ') + '</h4>' +  (props ?
+                '<b>' + props[0] + '</b><br />' + props[1]
+                : 'Hover over a country');
+        };
+
+        info.addTo(map);
+
+        // LEGENED
+        var legend = L.control({position: 'bottomright'});
+
+        legend.onAdd = function (map) {
+
+            var div = L.DomUtil.create('div', 'info legend'),
+                grades = range(min_value, max_value, step_interval),
+                labels = [];
+
+            //console.log("grades" + grades);
+            // loop through our density intervals and generate a label with a colored square for each interval
+            for (var i = 0; i < grades.length; i++) {
+                div.innerHTML +=
+                    '<i style="background:' + colorf(grades[i] + 1) + '"></i> ' +
+                    grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+            }
+
+            return div;
+        };
+
+
+        if (clearmap){
+
+          console.log("CLLEEEEEEAAAAR")
+          map.removeControl(legend);
+          map.removeControl(info);
+        }
+        
+        info.addTo(map);
+        legend.addTo(map);
+
+        function remove() {
+          map.removeControl(legend);
+          map.removeControl(info);
+        }
+
+        updatef = remove;
+
+      }
+
+      function updateMap(filename, clear) {
         current_data = filename;
         console.log("Current data set to: " + filename);
+
+        const data = all_tables[filename];
+        console.log("data:")
+        console.log(data)
         
         //also update the heatmap
+        if(clear){
+          console.log("heeere");
+          console.log(updatef);
+          updatef();
+        }
+        mapFunction(current_data, data[3], clear);
 
         //also update the table-specific dropdowns
-        const data = all_tables[filename];
+        
         const values = data[2];
+        console.log("values:");
+        console.log(values);
 
         //get all table specific dropdowns
         const dropdownDiv = document.getElementById("chart_dropdown");
@@ -177,7 +471,11 @@
             
             var a = document.createElement('select');
             a.id = key;
-            a.onchange = (e) => {bindBarChart("France","bar_chart");};
+            a.onchange = (e) => {
+              bindBarChart(current_selected_country,"bar_chart");
+              updatef();
+              mapFunction(true);
+            };
 
             values[key].forEach(opt => {
               var b = document.createElement('option');
@@ -275,59 +573,59 @@
         }
       }
 
-      var unhighlightedstyle = {
-        opacity: 1,
-        color: "#FFFFFF",
-        weight: 2,
-        fill: true,
-        fillColor: "#003399",
-        fillOpacity: 1,
-      };
+      // var unhighlightedstyle = {
+      //   opacity: 1,
+      //   color: "#FFFFFF",
+      //   weight: 2,
+      //   fill: true,
+      //   fillColor: "#003399",
+      //   fillOpacity: 1,
+      // };
 
-      var highlightedstyle = {
-        opacity: 1,
-        color: "#FFCC00",
-        weight: 4,
-        fill: true,
-        fillColor: "#003399",
-        fillOpacity: 1,
-      };
+      // var highlightedstyle = {
+      //   opacity: 1,
+      //   color: "#FFCC00",
+      //   weight: 4,
+      //   fill: true,
+      //   fillColor: "#003399",
+      //   fillOpacity: 1,
+      // };
 
-      var geoMap = L.geoJson(myGeoJson, {
-        onEachFeature: onEachFeature,
-        style: unhighlightedstyle,
-      }).addTo(map);
+      // var geoMap = L.geoJson(myGeoJson, {
+      //   onEachFeature: onEachFeature,
+      //   style: unhighlightedstyle,
+      // }).addTo(map);
 
-      function highlightFeature(e) {
-        var layer = e.target;
+      // function highlightFeature(e) {
+      //   var layer = e.target;
 
-        layer.setStyle(highlightedstyle);
+      //   layer.setStyle(highlightedstyle);
 
-        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-          layer.bringToFront();
-        }
-      }
+      //   if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+      //     layer.bringToFront();
+      //   }
+      // }
 
-      function resetHighlight(e) {
-        geoMap.resetStyle(e.target);
-      }
+      // function resetHighlight(e) {
+      //   geoMap.resetStyle(e.target);
+      // }
 
-      function graphData(e) {
-       const country = e.target.feature.properties.ADMIN;
+      // function graphData(e) {
+      //  const country = e.target.feature.properties.ADMIN;
 
-       console.log(country);
-       current_selected_country = country;
-       //plot data for {country} in div with id 'bar_chart'
-       bindBarChart(country, 'bar_chart');
-      }
+      //  console.log(country);
+      //  current_selected_country = country;
+      //  //plot data for {country} in div with id 'bar_chart'
+      //  bindBarChart(country, 'bar_chart');
+      // }
 
-      function onEachFeature(feature, layer) {
-        layer.on({
-          mouseover: highlightFeature,
-          mouseout: resetHighlight,
-          click: graphData
-        });
-      }
+      // function onEachFeature(feature, layer) {
+      //   layer.on({
+      //     mouseover: highlightFeature,
+      //     mouseout: resetHighlight,
+      //     click: graphData
+      //   });
+      // }
     </script>
   </body>
 </html>
