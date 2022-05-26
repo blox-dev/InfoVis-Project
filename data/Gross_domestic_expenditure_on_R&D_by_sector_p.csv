@@ -630,27 +630,6 @@ Business enterprise sector,Slovakia,2017,0.48
 Business enterprise sector,Slovakia,2018,0.45
 Business enterprise sector,Slovakia,2019,0.45
 Business enterprise sector,Slovakia,2020,0.49
-Business enterprise sector,Turkey,2000,0.16
-Business enterprise sector,Turkey,2001,0.18
-Business enterprise sector,Turkey,2002,0.15
-Business enterprise sector,Turkey,2003,0.11
-Business enterprise sector,Turkey,2004,0.12
-Business enterprise sector,Turkey,2005,0.19
-Business enterprise sector,Turkey,2006,0.2
-Business enterprise sector,Turkey,2007,0.28
-Business enterprise sector,Turkey,2008,0.3
-Business enterprise sector,Turkey,2009,0.32
-Business enterprise sector,Turkey,2010,0.34
-Business enterprise sector,Turkey,2011,0.34
-Business enterprise sector,Turkey,2012,0.37
-Business enterprise sector,Turkey,2013,0.39
-Business enterprise sector,Turkey,2014,0.43
-Business enterprise sector,Turkey,2015,0.44
-Business enterprise sector,Turkey,2016,0.51
-Business enterprise sector,Turkey,2017,0.54
-Business enterprise sector,Turkey,2018,0.62
-Business enterprise sector,Turkey,2019,0.68
-Business enterprise sector,Turkey,2020,0.71
 Business enterprise sector,United Kingdom,2000,1.05
 Business enterprise sector,United Kingdom,2001,1.05
 Business enterprise sector,United Kingdom,2002,1.05
@@ -1305,27 +1284,6 @@ Government sector,Slovakia,2017,0.18
 Government sector,Slovakia,2018,0.18
 Government sector,Slovakia,2019,0.16
 Government sector,Slovakia,2020,0.18
-Government sector,Turkey,2000,0.03
-Government sector,Turkey,2001,0.04
-Government sector,Turkey,2002,0.04
-Government sector,Turkey,2003,0.05
-Government sector,Turkey,2004,0.04
-Government sector,Turkey,2005,0.07
-Government sector,Turkey,2006,0.06
-Government sector,Turkey,2007,0.07
-Government sector,Turkey,2008,0.08
-Government sector,Turkey,2009,0.1
-Government sector,Turkey,2010,0.09
-Government sector,Turkey,2011,0.09
-Government sector,Turkey,2012,0.09
-Government sector,Turkey,2013,0.08
-Government sector,Turkey,2014,0.08
-Government sector,Turkey,2015,0.09
-Government sector,Turkey,2016,0.09
-Government sector,Turkey,2017,0.09
-Government sector,Turkey,2018,0.09
-Government sector,Turkey,2019,0.07
-Government sector,Turkey,2020,0.07
 Government sector,United Kingdom,2000,0.2
 Government sector,United Kingdom,2001,0.16
 Government sector,United Kingdom,2002,0.15
@@ -1980,27 +1938,6 @@ Higher education sector,Slovakia,2017,0.22
 Higher education sector,Slovakia,2018,0.2
 Higher education sector,Slovakia,2019,0.21
 Higher education sector,Slovakia,2020,0.24
-Higher education sector,Turkey,2000,0.28
-Higher education sector,Turkey,2001,0.31
-Higher education sector,Turkey,2002,0.33
-Higher education sector,Turkey,2003,0.31
-Higher education sector,Turkey,2004,0.34
-Higher education sector,Turkey,2005,0.31
-Higher education sector,Turkey,2006,0.28
-Higher education sector,Turkey,2007,0.33
-Higher education sector,Turkey,2008,0.3
-Higher education sector,Turkey,2009,0.38
-Higher education sector,Turkey,2010,0.37
-Higher education sector,Turkey,2011,0.36
-Higher education sector,Turkey,2012,0.36
-Higher education sector,Turkey,2013,0.34
-Higher education sector,Turkey,2014,0.35
-Higher education sector,Turkey,2015,0.35
-Higher education sector,Turkey,2016,0.34
-Higher education sector,Turkey,2017,0.32
-Higher education sector,Turkey,2018,0.31
-Higher education sector,Turkey,2019,0.31
-Higher education sector,Turkey,2020,0.31
 Higher education sector,United Kingdom,2000,0.33
 Higher education sector,United Kingdom,2001,0.36
 Higher education sector,United Kingdom,2002,0.39
@@ -2504,7 +2441,6 @@ Private non-profit sector,Slovakia,2017,0
 Private non-profit sector,Slovakia,2018,0
 Private non-profit sector,Slovakia,2019,0
 Private non-profit sector,Slovakia,2020,0
-Private non-profit sector,Turkey,2000,0
 Private non-profit sector,United Kingdom,2000,0.03
 Private non-profit sector,United Kingdom,2001,0.03
 Private non-profit sector,United Kingdom,2002,0.03
@@ -3156,27 +3092,6 @@ All sectors,Slovakia,2017,0.89
 All sectors,Slovakia,2018,0.84
 All sectors,Slovakia,2019,0.83
 All sectors,Slovakia,2020,0.91
-All sectors,Turkey,2000,0.47
-All sectors,Turkey,2001,0.52
-All sectors,Turkey,2002,0.51
-All sectors,Turkey,2003,0.47
-All sectors,Turkey,2004,0.5
-All sectors,Turkey,2005,0.56
-All sectors,Turkey,2006,0.55
-All sectors,Turkey,2007,0.69
-All sectors,Turkey,2008,0.69
-All sectors,Turkey,2009,0.8
-All sectors,Turkey,2010,0.79
-All sectors,Turkey,2011,0.79
-All sectors,Turkey,2012,0.83
-All sectors,Turkey,2013,0.81
-All sectors,Turkey,2014,0.86
-All sectors,Turkey,2015,0.88
-All sectors,Turkey,2016,0.94
-All sectors,Turkey,2017,0.95
-All sectors,Turkey,2018,1.03
-All sectors,Turkey,2019,1.06
-All sectors,Turkey,2020,1.09
 All sectors,United Kingdom,2000,1.62
 All sectors,United Kingdom,2001,1.61
 All sectors,United Kingdom,2002,1.62

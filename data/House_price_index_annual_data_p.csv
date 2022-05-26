@@ -29,7 +29,6 @@ TIME,COUNTRY,VALUE
 2010,Norway, 100.00
 2010,Switzerland, 0
 2010,United Kingdom, 100.00
-2010,Turkey, 100.00
 2011,Belgium, 104.02
 2011,Bulgaria, 94.49
 2011,Czechia, 100.00
@@ -60,7 +59,6 @@ TIME,COUNTRY,VALUE
 2011,Norway, 108.17
 2011,Switzerland, 0
 2011,United Kingdom, 98.53
-2011,Turkey, 106.94
 2012,Belgium, 106.35
 2012,Bulgaria, 92.69
 2012,Czechia, 98.60
@@ -91,7 +89,6 @@ TIME,COUNTRY,VALUE
 2012,Norway, 115.46
 2012,Switzerland, 0
 2012,United Kingdom, 98.90
-2012,Turkey, 117.08
 2013,Belgium, 107.59
 2013,Bulgaria, 90.65
 2013,Czechia, 98.60
@@ -122,7 +119,6 @@ TIME,COUNTRY,VALUE
 2013,Norway, 120.43
 2013,Switzerland, 0
 2013,United Kingdom, 101.44
-2013,Turkey, 130.42
 2014,Belgium, 107.00
 2014,Bulgaria, 91.95
 2014,Czechia, 101.00
@@ -153,7 +149,6 @@ TIME,COUNTRY,VALUE
 2014,Norway, 123.72
 2014,Switzerland, 0
 2014,United Kingdom, 109.58
-2014,Turkey, 148.19
 2015,Belgium, 108.80
 2015,Bulgaria, 94.52
 2015,Czechia, 105.10
@@ -184,7 +179,6 @@ TIME,COUNTRY,VALUE
 2015,Norway, 131.99
 2015,Switzerland, 0
 2015,United Kingdom, 116.08
-2015,Turkey, 172.09
 2016,Belgium, 111.67
 2016,Bulgaria, 101.15
 2016,Czechia, 112.50
@@ -215,7 +209,6 @@ TIME,COUNTRY,VALUE
 2016,Norway, 142.39
 2016,Switzerland, 0
 2016,United Kingdom, 124.19
-2016,Turkey, 194.92
 2017,Belgium, 115.73
 2017,Bulgaria, 109.91
 2017,Czechia, 125.80
@@ -246,7 +239,6 @@ TIME,COUNTRY,VALUE
 2017,Norway, 150.13
 2017,Switzerland, 0
 2017,United Kingdom, 129.85
-2017,Turkey, 214.82
 2018,Belgium, 119.04
 2018,Bulgaria, 117.16
 2018,Czechia, 136.50
@@ -277,7 +269,6 @@ TIME,COUNTRY,VALUE
 2018,Norway, 152.48
 2018,Switzerland, 0
 2018,United Kingdom, 134.10
-2018,Turkey, 229.56
 2019,Belgium, 123.79
 2019,Bulgaria, 124.21
 2019,Czechia, 149.00
@@ -308,7 +299,6 @@ TIME,COUNTRY,VALUE
 2019,Norway, 158.62
 2019,Switzerland, 0
 2019,United Kingdom, 135.42
-2019,Turkey, 242.02
 2020,Belgium, 129.03
 2020,Bulgaria, 129.87
 2020,Czechia, 161.60
@@ -339,7 +329,6 @@ TIME,COUNTRY,VALUE
 2020,Norway, 166.17
 2020,Switzerland, 0
 2020,United Kingdom, 0
-2020,Turkey, 302.01
 2021,Belgium, 138.24
 2021,Bulgaria, 141.14
 2021,Czechia, 193.50
@@ -370,4 +359,3 @@ TIME,COUNTRY,VALUE
 2021,Norway, 181.37
 2021,Switzerland, 0
 2021,United Kingdom, 0
-2021,Turkey, 422.30

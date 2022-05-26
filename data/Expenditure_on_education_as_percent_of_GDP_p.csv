@@ -67,8 +67,6 @@ TIME,COUNTRY,ISCED11,VALUE
 2012,North Macedonia,Tertiary education (levels 5-8),0
 2012,Serbia,Pre-primary to tertiary education,0
 2012,Serbia,Tertiary education (levels 5-8),0
-2012,Turkey,Pre-primary to tertiary education,0
-2012,Turkey,Tertiary education (levels 5-8),0
 2013,Belgium,Pre-primary to tertiary education,6.56
 2013,Belgium,Tertiary education (levels 5-8),1.50
 2013,Bulgaria,Pre-primary to tertiary education,4.06
@@ -137,8 +135,6 @@ TIME,COUNTRY,ISCED11,VALUE
 2013,North Macedonia,Tertiary education (levels 5-8),0
 2013,Serbia,Pre-primary to tertiary education,0
 2013,Serbia,Tertiary education (levels 5-8),1.28
-2013,Turkey,Pre-primary to tertiary education,0
-2013,Turkey,Tertiary education (levels 5-8),1.53
 2014,Belgium,Pre-primary to tertiary education,6.49
 2014,Belgium,Tertiary education (levels 5-8),1.49
 2014,Bulgaria,Pre-primary to tertiary education,4.22
@@ -207,8 +203,6 @@ TIME,COUNTRY,ISCED11,VALUE
 2014,North Macedonia,Tertiary education (levels 5-8),0
 2014,Serbia,Pre-primary to tertiary education,0
 2014,Serbia,Tertiary education (levels 5-8),1.26
-2014,Turkey,Pre-primary to tertiary education,0
-2014,Turkey,Tertiary education (levels 5-8),1.55
 2015,Belgium,Pre-primary to tertiary education,6.43
 2015,Belgium,Tertiary education (levels 5-8),1.45
 2015,Bulgaria,Pre-primary to tertiary education,3.93
@@ -277,8 +271,6 @@ TIME,COUNTRY,ISCED11,VALUE
 2015,North Macedonia,Tertiary education (levels 5-8),0
 2015,Serbia,Pre-primary to tertiary education,3.84
 2015,Serbia,Tertiary education (levels 5-8),1.16
-2015,Turkey,Pre-primary to tertiary education,0
-2015,Turkey,Tertiary education (levels 5-8),1.48
 2016,Belgium,Pre-primary to tertiary education,6.33
 2016,Belgium,Tertiary education (levels 5-8),1.44
 2016,Bulgaria,Pre-primary to tertiary education,3.86
@@ -347,8 +339,6 @@ TIME,COUNTRY,ISCED11,VALUE
 2016,North Macedonia,Tertiary education (levels 5-8),0
 2016,Serbia,Pre-primary to tertiary education,0
 2016,Serbia,Tertiary education (levels 5-8),0
-2016,Turkey,Pre-primary to tertiary education,4.66
-2016,Turkey,Tertiary education (levels 5-8),1.67
 2017,Belgium,Pre-primary to tertiary education,6.30
 2017,Belgium,Tertiary education (levels 5-8),1.47
 2017,Bulgaria,Pre-primary to tertiary education,4.09
@@ -417,8 +407,6 @@ TIME,COUNTRY,ISCED11,VALUE
 2017,North Macedonia,Tertiary education (levels 5-8),0
 2017,Serbia,Pre-primary to tertiary education,3.59
 2017,Serbia,Tertiary education (levels 5-8),1.11
-2017,Turkey,Pre-primary to tertiary education,4.35
-2017,Turkey,Tertiary education (levels 5-8),1.59
 2018,Belgium,Pre-primary to tertiary education,6.29
 2018,Belgium,Tertiary education (levels 5-8),1.49
 2018,Bulgaria,Pre-primary to tertiary education,4.05
@@ -487,5 +475,3 @@ TIME,COUNTRY,ISCED11,VALUE
 2018,North Macedonia,Tertiary education (levels 5-8),0
 2018,Serbia,Pre-primary to tertiary education,0
 2018,Serbia,Tertiary education (levels 5-8),0
-2018,Turkey,Pre-primary to tertiary education,4.29
-2018,Turkey,Tertiary education (levels 5-8),1.49

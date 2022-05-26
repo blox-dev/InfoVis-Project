@@ -111,10 +111,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2015S1,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0902
 2015S1,Serbia,All taxes and levies included,Euro,0.0466
 2015S1,Serbia,All taxes and levies included,Purchasing Power Standard,0.0992
-2015S1,Turkey,Excluding taxes and levies,Euro,0.0313
-2015S1,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0565
-2015S1,Turkey,All taxes and levies included,Euro,0.0378
-2015S1,Turkey,All taxes and levies included,Purchasing Power Standard,0.0683
 2015S1,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0407
 2015S1,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0842
 2015S1,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0514
@@ -243,10 +239,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2015S2,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0816
 2015S2,Serbia,All taxes and levies included,Euro,0.0400
 2015S2,Serbia,All taxes and levies included,Purchasing Power Standard,0.0897
-2015S2,Turkey,Excluding taxes and levies,Euro,0.0287
-2015S2,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0585
-2015S2,Turkey,All taxes and levies included,Euro,0.0347
-2015S2,Turkey,All taxes and levies included,Purchasing Power Standard,0.0706
 2015S2,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0407
 2015S2,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0863
 2015S2,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0514
@@ -375,10 +367,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2016S1,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0769
 2016S1,Serbia,All taxes and levies included,Euro,0.0375
 2016S1,Serbia,All taxes and levies included,Purchasing Power Standard,0.0846
-2016S1,Turkey,Excluding taxes and levies,Euro,0.0278
-2016S1,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0545
-2016S1,Turkey,All taxes and levies included,Euro,0.0336
-2016S1,Turkey,All taxes and levies included,Purchasing Power Standard,0.0659
 2016S1,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0291
 2016S1,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0616
 2016S1,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0391
@@ -507,10 +495,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2016S2,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0674
 2016S2,Serbia,All taxes and levies included,Euro,0.0326
 2016S2,Serbia,All taxes and levies included,Purchasing Power Standard,0.0741
-2016S2,Turkey,Excluding taxes and levies,Euro,0.0249
-2016S2,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0513
-2016S2,Turkey,All taxes and levies included,Euro,0.0301
-2016S2,Turkey,All taxes and levies included,Purchasing Power Standard,0.0620
 2016S2,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0244
 2016S2,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0516
 2016S2,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0336
@@ -639,10 +623,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2017S1,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0605
 2017S1,Serbia,All taxes and levies included,Euro,0.0321
 2017S1,Serbia,All taxes and levies included,Purchasing Power Standard,0.0665
-2017S1,Turkey,Excluding taxes and levies,Euro,0.0213
-2017S1,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0417
-2017S1,Turkey,All taxes and levies included,Euro,0.0258
-2017S1,Turkey,All taxes and levies included,Purchasing Power Standard,0.0505
 2017S1,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0263
 2017S1,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0518
 2017S1,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0307
@@ -771,10 +751,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2017S2,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0619
 2017S2,Serbia,All taxes and levies included,Euro,0.0339
 2017S2,Serbia,All taxes and levies included,Purchasing Power Standard,0.0681
-2017S2,Turkey,Excluding taxes and levies,Euro,0.0201
-2017S2,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0430
-2017S2,Turkey,All taxes and levies included,Euro,0.0243
-2017S2,Turkey,All taxes and levies included,Purchasing Power Standard,0.0520
 2017S2,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0279
 2017S2,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0551
 2017S2,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0327
@@ -903,10 +879,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2018S1,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0596
 2018S1,Serbia,All taxes and levies included,Euro,0.0335
 2018S1,Serbia,All taxes and levies included,Purchasing Power Standard,0.0655
-2018S1,Turkey,Excluding taxes and levies,Euro,0.0178
-2018S1,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0367
-2018S1,Turkey,All taxes and levies included,Euro,0.0216
-2018S1,Turkey,All taxes and levies included,Purchasing Power Standard,0.0443
 2018S1,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0278
 2018S1,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0547
 2018S1,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0326
@@ -1035,10 +1007,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2018S2,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0609
 2018S2,Serbia,All taxes and levies included,Euro,0.0342
 2018S2,Serbia,All taxes and levies included,Purchasing Power Standard,0.0669
-2018S2,Turkey,Excluding taxes and levies,Euro,0.0174
-2018S2,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0464
-2018S2,Turkey,All taxes and levies included,Euro,0.0209
-2018S2,Turkey,All taxes and levies included,Purchasing Power Standard,0.0558
 2018S2,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0278
 2018S2,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0547
 2018S2,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0326
@@ -1167,10 +1135,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2019S1,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0586
 2019S1,Serbia,All taxes and levies included,Euro,0.0335
 2019S1,Serbia,All taxes and levies included,Purchasing Power Standard,0.0645
-2019S1,Turkey,Excluding taxes and levies,Euro,0.0165
-2019S1,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0373
-2019S1,Turkey,All taxes and levies included,Euro,0.0199
-2019S1,Turkey,All taxes and levies included,Purchasing Power Standard,0.0449
 2019S1,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0286
 2019S1,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0558
 2019S1,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0335
@@ -1299,10 +1263,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2019S2,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0604
 2019S2,Serbia,All taxes and levies included,Euro,0.0348
 2019S2,Serbia,All taxes and levies included,Purchasing Power Standard,0.0667
-2019S2,Turkey,Excluding taxes and levies,Euro,0.0220
-2019S2,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0495
-2019S2,Turkey,All taxes and levies included,Euro,0.0263
-2019S2,Turkey,All taxes and levies included,Purchasing Power Standard,0.0593
 2019S2,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0285
 2019S2,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0554
 2019S2,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0333
@@ -1431,10 +1391,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2020S1,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0585
 2020S1,Serbia,All taxes and levies included,Euro,0.0337
 2020S1,Serbia,All taxes and levies included,Purchasing Power Standard,0.0646
-2020S1,Turkey,Excluding taxes and levies,Euro,0.0200
-2020S1,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0507
-2020S1,Turkey,All taxes and levies included,Euro,0.0239
-2020S1,Turkey,All taxes and levies included,Purchasing Power Standard,0.0607
 2020S1,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0320
 2020S1,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0622
 2020S1,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0374
@@ -1563,10 +1519,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2020S2,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0596
 2020S2,Serbia,All taxes and levies included,Euro,0.0344
 2020S2,Serbia,All taxes and levies included,Purchasing Power Standard,0.0659
-2020S2,Turkey,Excluding taxes and levies,Euro,0.0162
-2020S2,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0514
-2020S2,Turkey,All taxes and levies included,Euro,0.0194
-2020S2,Turkey,All taxes and levies included,Purchasing Power Standard,0.0615
 2020S2,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0295
 2020S2,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0575
 2020S2,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0346
@@ -1695,10 +1647,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2021S1,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0582
 2021S1,Serbia,All taxes and levies included,Euro,0.0337
 2021S1,Serbia,All taxes and levies included,Purchasing Power Standard,0.0643
-2021S1,Turkey,Excluding taxes and levies,Euro,0.0158
-2021S1,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0473
-2021S1,Turkey,All taxes and levies included,Euro,0.0189
-2021S1,Turkey,All taxes and levies included,Purchasing Power Standard,0.0566
 2021S1,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0274
 2021S1,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0540
 2021S1,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0321
@@ -1827,10 +1775,6 @@ TIME,COUNTRY,TAX,CURRENCY,VALUE
 2021S2,Serbia,Excluding taxes and levies,Purchasing Power Standard,0.0583
 2021S2,Serbia,All taxes and levies included,Euro,0.0342
 2021S2,Serbia,All taxes and levies included,Purchasing Power Standard,0.0644
-2021S2,Turkey,Excluding taxes and levies,Euro,0.0152
-2021S2,Turkey,Excluding taxes and levies,Purchasing Power Standard,0.0530
-2021S2,Turkey,All taxes and levies included,Euro,0.0182
-2021S2,Turkey,All taxes and levies included,Purchasing Power Standard,0.0633
 2021S2,Bosnia and Herzegovina,Excluding taxes and levies,Euro,0.0311
 2021S2,Bosnia and Herzegovina,Excluding taxes and levies,Purchasing Power Standard,0.0607
 2021S2,Bosnia and Herzegovina,All taxes and levies included,Euro,0.0364
