@@ -604,60 +604,6 @@
           document.getElementById(targetDivID).innerHTML = "<h1>Sorry, no data for " + country + " :(</h1>";
         }
       }
-
-      // var unhighlightedstyle = {
-      //   opacity: 1,
-      //   color: "#FFFFFF",
-      //   weight: 2,
-      //   fill: true,
-      //   fillColor: "#003399",
-      //   fillOpacity: 1,
-      // };
-
-      // var highlightedstyle = {
-      //   opacity: 1,
-      //   color: "#FFCC00",
-      //   weight: 4,
-      //   fill: true,
-      //   fillColor: "#003399",
-      //   fillOpacity: 1,
-      // };
-
-      // var geoMap = L.geoJson(myGeoJson, {
-      //   onEachFeature: onEachFeature,
-      //   style: unhighlightedstyle,
-      // }).addTo(map);
-
-      // function highlightFeature(e) {
-      //   var layer = e.target;
-
-      //   layer.setStyle(highlightedstyle);
-
-      //   if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-      //     layer.bringToFront();
-      //   }
-      // }
-
-      // function resetHighlight(e) {
-      //   geoMap.resetStyle(e.target);
-      // }
-
-      // function graphData(e) {
-      //  const country = e.target.feature.properties.ADMIN;
-
-      //  console.log(country);
-      //  current_selected_country = country;
-      //  //plot data for {country} in div with id 'bar_chart'
-      //  bindBarChart(country, 'bar_chart');
-      // }
-
-      // function onEachFeature(feature, layer) {
-      //   layer.on({
-      //     mouseover: highlightFeature,
-      //     mouseout: resetHighlight,
-      //     click: graphData
-      //   });
-      // }
     </script>
   </body>
 </html>
