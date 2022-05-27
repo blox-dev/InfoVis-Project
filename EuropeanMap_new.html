@@ -606,7 +606,10 @@
             var a = document.createElement('select');
             a.id = key;
             a.onchange = (e) => {
-              bindBarChart(current_selected_country,"bar_chart"); //TODO: aggregate one
+              if(comparing_mode)
+                bindLineChart(current_selected_country,previous_selected_country,"bar_chart"); //TODO: aggregate one
+              else
+                bindBarChart(current_selected_country,"bar_chart");
               updatef();
               mapFunction(true);
             };
@@ -649,7 +652,7 @@
         //delete current bar chart
         targetDivID.textContent = '';
         
-        if(country == '') {
+        if(country == '' || country2 == '') {
 
           return;
         }
