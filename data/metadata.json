@@ -1,107 +1,121 @@
 {
     "files": {
-        "Crime_violence_vandalism_by_degree_of_urbanisation_p": {
+        "Crime_violence_and_vandalism": {
             "x":"Year",
             "y":"Crime percentage",
             "values": {
                 "DEG_URB": ["Cities","Towns and suburbs","Rural areas"]
-            }
+            },
+            "view":"Negative"
         },
-        "Electricity_prices_for_household_consumers_p": {
+        "Electricity_prices_for_household_consumers": {
             "x":"Year",
             "y":"Electricity prices for household consumers",
             "values": {
                 "TAX": ["Excluding taxes and levies","All taxes and levies included"],
                 "CURRENCY": ["Euro","Purchasing Power Standard"]
-            }
+            },
+            "view":"Negative"
         },
-        "Employment_expectations_indicator_p": {
+        "Employment_expectations_indicator": {
             "x":"Year",
             "y":"Employment expectations indicator",
             "values": {
 
-            }
+            },
+            "view":"Positive"
         },
-        "Employment_rates_by_sex_and_citizenship_p": {
+        "Employment_rates_by_sex_and_citizenship": {
             "x":"Year",
             "y":"Employment rate",
             "values": {
                 "CITIZEN" : ["EU27 countries (from 2020) except reporting country","Reporting country"],
                 "SEX": ["Total","Males","Females"]
-            }
+            },
+            "view":"Positive"
         },
-        "Employment_rates_by_sex_p": {
+        "Employment_rates_by_sex": {
             "x":"Year",
             "y":"Employment rate",
             "values": {
                 "SEX": ["Total","Males","Females"]
-            }
+            },
+            "view":"Positive"
         },
-        "Expenditure_on_education_as_percent_of_GDP_p": {
+        "Expenditure_on_education_as_percent_of_GDP": {
             "x":"Year",
             "y":"Education expenditure (percentage of GDP)",
             "values": {
                 "ISCED11": ["Pre-primary to tertiary education", "Tertiary education (levels 5-8)"]
-            }
+            },
+            "view":"Positive"
         },
-        "Gas_prices_for_household_consumers_p": {
+        "Gas_prices_for_household_consumers": {
             "x":"Year",
             "y":"Gas prices for household consumers",
             "values": {
                 "TAX": ["Excluding taxes and levies","All taxes and levies included"],
                 "CURRENCY": ["Euro","Purchasing Power Standard"]
-            }
+            },
+            "view":"Negative"
         },
-        "GDP_linear_labels_p": {
+        "Gross_domestic_product_(GDP)": {
             "x":"Year",
             "y":"Euro per capita",
             "values": {
 
-            }
+            },
+            "view":"Positive"
         },
-        "General_government_expenditure_by_function_p": {
+        "General_government_expenditure_by_sector": {
             "x":"Year",
             "y":"Government expenditure (percentage of GDP)",
             "values": {
                 "COFOG99":["Total","General public services","Defence","Public order and safety","Economic affairs","Fuel and energy","Transport","Environmental protection","Housing and community amenities","Health","Medical products appliances and equipment","Outpatient services","Hospital services","Recreation culture and religion","Recreational and sporting services","Cultural services","Education","Tertiary education","Social protection","Sickness and disability","Old age","Family and children","Unemployment","Housing","Social exclusion n.e.c."]
-            }
+            },
+            "view":"Positive"
         },
-        "Gross_domestic_expenditure_on_R&D_by_sector_p": {
+        "Gross_domestic_expenditure_on_R&D_by_sector": {
             "x":"Year",
             "y":"Expenditure on R&D (percentage of GDP)",
             "values": {
                 "SECT_PERF":["Business enterprise sector", "Government sector", "Higher education sector","Private non-profit sector","All sectors"]
-            }
+            },
+            "view":"Positive"
         },
-        "Harmonised_index_consumer_prices_labels_p": {
+        "Harmonised_index_consumer_prices": {
             "x":"Year",
             "y":"Harmonised consumer price index",
             "values": {
 
-            }
+            },
+            "view":"Positive"
         },
-        "House_price_index_annual_data_p": {
+        "House_price_index": {
             "x":"Year",
             "y":"House price index",
             "values": {
                 
-            }
+            },
+            "view":"Positive"
         },
-        "Median_net_income_by_age_p": {
+        "Median_net_income_by_age": {
             "x":"Year",
             "y":"Median net income (in euros)",
             "values": {
                 "AGE" : ["Total","Less than 6 years","From 6 to 10 years","From 6 to 11 years","From 11 to 15 years","From 12 to 17 years","Less than 16 years","From 16 to 24 years","From 16 to 64 years","16 years or over","Less than 18 years","From 18 to 24 years","From 18 to 64 years","18 years or over","From 25 to 49 years","From 25 to 54 years","From 50 to 64 years","From 55 to 64 years","Less than 60 years","60 years or over","Less than 65 years","From 65 to 74 years","65 years or over","Less than 75 years","75 years or over"]
-            }
+            },
+            "view":"Positive"
         },
-        "Mobile_students_from_abroad_labels_p": {
+        "Mobile_students_from_abroad": {
             "x":"Year",
             "y":"Number of students",
             "values": {
                 "ISCEDF13": ["Total","Education","Arts and humanities","Social sciences journalism and information","Business administration and law","Natural sciences mathematics and statistics","Biology","Biochemistry","Environment","Physical sciences","Mathematics and statistics","Information and Communication Technologies","Engineering manufacturing and construction","Engineering and engineering trades","Manufacturing and processing","Architecture and construction","Agriculture forestry fisheries and veterinary","Health and welfare","Health","Dental studies","Medicine therapy and rehabilitation","Welfare","Care of the elderly and of disabled adults","Child care and youth services","Social work and counselling","Services","Domestic services","Hair and beauty services","Hotel restaurants and catering","Sports","Travel tourism and leisure","Transport services"]
-            }
+            },
+            "view":"Positive"
         },
-        "R&D_personnel_by_sector_field_and_sex_p": {
+        "R&D_personnel_by_sector_field_and_sex": {
             "x":"Year",
             "y":"Number of R&D workers",
             "values": {
@@ -109,14 +123,16 @@
                 "PROF_POS": ["Total","Researchers"],
                 "SEX": ["Total","Females"],
                 "FORD": ["Total","Natural sciences","Engineering and technology","Medical and health sciences","Agricultural sciences","Social sciences","Humanities"]
-            }
+            },
+            "view":"Positive"
         },
-        "Share_of_Government_Budget_Allocations_R&D_in_total_government_expenditure_p": {
+        "Share_of_Government_Budget_Allocations_in_R&D": {
             "x":"Year",
             "y":"Percentage of government expenditure",
             "values": {
                 
-            }
+            },
+            "view":"Positive"
         }
     }
 }
