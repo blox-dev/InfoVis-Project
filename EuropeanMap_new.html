@@ -186,6 +186,7 @@
         //updateMap();
       }
 
+      var displayed_year;
       var comparing_mode = false;
       var current_data = "";
       var current_selected_country = "";
@@ -264,7 +265,7 @@
         //console.log("2012M10" < "2012M3");
 
         let most_recent_year = getMax(cox3array);
-        
+        displayed_year = most_recent_year;
 
         let rows = df["TIME"].eq(most_recent_year);
         let abc = all_tables[current_data];
@@ -538,6 +539,9 @@
             // loop through our density intervals and generate a label with a colored square for each interval
             //console.log("colorscheme");
             //console.log(colorf);
+
+            div.innerHTML += 'Data from ' + displayed_year + '<br>';
+
             for (var i = 0; i < grades.length; i++) {
                 div.innerHTML +=
                     '<i style="background:' + colorf(grades[i] + 0.0001) + '"></i> ' +
@@ -602,7 +606,7 @@
             var a = document.createElement('select');
             a.id = key;
             a.onchange = (e) => {
-              //bindBarChart(current_selected_country,"bar_chart"); //aggregate one
+              bindBarChart(current_selected_country,"bar_chart"); //TODO: aggregate one
               updatef();
               mapFunction(true);
             };
@@ -662,7 +666,7 @@
         //barchart style
         const layout = {
                 title: {
-                  text: "Bar plot of " + filename.replaceAll("_"," ") + " in " + country,
+                  text: "Comparison of " + filename.replaceAll("_"," ") + " in " + country + " and " + country2,
                 },
                 legend: {
                   x: 0,
@@ -765,7 +769,7 @@
         //barchart style
         const layout = {
                 title: {
-                  text: "Bar plot of " + filename.replaceAll("_"," ") + " in " + country,
+                  text: filename.replaceAll("_"," ") + " in " + country,
                 },
                 // legend: {
                 //   bgcolor: "#fcba03",
