@@ -115,7 +115,7 @@
             "x":"Year",
             "y":"Median net income (in euros)",
             "values": {
-                "AGE" : ["Total","Less than 6 years","From 6 to 10 years","From 6 to 11 years","From 11 to 15 years","From 12 to 17 years","Less than 16 years","From 16 to 24 years","From 16 to 64 years","16 years or over","Less than 18 years","From 18 to 24 years","From 18 to 64 years","18 years or over","From 25 to 49 years","From 25 to 54 years","From 50 to 64 years","From 55 to 64 years","Less than 60 years","60 years or over","Less than 65 years","From 65 to 74 years","65 years or over","Less than 75 years","75 years or over"]
+                "AGE" : ["Total","Less than 6 years","From 6 to 11 years","From 11 to 15 years","From 12 to 17 years","Less than 16 years","From 16 to 24 years","From 16 to 64 years","16 years or over","Less than 18 years","From 18 to 24 years","From 18 to 64 years","18 years or over","From 25 to 49 years","From 25 to 54 years","From 50 to 64 years","From 55 to 64 years","Less than 60 years","60 years or over","Less than 65 years","From 65 to 74 years","65 years or over","Less than 75 years","75 years or over"]
             },
             "view":"Positive",
             "description":"The median net income of all working people in a country, divided by age groups and measured in euros." 
