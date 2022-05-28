@@ -550,8 +550,7 @@
           for (var i = 0; i < grades.length; i++) {
               div.innerHTML +=
                   '<i style="background:' + getColor(grades[i] + 0.0001) + '"></i> ' +
-
-                  + toRoundOrNotToRound(grades[i]) + (grades[i + 1] ? ' - ' + toRoundOrNotToRound(grades[i + 1]) + '<br>' : '+');
+                  toRoundOrNotToRound(grades[i]) + (grades[i + 1] ? ' - ' + toRoundOrNotToRound(grades[i + 1]) + '<br>' : '+');
           }
 
           return div;
