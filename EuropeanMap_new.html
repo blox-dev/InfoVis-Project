@@ -2,6 +2,7 @@
 <html lang="en" class="w-100 h-100">
   <head>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- leaflet -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
@@ -40,6 +41,43 @@
           margin-right: 8px;
           opacity: 0.7;
       }
+
+      /* Credit: https://tutorialzine.com/2014/07/css-inline-help-tips */
+      /*-------------------------
+				Inline help tip
+			--------------------------*/
+
+
+			.tool-tip{
+				text-align: center;
+				background-color: #BCDBEA;
+				border-radius: 50%;
+				width: 24px;
+				height: 24px;
+				font-size: 14px;
+				line-height: 26px;
+				cursor: default;
+			}
+
+			.tool-tip:before{
+				content:'?';
+				font-weight: bold;
+				color:#fff;
+			}
+
+			.tooltip-description{
+        top: 65px;
+        position:absolute;
+				display: none;
+        z-index: auto;
+				background-color: black;
+				padding: 10px;
+				width: 300px;
+				position: absolute;
+				border-radius: 3px;
+				right: 0px;
+				color: white;
+			}
     </style>
   </head>
 
@@ -233,7 +271,7 @@
         let step = dif / 8;
 
         //which color scheme to use
-        const view = all_tables[current_filename][4];
+        const view = all_tables[current_filename].meta.view;
         
         //if data is null, set the color to gray
         if(d == 0)
@@ -299,8 +337,8 @@
 
         //iterate through files
         Object.keys(files).forEach(key => {
-          var details = files[key];
-
+          var meta = files[key];
+          //console.log(meta);
           //create option for the file
           var option = document.createElement('option');
           option.value = key;
@@ -310,7 +348,8 @@
 
           //read the file with the data and append the values into all_tables
           dfd.readCSV('./data/' + key + '.csv').then( df => {
-            all_tables[key] = [details.x, details.y, details.values, df, details.view];
+            all_tables[key] = {df:df, meta:meta};
+            //console.log(all_tables[key]);
           }).then(() => {
             //update the map with the first file that loads
             if(first)
@@ -324,7 +363,8 @@
 
       async function load_file2() {
 
-        [x,y,details,df,view] = all_tables[current_filename];
+        let df= all_tables[current_filename].df;
+        let meta = all_tables[current_filename].meta;
 
         //get the time column from the dataset and convert it to array
         let time = df.column("TIME");
@@ -339,7 +379,7 @@
 
         // add more filters according to the dropdown values
         if(hasVaryingAttributes) {
-          Object.keys(details).forEach(key => {
+          Object.keys(meta.values).forEach(key => {
               // console.log("dropdown:");
               const dropdown = document.getElementById(key);
 
@@ -383,7 +423,7 @@
 
       async function mapFunction(clearmap) {
 
-        let view = all_tables[current_filename][4];
+        let view = all_tables[current_filename].meta.view;
 
         var geoMap;
 
@@ -414,12 +454,12 @@
               layer.bringToFront();
           }
 
-          info.update(current_filename, [layer.feature.properties.ADMIN, fetchValue(layer.feature.properties.ADMIN)]);
+          info.update([layer.feature.properties.ADMIN, fetchValue(layer.feature.properties.ADMIN)]);
         }
 
         function resetHighlight(e) {
             geoMap.resetStyle(e.target);
-            info.update(current_filename);
+            info.update();
         }
 
         function graphData(e) {
@@ -432,7 +472,7 @@
           current_selected_country = country;
 
           if(comparing_mode)
-            info.update(current_filename);
+            info.update();
 
           //console.log("ccc" + country);
 
@@ -463,16 +503,19 @@
 
         info.onAdd = function (map) {
             this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-            this.update(current_filename);
+            this.update();
             return this._div;
         };
 
         // method that we will use to update the control based on feature properties passed
-        info.update = function (who_asked, props) {
-          //console.log("props" + props);
+        info.update = function (props) {
+
             this._div.innerHTML = '<h5>' + current_filename.replaceAll('_', ' ') + '</h5>' +  
             
-            ((current_selected_country != '' && previous_selected_country == '' && comparing_mode) ? ("<b>Click on another country to compare</b>") : ((props) ? '<b>' + props[0] + '</b><br />' + props[1] : 'Hover over a country'))
+            ((current_selected_country != '' && previous_selected_country == '' && comparing_mode) ? ("<b>Click on another country to compare</b>") : ((props) ? '<b>' + props[0] + '</b><br />' + props[1] : 'Hover over a country')) 
+
+            + '<div id="tooltip-description" class="tooltip-description" style="display:none"><p>'
+            + all_tables[current_filename].meta.description.replaceAll("\n","<br>") + '</p></div>';
         };
 
         info.addTo(map);
@@ -498,12 +541,17 @@
               grades = range(min_value, max_value, (max_value - min_value) / 8),
               labels = [];
 
-          div.innerHTML += 'Data from ' + displayed_year + '<br>';
+          div.innerHTML += 'Data from ' + displayed_year + "  " +
+          `<span class="tool-tip" style="display:inline-block" \
+          onmouseover="document.getElementById('tooltip-description').style.display='block';" \
+          onmouseleave="document.getElementById('tooltip-description').style.display='none';" \
+          ></span>` + '<br>';
 
           for (var i = 0; i < grades.length; i++) {
               div.innerHTML +=
                   '<i style="background:' + getColor(grades[i] + 0.0001) + '"></i> ' +
-                  toRoundOrNotToRound(grades[i]) + (grades[i + 1] ? ' - ' + toRoundOrNotToRound(grades[i + 1]) + '<br>' : '+');
+
+                  + toRoundOrNotToRound(grades[i]) + (grades[i + 1] ? ' - ' + toRoundOrNotToRound(grades[i + 1]) + '<br>' : '+');
           }
 
           return div;
@@ -539,7 +587,7 @@
         
         //also update the table-specific dropdowns
         
-        const values = data[2];
+        const values = data.meta.values;
         // console.log("values:");
         // console.log(values);
 
@@ -612,7 +660,7 @@
         }
 
         //array destructuring
-        const [labelX,labelY,values,data,view] = all_tables[current_filename];
+        const data = all_tables[current_filename];
 
         //line chart style
         const layout = {
@@ -625,37 +673,38 @@
             borderwidth: 1,
             font: { family: "Arial", size: 10, color: "#000" },
           },
-          width: 800,
+          width: '100%',
+          height: '100%',
           yaxis: {
-            title: labelY,
+            title: data.meta.y,
           },
           xaxis: {
-            title: labelX,
+            title: data.meta.x,
           },
         };
 
         //restrict rows to have the country attribute as the selected country
-        var rows = data["COUNTRY"].eq(country);
-        var rows2 = data["COUNTRY"].eq(country2);
+        var rows = data.df["COUNTRY"].eq(country);
+        var rows2 = data.df["COUNTRY"].eq(country2);
 
         //check for multiple attributes
         if(hasVaryingAttributes) {
-          Object.keys(values).forEach(key => {
+          Object.keys(data.meta.values).forEach(key => {
               const dropdown = document.getElementById(key);
 
               //add condition to row selection
-              rows = rows.and(data[key].eq(dropdown.value));
-              rows2 = rows2.and(data[key].eq(dropdown.value));
+              rows = rows.and(data.df[key].eq(dropdown.value));
+              rows2 = rows2.and(data.df[key].eq(dropdown.value));
           });
         }
 
         //select the actual data we're gonna use in the the line chart
-        let linechart_data = data.loc({
+        let linechart_data = data.df.loc({
           columns: ["TIME", "VALUE"],
           rows: rows,
         });
 
-        let linechart_data2 = data.loc({
+        let linechart_data2 = data.df.loc({
           columns: ["TIME", "VALUE"],
             rows: rows2,
         });
@@ -668,10 +717,10 @@
           document.getElementById(targetDivID).innerHTML="";
           linechart_data.setIndex({ column: "TIME", inplace: true });
 
-          let dataa = {
-            country: linechart_data["VALUE"].values,
-            country2: linechart_data2["VALUE"].values
-          };
+          //set the target dataframe with the actual country names
+          let dataa = {};
+          dataa[country] = linechart_data["VALUE"].values;
+          dataa[country2] = linechart_data2["VALUE"].values;
 
           const df = new dfd.DataFrame(dataa, {index: linechart_data["TIME"].values});
 
@@ -693,38 +742,40 @@
         }
 
         //array destructuring
-        const [labelX,labelY,values,data,view] = all_tables[current_filename];
+        const data = all_tables[current_filename];
+        //const [labelX,labelY,values,dd,view] = all_tables[current_filename];
 
         //barchart style
         const layout = {
           title: {
             text: current_filename.replaceAll("_"," ") + " in " + country,
           },
-          width: 800,
+          width: '100%',
+          height: '100%',
           yaxis: {
-            title: labelY,
+            title: data.meta.y,
           },
           xaxis: {
-            title: labelX,
+            title: data.meta.x,
           },
         };
 
         //restrict rows to have the country attribute as the selected country
-        var rows = data["COUNTRY"].eq(country);
+        var rows = data.df["COUNTRY"].eq(country);
 
         if(hasVaryingAttributes) {
-          Object.keys(values).forEach(key => {
+          Object.keys(data.meta.values).forEach(key => {
               const dropdown = document.getElementById(key);
 
               console.log(key + ": " + dropdown.value);
 
               //add condition to row selection
-              rows = rows.and(data[key].eq(dropdown.value));
+              rows = rows.and(data.df[key].eq(dropdown.value));
           });
         }
 
         //select the actual data we're gonna use in the bar_chart
-        let barchart_data = data.loc({
+        let barchart_data = data.df.loc({
                 columns: ["TIME", "VALUE"],
                 rows: rows,
               });
@@ -737,7 +788,7 @@
           document.getElementById(targetDivID).innerHTML="";
           barchart_data.setIndex({ column: "TIME", inplace: true });
 
-          barchart_data.print();
+          //barchart_data.print();
 
           barchart_data["VALUE"].plot(targetDivID).bar({layout:layout});
         }
