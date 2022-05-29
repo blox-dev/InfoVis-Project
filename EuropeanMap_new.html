@@ -70,13 +70,14 @@
         position:absolute;
 				display: none;
         z-index: auto;
-				background-color: black;
+				background-color: white;
 				padding: 10px;
 				width: 300px;
 				position: absolute;
 				border-radius: 3px;
 				right: 0px;
-				color: white;
+				color: black;
+        opacity: 0.8;
 			}
     </style>
   </head>
@@ -113,13 +114,13 @@
         </div>
       </div>
       <div class="col-12 col-xl-6">
-        <div class="row" style="height:8%;">
+        <div class="row">
           <div id="chart_dropdown">
 
           </div>
         </div>
 
-        <div class="row" style="height:88%;">
+        <div class="row" style="height:90%;">
           <div id="bar_chart">
             <div id="intro_data">
               <h1>Europe vault</h1>
@@ -672,8 +673,9 @@
             borderwidth: 1,
             font: { family: "Arial", size: 10, color: "#000" },
           },
-          width: '100%',
-          height: '100%',
+          width: '800px',
+          // width: '100%',
+          // height: '100%',
           yaxis: {
             title: data.meta.y,
           },
@@ -707,6 +709,18 @@
           columns: ["TIME", "VALUE"],
             rows: rows2,
         });
+
+        const max_time = getMax(linechart_data.column("TIME").values);
+        console.log(max_time);
+
+        const min_time = getMinNotNull(linechart_data.column("TIME").values);
+        console.log(min_time);
+
+        if(max_time != 'undefined' && max_time === min_time)
+        {
+          document.getElementById(targetDivID).innerHTML = "<h1>We ran out of charts :(</h1>";
+          return;
+        }
 
         const nr_rows = linechart_data.count({axis: 1}).count();
 
@@ -749,8 +763,9 @@
           title: {
             text: current_filename.replaceAll("_"," ") + " in " + country,
           },
-          width: '100%',
-          height: '100%',
+          width: '800',
+          //width: '100%'
+          //height: '100%',
           yaxis: {
             title: data.meta.y,
           },
@@ -779,6 +794,18 @@
                 rows: rows,
               });
 
+        const max_time = getMax(barchart_data.column("TIME").values);
+        console.log(max_time);
+
+        const min_time = getMinNotNull(barchart_data.column("TIME").values);
+        console.log(min_time);
+
+        if(max_time != 'undefined' && max_time === min_time)
+        {
+          document.getElementById(targetDivID).innerHTML = "<h1>We ran out of charts :(</h1>";
+          return;
+        }
+              
         const nr_rows = barchart_data.count({axis: 1}).count();
 
         //there is data for the selected country
