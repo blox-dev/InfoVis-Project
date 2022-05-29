@@ -12,3 +12,7 @@ Used frameworks:
 
 
 Installation details:
+- Install python 3
+- open terminal in project directory
+- run `python -m http.server`
+- go to `http://localhost:8000/EuropeanMap.html`
