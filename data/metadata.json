@@ -22,14 +22,14 @@
             "x":"Year",
             "y":"Number of people",
             "values": {
-                "FREQUENC" : ["Not in the last 12 months","From 1 to 3 times","At least once","At least 4 times"],
+                "FREQUENCY" : ["Not in the last 12 months","From 1 to 3 times","At least once","At least 4 times"],
                 "SEX": ["Total","Males","Females"],
                 "AGE": ["From 16 to 24 years","From 16 to 29 years","From 25 to 34 years"],
-                "ACL00": ["Cinema","Live performances (theatre concerts ballet)","Cultural sites (historical monuments museums art galleries or archaeological sites)","Sports events"],
+                "EVENT": ["Cinema","Live performances (theatre concerts ballet)","Cultural sites (historical monuments museums art galleries or archaeological sites)","Sports events"],
                 "ISCED11": ["All ISCED 2011 levels","Upper secondary and post-secondary non-tertiary education (levels 3 and 4)","Tertiary education (levels 5-8)"]
             },
             "view":"Positive",
-            "description": "Idk mang"
+            "description": "The number of your people that participated in the past 12 months to certain cultural events. Data collected in 2015\n\nISCED - International Standard Classification of Education"
         },
         "Youth_population": {
             "x":"Year",
