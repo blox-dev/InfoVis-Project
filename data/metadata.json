@@ -113,7 +113,7 @@
                 "AGE" : ["Total","Less than 16 years","From 16 to 24 years","16 years or over","Less than 18 years","From 18 to 24 years","18 years or over","From 25 to 49 years","From 25 to 54 years","60 years or over","65 years or over","75 years or over"]
             },
             "view":"Positive",
-            "description":"The median net income of all working people in a country, divided by age groups and measured in euros." 
+            "description":"The median net income of all working people in a country, divided by age groups and measured in euros. Keep in mind that your earnings can only be seen in context of your living costs." 
         },
         "Expenditure_on_education_as_percent_of_GDP": {
             "x":"Year",
