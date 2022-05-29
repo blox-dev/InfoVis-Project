@@ -9,3 +9,6 @@ Used databases:
 Used frameworks:
 - [Danfo.js](https://danfo.jsdata.org/)
 - [Leaflet](https://leafletjs.com/SlavaUkraini/)
+
+
+Installation details:
